@@ -1,0 +1,4 @@
+/script GBankClassic_UI_Donations.ledgerBox:Show()
+
+
+/script GBankClassic_UI_Donations:UpdateLedger("Bloodknife", 0.1)
