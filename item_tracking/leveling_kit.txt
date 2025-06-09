@@ -65,7 +65,7 @@
 29	Blacksmithing	Warrior, Paladin	2	Green Iron Helm	1
 30	Blacksmithing	Rogue	1	Jade Serpentblade	1
 35	Blacksmithing	Rogue, Warrior, Paladin	3	Dense Sharpening Stone	20
-40	Blacksmithing	Paladin, Warrior	2	Ornate Mithril Gloves	
+40	Blacksmithing	Paladin, Warrior	2	Ornate Mithril Gloves	1
 42	Blacksmithing	All	8	Patterned Bronze Bracers	1
 43	Blacksmithing	Rogue	1	Dazzling Mithril Rapier	1
 54	Blacksmithing	All	8	Golden Rod	1
@@ -141,15 +141,15 @@
 40	Leatherworking	Hunter	1	Quickdraw Quiver	1
 40	Leatherworking	All	8	Rugged Armor Kit	10
 40	Leatherworking	Hunter	1	Thick Leather Ammo Pouch	1
-40	Leatherworking	Hunter	1	Tough Scorpid Bracers	
+40	Leatherworking	Hunter	1	Tough Scorpid Bracers	1
 40	Leatherworking	Hunter	1	Tough Scorpid Breastplate	1
-40	Leatherworking	Hunter	1	Tough Scorpid Gloves	
+40	Leatherworking	Hunter	1	Tough Scorpid Gloves	1
 41	Leatherworking	Rogue	1	Nightscape Pants	1
 42	Leatherworking	Rogue, Druid	2	Nightscape Boots	1
-42	Leatherworking	Hunter	1	Tough Scorpid Boots	
-43	Leatherworking	Hunter	1	Tough Scorpid Shoulders	
-44	Leatherworking	Hunter	1	Tough Scorpid Leggings	
-45	Leatherworking	Hunter	1	Tough Scorpid Helm	
+42	Leatherworking	Hunter	1	Tough Scorpid Boots	1
+43	Leatherworking	Hunter	1	Tough Scorpid Shoulders	1
+44	Leatherworking	Hunter	1	Tough Scorpid Leggings	1
+45	Leatherworking	Hunter	1	Tough Scorpid Helm	1
 47	Leatherworking	Rogue, Hunter, Druid	3	Wicked Leather Gauntlets	1
 48	Leatherworking	Rogue, Druid	2	Wicked Leather Bracers	1
 50	Leatherworking	All	8	Rugged Armor Kit	10
@@ -278,4 +278,4 @@
 10	First Aid	All	8	Silk Bandage	20
 10	First Aid	All	8	Wool	20
 20	First Aid	All	8	Heavy Silk Bandage	20
-20	First Aid	All	8	Wool	20
+20	First Aid	All	8	Wool (Again)	20
