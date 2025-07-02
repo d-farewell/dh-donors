@@ -1,13 +1,15 @@
 from roster import Roster
 from contributors import Contributor, process_contributions
 from csv import reader, writer
-from update_orders import update_donor_orders, order_fulfillments
+from update_orders import expire_donor_orders, update_donor_orders, order_fulfillments
 
-r = Roster(load_from_file="inputs/roster.txt")
+current_roster = Roster(load_from_file="inputs/roster.txt")
 # r = Roster()
 
 
-r.save()
+expire_donor_orders(current_roster)
+
+current_roster.save()
 
 # interest = [
 #     r.characters["Bloodknife"],

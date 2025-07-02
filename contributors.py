@@ -48,30 +48,37 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
                 continue
 
             is_item = False
+            kudos_words = kudos.split()
             try:
-                k_list = kudos.split()
-                name, donate, qty = k_list[:3]
-                amount = k_list[-2]
-                item = " ".join(k_list[3:-2])
-
-                assert donate == "donated"
-                amount = int(amount) / 100
+                # Process a standard format donation (Name, category, amount)
+                name, category, qty = kudos_words[:3]
                 qty = int(qty)
-                is_item = True
+                if category == "crafted":
+                    amount = qty / 10
+                    kudos_list.append(kudos)
+                else:
+                    # This should be a donation of items to Bavin
+                    assert category == "donated"
+                    amount = kudos_words[-2]
+                    item = " ".join(kudos_words[3:-2])
+                    amount = int(amount) / 100
+                    is_item = True
             except:
-                name = kudos.split()[0]
+                name = kudos_words[0]
                 amount = 3
                 kudos_list.append(kudos)
 
 
             if is_item:
                 if item in tracked_item_vals:
+                    # If the item has a tracked value, use that for the score. 
+                    amount = tracked_item_vals[item] * qty
+                    # Also track a table of values for the kudos report
                     if not name in tracked_donations:
                         tracked_donations[name] = dict()
                     if not item in tracked_donations[name]:
                         tracked_donations[name][item] = 0
                     tracked_donations[name][item] += qty
-                    amount = tracked_item_vals[item] * qty
                     if item in untracked_item_qtys:
                         untracked_item_qtys.pop(item)
                 else:
@@ -110,6 +117,10 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
         out = writer(f, delimiter='\t')
         for k, v in untracked_item_qtys.items():
             out.writerow([k, v])
+    
+    with open(filename, 'w', newline='', encoding='utf_8') as f:
+        print(f"Clearing donation file: {filename}")
+
     return contributors
 
 

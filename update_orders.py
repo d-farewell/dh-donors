@@ -10,7 +10,6 @@ BOT_NAME = "greatfather winter#5173"
 
 channel_ids = {
     "Alchemy": 1346170208875974826,
-    "Alchemy*": 1346170208875974826,
     "Blacksmithing": 1346170279906381906,
     "Cooking": 1346170492482093229,
     "Engineering": 1346170346331701330,
@@ -75,7 +74,7 @@ class Kit_Order:
         #     return False 
         if self.item_level == 99 or order.item_level == 99:
             return True
-        if self.item_level == order.item_level:
+        if self.item_level - order.item_level < 1:
             return True
         return False
 
@@ -92,6 +91,12 @@ def load_kit_orders(filename="outputs/kit_orders.txt"):
             orders.append(order)
     return orders
 
+def save_kit_orders(order_list, filename="outputs/kit_orders.txt"):
+    
+    with open(filename, 'w', newline='', encoding="utf_8") as f:
+        w = writer(f, delimiter='\t')
+        for order in order_list:
+            w.writerow(order.list_info())
 
 def order_fulfillments():
     # Delete and credit fulfilled orders
@@ -101,10 +106,10 @@ def order_fulfillments():
     kit_order_list = load_kit_orders()
     
     # List of discord messages for each active order
-    active_orders = []
+    active_orders = set()
     for order in kit_order_list:
         if order.status == "Posted":
-            active_orders.append(order.discord_message_txt())
+            active_orders.add(order.discord_message_txt())
 
 
     
@@ -115,18 +120,26 @@ def order_fulfillments():
         for channel_id in channel_ids.values():
             print(f"Checking channel {channel_id}...")
             channel = client.get_channel(channel_id)
-            async for msg in channel.history(limit=40):
+            async for msg in channel.history(limit=200):
 
+                # Only look at posts that were made by the bot
+                poster = msg.author.display_name
+                if not poster == "bot":
+                    continue
+                
                 # Don't delete active ("Posted") orders
                 to_delete = True
                 txt = msg.content
                 if txt in active_orders:
+                    # Remove from set so there are no duplicate orders
+                    active_orders.remove(txt)
                     to_delete = False
 
                 if msg.reactions:
                     # If anyone has reacted to the order, create a fulfillment
                     # The fulfillment is a tuple of the order text and the fulfiller name
                     to_delete = True
+                    print(f"Order fulfilled: {txt}")
                     react = msg.reactions[0]
                     users = [user async for user in react.users()]
                     first_user = users[0]
@@ -135,10 +148,6 @@ def order_fulfillments():
                     fulfillment = (txt, disp_name)
                     fulfilled.append(fulfillment)
 
-                # Only delete posts that were made by the bot
-                poster = msg.author.display_name
-                if not poster == "bot":
-                    to_delete =  False
                 
                 # Don't delete scoring posts
                 if "earned" in txt and "points" in txt:
@@ -182,10 +191,7 @@ def order_fulfillments():
                     break
 
     # Save kit orders to file
-    with open("outputs/kit_orders.txt", 'w', newline='', encoding="utf_8") as f:
-        w = writer(f, delimiter='\t')
-        for order in kit_order_list:
-            w.writerow(order.list_info())
+    save_kit_orders(kit_order_list)
     
     # Give donor credit to bankers
     to_post = []
@@ -218,6 +224,22 @@ def order_fulfillments():
         await client2.close()
     
     client2.run(DISCORD_TOKEN)
+
+def expire_donor_orders(roster):
+    
+    kit_order_list = load_kit_orders()
+    for order in kit_order_list:
+        if order.status == "Posted":
+            if roster.is_member(order.for_char):
+                donor = roster.characters[order.for_char]
+                if order.item_level < donor.char_level * 1.1 - 9:
+                    print(f"EXPIRING {order.discord_message_txt()} ({donor.char_name} leveled up to {donor.char_level})")
+                    order.status = "Expiring"
+            else:
+                print(f"EXPIRING {order.discord_message_txt()} ({order.for_char} missing from roster)")
+                order.status = "Expiring"
+
+    save_kit_orders(kit_order_list)
 
 def update_donor_orders(donors):
     client = discord.Client(intents=discord.Intents.all())
@@ -256,18 +278,22 @@ def update_donor_orders(donors):
         for line in f:
             pro_donors.append(line.strip())
     
+    non_recipients = set()
     # Loop through current donors and create kit orders
     for donor_name in donors:
         donor = donors[donor_name]
         for item_level, item_source, item_classes, num_classes, item_name, item_count in kit_items:
             # Pass checks to see if it's a valid order
             if not donor_name in recipients:
+                if donor.level > 5 and donor.level < 55:
+                    # Alts lvl 5 and under are usually bank alts
+                    # Alts close to 60 don't need supplies
+                    non_recipients.add(donor_name)
                 continue
             item_level = float(item_level)
             if item_level > donor.level * 0.9 + 8:
                 continue
             if item_level < donor.level * 1.1 - 9:
-                # TODO - expire order
                 continue
             if not (donor.char_class in item_classes or item_classes == "All"):
                 continue
@@ -282,7 +308,7 @@ def update_donor_orders(donors):
                 item_count,
                 item_source,
                 "Created",
-                item_level
+                int(item_level)
             ])
 
 
@@ -308,6 +334,11 @@ def update_donor_orders(donors):
                 # Add order to the list that will be saved to file
                 kit_order_list.append(new_order)
 
+
+    # Print the donors who aren't signed up for leveling supplies
+    for contributor_name in non_recipients:
+        print(contributor_name)
+    
     @client.event
     async def on_ready():
         print("Client Ready!)")
@@ -324,8 +355,4 @@ def update_donor_orders(donors):
     # Post discord messages
     client.run(DISCORD_TOKEN)
     
-    
-    with open("outputs/kit_orders.txt", 'w', newline='', encoding="utf_8") as f:
-        w = writer(f, delimiter='\t')
-        for order in kit_order_list:
-            w.writerow(order.list_info())
+    save_kit_orders(kit_order_list)

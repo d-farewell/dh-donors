@@ -23,18 +23,18 @@
 42	Alchemy	All	8	Lesser Invisibility Potion	1
 46	Alchemy	Warrior, Rogue, Hunter	3	Elixir of the Mongoose	5
 60	Alchemy	All	8	Flask of Petrification	1
-3	Alchemy*	All	8	Lesser Healing Potion	20
-5	Alchemy*	Warlock, Mage, Priest, Druid, Paladin	5	Minor Mana Potion	20
-12	Alchemy*	All	8	Healing Potion	10
-14	Alchemy*	Warlock, Mage, Priest, Druid, Paladin	5	Lesser Mana Potion	10
-21	Alchemy*	All	8	Greater Healing Potion	10
-22	Alchemy*	Warlock, Mage, Priest, Druid, Paladin	5	Mana Potion	10
-31	Alchemy*	Warlock, Mage, Priest, Druid, Paladin	5	Greater Mana Potion 	10
-35	Alchemy*	All	8	Superior Healing Potion	10
-41	Alchemy*	Warlock, Mage, Priest, Druid, Paladin	5	Superior Mana Potion	10
-42	Alchemy*	All	8	Healing Potion	1
-45	Alchemy*	None	-1	Major Healing Potion	5
-49	Alchemy*	None	-1	Major Mana Potion	5
+3	Alchemy	All	8	Lesser Healing Potion	20
+5	Alchemy	Warlock, Mage, Priest, Druid, Paladin	5	Minor Mana Potion	20
+12	Alchemy	All	8	Healing Potion	10
+14	Alchemy	Warlock, Mage, Priest, Druid, Paladin	5	Lesser Mana Potion	10
+21	Alchemy	All	8	Greater Healing Potion	10
+22	Alchemy	Warlock, Mage, Priest, Druid, Paladin	5	Mana Potion	10
+31	Alchemy	Warlock, Mage, Priest, Druid, Paladin	5	Greater Mana Potion	10
+35	Alchemy	All	8	Superior Healing Potion	10
+41	Alchemy	Warlock, Mage, Priest, Druid, Paladin	5	Superior Mana Potion	10
+42	Alchemy	All	8	Healing Potion	1
+45	Alchemy	None	-1	Major Healing Potion	5
+49	Alchemy	None	-1	Major Mana Potion	5
 1	Blacksmithing	Rogue, Warrior, Paladin	3	Rough Sharpening Stone 	20
 1	Blacksmithing	Warrior, Paladin, Druid	3	Rough Weightstone	20
 2	Blacksmithing	Warrior, Paladin	2	Copper Bracers	1

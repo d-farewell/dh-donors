@@ -1,4 +1,5 @@
 Bloodknife
+Verinmathwin
 Ollitoro
 Ellyea
 Hailmarii
@@ -9,7 +10,7 @@ Sidius
 Griplip
 Darthstealth
 Goagainmire
-Faelx
+Faelr
 Faeld
 Sayashapes
 MIredela
@@ -20,3 +21,8 @@ Magicbrad
 Mtanky
 Flynne
 Oprecht
+Ameth
+Pruina
+Theprecious
+Riza
+Ultron

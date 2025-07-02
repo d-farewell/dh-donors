@@ -30,6 +30,7 @@ class AltChar:
         for i, field in enumerate(fields):
             if i < len(data):
                 setattr(self, field, data[i])
+        self.char_level = int(self.char_level)
 
 
 
