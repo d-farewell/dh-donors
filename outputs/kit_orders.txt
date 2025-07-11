@@ -460,7 +460,7 @@ Oprecht	Lesser Wizard Oil	1	Enchanting	Fulfilled	30
 Oprecht	Bronze Tube	1	Engineering	Deleted	20
 Oprecht	Heavy Armor Kit	10	Leatherworking	Deleted	20
 Oprecht	Hillman's Cloak	1	Leatherworking	Fulfilled	29
-Oprecht	Thick Armor Kit	10	Leatherworking	Posted	30
+Oprecht	Thick Armor Kit	10	Leatherworking	Deleted	30
 Oprecht	Murloc Fin	8	Quest	Fulfilled	20
 Oprecht	Rethban Ore	5	Quest	Fulfilled	20
 Oprecht	Turtle Meat	10	Quest	Deleted	28
@@ -1401,13 +1401,13 @@ Ravensong	Golden Iron Destroyer	1	Blacksmithing	Fulfilled	29
 Ravensong	Level 25 Food (+8)	40	Cooking	Fulfilled	25
 Ravensong	Hillman's Cloak	1	Leatherworking	Fulfilled	29
 Ravensong	Barbaric Shoulders	1	Leatherworking	Fulfilled	30
-Ravensong	Dusky Leather Armor	1	Leatherworking	Posted	30
-Ravensong	Thick Armor Kit	10	Leatherworking	Posted	30
+Ravensong	Dusky Leather Armor	1	Leatherworking	Deleted	30
+Ravensong	Thick Armor Kit	10	Leatherworking	Deleted	30
 Ravensong	Dusky Bracers	1	Leatherworking	Fulfilled	32
 Ravensong	Turtle Meat	10	Quest	Fulfilled	28
 Ravensong	Buzzard Wing	4	Quest2	Fulfilled	33
 Ravensong	Bolt of Woolen Cloth	1	Tailoring	Fulfilled	29
-Ravensong	14 slot bag	1	Tailoring	Posted	30
+Ravensong	14 slot bag	1	Tailoring	Deleted	30
 Ravensong	Long Silken Cloak	1	Tailoring	Fulfilled	32
 Derringeria	Tough Scorpid Helm	1	Leatherworking	Posted	45
 Lastluna	Rugged Armor Kit	10	Leatherworking	Deleted	50
@@ -1763,7 +1763,7 @@ Tyko	Lesser Mystic Wand	1	Enchanting	Fulfilled	26
 Tyko	Greater Mystic Wand	1	Enchanting	Fulfilled	30
 Tyko	Lesser Wizard Oil	1	Enchanting	Fulfilled	30
 Tyko	Hillman's Cloak	1	Leatherworking	Fulfilled	29
-Tyko	Thick Armor Kit	10	Leatherworking	Posted	30
+Tyko	Thick Armor Kit	10	Leatherworking	Fulfilled	30
 Tyko	Turtle Meat	10	Quest	Fulfilled	28
 Tyko	Azure Silk Pants	1	Tailoring	Fulfilled	23
 Tyko	Azure Silk Gloves	1	Tailoring	Fulfilled	24
@@ -1772,7 +1772,7 @@ Tyko	Azure Silk Vest	1	Tailoring	Fulfilled	25
 Tyko	Robes of Arcana	1	Tailoring	Fulfilled	25
 Tyko	Enchanter's Cowl	1	Tailoring	Fulfilled	28
 Tyko	Bolt of Woolen Cloth	1	Tailoring	Fulfilled	29
-Tyko	14 slot bag	1	Tailoring	Posted	30
+Tyko	14 slot bag	1	Tailoring	Fulfilled	30
 Tyko	Azure Silk Belt	1	Tailoring	Fulfilled	30
 Tyko	Green Silken Shoulders	1	Tailoring	Fulfilled	31
 Tyko	Spider Belt	1	Tailoring	Fulfilled	31
@@ -1792,7 +1792,7 @@ Voxs	Dark Leather Tunic	1	Leatherworking	Fulfilled	15
 Voxs	Dark Leather Pants	1	Leatherworking	Fulfilled	18
 Voxs	Red Whelp Gloves	1	Leatherworking	Fulfilled	19
 Voxs	Dark Leather Belt	1	Leatherworking	Fulfilled	20
-Voxs	Heavy Armor Kit	10	Leatherworking	Posted	20
+Voxs	Heavy Armor Kit	10	Leatherworking	Fulfilled	20
 Voxs	Hillman's Shoulders	1	Leatherworking	Fulfilled	21
 Voxs	Goretusk Snout	3	Quest	Fulfilled	9
 Voxs	Murloc Eye	3	Quest	Fulfilled	9
@@ -1869,8 +1869,8 @@ Faelr	Nightscape Boots	1	Leatherworking	Fulfilled	42
 Faelr	Silk Cloth	15	Quest2	Posted	43
 Chaelic	Golden Rod	1	Blacksmithing	Fulfilled	54
 Chaelic	Dark Iron Scraps	30	Quest2	Fulfilled	55
-Chaelic	Silk Cloth	240	Quest2	Posted	58
-Chaelic	Wool Cloth	240	Quest2	Posted	58
+Chaelic	Silk Cloth	240	Quest2	Deleted	58
+Chaelic	Wool Cloth	240	Quest2	Deleted	58
 Oprecht	Black Mageweave Gloves	1	Tailoring	Fulfilled	38
 Darthrogue	Elixir of Water Breathing	2	Alchemy	Deleted	10
 Darthrogue	Elixir of Lesser Agility	5	Alchemy	Fulfilled	18
@@ -1886,7 +1886,7 @@ Darthrogue	Dark Leather Tunic	1	Leatherworking	Fulfilled	15
 Darthrogue	Dark Leather Pants	1	Leatherworking	Fulfilled	18
 Darthrogue	Red Whelp Gloves	1	Leatherworking	Fulfilled	19
 Darthrogue	Dark Leather Belt	1	Leatherworking	Fulfilled	20
-Darthrogue	Heavy Armor Kit	10	Leatherworking	Posted	20
+Darthrogue	Heavy Armor Kit	10	Leatherworking	Fulfilled	20
 Darthrogue	Hillman's Shoulders	1	Leatherworking	Fulfilled	21
 Darthrogue	Darkshore Grouper	6	Quest	Deleted	10
 Darthrogue	Flask of Oil	5	Quest	Deleted	10
@@ -2041,16 +2041,16 @@ Kalleen	Greater Healing Potion	10	Alchemy	Fulfilled	21
 Kalleen	Level 15 Food (+6)	20	Cooking	Fulfilled	15
 Kalleen	Standard Scope	3	Engineering	Deleted	10
 Kalleen	Deadly Blunderbuss	1	Engineering	Fulfilled	16
-Kalleen	Lovingly Crafted Boomstick	1	Engineering	Posted	19
+Kalleen	Lovingly Crafted Boomstick	1	Engineering	Fulfilled	19
 Kalleen	Accurate Scope	3	Engineering	Fulfilled	20
 Kalleen	Bronze Tube	1	Engineering	Fulfilled	20
-Kalleen	Silver-plated Shotgun	1	Engineering	Posted	21
+Kalleen	Silver-plated Shotgun	1	Engineering	Fulfilled	21
 Kalleen	Fine Leather Cloak	1	Leatherworking	Deleted	10
 Kalleen	Light Leather Pants	1	Leatherworking	Fulfilled	14
-Kalleen	Dark Leather Tunic	1	Leatherworking	Posted	15
+Kalleen	Dark Leather Tunic	1	Leatherworking	Fulfilled	15
 Kalleen	Dark Leather Pants	1	Leatherworking	Fulfilled	18
 Kalleen	Dark Leather Belt	1	Leatherworking	Fulfilled	20
-Kalleen	Heavy Armor Kit	10	Leatherworking	Posted	20
+Kalleen	Heavy Armor Kit	10	Leatherworking	Fulfilled	20
 Kalleen	Hillman's Shoulders	1	Leatherworking	Fulfilled	21
 Kalleen	Darkshore Grouper	6	Quest	Deleted	10
 Kalleen	Flask of Oil	5	Quest	Deleted	10
@@ -2109,7 +2109,7 @@ Ultron	Level 15 Food (+6)	20	Cooking	Deleted	15
 Ultron	Level 25 Food (+8)	40	Cooking	Fulfilled	25
 Ultron	Greater Magic Wand	1	Enchanting	Deleted	13
 Ultron	Bronze Tube	1	Engineering	Fulfilled	20
-Ultron	Heavy Armor Kit	10	Leatherworking	Posted	20
+Ultron	Heavy Armor Kit	10	Leatherworking	Fulfilled	20
 Ultron	Light Feather	20	Quest	Deleted	12
 Ultron	Hops	5	Quest	Deleted	14
 Ultron	Crisp Spider Meat	5	Quest	Deleted	15
@@ -2133,8 +2133,8 @@ Ultron	Robes of Arcana	1	Tailoring	Fulfilled	25
 Ultron	Knitted Sandals	1	Pro	Deleted	15
 Ultron	Spidersilk Boots	1	Pro	Fulfilled	20
 Ultron	Incendicite Ore	6	Pro	Fulfilled	20
-Ultron	Heavy Silk Bandage	20	First Aid	Posted	20
-Ultron	Wool (Again)	20	First Aid	Posted	20
+Ultron	Heavy Silk Bandage	20	First Aid	Deleted	20
+Ultron	Wool (Again)	20	First Aid	Deleted	20
 Theprecious	Elixir of Ogre's Strength	5	Alchemy	Deleted	20
 Theprecious	Greater Healing Potion	10	Alchemy	Fulfilled	21
 Theprecious	Runed Copper Bracers	1	Blacksmithing	Deleted	14
@@ -2173,7 +2173,7 @@ Bigbois	Silvered Bronze Boots	1	Blacksmithing	Fulfilled	21
 Bigbois	Solid Sharpening Stone	20	Blacksmithing	Fulfilled	25
 Bigbois	Level 25 Food (+8)	40	Cooking	Fulfilled	25
 Bigbois	Bronze Tube	1	Engineering	Fulfilled	20
-Bigbois	Heavy Armor Kit	10	Leatherworking	Posted	20
+Bigbois	Heavy Armor Kit	10	Leatherworking	Fulfilled	20
 Bigbois	Gooey Spider Leg	6	Quest	Fulfilled	17
 Bigbois	Murloc Fin	8	Quest	Fulfilled	20
 Bigbois	Rethban Ore	5	Quest	Fulfilled	20
@@ -2205,7 +2205,7 @@ Peekadeath	White Leather Jerkin	1	Leatherworking	Posted	8
 Peekadeath	Light Leather Bracers	1	Leatherworking	Fulfilled	9
 Peekadeath	Fine Leather Cloak	1	Leatherworking	Fulfilled	10
 Peekadeath	Light Leather Pants	1	Leatherworking	Fulfilled	14
-Peekadeath	Dark Leather Tunic	1	Leatherworking	Posted	15
+Peekadeath	Dark Leather Tunic	1	Leatherworking	Fulfilled	15
 Peekadeath	Chunk of Boar Meat	8	Quest	Fulfilled	5
 Peekadeath	Bear Meat	3	Quest	Fulfilled	7
 Peekadeath	Boar Intestines	3	Quest	Fulfilled	7
@@ -2227,18 +2227,18 @@ Peekadeath	Linen Cloak	1	Tailoring	Deleted	1
 Peekadeath	Reinforced Linen Cape	1	Tailoring	Fulfilled	7
 Peekadeath	12 slot bag	1	Tailoring	Fulfilled	10
 Peekadeath	Woolen Cape	1	Tailoring	Fulfilled	11
-Peekadeath	Heavy Wool Bandage	20	First Aid	Posted	5
-Peekadeath	Linen (First Aid)	200	First Aid	Posted	5
+Peekadeath	Heavy Wool Bandage	20	First Aid	Deleted	5
+Peekadeath	Linen (First Aid)	200	First Aid	Deleted	5
 Peekadeath	Silk Bandage	20	First Aid	Posted	10
 Peekadeath	Wool	20	First Aid	Posted	10
 Kaeshflame	Buzzard Wing	4	Quest2	Fulfilled	33
 Kaeshflame	Light Feather	20	Quest2	Posted	34
-Kaeshflame	Azure Shoulders	1	Tailoring	Posted	33
+Kaeshflame	Azure Shoulders	1	Tailoring	Fulfilled	33
 Lastluna	Dark Iron Scraps	30	Quest2	Fulfilled	55
 Lastluna	Devilsaur Leggings	1	Pro	Posted	55
 Pruina	Gooey Spider Leg	6	Quest	Fulfilled	17
 Pruina	Double-stitched Woolen Shoulders	1	Tailoring	Fulfilled	17
-Pruina	Woolen Boots	1	Tailoring	Posted	17
+Pruina	Woolen Boots	1	Tailoring	Fulfilled	17
 Voxs	Elixir of Lion's Strength	10	Alchemy	Fulfilled	1
 Voxs	Elixir of Minor Defense	10	Alchemy	Fulfilled	1
 Voxs	Elixir of Minor Agility	10	Alchemy	Fulfilled	2
@@ -2255,126 +2255,126 @@ Voxs	Handstitched Leather Vest	1	Leatherworking	Fulfilled	3
 Voxs	Handstitched Leather Bracers	1	Leatherworking	Fulfilled	4
 Voxs	Medium Armor Kit	10	Leatherworking	Fulfilled	5
 Voxs	Embossed Leather Gloves	1	Leatherworking	Fulfilled	8
-Voxs	White Leather Jerkin	1	Leatherworking	Posted	8
+Voxs	White Leather Jerkin	1	Leatherworking	Fulfilled	8
 Voxs	Chunk of Boar Meat	8	Quest	Fulfilled	5
 Voxs	Bear Meat	3	Quest	Fulfilled	7
 Voxs	Boar Intestines	3	Quest	Fulfilled	7
 Voxs	Spider Ichor	3	Quest	Fulfilled	7
 Voxs	10 slot bags	3	Tailoring	Fulfilled	1
-Voxs	Linen Cloak	1	Tailoring	Posted	1
+Voxs	Linen Cloak	1	Tailoring	Fulfilled	1
 Voxs	Reinforced Linen Cape	1	Tailoring	Posted	7
 Voxs	Heavy Wool Bandage	20	First Aid	Posted	5
 Voxs	Linen (First Aid)	200	First Aid	Posted	5
 Sisterkumar	Silk Cloth	15	Quest2	Posted	43
 Verinmathwin	Greater Healing Potion	10	Alchemy	Fulfilled	21
 Faelr	Major Healing Potion	5	Pro	Fulfilled	45
-Kalleen	Level 25 Food (+8)	40	Cooking	Posted	25
+Kalleen	Level 25 Food (+8)	40	Cooking	Fulfilled	25
 Kalleen	Moonsight Rifle	1	Engineering	Posted	24
-Riza	Greater Mana Potion	10	Alchemy	Posted	31
+Riza	Greater Mana Potion	10	Alchemy	Deleted	31
 Riza	Green Iron Helm	1	Blacksmithing	Fulfilled	29
-Riza	Hillman's Cloak	1	Leatherworking	Posted	29
-Riza	Thick Armor Kit	10	Leatherworking	Posted	30
-Riza	Turtle Meat	10	Quest	Posted	28
-Riza	Bolt of Woolen Cloth	1	Tailoring	Posted	29
-Riza	14 slot bag	1	Tailoring	Posted	30
-Riza	Azure Silk Belt	1	Tailoring	Posted	30
-Riza	Long Silken Cloak	1	Tailoring	Posted	32
-Ultron	Greater Mana Potion	10	Alchemy	Posted	31
-Ultron	Lesser Mystic Wand	1	Enchanting	Posted	26
-Ultron	Greater Mystic Wand	1	Enchanting	Posted	30
-Ultron	Lesser Wizard Oil	1	Enchanting	Posted	30
-Ultron	Hillman's Cloak	1	Leatherworking	Posted	29
-Ultron	Thick Armor Kit	10	Leatherworking	Posted	30
-Ultron	Turtle Meat	10	Quest	Posted	28
-Ultron	Enchanter's Cowl	1	Tailoring	Posted	28
-Ultron	Bolt of Woolen Cloth	1	Tailoring	Posted	29
-Ultron	14 slot bag	1	Tailoring	Posted	30
-Ultron	Azure Silk Belt	1	Tailoring	Posted	30
-Ultron	Green Silken Shoulders	1	Tailoring	Posted	31
-Ultron	Spider Belt	1	Tailoring	Posted	31
-Theprecious	Elixir of Agility	5	Alchemy	Posted	27
-Theprecious	Green Iron Helm	1	Blacksmithing	Posted	29
-Theprecious	Hillman's Cloak	1	Leatherworking	Posted	29
-Theprecious	Thick Armor Kit	10	Leatherworking	Posted	30
-Theprecious	Turtle Meat	10	Quest	Posted	28
-Theprecious	Bolt of Woolen Cloth	1	Tailoring	Posted	29
-Theprecious	14 slot bag	1	Tailoring	Posted	30
-Theprecious	Azure Silk Belt	1	Tailoring	Posted	30
-Peekadeath	Gooey Spider Leg	6	Quest	Posted	17
-Chaelic	Flask of Petrification	1	Alchemy	Posted	60
-Chaelic	16 slot bag	1	Tailoring	Posted	60
+Riza	Hillman's Cloak	1	Leatherworking	Fulfilled	29
+Riza	Thick Armor Kit	10	Leatherworking	Fulfilled	30
+Riza	Turtle Meat	10	Quest	Fulfilled	28
+Riza	Bolt of Woolen Cloth	1	Tailoring	Fulfilled	29
+Riza	14 slot bag	1	Tailoring	Fulfilled	30
+Riza	Azure Silk Belt	1	Tailoring	Fulfilled	30
+Riza	Long Silken Cloak	1	Tailoring	Fulfilled	32
+Ultron	Greater Mana Potion	10	Alchemy	Fulfilled	31
+Ultron	Lesser Mystic Wand	1	Enchanting	Fulfilled	26
+Ultron	Greater Mystic Wand	1	Enchanting	Fulfilled	30
+Ultron	Lesser Wizard Oil	1	Enchanting	Fulfilled	30
+Ultron	Hillman's Cloak	1	Leatherworking	Fulfilled	29
+Ultron	Thick Armor Kit	10	Leatherworking	Deleted	30
+Ultron	Turtle Meat	10	Quest	Fulfilled	28
+Ultron	Enchanter's Cowl	1	Tailoring	Fulfilled	28
+Ultron	Bolt of Woolen Cloth	1	Tailoring	Fulfilled	29
+Ultron	14 slot bag	1	Tailoring	Deleted	30
+Ultron	Azure Silk Belt	1	Tailoring	Fulfilled	30
+Ultron	Green Silken Shoulders	1	Tailoring	Fulfilled	31
+Ultron	Spider Belt	1	Tailoring	Fulfilled	31
+Theprecious	Elixir of Agility	5	Alchemy	Deleted	27
+Theprecious	Green Iron Helm	1	Blacksmithing	Fulfilled	29
+Theprecious	Hillman's Cloak	1	Leatherworking	Fulfilled	29
+Theprecious	Thick Armor Kit	10	Leatherworking	Fulfilled	30
+Theprecious	Turtle Meat	10	Quest	Fulfilled	28
+Theprecious	Bolt of Woolen Cloth	1	Tailoring	Fulfilled	29
+Theprecious	14 slot bag	1	Tailoring	Fulfilled	30
+Theprecious	Azure Silk Belt	1	Tailoring	Fulfilled	30
+Peekadeath	Gooey Spider Leg	6	Quest	Fulfilled	17
+Chaelic	Flask of Petrification	1	Alchemy	Deleted	60
+Chaelic	16 slot bag	1	Tailoring	Deleted	60
 Lastluna	Silk Cloth	240	Quest2	Posted	58
 Lastluna	Wool Cloth	240	Quest2	Posted	58
-Pruina	Reinforced Woolen Shoulders	1	Tailoring	Posted	19
-Verinmathwin	Mana Potion	10	Alchemy	Posted	22
+Pruina	Reinforced Woolen Shoulders	1	Tailoring	Fulfilled	19
+Verinmathwin	Mana Potion	10	Alchemy	Fulfilled	22
 Darthhunt	Tough Scorpid Helm	1	Leatherworking	Posted	45
 Taresitia	Silk Cloth	15	Quest2	Posted	43
-Fungusnuts	Elixir of Water Breathing	2	Alchemy	Posted	10
-Fungusnuts	Elixir of Lesser Agility	5	Alchemy	Posted	18
-Fungusnuts	Healing Potion	10	Alchemy	Posted	12
-Fungusnuts	Greater Healing Potion	10	Alchemy	Posted	21
-Fungusnuts	Level 15 Food (+6)	20	Cooking	Posted	15
-Fungusnuts	Standard Scope	3	Engineering	Posted	10
-Fungusnuts	Deadly Blunderbuss	1	Engineering	Posted	16
-Fungusnuts	Lovingly Crafted Boomstick	1	Engineering	Posted	19
-Fungusnuts	Accurate Scope	3	Engineering	Posted	20
-Fungusnuts	Bronze Tube	1	Engineering	Posted	20
-Fungusnuts	Silver-plated Shotgun	1	Engineering	Posted	21
-Fungusnuts	Light Leather Bracers	1	Leatherworking	Posted	9
-Fungusnuts	Fine Leather Cloak	1	Leatherworking	Posted	10
-Fungusnuts	Light Leather Pants	1	Leatherworking	Posted	14
-Fungusnuts	Dark Leather Tunic	1	Leatherworking	Posted	15
-Fungusnuts	Dark Leather Pants	1	Leatherworking	Posted	18
-Fungusnuts	Dark Leather Belt	1	Leatherworking	Posted	20
-Fungusnuts	Heavy Armor Kit	10	Leatherworking	Posted	20
-Fungusnuts	Hillman's Shoulders	1	Leatherworking	Posted	21
-Fungusnuts	Goretusk Snout	3	Quest	Posted	9
-Fungusnuts	Murloc Eye	3	Quest	Posted	9
-Fungusnuts	Okra	3	Quest	Posted	9
-Fungusnuts	Stringy Vulture Meat	3	Quest	Posted	9
-Fungusnuts	Goretusk Livers	8	Quest	Posted	9
-Fungusnuts	Darkshore Grouper	6	Quest	Posted	10
-Fungusnuts	Flask of Oil	5	Quest	Posted	10
-Fungusnuts	Guild Tabard	1	Quest	Posted	10
-Fungusnuts	Hops	5	Quest	Posted	14
-Fungusnuts	Crisp Spider Meat	5	Quest	Posted	15
-Fungusnuts	Great Goretusk Snout	5	Quest	Posted	15
-Fungusnuts	Tough Condor Meat	5	Quest	Posted	15
-Fungusnuts	Gooey Spider Leg	6	Quest	Posted	17
-Fungusnuts	Murloc Fin	8	Quest	Posted	20
-Fungusnuts	Rethban Ore	5	Quest	Posted	20
-Fungusnuts	12 slot bag	1	Tailoring	Posted	10
-Fungusnuts	Woolen Cape	1	Tailoring	Posted	11
-Fungusnuts	12 slot bag	2	Tailoring	Posted	20
-Fungusnuts	Silk Bandage	20	First Aid	Posted	10
-Fungusnuts	Wool	20	First Aid	Posted	10
+Fungusnuts	Elixir of Water Breathing	2	Alchemy	Deleted	10
+Fungusnuts	Elixir of Lesser Agility	5	Alchemy	Fulfilled	18
+Fungusnuts	Healing Potion	10	Alchemy	Deleted	12
+Fungusnuts	Greater Healing Potion	10	Alchemy	Fulfilled	21
+Fungusnuts	Level 15 Food (+6)	20	Cooking	Fulfilled	15
+Fungusnuts	Standard Scope	3	Engineering	Fulfilled	10
+Fungusnuts	Deadly Blunderbuss	1	Engineering	Fulfilled	16
+Fungusnuts	Lovingly Crafted Boomstick	1	Engineering	Fulfilled	19
+Fungusnuts	Accurate Scope	3	Engineering	Fulfilled	20
+Fungusnuts	Bronze Tube	1	Engineering	Fulfilled	20
+Fungusnuts	Silver-plated Shotgun	1	Engineering	Fulfilled	21
+Fungusnuts	Light Leather Bracers	1	Leatherworking	Fulfilled	9
+Fungusnuts	Fine Leather Cloak	1	Leatherworking	Fulfilled	10
+Fungusnuts	Light Leather Pants	1	Leatherworking	Fulfilled	14
+Fungusnuts	Dark Leather Tunic	1	Leatherworking	Deleted	15
+Fungusnuts	Dark Leather Pants	1	Leatherworking	Fulfilled	18
+Fungusnuts	Dark Leather Belt	1	Leatherworking	Fulfilled	20
+Fungusnuts	Heavy Armor Kit	10	Leatherworking	Fulfilled	20
+Fungusnuts	Hillman's Shoulders	1	Leatherworking	Fulfilled	21
+Fungusnuts	Goretusk Snout	3	Quest	Deleted	9
+Fungusnuts	Murloc Eye	3	Quest	Deleted	9
+Fungusnuts	Okra	3	Quest	Deleted	9
+Fungusnuts	Stringy Vulture Meat	3	Quest	Deleted	9
+Fungusnuts	Goretusk Livers	8	Quest	Deleted	9
+Fungusnuts	Darkshore Grouper	6	Quest	Deleted	10
+Fungusnuts	Flask of Oil	5	Quest	Deleted	10
+Fungusnuts	Guild Tabard	1	Quest	Deleted	10
+Fungusnuts	Hops	5	Quest	Fulfilled	14
+Fungusnuts	Crisp Spider Meat	5	Quest	Fulfilled	15
+Fungusnuts	Great Goretusk Snout	5	Quest	Fulfilled	15
+Fungusnuts	Tough Condor Meat	5	Quest	Fulfilled	15
+Fungusnuts	Gooey Spider Leg	6	Quest	Fulfilled	17
+Fungusnuts	Murloc Fin	8	Quest	Fulfilled	20
+Fungusnuts	Rethban Ore	5	Quest	Fulfilled	20
+Fungusnuts	12 slot bag	1	Tailoring	Fulfilled	10
+Fungusnuts	Woolen Cape	1	Tailoring	Fulfilled	11
+Fungusnuts	12 slot bag	2	Tailoring	Fulfilled	20
+Fungusnuts	Silk Bandage	20	First Aid	Deleted	10
+Fungusnuts	Wool	20	First Aid	Deleted	10
 Fungusnuts	Heavy Silk Bandage	20	First Aid	Posted	20
 Fungusnuts	Wool (Again)	20	First Aid	Posted	20
-Énvy	Hillman's Cloak	1	Leatherworking	Posted	29
-Énvy	Bolt of Woolen Cloth	1	Tailoring	Posted	29
+Énvy	Hillman's Cloak	1	Leatherworking	Fulfilled	29
+Énvy	Bolt of Woolen Cloth	1	Tailoring	Fulfilled	29
 Faeld	Elixir of Ogre's Strength	5	Alchemy	Fulfilled	20
 Faeld	Greater Healing Potion	10	Alchemy	Fulfilled	21
 Faeld	Mana Potion	10	Alchemy	Fulfilled	22
-Faeld	Golden Iron Destroyer	1	Blacksmithing	Posted	29
-Faeld	Level 25 Food (+8)	40	Cooking	Posted	25
-Faeld	Bronze Tube	1	Engineering	Posted	20
+Faeld	Golden Iron Destroyer	1	Blacksmithing	Fulfilled	29
+Faeld	Level 25 Food (+8)	40	Cooking	Fulfilled	25
+Faeld	Bronze Tube	1	Engineering	Fulfilled	20
 Faeld	Red Whelp Gloves	1	Leatherworking	Posted	19
-Faeld	Dark Leather Belt	1	Leatherworking	Posted	20
-Faeld	Heavy Armor Kit	10	Leatherworking	Posted	20
-Faeld	Hillman's Cloak	1	Leatherworking	Posted	29
-Faeld	Hillman's Shoulders	1	Leatherworking	Posted	21
-Faeld	Barbaric Shoulders	1	Leatherworking	Posted	30
+Faeld	Dark Leather Belt	1	Leatherworking	Fulfilled	20
+Faeld	Heavy Armor Kit	10	Leatherworking	Fulfilled	20
+Faeld	Hillman's Cloak	1	Leatherworking	Fulfilled	29
+Faeld	Hillman's Shoulders	1	Leatherworking	Fulfilled	21
+Faeld	Barbaric Shoulders	1	Leatherworking	Fulfilled	30
 Faeld	Dusky Leather Armor	1	Leatherworking	Posted	30
-Faeld	Thick Armor Kit	10	Leatherworking	Posted	30
-Faeld	Murloc Fin	8	Quest	Posted	20
-Faeld	Rethban Ore	5	Quest	Posted	20
-Faeld	Turtle Meat	10	Quest	Posted	28
-Faeld	12 slot bag	2	Tailoring	Posted	20
-Faeld	Bolt of Woolen Cloth	1	Tailoring	Posted	29
-Faeld	14 slot bag	1	Tailoring	Posted	30
-Faeld	Incendicite Ore	6	Pro	Posted	20
+Faeld	Thick Armor Kit	10	Leatherworking	Fulfilled	30
+Faeld	Murloc Fin	8	Quest	Fulfilled	20
+Faeld	Rethban Ore	5	Quest	Fulfilled	20
+Faeld	Turtle Meat	10	Quest	Fulfilled	28
+Faeld	12 slot bag	2	Tailoring	Fulfilled	20
+Faeld	Bolt of Woolen Cloth	1	Tailoring	Fulfilled	29
+Faeld	14 slot bag	1	Tailoring	Fulfilled	30
+Faeld	Incendicite Ore	6	Pro	Fulfilled	20
 Faeld	Toughened Leather Gloves	1	Pro	Posted	22
-Faeld	Barbaric Bracers	1	Pro	Posted	27
+Faeld	Barbaric Bracers	1	Pro	Fulfilled	27
 Faeld	Heavy Silk Bandage	20	First Aid	Posted	20
 Faeld	Wool (Again)	20	First Aid	Posted	20
 Bloodknife	Lesser Stoneshield Potion	5	Alchemy	Fulfilled	33
@@ -2382,60 +2382,187 @@ Bloodknife	Elixir of Greater Agility	5	Alchemy	Fulfilled	38
 Bloodknife	Superior Healing Potion	10	Alchemy	Fulfilled	35
 Bloodknife	Jade Serpentblade	1	Blacksmithing	Fulfilled	30
 Bloodknife	Dense Sharpening Stone	20	Blacksmithing	Fulfilled	35
-Bloodknife	Barbaric Shoulders	1	Leatherworking	Posted	30
+Bloodknife	Barbaric Shoulders	1	Leatherworking	Fulfilled	30
 Bloodknife	Dusky Leather Armor	1	Leatherworking	Posted	30
-Bloodknife	Thick Armor Kit	10	Leatherworking	Posted	30
-Bloodknife	Dusky Bracers	1	Leatherworking	Posted	32
-Bloodknife	Nightscape Headband	1	Leatherworking	Posted	36
-Bloodknife	Buzzard Wing	4	Quest2	Posted	33
+Bloodknife	Thick Armor Kit	10	Leatherworking	Fulfilled	30
+Bloodknife	Dusky Bracers	1	Leatherworking	Fulfilled	32
+Bloodknife	Nightscape Headband	1	Leatherworking	Fulfilled	36
+Bloodknife	Buzzard Wing	4	Quest2	Fulfilled	33
 Bloodknife	14 slot bag	1	Tailoring	Posted	30
-Bloodknife	Azure Silk Belt	1	Tailoring	Posted	30
+Bloodknife	Azure Silk Belt	1	Tailoring	Fulfilled	30
 Bloodknife	Mithril Blunderbuss	1	Pro	Posted	36
 Bloodknife	Elixir of Giants	5	Pro	Fulfilled	38
 Ameth	Superior Healing Potion	10	Alchemy	Fulfilled	35
-Graverodent	Silk Cloth	240	Quest2	Posted	58
-Graverodent	Wool Cloth	240	Quest2	Posted	58
-Sorti	Elixir of Water Breathing	2	Alchemy	Posted	10
-Sorti	Elixir of Lesser Agility	5	Alchemy	Posted	18
-Sorti	Healing Potion	10	Alchemy	Posted	12
-Sorti	Level 15 Food (+6)	20	Cooking	Posted	15
-Sorti	Standard Scope	3	Engineering	Posted	10
-Sorti	Deadly Blunderbuss	1	Engineering	Posted	16
-Sorti	Lovingly Crafted Boomstick	1	Engineering	Posted	19
-Sorti	Accurate Scope	3	Engineering	Posted	20
-Sorti	Bronze Tube	1	Engineering	Posted	20
-Sorti	Embossed Leather Gloves	1	Leatherworking	Posted	8
-Sorti	White Leather Jerkin	1	Leatherworking	Posted	8
-Sorti	Light Leather Bracers	1	Leatherworking	Posted	9
-Sorti	Fine Leather Cloak	1	Leatherworking	Posted	10
-Sorti	Light Leather Pants	1	Leatherworking	Posted	14
-Sorti	Dark Leather Tunic	1	Leatherworking	Posted	15
-Sorti	Dark Leather Pants	1	Leatherworking	Posted	18
-Sorti	Dark Leather Belt	1	Leatherworking	Posted	20
-Sorti	Heavy Armor Kit	10	Leatherworking	Posted	20
-Sorti	Bear Meat	3	Quest	Posted	7
-Sorti	Boar Intestines	3	Quest	Posted	7
-Sorti	Spider Ichor	3	Quest	Posted	7
-Sorti	Goretusk Snout	3	Quest	Posted	9
-Sorti	Murloc Eye	3	Quest	Posted	9
-Sorti	Okra	3	Quest	Posted	9
-Sorti	Stringy Vulture Meat	3	Quest	Posted	9
-Sorti	Goretusk Livers	8	Quest	Posted	9
-Sorti	Darkshore Grouper	6	Quest	Posted	10
-Sorti	Flask of Oil	5	Quest	Posted	10
-Sorti	Guild Tabard	1	Quest	Posted	10
-Sorti	Hops	5	Quest	Posted	14
-Sorti	Crisp Spider Meat	5	Quest	Posted	15
-Sorti	Great Goretusk Snout	5	Quest	Posted	15
-Sorti	Tough Condor Meat	5	Quest	Posted	15
-Sorti	Gooey Spider Leg	6	Quest	Posted	17
-Sorti	Murloc Fin	8	Quest	Posted	20
-Sorti	Rethban Ore	5	Quest	Posted	20
-Sorti	Reinforced Linen Cape	1	Tailoring	Posted	7
-Sorti	12 slot bag	1	Tailoring	Posted	10
-Sorti	Woolen Cape	1	Tailoring	Posted	11
-Sorti	12 slot bag	2	Tailoring	Posted	20
+Graverodent	Silk Cloth	240	Quest2	Fulfilled	58
+Graverodent	Wool Cloth	240	Quest2	Fulfilled	58
+Sorti	Elixir of Water Breathing	2	Alchemy	Fulfilled	10
+Sorti	Elixir of Lesser Agility	5	Alchemy	Fulfilled	18
+Sorti	Healing Potion	10	Alchemy	Fulfilled	12
+Sorti	Level 15 Food (+6)	20	Cooking	Fulfilled	15
+Sorti	Standard Scope	3	Engineering	Fulfilled	10
+Sorti	Deadly Blunderbuss	1	Engineering	Fulfilled	16
+Sorti	Lovingly Crafted Boomstick	1	Engineering	Fulfilled	19
+Sorti	Accurate Scope	3	Engineering	Fulfilled	20
+Sorti	Bronze Tube	1	Engineering	Fulfilled	20
+Sorti	Embossed Leather Gloves	1	Leatherworking	Fulfilled	8
+Sorti	White Leather Jerkin	1	Leatherworking	Fulfilled	8
+Sorti	Light Leather Bracers	1	Leatherworking	Fulfilled	9
+Sorti	Fine Leather Cloak	1	Leatherworking	Fulfilled	10
+Sorti	Light Leather Pants	1	Leatherworking	Fulfilled	14
+Sorti	Dark Leather Tunic	1	Leatherworking	Fulfilled	15
+Sorti	Dark Leather Pants	1	Leatherworking	Fulfilled	18
+Sorti	Dark Leather Belt	1	Leatherworking	Fulfilled	20
+Sorti	Heavy Armor Kit	10	Leatherworking	Fulfilled	20
+Sorti	Bear Meat	3	Quest	Fulfilled	7
+Sorti	Boar Intestines	3	Quest	Fulfilled	7
+Sorti	Spider Ichor	3	Quest	Fulfilled	7
+Sorti	Goretusk Snout	3	Quest	Fulfilled	9
+Sorti	Murloc Eye	3	Quest	Fulfilled	9
+Sorti	Okra	3	Quest	Fulfilled	9
+Sorti	Stringy Vulture Meat	3	Quest	Fulfilled	9
+Sorti	Goretusk Livers	8	Quest	Fulfilled	9
+Sorti	Darkshore Grouper	6	Quest	Fulfilled	10
+Sorti	Flask of Oil	5	Quest	Fulfilled	10
+Sorti	Guild Tabard	1	Quest	Fulfilled	10
+Sorti	Hops	5	Quest	Fulfilled	14
+Sorti	Crisp Spider Meat	5	Quest	Fulfilled	15
+Sorti	Great Goretusk Snout	5	Quest	Fulfilled	15
+Sorti	Tough Condor Meat	5	Quest	Fulfilled	15
+Sorti	Gooey Spider Leg	6	Quest	Fulfilled	17
+Sorti	Murloc Fin	8	Quest	Fulfilled	20
+Sorti	Rethban Ore	5	Quest	Fulfilled	20
+Sorti	Reinforced Linen Cape	1	Tailoring	Fulfilled	7
+Sorti	12 slot bag	1	Tailoring	Fulfilled	10
+Sorti	Woolen Cape	1	Tailoring	Fulfilled	11
+Sorti	12 slot bag	2	Tailoring	Fulfilled	20
 Sorti	Silk Bandage	20	First Aid	Posted	10
 Sorti	Wool	20	First Aid	Posted	10
 Sorti	Heavy Silk Bandage	20	First Aid	Posted	20
 Sorti	Wool (Again)	20	First Aid	Posted	20
+Gnoobie	Superior Mana Potion	10	Alchemy	Fulfilled	41
+Gnoobie	Level 40 Food (+12)	20	Cooking	Fulfilled	40
+Gnoobie	Wizard Oil	1	Enchanting	Fulfilled	40
+Gnoobie	Rugged Armor Kit	10	Leatherworking	Posted	40
+Gnoobie	Gorilla Fang	10	Quest2	Fulfilled	40
+Gnoobie	Troll Tribal Necklace	5	Quest2	Fulfilled	40
+Gnoobie	Wastewander Water Pouch	5	Quest2	Fulfilled	40
+Gnoobie	Mount Funding	1	Pro	Posted	40
+Gnoobie	Dreamweave Gloves	1	Pro	Posted	40
+Riza	Lesser Stoneshield Potion	5	Alchemy	Fulfilled	33
+Riza	Superior Healing Potion	10	Alchemy	Fulfilled	35
+Riza	Dense Sharpening Stone	20	Blacksmithing	Fulfilled	35
+Riza	Buzzard Wing	4	Quest2	Fulfilled	33
+Ultron	Superior Healing Potion	10	Alchemy	Fulfilled	35
+Ultron	Buzzard Wing	4	Quest2	Fulfilled	33
+Ultron	Long Silken Cloak	1	Tailoring	Fulfilled	32
+Ultron	Azure Shoulders	1	Tailoring	Fulfilled	33
+Theprecious	Lesser Stoneshield Potion	5	Alchemy	Fulfilled	33
+Theprecious	Superior Healing Potion	10	Alchemy	Fulfilled	35
+Theprecious	Dense Sharpening Stone	20	Blacksmithing	Fulfilled	35
+Theprecious	Buzzard Wing	4	Quest2	Fulfilled	33
+Peekadeath	Elixir of Lesser Agility	5	Alchemy	Fulfilled	18
+Peekadeath	Greater Healing Potion	10	Alchemy	Fulfilled	21
+Peekadeath	Lovingly Crafted Boomstick	1	Engineering	Fulfilled	19
+Peekadeath	Accurate Scope	3	Engineering	Fulfilled	20
+Peekadeath	Bronze Tube	1	Engineering	Fulfilled	20
+Peekadeath	Silver-plated Shotgun	1	Engineering	Fulfilled	21
+Peekadeath	Dark Leather Pants	1	Leatherworking	Fulfilled	18
+Peekadeath	Dark Leather Belt	1	Leatherworking	Fulfilled	20
+Peekadeath	Heavy Armor Kit	10	Leatherworking	Fulfilled	20
+Peekadeath	Hillman's Shoulders	1	Leatherworking	Fulfilled	21
+Peekadeath	Murloc Fin	8	Quest	Fulfilled	20
+Peekadeath	Rethban Ore	5	Quest	Fulfilled	20
+Peekadeath	12 slot bag	2	Tailoring	Fulfilled	20
+Peekadeath	Heavy Silk Bandage	20	First Aid	Posted	20
+Peekadeath	Wool (Again)	20	First Aid	Posted	20
+Kaeshflame	Superior Healing Potion	10	Alchemy	Fulfilled	35
+Oprecht	Superior Mana Potion	10	Alchemy	Fulfilled	41
+Oprecht	Level 40 Food (+12)	20	Cooking	Fulfilled	40
+Oprecht	Lesser Mana Oil	1	Enchanting	Fulfilled	40
+Oprecht	Wizard Oil	1	Enchanting	Fulfilled	40
+Oprecht	Rugged Armor Kit	10	Leatherworking	Fulfilled	40
+Oprecht	Gorilla Fang	10	Quest2	Fulfilled	40
+Oprecht	Troll Tribal Necklace	5	Quest2	Fulfilled	40
+Oprecht	Wastewander Water Pouch	5	Quest2	Fulfilled	40
+Oprecht	Mount Funding	1	Pro	Posted	40
+Oprecht	Dreamweave Gloves	1	Pro	Posted	40
+Fungusnuts	Level 25 Food (+8)	40	Cooking	Fulfilled	25
+Fungusnuts	Moonsight Rifle	1	Engineering	Posted	24
+Énvy	Greater Mana Potion	10	Alchemy	Fulfilled	31
+Énvy	Greater Mystic Wand	1	Enchanting	Fulfilled	30
+Énvy	Lesser Wizard Oil	1	Enchanting	Fulfilled	30
+Énvy	Thick Armor Kit	10	Leatherworking	Fulfilled	30
+Énvy	14 slot bag	1	Tailoring	Posted	30
+Énvy	Azure Silk Belt	1	Tailoring	Fulfilled	30
+Énvy	Green Silken Shoulders	1	Tailoring	Fulfilled	31
+Énvy	Spider Belt	1	Tailoring	Fulfilled	31
+Énvy	Long Silken Cloak	1	Tailoring	Fulfilled	32
+Gheralt	Nightscape Headband	1	Leatherworking	Fulfilled	36
+Gnoobie	Frost Oil	1	Alchemy	Posted	42
+Gnoobie	Lesser Invisibility Potion	1	Alchemy	Posted	42
+Gnoobie	Healing Potion	1	Alchemy	Posted	42
+Gnoobie	Patterned Bronze Bracers	1	Blacksmithing	Posted	42
+Gnoobie	Gyrochronatom	1	Engineering	Posted	42
+Gnoobie	Silk Cloth	15	Quest2	Posted	43
+Riza	Elixir of Greater Intellect	5	Alchemy	Posted	37
+Riza	Superior Mana Potion	10	Alchemy	Posted	41
+Riza	Ornate Mithril Gloves	1	Blacksmithing	Posted	40
+Riza	Level 40 Food (+12)	20	Cooking	Posted	40
+Riza	Rugged Armor Kit	10	Leatherworking	Posted	40
+Riza	Gorilla Fang	10	Quest2	Posted	40
+Riza	Troll Tribal Necklace	5	Quest2	Posted	40
+Riza	Wastewander Water Pouch	5	Quest2	Posted	40
+Riza	Elixir of Giants	5	Pro	Posted	38
+Ultron	Level 40 Food (+12)	20	Cooking	Posted	40
+Ultron	Wizard Oil	1	Enchanting	Posted	40
+Ultron	Rugged Armor Kit	10	Leatherworking	Posted	40
+Ultron	Gorilla Fang	10	Quest2	Posted	40
+Ultron	Troll Tribal Necklace	5	Quest2	Posted	40
+Ultron	Wastewander Water Pouch	5	Quest2	Posted	40
+Ultron	Black Mageweave Gloves	1	Tailoring	Posted	38
+Ultron	Mount Funding	1	Pro	Posted	40
+Ultron	Dreamweave Gloves	1	Pro	Posted	40
+Theprecious	Elixir of Greater Agility	5	Alchemy	Posted	38
+Theprecious	Ornate Mithril Gloves	1	Blacksmithing	Posted	40
+Theprecious	Level 40 Food (+12)	20	Cooking	Posted	40
+Theprecious	Rugged Armor Kit	10	Leatherworking	Posted	40
+Theprecious	Gorilla Fang	10	Quest2	Posted	40
+Theprecious	Troll Tribal Necklace	5	Quest2	Posted	40
+Theprecious	Wastewander Water Pouch	5	Quest2	Posted	40
+Theprecious	Mount Funding	1	Pro	Posted	40
+Theprecious	Elixir of Giants	5	Pro	Posted	38
+Bigbois	Turtle Meat	10	Quest	Posted	28
+Oprecht	Elixir of Water Breathing	2	Alchemy	Posted	10
+Oprecht	Elixir of Wisdom	5	Alchemy	Posted	10
+Oprecht	Healing Potion	10	Alchemy	Posted	12
+Oprecht	Lesser Mana Potion	10	Alchemy	Posted	14
+Oprecht	Level 15 Food (+6)	20	Cooking	Posted	15
+Oprecht	Minor Wizard Oil	4	Enchanting	Posted	8
+Oprecht	Greater Magic Wand	1	Enchanting	Posted	13
+Oprecht	Fine Leather Cloak	1	Leatherworking	Posted	10
+Oprecht	Goretusk Snout	3	Quest	Posted	9
+Oprecht	Murloc Eye	3	Quest	Posted	9
+Oprecht	Okra	3	Quest	Posted	9
+Oprecht	Stringy Vulture Meat	3	Quest	Posted	9
+Oprecht	Goretusk Livers	8	Quest	Posted	9
+Oprecht	Darkshore Grouper	6	Quest	Posted	10
+Oprecht	Flask of Oil	5	Quest	Posted	10
+Oprecht	Guild Tabard	1	Quest	Posted	10
+Oprecht	Hops	5	Quest	Posted	14
+Oprecht	Crisp Spider Meat	5	Quest	Posted	15
+Oprecht	Great Goretusk Snout	5	Quest	Posted	15
+Oprecht	Tough Condor Meat	5	Quest	Posted	15
+Oprecht	Gooey Spider Leg	6	Quest	Posted	17
+Oprecht	12 slot bag	1	Tailoring	Posted	10
+Oprecht	Woolen Cape	1	Tailoring	Posted	11
+Oprecht	Heavy Woolen Gloves	1	Tailoring	Posted	12
+Oprecht	Pearl-clasped Cloak	1	Tailoring	Posted	14
+Oprecht	Double-stitched Woolen Shoulders	1	Tailoring	Posted	17
+Oprecht	Woolen Boots	1	Tailoring	Posted	17
+Oprecht	Knitted Sandals	1	Pro	Posted	15
+Oprecht	Silk Bandage	20	First Aid	Posted	10
+Fungusnuts	Elixir of Agility	5	Alchemy	Posted	27
+Énvy	Buzzard Wing	4	Quest2	Posted	33
+Énvy	Light Feather	20	Quest2	Posted	34
+Graverodent	Flask of Petrification	1	Alchemy	Posted	60
+Graverodent	16 slot bag	1	Tailoring	Posted	60
