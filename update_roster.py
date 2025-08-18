@@ -7,6 +7,8 @@ current_roster = Roster(load_from_file="inputs/roster.txt")
 # r = Roster()
 
 
+
+
 expire_donor_orders(current_roster)
 
 current_roster.save()
@@ -31,7 +33,7 @@ order_fulfillments()
 
 donors = process_contributions()
 
-
+# TODO this should use Roster class
 with open("inputs/roster.txt", 'r', encoding="utf_8") as f:
     r = reader(f, delimiter=';')
     # data = list(r)

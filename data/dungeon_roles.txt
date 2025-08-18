@@ -1,0 +1,19 @@
+Wailing Caverns	20	25
+Deadmines	19	24
+Shadowfang Keep	24	28
+Stockade	27	31
+Blackfathom Deeps	26	30
+Gnomeregan	32	36
+Razorfen Kraul	31	34
+Scarlet Monastery: GY	32	36
+Scarlet Monastery: Lib	35	39
+Scarlet Monastery: Arm	38	42
+Scarlet Monastery: Cath	40	45
+Razorfen Downs	39	44
+Uldaman: Entrance	38	43
+Uldaman: Clear	45	49
+Zul'Farrak	46	53
+Maraudon: Entrance	46	53
+Maraudon: Princess	49	59
+Sunken Temple	53	59
+Blackrock Depths	55	59

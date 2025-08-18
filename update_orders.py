@@ -204,7 +204,7 @@ def order_fulfillments():
                 f.write(f"\n{user} donated {num} {profession} items from the guild bank {pts} s\n")
 
                 channel_id = channel_ids[profession]
-                post = (channel_id, f"{user} earned {pts} points!")
+                post = (channel_id, f" * **{user}** earned {pts} points!")
                 to_post.append(post)
 
 
@@ -285,15 +285,15 @@ def update_donor_orders(donors):
         for item_level, item_source, item_classes, num_classes, item_name, item_count in kit_items:
             # Pass checks to see if it's a valid order
             if not donor_name in recipients:
-                if donor.level > 5 and donor.level < 55:
+                if donor.level > 5 and donor.level < 42:
                     # Alts lvl 5 and under are usually bank alts
-                    # Alts close to 60 don't need supplies
+                    # Alts closer to 60 often don't need supplies
                     non_recipients.add(donor_name)
                 continue
             item_level = float(item_level)
-            if item_level > donor.level * 0.9 + 8:
+            if item_level > donor.level * 0.9 + 9:
                 continue
-            if item_level < donor.level * 1.1 - 9:
+            if item_level < donor.level * 1.1 - 10:
                 continue
             if not (donor.char_class in item_classes or item_classes == "All"):
                 continue
@@ -336,6 +336,7 @@ def update_donor_orders(donors):
 
 
     # Print the donors who aren't signed up for leveling supplies
+    print("\nDonors who aren't signed up for leveling supplies:")
     for contributor_name in non_recipients:
         print(contributor_name)
     

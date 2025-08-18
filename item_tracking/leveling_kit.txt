@@ -269,6 +269,7 @@
 53	Pro	Rogue, Hunter, Warrior, Druid	4	Devilsaur Gauntlets	1
 55	Pro	Rogue, Hunter, Warrior, Druid	4	Devilsaur Leggings	1
 40	Pro	Mage, Warlock, Priest	3	Dreamweave Gloves	1
+45	Pro	Mage, Warlock, Priest	3	Dreamweave Circlet	1
 52	Pro	All	8	Flask of Petrification	1
 49	Pro	Warlock, Mage, Priest, Druid, Paladin	5	Major Mana Potion	5
 38	Pro	Warrior, Rogue, Paladin, Druid	4	Elixir of Giants	5
