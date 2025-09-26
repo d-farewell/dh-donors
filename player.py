@@ -7,7 +7,7 @@ class AltChar:
         self.char_class = ""
         self.char_race = ""
         self.char_sex = ""
-        self.char_last_on = ""
+        self.char_last_on = 99
         self.char_is_alt = False
         self.char_alts = []
         self.char_join_date = ""
@@ -31,6 +31,7 @@ class AltChar:
             if i < len(data):
                 setattr(self, field, data[i])
         self.char_level = int(self.char_level)
+        self.char_last_on = float(self.char_last_on)
 
 
 

@@ -126,10 +126,14 @@ def order_fulfillments():
                 poster = msg.author.display_name
                 if not poster == "bot":
                     continue
+
+                # Don't delete scoring posts
+                txt = msg.content
+                if "earned" in txt and "points" in txt:
+                    continue
                 
                 # Don't delete active ("Posted") orders
                 to_delete = True
-                txt = msg.content
                 if txt in active_orders:
                     # Remove from set so there are no duplicate orders
                     active_orders.remove(txt)
@@ -149,9 +153,6 @@ def order_fulfillments():
                     fulfilled.append(fulfillment)
 
                 
-                # Don't delete scoring posts
-                if "earned" in txt and "points" in txt:
-                    to_delete =  False
                 
                 # Delete inactive/fulfilled posts
                 if to_delete:
@@ -200,7 +201,7 @@ def order_fulfillments():
             banker_record = bankers[user]
             for profession in banker_record:
                 num = banker_record[profession]
-                pts = num / 4
+                pts = num / 2
                 f.write(f"\n{user} donated {num} {profession} items from the guild bank {pts} s\n")
 
                 channel_id = channel_ids[profession]

@@ -72,11 +72,11 @@
 1	Cooking	All	8	Level 1 Food (+2)	20
 5	Cooking	Warlock, Priest, Mage, Druid, Paladin	5	Cooked Crab Claw	20
 5	Cooking	All	8	Level 5 Food (+4)	20
-10	Cooking	None	-1	Level 10 Food (+6) 	20
+10	Pro	Warlock	1	Level 10 Food (+6) 	5
 15	Cooking	All	8	Level 15 Food (+6)	20
-20	Cooking	None	-1	Level 20 Food (+8)	20
+20	Pro	All	8	Level 20 Food (+8)	20
 25	Cooking	All	8	Level 25 Food (+8)	40
-35	Cooking	None	-1	Level 35 Food (+12)	20
+35	Pro	All	8	Level 35 Food (+12)	20
 40	Cooking	All	8	Level 40 Food (+12)	20
 48	Cooking	All	8	Barbecued Buzzard Wing	10
 5	Enchanting	Priest, Warlock, Mage	3	Lesser Magic Wand	1
@@ -157,6 +157,7 @@
 55	Leatherworking	None	-1	Devilsaur Leggings	1
 40	Mount	None	-1	Mount Funding	
 5	Quest	All	8	Chunk of Boar Meat	8
+5	Quest	All	8	Crag Boar Rib	6
 7	Quest	All	8	Bear Meat	3
 7	Quest	All	8	Boar Intestines	3
 7	Quest	All	8	Spider Ichor	3
@@ -176,6 +177,7 @@
 15	Quest	All	8	Tough Condor Meat	5
 17	Quest	All	8	Gooey Spider Leg	6
 20	Quest	Rogue	1	Chunk of Boar Meat	80
+12	Quest	Hunter	1	Chunk of Boar Meat	80
 20	Quest	None	-1	Expert First Aid Book	1
 20	Quest	None	-1	Manual: Heavy Silk Bandage	1
 20	Quest	None	-1	Manual: Mageweave Bandage	1
@@ -220,7 +222,7 @@
 7	Tailoring	Priest, Warlock	2	Red Linen Vest	1
 7	Tailoring	All	8	Reinforced Linen Cape	1
 9	Tailoring	None	-1	Handstitched Linen Britches	1
-10	Tailoring	All	8	12 slot bag	1
+10	Tailoring	All	8	12 slot bag (lvl 10)	1
 10	Tailoring	None	-1	Simple Kilt	1
 11	Tailoring	None	-1	Soft-soled Linen Boots	1
 11	Tailoring	All	8	Woolen Cape	1
@@ -233,7 +235,7 @@
 17	Tailoring	Mage, Priest, Warlock	3	Woolen Boots	1
 18	Tailoring	Priest	1	Greater Adept's Robe	1
 19	Tailoring	Mage, Priest, Warlock	3	Reinforced Woolen Shoulders	1
-20	Tailoring	All	8	12 slot bag	2
+20	Tailoring	All	8	12 slot bag (lvl 20)	2
 20	Tailoring	None	-1	Spidersilk Boots	1
 23	Tailoring	Mage	1	Azure Silk Pants	1
 24	Tailoring	Mage	1	Azure Silk Gloves	1
@@ -242,7 +244,7 @@
 25	Tailoring	Mage, Priest, Warlock	3	Robes of Arcana	1
 28	Tailoring	Mage, Priest, Warlock	3	Enchanter's Cowl	1
 29	Tailoring	All	8	Bolt of Woolen Cloth	1
-30	Tailoring	All	8	14 slot bag	1
+30	Tailoring	All	8	14 slot bag (lvl 30)	1
 30	Tailoring	Hunter, Rogue, Warrior, Warlock, Priest, Paladin, Mage	7	Azure Silk Belt	1
 31	Tailoring	Mage, Priest, Warlock	3	Green Silken Shoulders	1
 31	Tailoring	Warlock, Priest, Mage	3	Spider Belt	1
@@ -250,11 +252,12 @@
 33	Tailoring	Mage	1	Azure Shoulders	1
 37	Tailoring	Warlock, Priest	2	Shadoweave Pants	1
 38	Tailoring	Priest, Mage, Warlock	3	Black Mageweave Gloves	1
-40	Tailoring	All	8	14 slot bag	1
+40	Tailoring	All	8	14 slot bag (lvl 40)	1
 42	Tailoring	Warlock, Priest	2	Shadoweave Shoulders	1
 48	Tailoring	Mage, Priest, Warlock, Druid, Paladin	5	Runecloth Cloak	1
 50	Tailoring	None	-1	16 slot bag	1
-60	Tailoring	All	8	16 slot bag	1
+50	Tailoring	All	8	14 slot bag (lvl 50)	1
+60	Tailoring	All	8	16 slot bag (lvl 60)	1
 15	Pro	All	8	Knitted Sandals	1
 20	Pro	Mage, Priest, Warlock	3	Spidersilk Boots	1
 20	Pro	All	8	Incendicite Ore	6
@@ -265,7 +268,7 @@
 40	Pro	Druid, Rogue, Hunter, Warrior, Priest, Mage	8	Mount Funding	1
 40	Pro	Druid	1	Wolfshead Helm	1
 47	Pro	All	8	Morrowgrain	20
-50	Pro	All	8	16 slot bag	1
+50	Pro	All	8	16 slot bag (lvl 50)	1
 53	Pro	Rogue, Hunter, Warrior, Druid	4	Devilsaur Gauntlets	1
 55	Pro	Rogue, Hunter, Warrior, Druid	4	Devilsaur Leggings	1
 40	Pro	Mage, Warlock, Priest	3	Dreamweave Gloves	1

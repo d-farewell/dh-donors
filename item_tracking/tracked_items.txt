@@ -13,17 +13,17 @@ Elixir of Lesser Agillity	0.9
 Elixir of Greater Intellect	0.8
 Elixir of Defense	0.75
 Elixir of Agility	0.75
+Elixir of Water Breathing	0.6
 Swiftness Potion	0.5
 Major Healing Potion	0.5
 Free Action Potion	0.5
 Swim Speed Potion	0.5
 Lesser Stoneshield Potion	0.45
 Stonescale Oil	0.4
+Blackmouth Oil	0.35
 Mighty Troll's Blood	0.3
-Elixir of Water Breathing	0.25
 Elixir of Minor Agility	0.24
 Strong Troll's Blood Potion	0.2
-Blackmouth Oil	0.2
 Fire Oil	0.15
 Elixir of Firepower	0.15
 Weak Troll's Blood Potion	0.1
@@ -44,6 +44,7 @@ Minor Rejuvenation Potion	0.02
 Lesser Healing Potion	0.01
 Minor Mana Potion	0.01
 Minor Healing Potion	0
+Reforged Blade of Heroes	100
 Shining Silver Breastplate	6
 Green Iron Hauberk	6
 Iron Buckle	0.2
@@ -72,8 +73,8 @@ Spider Sausage	0.3
 Clamlette Surprise	0.3
 Curiously Tasty Omelet	0.25
 Redridge Goulash	0.2
+Tasty Lion Steak	0.1
 Sagefish Delight	0.06
-Tasty Lion Steak	0.06
 Hot Wolf Ribs	0.03
 Goblin Deviled Clams	0.02
 Crocolisk Gumbo	0.02
@@ -142,8 +143,8 @@ Heavy Linen Bandage	0
 Linen Bandage	0
 Stonescale Eel	0.35
 Raw Glossy Mightfish	0.3
+Oily Blackmouth	0.15
 Firefin Snapper	0.1
-Oily Blackmouth	0.09
 Raw Summer Bass	0.03
 Raw Rockscale Cod	0
 Raw Spotted Yellowtail	0
@@ -158,24 +159,35 @@ Raw Longjaw Mud Snapper	-0.01
 Raw Bristle Whisker Catfish	-0.01
 Warden Staff	220
 Jeweled Amulet of Cainwyn	200
+Bloodrazor	130
+Wall of the Dead	120
 Beaststalker's Gloves	90
 Shadowcraft Belt	85
+Beguiler Robes	80
+Robes of Insight	80
 Taran Icebreaker	75
 Gloves of Holy Might	60
 Pugilist Bracers	50
+Kaleidoscope Chain	50
+Icemail Jerkin	50
 Hammer of the Northern Wind	45
 Black Velvet Robes	45
 Black Malice	45
 Troll's Bane Leggings	45
 Sliverblade	45
+Yorgen Bracers	45
 Skibi's Pendant	40
 Scarlet Chestpiece	40
 Ta'Kierthan Songblade	40
 Onyx Claymore	40
 Basilisk Hide Pants	40
+Devout Gloves	40
+Frostreaver Crown	40
+Hotshot Pilot's Gloves	40
 The Silencer	35
 Stonerender Gauntlets	35
 Stoneraven	35
+Speedsteel Rapier	35
 Obsidian Greaves	30
 Giantslayer Bracers	30
 Firemane Leggings	30
@@ -183,9 +195,15 @@ Prospector Axe	30
 Windrunner Legguards	30
 Devout Belt	30
 Skycaller	30
+Deepfury Bracers	30
+Thorbia's Gauntlets	30
 Ranger Bow	25
 Eye of Adaegus	25
 Wand of Allistarj	25
+Viscous Hammer	25
+Arena Bands	25
+The Ziggler	25
+Resplendent Guardian	25
 Keller's Girdle	24
 Twisted Chanter's Staff	22
 Dreadmist Belt	20
@@ -205,6 +223,13 @@ Black Ogre Kickers	20
 Burning War Axe	20
 Blazing Emblem	20
 Braincage	20
+Amy's Blanket	20
+Bonechewer	20
+Double-barreled Shotgun	20
+Witchfury	20
+Midnight Mace	20
+Serenity Belt	20
+Funeral Pyre Vestment	20
 Night Watch Shortsword	18
 Julie's Dagger	18
 Curve-bladed Ripper	15
@@ -219,8 +244,13 @@ Belt of the Gladiator	15
 Bindings of Elements	15
 Lightforge Belt	15
 Sword of the Magistrate	15
-Redbeard Crest	15
+Sunblaze Coif	15
+Wildheart Bracers	15
+Tanglewood Staff	15
 Bearded Boneaxe	12
+Umbral Crystal	12
+Looming Gavel	12
+Redbeard Crest	10
 Double-barreled Shotgun	10
 Crystalpine Stinger	10
 Gnarled Ash Staff	10
@@ -231,12 +261,18 @@ The Queen's Jewel	10
 Wildheart Gloves	10
 Polished Jazeraint Armor	10
 Band of the Unicorn	10
+Southsea Lamp	10
+Razor's Edge	10
 Beazel's Basher	8
 Cow King's Hide	8
 Enduring Cap	8
 Glowing Magical Bracelets	8
 Khoo's Point	8
 Gloves of Old	8
+Band of Purification	8
+Elven Spirit Claws	8
+Sandals of the Insurgent	8
+Hellslayer Battle Axe	8
 High Bergg Helm	7
 Twisted Sabre	6
 Poison-tipped Bone Spear	6
@@ -247,6 +283,7 @@ Firebane Cloak	5
 Pads of the Venom Spider	5
 Gargoyle's Bite	5
 Deanship Claymore	5
+Antipodean Rod	5
 Drakewing Bands	4
 Antipodean Rod	4
 Pulsating Hydra Heart	4
@@ -276,13 +313,13 @@ Wildvine	0.8
 Sungrass	0.8
 Grave Moss	0.75
 Wintersbite	0.7
+Blindweed	0.7
 Wild Steelbloom	0.5
 Goldthorn	0.5
 Dreamfoil	0.4
 Plaguebloom	0.4
 Icecap	0.4
 Swiftthistle	0.2
-Blindweed	0.2
 Firebloom	0.2
 Heart of the Wild	0.15
 Briarthorn	0.1
@@ -303,15 +340,16 @@ Devilsaur Leggings	140
 Devilsaur Gauntlets	80
 Wolfshead Helm	20
 Dusky Leather Armor	5.5
-Barbaric Bracers	5
 Tough Scorpid Helm	5
 Tough Scorpid Shoulders	5
+Toughened Leather Gloves	5
 Tough Scorpid Boots	4
 Tough Scorpid Breastplate	4
 Tough Scorpid Leggings	3
 Quickdraw Quiver	3
 Thick Leather Ammo Pouch	3
 Nightscape Boots	2.5
+Barbaric Bracers	2
 Tough Scorpid Gloves	2
 Nightscape Headband	2
 Nightscape Pants	2
@@ -351,25 +389,25 @@ Handstitched Leather Bracers	0.02
 Cured Medium Hide	0.02
 Light Armor Kit	0.01
 Cured Light Hide	0.01
-Tough Condor Meat	1
+Tough Condor Meat	2
 Giant Egg	0.4
 Tender Wolf Meat	0.4
 White Spider Meat	0.4
+Goretusk Liver	0.15
+Great Goretusk Snout	0.15
 Tender Crab Meat	0.1
 Buzzard Wing	0.1
-Goretusk Liver	0.04
+Lion Meat	0.05
+Tender Crocolisk Meat	0.05
 Raw Greater Sagefish	0.04
 Gooey Spider Leg	0.03
-Great Goretusk Snout	0.03
 Lean Wolf Flank	0.03
-Lion Meat	0.03
 Tiger Meat	0.03
 Stringy Vulture Meat	0.02
 Big Bear Meat	0.02
 Murloc Fin	0.02
 Raptor Egg	0.02
 Tangy Clam Meat	0.02
-Tender Crocolisk Meat	0.02
 Mystery Meat	0.02
 Raptor Flesh	0.02
 Red Wolf Meat	0.02
@@ -403,10 +441,10 @@ Citrine	0.4
 Dark Iron Ore	0.4
 Lesser Moonstone	0.3
 Jade	0.3
+Dense Stone	0.3
 Thorium Bar	0.25
 Thorium Ore	0.25
 Mithril Bar	0.1
-Dense Stone	0.1
 Truesilver Bar	0.1
 Mithril Ore	0.1
 Truesilver Ore	0.1
@@ -455,10 +493,10 @@ Un'Goro Soil	0.1
 Yellow Power Crystal	0.1
 Hi-Explosive Bomb	0.1
 Snickerfang Jowl	0.1
+Rethban Ore	0.1
 Lesser Bloodstone Ore	0.05
-Rethban Ore	0.03
+Darkshore Grouper	0.05
 Dark Iron Scraps	0.03
-Darkshore Grouper	0.02
 Hops	0.02
 Gorilla Fang	0.02
 Okra	0.01
@@ -542,7 +580,12 @@ Red Linen Bag	0.02
 Linen Cloak	0.02
 Simple Linen Pants	0.02
 Bolt of Linen Cloth	0.01
+Formula: Enchant Weapon - Crusader	300
 Parrot Cage (Hyacinth Macaw)	200
+Lei of Lilies	40
+Dalewind Trousers	25
+Broken Blade of Heroes	18
+Guardian Blade	15
 Schematic: Spellpower Goggles Xtreme	12
 Guardian Stone	10
 Living Essence	8
@@ -553,12 +596,13 @@ Heart of Fire	1
 Elemental Earth	1
 Iridescent Pearl	1
 Chronoboon Displacer	1
+Lucky Charm	1
+Cresting Charm	0.8
 Ironweb Spider Silk	0.5
 Elemental Water	0.4
 Small Flame Sac	0.4
 Burning Charm	0.4
 Thundering Charm	0.4
-Cresting Charm	0.4
 Huge Venom Sac	0.4
 Black Pearl	0.3
 Glowing Scorpid Blood	0.3
@@ -577,6 +621,7 @@ Volatile Rum	0.1
 Undamaged Hippogryph Feather	0.1
 Compact Shotgun	0.1
 Cooked Glossy Mightfish	0.1
+Light Feather	0.1
 Small Lustrous Pearl	0.08
 Naga Scale	0.08
 Thick Spider's Silk	0.07
@@ -584,7 +629,6 @@ Wicked Claw	0.06
 Coarse Gorilla Hair	0.06
 Crystal Basilisk Spine	0.05
 Thick Murloc Scale	0.05
-Light Feather	0.04
 Tigerseye	0.04
 Deeprock Salt	0.03
 Jet Black Feather	0.03
@@ -626,3 +670,11 @@ Small Blue Pouch	0
 Fish Oil	-0.01
 Shiny Fish Scales	-0.01
 Shellfish	-0.05
+Reticulated Bone Gauntlets	30
+Crafted Solid Shot	0.002
+Rod of Molten Fire	8
+Heaven's Light	25
+Elemental Raiment	8
+Golden Pearl	5
+Enchanted Kodo Bracers	5
+Blackfang	15

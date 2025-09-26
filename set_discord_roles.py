@@ -32,6 +32,8 @@ def set_dungeon_roles(roster):
     dungeon_roles = load_dungeon_roles()
     client = discord.Client(intents=discord.Intents.all())
 
+    dungeoneer_report = []
+
     def get_nickname(unk_id):
         for char_name, nickname, disc_user in vanguard:
             if int(disc_user) == unk_id:
@@ -42,9 +44,43 @@ def set_dungeon_roles(roster):
     # dict key is user ID
     # value is set of dungeon roles
     
+    # class_emotes = {
+    #     "Druid": ":feet:",
+    #     "Rogue": ":dagger:",
+    #     "Hunter": ":bow_and_arrow:",
+    #     "Warrior": ":crossed_swords:",
+    #     "Warlock": ":smiling_imp:",
+    #     "Mage": ":man_mage:",
+    #     "Priest": ":church:",
+    #     "Paladin": ":shield:",
+    # }
+    class_emotes = {
+        "Druid": "<:druid_dh:1409237061352951958>",
+        "Rogue": "<:rogue_dh:1409237070584610876>",
+        "Hunter": "<:hunter_dh:1409237063282331780>",
+        "Warrior": "<:warrior_dh:1409237253829431377>",
+        "Warlock": "<:warlock_dh:1409237073839390835>",
+        "Mage": "<:mage_dh:1409237065421553870>",
+        "Priest": "<:priest_dh:1409237195251781804>",
+        "Paladin": "<:paladin_dh:1409237066981707908>",
+    }
+    
     for char_name, nickname, disc_user in vanguard:
         if roster.is_member(char_name):
-            char_lvl = roster.characters[char_name].char_level
+            character = roster.characters[char_name]
+            char_lvl = character.char_level
+            if "[D]" in character.char_pub_note:
+                continue
+            if "Month" in character.char_pub_note:
+                continue
+            if character.char_last_on > 28:
+                continue
+            if char_lvl < 15:
+                continue
+            char_class = roster.characters[char_name].char_class
+            dungeoneer_str = f"{class_emotes[char_class]} **{char_name}** ({nickname})  -  level {char_lvl} {char_class}"
+            dungeoneer_tuple = (dungeoneer_str, char_lvl)
+            dungeoneer_report.append(dungeoneer_tuple)
         else:
             print(f"{char_name} not found in roster")
             continue
@@ -60,6 +96,21 @@ def set_dungeon_roles(roster):
                 if i not in disc_user_roles:
                     disc_user_roles[i] = set()
                 disc_user_roles[i].add(dungeon)
+    
+
+    dungeoneer_report.sort(key=lambda x: -x[1])
+    dungeoneer_report_msg_wip = "**List of active Dungeoneers:** "
+    dungeoneer_report_msg_list = []
+    bracket = 60
+    for line, level in dungeoneer_report:
+        if level < bracket:
+            dungeoneer_report_msg_list.append(dungeoneer_report_msg_wip)
+            dungeoneer_report_msg_wip = ""
+            bracket -= 10
+        dungeoneer_report_msg_wip = dungeoneer_report_msg_wip + "\n" + line
+    dungeoneer_report_msg_list.append(dungeoneer_report_msg_wip)
+
+    report_channel_id = 1407051977506164817
 
     # Event handler that runs when the bot is ready.
     @client.event
@@ -78,8 +129,8 @@ def set_dungeon_roles(roster):
             # get nicknames and the dungeon roles
             for user_id, eligible_roles in disc_user_roles.items():
                 nickname = get_nickname(user_id)
-                print(f"Checking user {nickname}: ")
-                print(eligible_roles)
+                # print(f"Checking user {nickname}: ")
+                # print(eligible_roles)
 
                 for disc_role in disc_dungeon_roles:
                     member = guild.get_member(user_id)
@@ -89,12 +140,22 @@ def set_dungeon_roles(roster):
                             await member.add_roles(disc_role)
                     else:
                         if disc_role in member.roles:
-                            print(f"Removing {nickname} from {disc_role.name}")
+                            print(f"Removing {nickname} from `{disc_role.name}`")
                             await member.remove_roles(disc_role)
                     
                 print()
                     
-
+        # Print dungeoneer report
+        channel = client.get_channel(report_channel_id)
+        if channel:
+            # Delete old report
+            async for msg in channel.history(limit=10):
+                if msg.author.display_name == "bot":
+                    await msg.delete()
+            for dungeoneer_msg in dungeoneer_report_msg_list:
+                await channel.send(dungeoneer_msg)
+        else:
+            print("Channel not found!")
 
 
 
