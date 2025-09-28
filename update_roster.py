@@ -5,8 +5,24 @@ from update_orders import expire_donor_orders, update_donor_orders, order_fulfil
 
 current_roster = Roster(load_from_file="inputs/roster.txt")
 # r = Roster()
+previous_roster = Roster(load_from_file="outputs/roster_latest.txt")
 
+# Check for dead characters
+death_list = set()
+for member in previous_roster.characters.values():
+    name = member.char_name
+    if current_roster.is_member(name):
+        member_update = current_roster.characters[name]
+        # Check for death tag
+        if "[D]-20" in member_update.char_pub_note:
+            death_list.add(name)
+        # Check for remade (lower level) characters
+        elif member_update.char_level < member.char_level:
+            death_list.add(name)
+        
 
+    else:
+        death_list.add(name)
 
 
 expire_donor_orders(current_roster)
@@ -44,4 +60,5 @@ with open("inputs/roster.txt", 'r', encoding="utf_8") as f:
             donors[donor_name].char_class = line[3]
             donors[donor_name].level = int(line[2])
 
-update_donor_orders(donors)
+
+update_donor_orders(donors, current_roster, death_list)

@@ -1,6 +1,9 @@
 from csv import reader, writer
 import discord
 import re
+import logging
+
+logging.basicConfig(filename="logs/order_updates.log", level=logging.INFO)
 
 with open("discord_token.txt") as f:
     txt = f.read()
@@ -19,7 +22,8 @@ channel_ids = {
     "Leatherworking": 1346170388291256340,
     "Tailoring": 1346170461830123611,
     "Pro": 1373394091815207052,
-    "First Aid": 1346170528876199936
+    "First Aid": 1346170528876199936,
+    "Dhstorage": 1421040400797270016
 }
 
 def to_int(txt):
@@ -80,7 +84,7 @@ class Kit_Order:
 
 
 
-def load_kit_orders(filename="outputs/kit_orders.txt"):
+def load_kit_orders(filename="outputs/kit_orders.txt", death_list=[]):
     # Load orders from tsv file
     orders = []
     with open(filename, 'r', encoding="utf_8") as f:
@@ -88,6 +92,9 @@ def load_kit_orders(filename="outputs/kit_orders.txt"):
         for line in r:
             order = Kit_Order()
             order.load_from_list(line)
+            if order.for_char in death_list:
+                logging.info(f"Deleting due to death: {order.discord_message_txt}")
+                continue
             orders.append(order)
     return orders
 
@@ -151,6 +158,7 @@ def order_fulfillments():
                     disp_name = re.sub(r"\s+", "", disp_name)
                     fulfillment = (txt, disp_name)
                     fulfilled.append(fulfillment)
+                    logging.info(f"{disp_name} fulfilled {txt}")
 
                 
                 
@@ -173,6 +181,7 @@ def order_fulfillments():
         # Status updates
         if order.status == "Expiring":
             order.status = "Deleted"
+            logging.info(f"Expiring order {order.discord_message_txt}")
         if order.status == "Posted":
             msg = order.discord_message_txt()
             # Check fulfillments
@@ -242,7 +251,7 @@ def expire_donor_orders(roster):
 
     save_kit_orders(kit_order_list)
 
-def update_donor_orders(donors):
+def update_donor_orders(donors, current_roster, death_list):
     client = discord.Client(intents=discord.Intents.all())
 
     to_post = []
@@ -283,6 +292,7 @@ def update_donor_orders(donors):
     # Loop through current donors and create kit orders
     for donor_name in donors:
         donor = donors[donor_name]
+        character = current_roster.characters[donor_name]
         for item_level, item_source, item_classes, num_classes, item_name, item_count in kit_items:
             # Pass checks to see if it's a valid order
             if not donor_name in recipients:
@@ -295,6 +305,8 @@ def update_donor_orders(donors):
             if item_level > donor.level * 0.9 + 9:
                 continue
             if item_level < donor.level * 1.1 - 10:
+                continue
+            if "[D]-20" in character.char_pub_note:
                 continue
             if not (donor.char_class in item_classes or item_classes == "All"):
                 continue
@@ -334,6 +346,7 @@ def update_donor_orders(donors):
 
                 # Add order to the list that will be saved to file
                 kit_order_list.append(new_order)
+                logging.info(f"Creating order: {new_order.discord_message_txt()}")
 
 
     # Print the donors who aren't signed up for leveling supplies

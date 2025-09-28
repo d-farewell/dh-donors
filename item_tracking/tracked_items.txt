@@ -94,6 +94,7 @@ Gooey Spider Cake	0.01
 Soothing Turtle Bisque	0.01
 Beer Basted Boar Ribs	0.01
 Large Brilliant Shard	10
+Large Brilliant Shard	10
 Large Radiant Shard	9
 Small Radiant Shard	8
 Greater Nether Essence	6
@@ -132,6 +133,7 @@ Silver Contact	0.01
 Rough Dynamite	0.01
 Handful of Copper Bolts	0.01
 Hi-Impact Mithril Slugs	0.002
+Crafted Solid Shot	0.002
 Rough Blasting Powder	0
 Practice Lock	0
 Heavy Mageweave Bandage	0.2
@@ -170,6 +172,7 @@ Gloves of Holy Might	60
 Pugilist Bracers	50
 Kaleidoscope Chain	50
 Icemail Jerkin	50
+Ogron's Sash	50
 Hammer of the Northern Wind	45
 Black Velvet Robes	45
 Black Malice	45
@@ -184,6 +187,8 @@ Basilisk Hide Pants	40
 Devout Gloves	40
 Frostreaver Crown	40
 Hotshot Pilot's Gloves	40
+Lei of Lilies	40
+Thunderwood	40
 The Silencer	35
 Stonerender Gauntlets	35
 Stoneraven	35
@@ -197,6 +202,7 @@ Devout Belt	30
 Skycaller	30
 Deepfury Bracers	30
 Thorbia's Gauntlets	30
+Reticulated Bone Gauntlets	30
 Ranger Bow	25
 Eye of Adaegus	25
 Wand of Allistarj	25
@@ -204,6 +210,7 @@ Viscous Hammer	25
 Arena Bands	25
 The Ziggler	25
 Resplendent Guardian	25
+Heaven's Light	25
 Keller's Girdle	24
 Twisted Chanter's Staff	22
 Dreadmist Belt	20
@@ -230,12 +237,13 @@ Witchfury	20
 Midnight Mace	20
 Serenity Belt	20
 Funeral Pyre Vestment	20
+Dalewind Trousers	20
 Night Watch Shortsword	18
 Julie's Dagger	18
+Broken Blade of Heroes	18
 Curve-bladed Ripper	15
 Lady Alizabeth's Pendant	15
 Changuk Smasher	15
-Dalewind Trousers	15
 Stormbringer Belt	15
 Cord of Elements	15
 Crushridge Bindings	15
@@ -247,6 +255,8 @@ Sword of the Magistrate	15
 Sunblaze Coif	15
 Wildheart Bracers	15
 Tanglewood Staff	15
+Guardian Blade	15
+Blackfang	15
 Bearded Boneaxe	12
 Umbral Crystal	12
 Looming Gavel	12
@@ -263,6 +273,7 @@ Polished Jazeraint Armor	10
 Band of the Unicorn	10
 Southsea Lamp	10
 Razor's Edge	10
+Black Pearl Ring	10
 Beazel's Basher	8
 Cow King's Hide	8
 Enduring Cap	8
@@ -273,6 +284,8 @@ Band of Purification	8
 Elven Spirit Claws	8
 Sandals of the Insurgent	8
 Hellslayer Battle Axe	8
+Rod of Molten Fire	8
+Elemental Raiment	8
 High Bergg Helm	7
 Twisted Sabre	6
 Poison-tipped Bone Spear	6
@@ -284,6 +297,7 @@ Pads of the Venom Spider	5
 Gargoyle's Bite	5
 Deanship Claymore	5
 Antipodean Rod	5
+Enchanted Kodo Bracers	5
 Drakewing Bands	4
 Antipodean Rod	4
 Pulsating Hydra Heart	4
@@ -502,6 +516,8 @@ Gorilla Fang	0.02
 Okra	0.01
 Devilsaur Leather	9
 Perfect Deviate Scale	1
+Light Silithid Carapace	1
+Silithid Chitin	0.5
 Scorpid Scale	0.4
 Rugged Leather	0.3
 Warbear Leather	0.3
@@ -582,13 +598,12 @@ Simple Linen Pants	0.02
 Bolt of Linen Cloth	0.01
 Formula: Enchant Weapon - Crusader	300
 Parrot Cage (Hyacinth Macaw)	200
-Lei of Lilies	40
-Dalewind Trousers	25
-Broken Blade of Heroes	18
-Guardian Blade	15
+Righteous Orb	80
 Schematic: Spellpower Goggles Xtreme	12
 Guardian Stone	10
 Living Essence	8
+Essence of Water	8
+Golden Pearl	5
 Recipe: Elixir of the Mongoose	2
 Pattern: Wicked Leather Bracers	2
 Elemental Fire	1.5
@@ -670,11 +685,3 @@ Small Blue Pouch	0
 Fish Oil	-0.01
 Shiny Fish Scales	-0.01
 Shellfish	-0.05
-Reticulated Bone Gauntlets	30
-Crafted Solid Shot	0.002
-Rod of Molten Fire	8
-Heaven's Light	25
-Elemental Raiment	8
-Golden Pearl	5
-Enchanted Kodo Bracers	5
-Blackfang	15

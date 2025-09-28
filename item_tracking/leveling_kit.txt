@@ -185,7 +185,8 @@
 20	Quest	All	8	Rethban Ore	5
 20	Quest	None	-1	Silk (First Aid)	170
 28	Quest	All	8	Turtle Meat	10
-30	Quest	None	-1	Green Hills pages (15)	15
+33	Dhstorage	All	8	Green Hills pages	15
+33	Dhstorage	Warrior	1	Whirlwind Weapon mats	15
 30	Quest	None	-1	Mageweave (First Aid)	150
 32	Quest2	None	-1	Lesser Bloodstone Ore	4
 33	Quest2	All	8	Buzzard Wing	4
