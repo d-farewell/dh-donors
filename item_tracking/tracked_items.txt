@@ -1426,3 +1426,4 @@ Discolored Worg Heart	0
 Fish Oil	-0.01
 Shiny Fish Scales	-0.01
 Shellfish	-0.05
+Sheepshear Mantle	10
