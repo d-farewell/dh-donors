@@ -1,84 +1,318 @@
 Flask of Petrification	50
 Arcanite Bar	30
+Elixir of Shadow Power	7
+Greater Shadow Protection Potion	6
 Shadow Oil	5
-Elixir of the Mongoose	2.5
+Living Action Potion	5
+Elixir of the Mongoose	5
+Mighty Rage Potion	4
+Elixir of Brute Force	4
+Greater Arcane Elixir	4
+Major Troll's Blood Potion	4
+Major Mana Potion	3.5
+Restorative Potion	3
+Limited Invulnerability Potion	3
+Mageblood Potion	3
+Elixir of Demonslaying	3
+Purification Potion	3
+Ghost Dye	3
+Elixir of Superior Defense	2.7
+Elixir of Frost Power	2.5
+Elixir of the Sages	2.5
+Greater Stoneshield Potion	2.5
+Greater Fire Protection Potion	2.5
+Greater Frost Protection Potion	2.5
+Greater Nature Protection Potion	2.5
+Greater Arcane Protection Potion	2.5
 Elixir of Giants	2
 Frost Oil	2
-Major Mana Potion	2
-Elixir of Greater Agility	1.2
-Elixir of Fortitude	1.1
+Invisibility Potion	2
+Greater Dreamless Sleep Potion	2
+Elixir of Greater Firepower	1.5
+Elixir of Greater Agility	1.5
+Elixir of Fortitude	1.5
+Elixir of Greater Intellect	1.2
 Elixir of Greater Defense	1.05
 Lesser Invisibility Potion	1
+Goblin Rocket Fuel	1
+Elixir of Lesser Agility	1
+Elixir of Giant Growth	1
+Frost Protection Potion	1
+Arcane Elixir	1
+Gift of Arthas	1
+Elixir of Dream Vision	1
+Elixir of Agility	1
+Free Action Potion	1
+Fire Protection Potion	1
+Lesser Stoneshield Potion	1
+Elixir of Defense	0.99
 Elixir of Lesser Agillity	0.9
-Elixir of Greater Intellect	0.8
-Elixir of Defense	0.75
-Elixir of Agility	0.75
+Shadow Protection Potion	0.85
+Minor Magic Resistance Potion	0.8
+Elixir of Detect Lesser Invisibility	0.8
+Superior Mana Potion	0.8
+Oil of Immolation	0.75
+Major Healing Potion	0.75
+Elixir of Detect Undead	0.7
+Mighty Troll's Blood Potion	0.7
 Elixir of Water Breathing	0.6
+Elixir of Poison Resistance	0.6
 Swiftness Potion	0.5
-Major Healing Potion	0.5
-Free Action Potion	0.5
 Swim Speed Potion	0.5
-Lesser Stoneshield Potion	0.45
+Catseye Elixir	0.5
+Magic Resistance Potion	0.5
+Elixir of Greater Water Breathing	0.5
+Elixir of Detect Demon	0.5
+Strong Troll's Blood Potion	0.5
+Elixir of Firepower	0.5
 Stonescale Oil	0.4
+Wildvine Potion	0.4
+Great Rage Potion	0.4
+Elixir of Minor Agility	0.38
 Blackmouth Oil	0.35
 Mighty Troll's Blood	0.3
-Elixir of Minor Agility	0.24
-Strong Troll's Blood Potion	0.2
-Fire Oil	0.15
-Elixir of Firepower	0.15
+Nature Protection Potion	0.3
+Fire Oil	0.3
+Elixir of Ogre's Strength	0.3
+Dreamless Sleep Potion	0.2
+Elixir of Minor Fortitude	0.15
 Weak Troll's Blood Potion	0.1
-Elixir of Minor Fortitude	0.1
 Elixir of Wisdom	0.1
-Superior Mana Potion	0.1
-Great Rage Potion	0.1
 Greater Mana Potion	0.1
+Rage Potion	0.1
+Holy Protection Potion	0.1
+Greater Healing Potion	0.1
 Healing Potion	0.08
+Superior Healing Potion	0.08
+Mana Potion	0.08
 Elixir of Lion's Strength	0.07
-Elixir of Ogre's Strength	0.06
-Greater Healing Potion	0.05
-Superior Healing Potion	0.05
-Mana Potion	0.04
 Lesser Mana Potion	0.03
 Elixir of Minor Defense	0.02
 Minor Rejuvenation Potion	0.02
 Lesser Healing Potion	0.01
 Minor Mana Potion	0.01
 Minor Healing Potion	0
+Discolored Healing Potion	0
+Blackguard	1500
+Blackfury	430
+Black Amnesty	400
+Ebon Hand	400
+Bloodsoul Breastplate	150
+Bloodsoul Gauntlets	150
+Bloodsoul Shoulders	150
+Heavy Timbermaw Boots	130
 Reforged Blade of Heroes	100
+Dark Iron Boots	100
+Dark Iron Gauntlets	100
+Dark Iron Helm	100
+Darksoul Leggings	100
+Darksoul Shoulders	100
+Gloves of the Dawn	85
+Arcanite Rod	80
+Thorium Shield Spike	80
+Darkrune Gauntlets	80
+Darksoul Breastplate	80
+Dark Iron Mail	60
+Darkrune Breastplate	50
+Darkrune Helm	45
+Dark Iron Shoulders	40
+Girdle of the Dawn	40
+Runic Breastplate	40
+Runic Plate Boots	40
+Runic Plate Helm	40
+Runic Plate Leggings	40
+Runic Plate Shoulders	40
+Heavy Timbermaw Belt	30
+Heavy Obsidian Belt	30
+Phantom Blade	25
+Truesilver Breastplate	25
+Truesilver Champion	20
+Imperial Plate Helm	20
+Imperial Plate Chest	20
+Light Obsidian Belt	20
+Imperial Plate Leggings	18
+Blight	15
+Imperial Plate Shoulders	15
+The Shatterer	12
+Steel Weapon Chain	10
+Ebon Shiv	10
+Arcanite Skeleton Key	10
+Huge Thorium Battleaxe	10
+Imperial Plate Bracers	8
+Elemental Sharpening Stone	7
 Shining Silver Breastplate	6
 Green Iron Hauberk	6
+Imperial Plate Belt	6
+Imperial Plate Boots	6
+Moonsteel Broadsword	5.5
+Wicked Mithril Blade	5
+Ornate Mithril Breastplate	5
+Ornate Mithril Boots	5
+Ornate Mithril Helm	5
+Volcanic Hammer	5
+Radiant Circlet	5
+Radiant Leggings	5
+Ornate Mithril Gloves	4.5
+Ornate Mithril Pants	4.5
+Shadow Crescent Axe	4
+Mithril Shield Spike	4
+Blue Glittering Axe	4
+Dazzling Mithril Rapier	4
+Big Black Mace	3.5
+Heavy Mithril Breastplate	3.5
+Frost Tiger Blade	3.2
+Golden Iron Destroyer	3
+Jade Serpentblade	3
+Glinting Steel Dagger	3
+Heavy Mithril Axe	3
+Heavy Mithril Pants	3
+Mithril Scale Shoulders	3
+Heavy Mithril Helm	3
+Runed Mithril Hammer	3
+Radiant Belt	3
+Radiant Breastplate	3
+Radiant Boots	3
+Thorium Leggings	3
+Massive Iron Axe	2.9
+Edge of Winter	2.5
+Mithril Coif	2.5
+Orcish War Leggings	2.5
+Green Iron Helm	2
+Searing Golden Blade	2
+Heavy Mithril Boots	2
+Thorium Armor	2
+Thorium Bracers	2
+Thorium Boots	2
+Thorium Helm	2
+Radiant Gloves	2
+Iron Counterweight	1.6
+Golden Scale Shoulders	1.6
+Silvered Bronze Shoulders	1.5
+Truesilver Rod	1.5
+Mighty Iron Hammer	1.5
+Solid Iron Maul	1.5
+Hardened Iron Shortsword	1.5
+Polished Steel Boots	1.5
+Golden Scale Cuirass	1.5
+Golden Scale Boots	1.5
+Golden Scale Gauntlets	1.5
+Heavy Mithril Gauntlet	1.5
+Heavy Mithril Shoulder	1.5
+Thorium Belt	1.5
+Green Iron Boots	1.3
+Green Iron Shoulders	1.3
+Deadly Bronze Poniard	1.25
+Iridescent Hammer	1.25
+Green Iron Gauntlets	1.25
+Silvered Bronze Leggings	1.25
+Silvered Bronze Breastplate	1.2
+Golden Scale Leggings	1.2
+Golden Scale Coif	1.2
+Barbaric Iron Gloves	1.194
+Dense Grinding Stone	1
+Barbaric Iron Breastplate	1
+Barbaric Iron Boots	1
+Steel Breastplate	1
+Mithril Scale Pants	1
+Mithril Scale Bracers	1
+Iron Shield Spike	0.9
+Green Iron Leggings	0.9
+Golden Scale Bracers	0.9
+Pearl-handled Dagger	0.85
+Silvered Bronze Gauntlets	0.8
+Barbaric Iron Shoulders	0.8
+Steel Plate Helm	0.8
+Patterned Bronze Bracers	0.75
+Silvered Bronze Boots	0.5
+Big Bronze Knife	0.5
+Ironforge Breastplate	0.5
+Barbaric Iron Helm	0.5
+Truesilver Skeleton Key	0.5
+Dense Sharpening Stone	0.5
+Dense Weightstone	0.5
+Heavy Copper Broadsword	0.4
+Heavy Bronze Mace	0.4
+Coarse Grinding Stone	0.3
+Runed Copper Breastplate	0.3
+Bronze Greatsword	0.3
+Solid Weightstone	0.3
+Heavy Grinding Stone	0.25
 Iron Buckle	0.2
 Green Iron Bracers	0.2
 Mithril Spurs	0.2
+Copper Battle Axe	0.2
+Gemmed Copper Gauntlets	0.2
+Thick War Axe	0.2
+Bronze Shortsword	0.2
+Bronze Battle Axe	0.2
+Golden Skeleton Key	0.2
+Runed Copper Pants	0.18
+Solid Grinding Stone	0.16
 Rough Bronze Cuirass	0.15
 Rough Bronze Shoulders	0.12
 Rough Bronze Leggings	0.1
+Copper Claymore	0.1
+Copper Dagger	0.1
+Copper Chain Vest	0.1
+Runed Copper Gauntlets	0.1
+Heavy Copper Maul	0.1
+Rough Bronze Boots	0.1
+Silver Skeleton Key	0.1
+Bronze Axe	0.1
+Bronze Warhammer	0.1
 Coarse Weightstone	0.08
 Runed Copper Bracers	0.08
+Runed Copper Belt	0.08
+Copper Shortsword	0.07
 Heavy Sharpening Stone	0.05
 Solid Sharpening Stone	0.05
 Heavy Weightstone	0.05
+Silver Rod	0.05
+Copper Chain Boots	0.05
+Copper Chain Belt	0.05
+Bronze Mace	0.05
+Copper Chain Pants	0.04
+Rough Copper Vest	0.04
+Copper Mace	0.04
+Copper Axe	0.04
 Coarse Sharpening Stone	0.03
+Copper Bracers	0.02
 Rough Sharpening Stone	0.01
 Rough Weightstone	0.01
+Rough Grinding Stone	0.01
+Copper Rod	0.01
 Felcloth	5
-Runecloth	0.15
+Runecloth	0.2
 Mageweave Cloth	0.1
 Wool Cloth	0.1
 Silk Cloth	0.03
 Linen Cloth	0.01
+Smoked Desert Dumplings	2
+Dragonbreath Chili	1
+Runn Tum Tuber Surprise	0.8
+Grilled Squid	0.7
+Spiced Chili Crab	0.4
 Monster Omelet	0.3
 Tender Wolf Steak	0.3
 Spider Sausage	0.3
 Clamlette Surprise	0.3
+Barbecued Buzzard Wing	0.3
 Curiously Tasty Omelet	0.25
+Savory Deviate Delight	0.25
 Redridge Goulash	0.2
 Tasty Lion Steak	0.1
+Crocolisk Steak	0.1
 Sagefish Delight	0.06
+Giant Clam Scorcho	0.05
 Hot Wolf Ribs	0.03
+Gingerbread Cookie	0.03
 Goblin Deviled Clams	0.02
 Crocolisk Gumbo	0.02
 Carrion Surprise	0.02
+Big Bear Steak	0.02
+Lean Venison	0.02
+Lean Wolf Steak	0.02
+Heavy Crocolisk Stew	0.02
 Mystery Stew	0.01
 Murloc Fin Soup	0.01
 Jungle Stew	0.01
@@ -93,60 +327,197 @@ Goretusk Liver Pie	0.01
 Gooey Spider Cake	0.01
 Soothing Turtle Bisque	0.01
 Beer Basted Boar Ribs	0.01
-Large Brilliant Shard	10
+Cooked Crab Claw	0.01
+Clam Chowder	0.01
+Crispy Lizard Tail	0.01
+Succulent Pork Ribs	0.01
+Hot Lion Chops	0.01
+Sauteed Sunfish	0
+Hot Smoked Bass	0
+Loch Frenzy Delight	0
+Undermine Clam Chowder	0
+Brilliant Mana Oil	19
+Brilliant Wizard Oil	19
 Large Brilliant Shard	10
 Large Radiant Shard	9
 Small Radiant Shard	8
+Large Glowing Shard	7
 Greater Nether Essence	6
 Large Glimmering Shard	5
+Wizard Oil	5
 Small Brilliant Shard	4
+Enchanted Thorium Bar	4
+Lesser Mana Oil	3.5
+Enchanted Leather	3
 Lesser Eternal Essence	2
 Lesser Nether Essence	2
-Lesser Mana Oil	1
+Greater Mystic Wand	1.5
+Minor Mana Oil	1.2
+Lesser Wizard Oil	1
 Greater Astral Essence	0.9
+Lesser Mystic Wand	0.9
 Dream Dust	0.75
 Illusion Dust	0.75
 Small Glowing Shard	0.5
 Greater Mystic Essence	0.4
+Greater Magic Wand	0.35
 Lesser Astral Essence	0.3
 Vision Dust	0.2
-Greater Magic Wand	0.2
 Greater Magic Essence	0.15
 Lesser Mystic Essence	0.15
 Soul Dust	0.14
 Minor Wizard Oil	0.12
+Lesser Magic Wand	0.1
 Small Glimmering Shard	0.05
 Lesser Magic Essence	0.05
 Strange Dust	0.02
 Strance Dust	0.01
+Force Reactive Disk	500
+Flawless Arcanite Rifle	350
+Arcanite Dragonling	250
+Bloodvine Goggles	250
+Bloodvine Lens	250
+Core Marksman Rifle	200
+Biznicks 247x128 Accurascope	150
+Ultra-Flash Shadow Reflector	90
+Hyper-Radiant Flame Reflector	80
+Dark Iron Rifle	70
+Delicate Arcanite Converter	40
+Voice Amplification Modulator	40
+Lifelike Mechanical Toad	30
+Arcane Bomb	25
+Tranquil Mechanical Yeti	15
+Cluster Launcher	12
+Mithril Mechanical Dragonling	10
+Thorium Rifle	10
+Masterwork Target Dummy	10
+Mithril Blunderbuss	8
+Sniper Scope	8
+Green Lens	8
+Mithril Heavy-bore Rifle	6
+Salt Shaker	6
+Field Repair Bot 74A	6
+Firework Launcher	5
+Parachute Cloak	5
+Deepdive Helmet	5
+Major Recombobulator	5
+SnowMaster 9000	4
+Mechanical Dragonling	4
+Inlaid Mithril Cylinder	3
+Deadly Scope	3
+Accurate Scope	2.5
+Compact Harvest Reaper Kit	2
+Advanced Target Dummy	2
+Spellpower Goggles Xtreme	2
+Rose Colored Goggles	2
+Thorium Grenade	2
+Powerful Seaforium Charge	2
+Lovingly Crafted Boomstick	1.8
+Moonsight Rifle	1.6
+Thorium Tube	1.5
+Thorium Widget	1.5
+Silver-plated Shotgun	1.2
+Craftsman's Monocle	1.2
+Mithril Casing	1
+Mithril Tube	1
+Truesilver Transformer	1
+Discombobulator Ray	1
+Bright-Eye Goggles	1
+Gnomish Cloaking Device	1
+Catseye Ultra Goggles	1
+Dark Iron Bomb	1
+Ornate Spyglass	0.9
+Minor Recombobulator	0.8
+Flash Bomb	0.8
+Large Seaforium Charge	0.8
+Deadly Blunderbuss	0.7
+Gyrochronatom	0.6
 Target Dummy	0.5
+Shadow Goggles	0.5
+Flame Deflector	0.5
+Gyromatic Micro-Adjustor	0.5
+Goblin Land Mine	0.5
+Blue Rocket Cluster	0.5
+Green Rocket Cluster	0.5
+Red Rocket Cluster	0.5
+Dense Dynamite	0.5
+Snake Burst Firework	0.5
+Large Blue Rocket Cluster	0.5
+Large Green Rocket Cluster	0.5
+Large Red Rocket Cluster	0.5
 Standard Scope	0.4
+Solid Blasting Powder	0.4
+Gnomish Universal Remote	0.4
+Explosive Sheep	0.4
+Portable Bronze Mortar	0.4
+Mithril Frag Bomb	0.4
+EZ-Thro Dynamite	0.35
+Dense Blasting Powder	0.3
+Iron Strut	0.3
+Flying Tiger Goggles	0.3
+Iron Grenade	0.3
+Large Blue Rocket	0.3
+Large Green Rocket	0.3
+Large Red Rocket	0.3
+EZ-Thro Dynamite II	0.3
+Big Iron Bomb	0.2
+Gold Power Core	0.2
+Mechanical Squirrel Box	0.2
+Small Blue Rocket	0.2
+Small Green Rocket	0.2
+Small Red Rocket	0.2
+Mechanical Repair Kit	0.2
+Solid Dynamite	0.18
+Bronze Framework	0.15
+Big Bronze Bomb	0.15
+Whirring Bronze Gizmo	0.1
+Small Seaforium Charge	0.1
+Heavy Dynamite	0.1
+Small Bronze Bomb	0.09
+Blue Firework	0.09
 Bronze Tube	0.08
 Rough Boomstick	0.08
+Crude Scope	0.05
+Large Copper Bomb	0.05
+Green Firework	0.05
+Red Firework	0.05
 Heavy Blasting Powder	0.04
 Copper Modulator	0.03
 Coarse Blasting Powder	0.03
+Arclight Spanner	0.03
 Aquadynamic Fish Attractor	0.02
 Copper Tube	0.02
 Rough Copper Bomb	0.02
+Coarse Dynamite	0.02
+Ice Deflector	0.02
 Silver Contact	0.01
 Rough Dynamite	0.01
 Handful of Copper Bolts	0.01
+Mithril Gyro-Shot	0.005
 Hi-Impact Mithril Slugs	0.002
-Crafted Solid Shot	0.002
+Crafted Solid Shot	0.001
+Thorium Shells	0.001
+Crafted Heavy Shot	0.0002
+Crafted Light Shot	0.0001
 Rough Blasting Powder	0
 Practice Lock	0
+Goblin Jumper Cables	0
 Heavy Mageweave Bandage	0.2
+Runecloth Bandage	0.15
 Mageweave Bandage	0.1
 Heavy Wool Bandage	0.05
 Heavy Silk Bandage	0.05
 Wool Bandage	0.01
+Anti-Venom	0.01
 Heavy Linen Bandage	0
 Linen Bandage	0
+Deviate Fish	1
 Stonescale Eel	0.35
 Raw Glossy Mightfish	0.3
+Winter Squid	0.2
 Oily Blackmouth	0.15
 Firefin Snapper	0.1
+Rumsey Rum Light	0.05
 Raw Summer Bass	0.03
 Raw Rockscale Cod	0
 Raw Spotted Yellowtail	0
@@ -157,8 +528,11 @@ Rainbow Fin Albacore	0
 Rockscale Cod	0
 Bristle Whisker Catfish	0
 Longjaw Mud Snapper	0
+Mithril Head Trout	0
 Raw Longjaw Mud Snapper	-0.01
 Raw Bristle Whisker Catfish	-0.01
+Raw Slitherskin Mackerel	-0.01
+Raw Loch Frenzy	-0.01
 Warden Staff	220
 Jeweled Amulet of Cainwyn	200
 Bloodrazor	130
@@ -261,7 +635,6 @@ Bearded Boneaxe	12
 Umbral Crystal	12
 Looming Gavel	12
 Redbeard Crest	10
-Double-barreled Shotgun	10
 Crystalpine Stinger	10
 Gnarled Ash Staff	10
 Black Duskwood Staff	10
@@ -290,6 +663,7 @@ High Bergg Helm	7
 Twisted Sabre	6
 Poison-tipped Bone Spear	6
 Silver-lined Belt	6
+Battlecaller Gauntlets	6
 Skeletal Club	5
 Bloodpike	5
 Firebane Cloak	5
@@ -298,12 +672,13 @@ Gargoyle's Bite	5
 Deanship Claymore	5
 Antipodean Rod	5
 Enchanted Kodo Bracers	5
+Cold Basilisk Eye	5
 Drakewing Bands	4
-Antipodean Rod	4
 Pulsating Hydra Heart	4
 Moccasins of the White Hare	3
 Starsight Tunic	3
 Double Link Tunic	3
+Black Metal Axe	0.5
 Green Hills of Stranglethorn - Page 24	0.13
 Green Hills of Stranglethorn - Page 11	0.13
 Green Hills of Stranglethorn - Page 27	0.12
@@ -350,43 +725,155 @@ Arthas' Tears	0.02
 Silverleaf	0.01
 Peacebloom	0.01
 Mageroyal	0.01
+Bloodvine	75
+Primal Batskin Jerkin	500
+Blood Tiger Breastplate	150
 Devilsaur Leggings	140
+Blood Tiger Shoulders	140
+Primal Batskin Gloves	105
+Primal Batskin Bracers	87
 Devilsaur Gauntlets	80
+Dreamscale Breastplate	75
+Golden Mantle of the Dawn	70
+Lava Belt	60
+Timbermaw Brawlers	60
+Might of the Timbermaw	50
+Mongoose Boots	50
+Swift Flight Bracers	50
+Wicked Leather Armor	45
+Dawn Treaders	40
+Spitfire Breastplate	40
+Sandstalker Breastplate	32
+Spitfire Gauntlets	30
+Sandstalker Gauntlets	23
 Wolfshead Helm	20
+Helm of Fire	20
+Girdle of Insight	20
+Runic Leather Armor	20
+Runic Leather Shoulders	19
+Spitfire Bracers	19
+Deviate Scale Belt	18
+Shadowskin Gloves	15
+Sandstalker Bracers	13
+Cured Rugged Hide	10
+Core Armor Kit	10
+Heavy Scorpid Shoulders	10
+Runic Leather Pants	9
+Dragonscale Breastplate	8
 Dusky Leather Armor	5.5
 Tough Scorpid Helm	5
 Tough Scorpid Shoulders	5
 Toughened Leather Gloves	5
+Refined Deeprock Salt	5
+Wicked Leather Pants	5
+Heavy Scorpid Helm	5
+Wicked Leather Belt	5
 Tough Scorpid Boots	4
 Tough Scorpid Breastplate	4
+Gem-studded Leather Belt	4
 Tough Scorpid Leggings	3
 Quickdraw Quiver	3
 Thick Leather Ammo Pouch	3
+Green Whelp Armor	3
+Dusky Boots	3
+Wild Leather Leggings	3
+Wicked Leather Headband	3
+Runic Leather Headband	3
 Nightscape Boots	2.5
+Heavy Scorpid Vest	2.5
+Heavy Scorpid Belt	2.5
 Barbaric Bracers	2
 Tough Scorpid Gloves	2
 Nightscape Headband	2
 Nightscape Pants	2
 Wicked Leather Gauntlets	2
 Wicked Leather Bracers	2
+Barbaric Leggings	2
+Swift Boots	2
+Nightscape Shoulders	2
+Big Voodoo Robe	2
+Turtle Scale Leggings	2
+Big Voodoo Cloak	2
+Big Voodoo Pants	2
+Wild Leather Boots	2
+Wild Leather Cloak	2
+Runic Leather Belt	2
+Turtle Scale Helm	1.9
 Rugged Armor Kit	1.5
+Herbalist's Gloves	1.5
+Dusky Leather Leggings	1.5
+Murloc Scale Bracers	1.5
+Turtle Scale Gloves	1.5
+Turtle Scale Bracers	1.5
+Turtle Scale Breastplate	1.5
+Tough Scorpid Bracers	1.5
+Runic Leather Bracers	1.5
 Dusky Bracers	1.2
+Runic Leather Gauntlets	1.2
 Red Whelp Gloves	1
 Heavy Leather Ammo Pouch	1
 Heavy Quiver	1
+Fletcher's Gloves	1
+Dark Leather Shoulders	1
+Pilferer's Gloves	1
+Heavy Earthen Gloves	1
+Green Leather Armor	1
+Thick Murloc Armor	1
+Guardian Armor	1
+Frost Leather Cloak	1
+Guardian Cloak	1
+Gloves of the Greatfather	1
+Dusky Belt	1
+Comfortable Leather Hat	1
+Nightscape Tunic	1
+Big Voodoo Mask	1
+Heavy Scorpid Bracers	1
+Heavy Scorpid Leggings	1
 Hillman's Cloak	0.9
 Hillman's Shoulders	0.8
+Green Leather Belt	0.8
+Barbaric Harness	0.8
+Barbaric Belt	0.8
 Black Whelp Tunic	0.75
 Barbaric Shoulders	0.75
+Barbaric Gloves	0.75
+Raptor Hide Harness	0.7
+Guardian Belt	0.7
+Guardian Leather Bracers	0.7
+Murloc Scale Belt	0.6
+Earthen Leather Shoulders	0.6
 Black Whelp Cloak	0.5
 Dark Leather Tunic	0.5
+Murloc Scale Breastplate	0.5
+Deviate Scale Gloves	0.5
+Nimble Leather Gloves	0.5
+Guardian Pants	0.5
+Raptor Hide Belt	0.5
+Green Whelp Bracers	0.5
 Thick Armor Kit	0.4
+Green Leather Bracers	0.4
+Guardian Gloves	0.4
 Heavy Armor Kit	0.35
+Deviate Scale Cloak	0.3
+Fine Leather Pants	0.3
+Hillman's Leather Gloves	0.3
+Heavy Leather Ball	0.3
 Dark Leather Pants	0.25
 Dark Leather Belt	0.2
+Fine Leather Gloves	0.2
+Fine Leather Tunic	0.2
+Moonglow Vest	0.2
+Hillman's Belt	0.2
+Toughened Leather Armor	0.2
 Medium Armor Kit	0.15
 Light Leather Pants	0.15
+Dark Leather Cloak	0.15
 Fine Leather Cloak	0.1
+Rough Leather Vest	0.1
+Embossed Leather Vest	0.1
+Kodo Hide Bag	0.1
+Embossed Leather Boots	0.1
+Embossed Leather Pants	0.1
 White Leather Jerkin	0.08
 Fine Leather Boots	0.07
 Light Leather Quiver	0.06
@@ -395,9 +882,13 @@ Handstitched Leather Belt	0.06
 Light Leather Bracers	0.06
 Cured Heavy Hide	0.06
 Rugged Leather Pants	0.05
+Fine Leather Belt	0.05
+Dark Leather Boots	0.05
 Handstitched Leather Pants	0.04
+Embossed Leather Cloak	0.04
 Handstitched Leather Vest	0.03
 Embossed Leather Gloves	0.03
+Handstitched Leather Cloak	0.03
 Handstitched Leather Boots	0.02
 Handstitched Leather Bracers	0.02
 Cured Medium Hide	0.02
@@ -444,7 +935,10 @@ Crisp Spider Meat	0.01
 Stag Meat	0.01
 Chunk of Boar Meat	0.01
 Small Spider Leg	0.01
-Arcane Crystal	20
+Dark Iron Bar	10
+Large Opal	1
+Black Vitriol	0.1
+Arcane Crystal	25
 Blue Sapphire	8
 Azerothian Diamond	8
 Huge Emerald	1
@@ -458,9 +952,9 @@ Jade	0.3
 Dense Stone	0.3
 Thorium Bar	0.25
 Thorium Ore	0.25
-Mithril Bar	0.1
+Mithril Bar	0.25
+Mithril Ore	0.25
 Truesilver Bar	0.1
-Mithril Ore	0.1
 Truesilver Ore	0.1
 Steel Bar	0.07
 Silver Ore	0.07
@@ -514,17 +1008,25 @@ Dark Iron Scraps	0.03
 Hops	0.02
 Gorilla Fang	0.02
 Okra	0.01
+Primal Bat Leather	10
 Devilsaur Leather	9
+Core Leather	5
+Primal Tiger Leather	2
 Perfect Deviate Scale	1
 Light Silithid Carapace	1
+Heavy Silithid Carapace	1
 Silithid Chitin	0.5
+Rugged Hide	0.5
 Scorpid Scale	0.4
 Rugged Leather	0.3
 Warbear Leather	0.3
 Shadowcat Hide	0.3
+Worn Dragonscale	0.3
+Cured Thick Hide	0.2
 Green Whelp Scale	0.15
 Slimy Murloc Scale	0.1
 Green Dragonscale	0.1
+Heavy Scorpid Scale	0.1
 Thick Leather	0.07
 Heavy Leather	0.07
 Thick Hide	0.06
@@ -532,6 +1034,7 @@ Heavy Hide	0.05
 Turtle Scale	0.05
 Red Whelp Scale	0.05
 Deviate Scale	0.05
+Thin Kodo Leather	0.05
 Raptor Hide	0.03
 Silk Bandage	0.03
 Black Whelp Scale	0.03
@@ -540,80 +1043,279 @@ Light Leather	0.01
 Medium Hide	0.01
 Light Hide	0.01
 Ruined Leather Scraps	0
+Bottomless Bag	350
+Bloodvine Vest	250
+Flarecore Leggings	230
+Bloodvine Leggings	230
+Flarecore Robe	200
+Bloodvine Boots	180
+Mooncloth Shoulders	150
+Mantle of the Timbermaw	120
+Argent Shoulders	120
+Robe of Winter Night	100
+Mooncloth Boots	100
+Mooncloth Leggings	100
+Mooncloth Gloves	84
+Truefaith Vestments	80
+Inferno Gloves	70
+Mooncloth Vest	60
+Cloak of Warding	60
+Runed Stygian Leggings	55
+Felcloth Bag	50
+Wisdom of the Timbermaw	50
+Big Bag of Enchantment	50
+Mooncloth Robe	45
+Runed Stygian Belt	45
+Runed Stygian Boots	45
+Satchel of Cenarius	40
+Cloak of Fire	33
+Argent Boots	30
 Mooncloth Bag	25
+Cenarion Herb Bag	25
 Mooncloth	20
+Brightcloth Pants	20
+Wizardweave Robe	20
+Enchanted Runecloth Bag	18
+Felcloth Boots	15
 Dreamweave Circlet	10
+Dreamweave Vest	10
+Dreamweave Gloves	10
+Frostweave Pants	10
+Felcloth Pants	9
+Cindercloth Pants	9
+Felcloth Hood	9
+Cindercloth Cloak	8
+Wizardweave Turban	8
 Runecloth Bag	5
 Robes of Arcana	5
 14 slot bag	5
 Shadoweave Shoulders	5
+Shadow Hood	5
+Star Belt	5
+Frostweave Gloves	5
+Ghostweave Vest	5
+Ghostweave Pants	5
+Runecloth Shoulders	5
 Spidersilk Boots	4.5
+Cindercloth Vest	4.5
+Soul Pouch	4.5
+Icy Cloak	4
+Crimson Silk Robe	4
+Frostweave Tunic	4
+Cindercloth Gloves	4
+Wizardweave Leggings	4
+Runecloth Headband	4
 Runecloth Cloak	3.5
+Shadoweave Boots	3.5
+Ghostweave Gloves	3.5
+Runecloth Pants	3.5
 Shadoweave Pants	3
+Shadoweave Robe	3
+Shadoweave Gloves	3
+Admiral's Hat	3
+Shadoweave Mask	3
+Ghostweave Belt	3
+Brightcloth Robe	3
+Runecloth Boots	3
+Crimson Silk Gloves	2.5
+Enchanted Mageweave Pouch	2.5
+Cindercloth Boots	2.5
+Frostweave Robe	2.5
+Festive Red Dress	2.418
 Mageweave Bag	2
 Red Mageweave Bag	2
+Black Swashbuckler's Shirt	2
+Red Mageweave Pants	2
+Cindercloth Robe	2
+Lavender Mageweave Shirt	2
+Red Mageweave Shoulders	2
+Tuxedo Shirt	2
+Runecloth Robe	2
+Runecloth Tunic	2
+Brightcloth Gloves	2
+Runecloth Gloves	2
+Brightcloth Cloak	2
+Red Mageweave Headband	1.7
+Hands of Darkness	1.608
+Black Mageweave Headband	1.6
+Crimson Silk Shoulders	1.5
+White Bandit Mask	1.5
+Red Mageweave Gloves	1.5
+Black Mageweave Boots	1.5
+Black Mageweave Shoulders	1.5
+Simple Black Dress	1.5
+Pink Mageweave Shirt	1.5
+Red Mageweave Vest	1.3
 Black Mageweave Gloves	1.2
 Azure Shoulders	1
 Orange Mageweave Shirt	1
+Phoenix Pants	1
+Phoenix Gloves	1
+Dark Silk Shirt	1
+Rich Purple Silk Shirt	1
+Green Holiday Shirt	1
+Black Mageweave Leggings	1
+Black Mageweave Robe	1
+Orange Martial Shirt	1
+Tuxedo Jacket	1
+Black Mageweave Vest	0.95
 Azure Silk Belt	0.9
 Spider Belt	0.9
+Crimson Silk Cloak	0.9
+Truefaith Gloves	0.792
+Crimson Silk Belt	0.756
+Boots of the Enchanter	0.72
 Reinforced Woolen Shoulders	0.7
 Green Silken Shoulders	0.7
 Bolt of Runecloth	0.7
+Lesser Wizard's Robe	0.7
+Azure Silk Cloak	0.7
+Green Silk Armor	0.69
 Black Silk Pack	0.6
 Green Silk Pack	0.6
 Small Silk Pack	0.6
 Azure Silk Vest	0.6
 Long Silken Cloak	0.6
+White Swashbuckler's Shirt	0.54
+Colorful Kilt	0.51
 Heavy Woolen Pants	0.5
 Greater Adept's Robe	0.5
 Azure Silk Pants	0.5
 Azure Silk Gloves	0.5
 Bolt of Mageweave	0.5
+Stylish Blue Shirt	0.5
+Stylish Green Shirt	0.5
+Stylish Red Shirt	0.5
+Gloves of Meditation	0.5
+Bright Yellow Shirt	0.5
+Earthen Vest	0.5
+Red Swashbuckler's Shirt	0.5
+Tuxedo Pants	0.5
+White Wedding Dress	0.5
 Heavy Woolen Cloak	0.45
 Woolen Boots	0.45
 Gray Woolen Robe	0.4
 Enchanter's Cowl	0.4
+Formal White Shirt	0.4
+Crimson Silk Vest	0.4
+Crimson Silk Pantaloons	0.4
 Pearl-clasped Cloak	0.38
 Double-stitched Woolen Shoulders	0.35
+Red Woolen Boots	0.35
+Spider Silk Slippers	0.33
 Heavy Woolen Gloves	0.3
 Azure Silk Hood	0.3
+Linen Boots	0.26
+Gray Woolen Shirt	0.25
+Blue Overalls	0.25
+White Woolen Dress	0.25
+Red Woolen Bag	0.25
 Silk Headband	0.2
+Green Woolen Vest	0.2
+Green Woolen Bag	0.2
+Simple Dress	0.16
 Woolen Bag	0.15
 Soft-soled Linen Boots	0.12
 Bolt of Silk Cloth	0.12
 Woolen Cape	0.1
+Barbaric Linen Vest	0.1
+Blue Linen Shirt	0.1
+Blue Linen Robe	0.1
+Green Linen Shirt	0.1
 Bolt of Woolen Cloth	0.09
+Blue Linen Vest	0.09
 Handstitched Linen Britches	0.08
 Simple Kilt	0.08
+Red Linen Shirt	0.08
 Red Linen Robe	0.06
 White Linen Robe	0.06
 Green Linen Bracers	0.06
 Red Linen Vest	0.06
+Brown Linen Robe	0.05
+Heavy Linen Gloves	0.05
 Reinforced Linen Cape	0.04
+White Linen Shirt	0.04
+Brown Linen Shirt	0.04
+Brown Linen Vest	0.04
+Linen Belt	0.04
+Simple Linen Boots	0.04
+Brown Linen Pants	0.04
 Linen Bag	0.02
 Red Linen Bag	0.02
 Linen Cloak	0.02
 Simple Linen Pants	0.02
 Bolt of Linen Cloth	0.01
+Imbued Vial	2.8
+Rune Thread	0.48
+Star Wood	0.4
+Pink Dye	0.24
+Crystal Vial	0.22
+Purple Dye	0.2
+Heavy Silken Thread	0.18
+Strong Flux	0.18
+Heavy Stock	0.17
+Orange Dye	0.09
+Black Dye	0.09
+Silken Thread	0.05
+Yellow Dye	0.045
+Stranglethorn Seed	0.035
+Wooden Stock	0.019
+Leaded Vial	0.018
+Maple Seed	0.018
+Soothing Spices	0.015
+Fine Thread	0.01
+Weak Flux	0.009
+Blue Dye	0.005
+Hot Spices	0.004
+Gray Dye	0.0033
+Simple Wood	0.003
+Bleach	0.0023
+Empty Vial	0.002
+Shiny Red Apple	0.002
+Coarse Thread	0.001
 Formula: Enchant Weapon - Crusader	300
 Parrot Cage (Hyacinth Macaw)	200
 Righteous Orb	80
+Nexus Crystal	50
+Blood of the Mountain	15
+Fiery Core	15
 Schematic: Spellpower Goggles Xtreme	12
+Lava Core	12
 Guardian Stone	10
+Essence of Fire	10
+Essence of Air	10
+Essence of Earth	10
+Souldarite	10
 Living Essence	8
 Essence of Water	8
+Dark Rune	7
 Golden Pearl	5
+Greater Eternal Essence	5
+Larval Acid	5
 Recipe: Elixir of the Mongoose	2
 Pattern: Wicked Leather Bracers	2
+Essence of Undeath	2
+Dreamscale	2
 Elemental Fire	1.5
 Heart of Fire	1
 Elemental Earth	1
 Iridescent Pearl	1
 Chronoboon Displacer	1
 Lucky Charm	1
+Scaled Leather Bracers of Agility	1
+Plans: Volcanic Hammer	1
+Sandworm Meat	1
+Small Obsidian Shard	1
+Massive Mojo	1
+Blue Pearl	1
 Cresting Charm	0.8
+Evil Bat Eye	0.7
 Ironweb Spider Silk	0.5
+Wildkin E'ko	0.5
+Banded Shield of the Tiger	0.5
+Twilight Cultist Robe	0.5
+Runn Tum Tuber	0.5
+Powerful Mojo	0.5
 Elemental Water	0.4
 Small Flame Sac	0.4
 Burning Charm	0.4
@@ -622,13 +1324,20 @@ Huge Venom Sac	0.4
 Black Pearl	0.3
 Glowing Scorpid Blood	0.3
 Ichor of Undeath	0.3
+Breath of Wind	0.3
+Fused Wiring	0.3
+Notched Shortsword of Power	0.25
 Spider's Silk	0.2
 Rumsey Rum Dark	0.2
 Scroll of Stamina II	0.2
+Formula: Enchant Gloves - Skinning	0.2
+Pirate's Footlocker	0.2
 Shadow Silk	0.18
 Scroll of Protection II	0.15
 Long Tail Feather	0.15
+Core of Earth	0.15
 Vibrant Plume	0.12
+Bandit Pants of the Monkey	0.12
 Core of Elements	0.1
 Globe of Water	0.1
 Large Venom Sac	0.1
@@ -637,6 +1346,12 @@ Undamaged Hippogryph Feather	0.1
 Compact Shotgun	0.1
 Cooked Glossy Mightfish	0.1
 Light Feather	0.1
+Soft Bushy Tail	0.1
+Scroll of Intellect II	0.1
+Seer's Belt	0.1
+Black Diamond	0.1
+Elemental Air	0.1
+Flask of Big Mojo	0.1
 Small Lustrous Pearl	0.08
 Naga Scale	0.08
 Thick Spider's Silk	0.07
@@ -644,7 +1359,12 @@ Wicked Claw	0.06
 Coarse Gorilla Hair	0.06
 Crystal Basilisk Spine	0.05
 Thick Murloc Scale	0.05
+Explosive Rocket	0.05
+Packet of Tharlendris Seeds	0.05
+Knitted Sandals	0.05
+Long Elegant Feather	0.05
 Tigerseye	0.04
+Small Furry Paw	0.04
 Deeprock Salt	0.03
 Jet Black Feather	0.03
 Flask of Mojo	0.03
@@ -663,6 +1383,12 @@ Small Venom Sac	0.01
 Green Leather Bag	0.01
 White Leather Bag	0.01
 Blue Leather Bag	0.01
+Giant Clam Meat	0.01
+Salt	0.004
+Refreshing Spring Water	0.0025
+Feathered Arrow	0.002
+Snowball	0.001
+Mild Spices	0.0008
 Zesty Clam Meat	0
 Murloc Eye	0
 Wild Hog Shank	0
@@ -682,6 +1408,21 @@ Raw Redgill	0
 Haunch of Meat	0
 Battered Junkbox	0
 Small Blue Pouch	0
+Holiday Spices	0
+Enriched Manna Biscuit	0
+Moonberry Juice	0
+Recipe: Wildvine Potion	0
+Plans: Copper Chain Vest	0
+Darkclaw Lobster	0
+Lower Map Fragment	0
+Green Dye	0
+Red Dye	0
+Blood Shard	0
+Fine Aged Cheddar	0
+Moon Harvest Pumpkin	0
+Dalaran Sharp	0
+Flesh Eating Worm	0
+Discolored Worg Heart	0
 Fish Oil	-0.01
 Shiny Fish Scales	-0.01
 Shellfish	-0.05

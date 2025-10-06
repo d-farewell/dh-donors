@@ -2,8 +2,10 @@ from csv import reader, writer
 import discord
 import re
 import logging
+import datetime
 
 logging.basicConfig(filename="logs/order_updates.log", level=logging.INFO)
+logging.info(datetime.datetime.now().date())
 
 with open("discord_token.txt") as f:
     txt = f.read()
@@ -93,9 +95,9 @@ def load_kit_orders(filename="outputs/kit_orders.txt", death_list=[]):
             order = Kit_Order()
             order.load_from_list(line)
             if order.for_char in death_list:
-                logging.info(f"Deleting due to death: {order.discord_message_txt}")
-                continue
-            orders.append(order)
+                logging.info(f"Deleting due to death: {order.discord_message_txt()}")
+            else:
+                orders.append(order)
     return orders
 
 def save_kit_orders(order_list, filename="outputs/kit_orders.txt"):
@@ -181,7 +183,6 @@ def order_fulfillments():
         # Status updates
         if order.status == "Expiring":
             order.status = "Deleted"
-            logging.info(f"Expiring order {order.discord_message_txt}")
         if order.status == "Posted":
             msg = order.discord_message_txt()
             # Check fulfillments
@@ -243,20 +244,20 @@ def expire_donor_orders(roster):
             if roster.is_member(order.for_char):
                 donor = roster.characters[order.for_char]
                 if order.item_level < donor.char_level * 1.1 - 9:
-                    print(f"EXPIRING {order.discord_message_txt()} ({donor.char_name} leveled up to {donor.char_level})")
+                    logging.info(f"EXPIRING {order.discord_message_txt()} ({donor.char_name} leveled up to {donor.char_level})")
                     order.status = "Expiring"
             else:
-                print(f"EXPIRING {order.discord_message_txt()} ({order.for_char} missing from roster)")
+                logging.info(f"EXPIRING {order.discord_message_txt()} ({order.for_char} missing from roster)")
                 order.status = "Expiring"
 
     save_kit_orders(kit_order_list)
 
-def update_donor_orders(donors, current_roster, death_list):
+def update_donor_orders(donors, roster, death_list):
     client = discord.Client(intents=discord.Intents.all())
 
     to_post = []
     # Load orders
-    kit_order_list = load_kit_orders()
+    kit_order_list = load_kit_orders(death_list=death_list)
     
     # order_record = []
     # for o in kit_order_list:
@@ -292,7 +293,10 @@ def update_donor_orders(donors, current_roster, death_list):
     # Loop through current donors and create kit orders
     for donor_name in donors:
         donor = donors[donor_name]
-        character = current_roster.characters[donor_name]
+        try:
+            character = roster.characters[donor_name]
+        except:
+            continue
         for item_level, item_source, item_classes, num_classes, item_name, item_count in kit_items:
             # Pass checks to see if it's a valid order
             if not donor_name in recipients:
@@ -312,6 +316,8 @@ def update_donor_orders(donors, current_roster, death_list):
                 continue
             if item_source == "Pro" and not donor_name in pro_donors:
                 continue
+            if "Green Hills" in item_name and "GH" in character.char_officer_note:
+                continue
             
             # Create the new order
             new_order = Kit_Order()
@@ -327,16 +333,14 @@ def update_donor_orders(donors, current_roster, death_list):
 
             # Check if the order already exists
             for order in kit_order_list:
-                # if order.for_char == "Gheralt":
-                #     print(order.discord_message_txt())
-                #     print(order.matches(new_order))
+                if "Whirlwind" in order.item and "Whirlwind" in new_order.item:
+                    print("Whirlwind check")
+                    print(order.matches(new_order))
+                    print()
                 if order.matches(new_order):
                     new_order.status = order.status
                     break
             
-            # if donor_name == "Gheralt":
-            #     print(new_order.discord_message_txt())
-            #     print()
 
             if new_order.status == "Created":
                 # Create the discord message and get ready to post

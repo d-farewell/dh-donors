@@ -2,11 +2,14 @@ from roster import Roster
 from contributors import Contributor, process_contributions
 from csv import reader, writer
 from update_orders import expire_donor_orders, update_donor_orders, order_fulfillments
+from set_discord_roles import set_dungeon_roles
+import logging
 
 current_roster = Roster(load_from_file="inputs/roster.txt")
 # r = Roster()
 previous_roster = Roster(load_from_file="outputs/roster_latest.txt")
 
+logging.basicConfig(filename="logs/order_updates.log", level=logging.INFO)
 # Check for dead characters
 death_list = set()
 for member in previous_roster.characters.values():
@@ -24,7 +27,9 @@ for member in previous_roster.characters.values():
     else:
         death_list.add(name)
 
+logging.info(f"Graveyard: {death_list}")
 
+set_dungeon_roles(current_roster)
 expire_donor_orders(current_roster)
 
 current_roster.save()

@@ -163,5 +163,3 @@ def set_dungeon_roles(roster):
     
     client.run(DISCORD_TOKEN)
 
-current_roster = Roster(load_from_file="inputs/roster.txt")
-set_dungeon_roles(current_roster)
