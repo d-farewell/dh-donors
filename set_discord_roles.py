@@ -23,7 +23,10 @@ def load_dungeon_roles(filename="data/dungeon_roles.txt"):
     with open(filename, 'r', encoding="utf_8") as f:
         r = reader(f, delimiter='\t')
         for role, min_lvl, max_lvl in r:
-            role_name = f"{role} ({min_lvl}-{max_lvl})"
+            if int(min_lvl) == 60:
+                role_name = role
+            else:
+                role_name = f"{role} ({min_lvl}-{max_lvl})"
             dungeon_roles.append([role_name, int(min_lvl), int(max_lvl)])
     return dungeon_roles
 
@@ -88,7 +91,7 @@ def set_dungeon_roles(roster):
             eligible = False
             if char_lvl >= min_lvl - 2 and char_lvl <= max_lvl + 1:
                 eligible = True
-            if char_lvl == 60:
+            if char_lvl == 60 and max_lvl < 60:
                 eligible = False
             
             if eligible:
@@ -99,7 +102,7 @@ def set_dungeon_roles(roster):
     
 
     dungeoneer_report.sort(key=lambda x: -x[1])
-    dungeoneer_report_msg_wip = "**List of active Dungeoneers:** "
+    dungeoneer_report_msg_wip = "**List of active <Death Happens> Dungeoneers:** "
     dungeoneer_report_msg_list = []
     bracket = 60
     for line, level in dungeoneer_report:
@@ -117,7 +120,6 @@ def set_dungeon_roles(roster):
     async def on_ready():
 
         # just one guild - death happens
-        print()
         for guild in client.guilds:
             # Get the Role objects from discord for each dungeon
             disc_dungeon_roles = []
@@ -143,7 +145,6 @@ def set_dungeon_roles(roster):
                             print(f"Removing {nickname} from `{disc_role.name}`")
                             await member.remove_roles(disc_role)
                     
-                print()
                     
         # Print dungeoneer report
         channel = client.get_channel(report_channel_id)

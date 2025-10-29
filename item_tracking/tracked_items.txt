@@ -283,10 +283,10 @@ Rough Grinding Stone	0.01
 Copper Rod	0.01
 Felcloth	5
 Runecloth	0.2
+Wool Cloth	0.2
 Mageweave Cloth	0.1
-Wool Cloth	0.1
 Silk Cloth	0.03
-Linen Cloth	0.01
+Linen Cloth	0.02
 Smoked Desert Dumplings	2
 Dragonbreath Chili	1
 Runn Tum Tuber Surprise	0.8
@@ -502,6 +502,7 @@ Crafted Light Shot	0.0001
 Rough Blasting Powder	0
 Practice Lock	0
 Goblin Jumper Cables	0
+Heavy Shot	0
 Heavy Mageweave Bandage	0.2
 Runecloth Bandage	0.15
 Mageweave Bandage	0.1
@@ -517,6 +518,7 @@ Raw Glossy Mightfish	0.3
 Winter Squid	0.2
 Oily Blackmouth	0.15
 Firefin Snapper	0.1
+Darkshore Grouper	0.1
 Rumsey Rum Light	0.05
 Raw Summer Bass	0.03
 Raw Rockscale Cod	0
@@ -537,16 +539,19 @@ Warden Staff	220
 Jeweled Amulet of Cainwyn	200
 Bloodrazor	130
 Wall of the Dead	120
+Hanzo Sword	100
 Beaststalker's Gloves	90
 Shadowcraft Belt	85
 Beguiler Robes	80
 Robes of Insight	80
+Lord Alexander's Battle Axe	80
 Taran Icebreaker	75
 Gloves of Holy Might	60
 Pugilist Bracers	50
 Kaleidoscope Chain	50
 Icemail Jerkin	50
 Ogron's Sash	50
+Plated Fist of Hakoo	50
 Hammer of the Northern Wind	45
 Black Velvet Robes	45
 Black Malice	45
@@ -563,10 +568,17 @@ Frostreaver Crown	40
 Hotshot Pilot's Gloves	40
 Lei of Lilies	40
 Thunderwood	40
+Frenzied Striker	40
+Magefist Gloves	40
+Cobalt Crusher	40
+Dreamsinger Legguards	40
+Joonho's Mercy	40
 The Silencer	35
 Stonerender Gauntlets	35
 Stoneraven	35
 Speedsteel Rapier	35
+Mageflame Cloak	35
+The Needler	35
 Obsidian Greaves	30
 Giantslayer Bracers	30
 Firemane Leggings	30
@@ -577,6 +589,7 @@ Skycaller	30
 Deepfury Bracers	30
 Thorbia's Gauntlets	30
 Reticulated Bone Gauntlets	30
+Harpyclaw Short Bow	30
 Ranger Bow	25
 Eye of Adaegus	25
 Wand of Allistarj	25
@@ -585,6 +598,7 @@ Arena Bands	25
 The Ziggler	25
 Resplendent Guardian	25
 Heaven's Light	25
+Bludstone Hammer	25
 Keller's Girdle	24
 Twisted Chanter's Staff	22
 Dreadmist Belt	20
@@ -612,6 +626,8 @@ Midnight Mace	20
 Serenity Belt	20
 Funeral Pyre Vestment	20
 Dalewind Trousers	20
+Howling Blade	20
+Sword of Corruption	20
 Night Watch Shortsword	18
 Julie's Dagger	18
 Broken Blade of Heroes	18
@@ -631,6 +647,7 @@ Wildheart Bracers	15
 Tanglewood Staff	15
 Guardian Blade	15
 Blackfang	15
+Archaic Defender	15
 Bearded Boneaxe	12
 Umbral Crystal	12
 Looming Gavel	12
@@ -647,6 +664,7 @@ Band of the Unicorn	10
 Southsea Lamp	10
 Razor's Edge	10
 Black Pearl Ring	10
+Sheepshear Mantle	10
 Beazel's Basher	8
 Cow King's Hide	8
 Enduring Cap	8
@@ -659,6 +677,7 @@ Sandals of the Insurgent	8
 Hellslayer Battle Axe	8
 Rod of Molten Fire	8
 Elemental Raiment	8
+Orb of Mistmantle	8
 High Bergg Helm	7
 Twisted Sabre	6
 Poison-tipped Bone Spear	6
@@ -697,9 +716,9 @@ Green Hills of Stranglethorn - Page 14	0.06
 Black Lotus	15
 Ghost Mushroom	2.5
 Mountain Silversage	2
-Gromsblood	1
+Gromsblood	1.5
+Sungrass	1
 Wildvine	0.8
-Sungrass	0.8
 Grave Moss	0.75
 Wintersbite	0.7
 Blindweed	0.7
@@ -898,17 +917,19 @@ Tough Condor Meat	2
 Giant Egg	0.4
 Tender Wolf Meat	0.4
 White Spider Meat	0.4
-Goretusk Liver	0.15
-Great Goretusk Snout	0.15
+Great Goretusk Snout	0.4
+Goretusk Liver	0.3
+Crag Boar Rib	0.2
 Tender Crab Meat	0.1
 Buzzard Wing	0.1
 Lion Meat	0.05
 Tender Crocolisk Meat	0.05
+Stringy Vulture Meat	0.05
+Crawler Claw	0.05
 Raw Greater Sagefish	0.04
 Gooey Spider Leg	0.03
 Lean Wolf Flank	0.03
 Tiger Meat	0.03
-Stringy Vulture Meat	0.02
 Big Bear Meat	0.02
 Murloc Fin	0.02
 Raptor Egg	0.02
@@ -917,8 +938,6 @@ Mystery Meat	0.02
 Raptor Flesh	0.02
 Red Wolf Meat	0.02
 Turtle Meat	0.02
-Crawler Claw	0.02
-Crag Boar Rib	0.01
 Small Egg	0.01
 Stringy Wolf Meat	0.01
 Boar Ribs	0.01
@@ -1003,7 +1022,6 @@ Hi-Explosive Bomb	0.1
 Snickerfang Jowl	0.1
 Rethban Ore	0.1
 Lesser Bloodstone Ore	0.05
-Darkshore Grouper	0.05
 Dark Iron Scraps	0.03
 Hops	0.02
 Gorilla Fang	0.02
@@ -1015,9 +1033,9 @@ Primal Tiger Leather	2
 Perfect Deviate Scale	1
 Light Silithid Carapace	1
 Heavy Silithid Carapace	1
+Scorpid Scale	0.7
 Silithid Chitin	0.5
 Rugged Hide	0.5
-Scorpid Scale	0.4
 Rugged Leather	0.3
 Warbear Leather	0.3
 Shadowcat Hide	0.3
@@ -1232,16 +1250,16 @@ White Linen Robe	0.06
 Green Linen Bracers	0.06
 Red Linen Vest	0.06
 Brown Linen Robe	0.05
-Heavy Linen Gloves	0.05
+Heavy Linen Gloves	0
 Reinforced Linen Cape	0.04
 White Linen Shirt	0.04
 Brown Linen Shirt	0.04
-Brown Linen Vest	0.04
-Linen Belt	0.04
-Simple Linen Boots	0.04
-Brown Linen Pants	0.04
-Linen Bag	0.02
-Red Linen Bag	0.02
+Brown Linen Vest	0
+Linen Belt	0
+Simple Linen Boots	0
+Brown Linen Pants	0
+Linen Bag	0
+Red Linen Bag	0
 Linen Cloak	0.02
 Simple Linen Pants	0.02
 Bolt of Linen Cloth	0.01
@@ -1273,6 +1291,9 @@ Bleach	0.0023
 Empty Vial	0.002
 Shiny Red Apple	0.002
 Coarse Thread	0.001
+Freshly Baked Bread	0
+Dwarven Mild	0
+Red-speckled Mushroom	0
 Formula: Enchant Weapon - Crusader	300
 Parrot Cage (Hyacinth Macaw)	200
 Righteous Orb	80
@@ -1292,6 +1313,7 @@ Dark Rune	7
 Golden Pearl	5
 Greater Eternal Essence	5
 Larval Acid	5
+Winterfall Firewater	3
 Recipe: Elixir of the Mongoose	2
 Pattern: Wicked Leather Bracers	2
 Essence of Undeath	2
@@ -1310,6 +1332,7 @@ Massive Mojo	1
 Blue Pearl	1
 Cresting Charm	0.8
 Evil Bat Eye	0.7
+Burning Charm	0.7
 Ironweb Spider Silk	0.5
 Wildkin E'ko	0.5
 Banded Shield of the Tiger	0.5
@@ -1318,7 +1341,6 @@ Runn Tum Tuber	0.5
 Powerful Mojo	0.5
 Elemental Water	0.4
 Small Flame Sac	0.4
-Burning Charm	0.4
 Thundering Charm	0.4
 Huge Venom Sac	0.4
 Black Pearl	0.3
@@ -1426,4 +1448,10 @@ Discolored Worg Heart	0
 Fish Oil	-0.01
 Shiny Fish Scales	-0.01
 Shellfish	-0.05
-Sheepshear Mantle	10
+Killmaim	20
+Mugthol's Helm	30
+Plans: Steel Weapon Chain	180
+Blanchard's Stout	40
+Searing Blade	25
+Gut Ripper	100
+Deadwood Sledge	10

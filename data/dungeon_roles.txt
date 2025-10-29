@@ -17,3 +17,5 @@ Maraudon: Entrance	46	53
 Maraudon: Princess	49	59
 Sunken Temple	53	59
 Blackrock Depths	55	59
+Level 60	60	60
+60DPS	60	60

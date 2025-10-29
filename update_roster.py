@@ -17,7 +17,7 @@ for member in previous_roster.characters.values():
     if current_roster.is_member(name):
         member_update = current_roster.characters[name]
         # Check for death tag
-        if "[D]-20" in member_update.char_pub_note:
+        if "[D]" in member_update.char_pub_note:
             death_list.add(name)
         # Check for remade (lower level) characters
         elif member_update.char_level < member.char_level:

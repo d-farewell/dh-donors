@@ -45,8 +45,8 @@
 5	Blacksmithing	Warrior, Paladin, Druid	3	Coarse Weightstone	20
 5	Blacksmithing	Paladin, Warrior	2	Light Mail Bracers	1
 6	Blacksmithing	None	-1	Copper Chain Belt	1
-6	Blacksmithing	Paladin, Warrior	2	Copper Claymore	1
-6	Blacksmithing	Rogue	1	Copper Dagger	1
+6	Pro	Paladin, Warrior	2	Copper Claymore	1
+6	Pro	Rogue	1	Copper Dagger	1
 7	Blacksmithing	Warrior, Paladin	2	Runed Copper Gauntlets	1
 11	Blacksmithing	Paladin, Warrior	2	Heavy Copper Maul	1
 13	Blacksmithing	None	-1	Rough Bronze Boots	1
@@ -67,7 +67,7 @@
 35	Blacksmithing	Rogue, Warrior, Paladin	3	Dense Sharpening Stone	20
 40	Blacksmithing	Paladin, Warrior	2	Ornate Mithril Gloves	1
 42	Blacksmithing	All	8	Patterned Bronze Bracers	1
-43	Blacksmithing	Rogue	1	Dazzling Mithril Rapier	1
+43	Pro	Rogue	1	Dazzling Mithril Rapier	1
 54	Blacksmithing	All	8	Golden Rod	1
 1	Cooking	All	8	Level 1 Food (+2)	20
 5	Cooking	Warlock, Priest, Mage, Druid, Paladin	5	Cooked Crab Claw	20
@@ -235,7 +235,7 @@
 17	Tailoring	None	-1	Heavy Woolen Pants	1
 17	Tailoring	Mage, Priest, Warlock	3	Woolen Boots	1
 18	Tailoring	Priest	1	Greater Adept's Robe	1
-19	Tailoring	Mage, Priest, Warlock	3	Reinforced Woolen Shoulders	1
+19	Tailoring	None	3	Reinforced Woolen Shoulders	1
 20	Tailoring	All	8	12 slot bag (lvl 20)	2
 20	Tailoring	None	-1	Spidersilk Boots	1
 23	Tailoring	Mage	1	Azure Silk Pants	1
