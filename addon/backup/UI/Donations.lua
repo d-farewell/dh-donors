@@ -117,7 +117,6 @@ function GBankClassic_UI_Donations:DrawWindow()
     closeButton:SetScript("OnClick", function()
         self.ledgerBox:Hide()
     end)
-
 end
 
 function GBankClassic_UI_Donations:UpdateLedger(sender, quantity, name, silver)
@@ -134,7 +133,7 @@ function GBankClassic_UI_Donations:UpdateLedger(sender, quantity, name, silver)
     --     mytext = mytext .. string.format("%s donated %d\n", player, score)
     -- end
     -- self.ledgerBox:SetText(mytext)
-end
+
 function GBankClassic_UI_Donations:DrawContent()
     self.Window:SetStatusText("")
     self.Content:ReleaseChildren()
@@ -209,6 +208,4 @@ function GBankClassic_UI_Donations:DrawContent()
     end
 
     self.Window:SetStatusText(count .. " Total")
-
-    
 end

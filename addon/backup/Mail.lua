@@ -20,15 +20,16 @@ function GBankClassic_Mail:Scan()
     if banks == nil then return end
     self.Roster = {}
     for _, v in pairs(banks) do
-        self.Roster[v] = true
-        if v == player then
+        local norm = (GBankClassic_Guild and GBankClassic_Guild.NormalizePlayerName) and GBankClassic_Guild.NormalizePlayerName(v) or v
+        self.Roster[norm] = true
+        if norm == player then
             isBank = true
         end
     end
     if not isBank then return end
     if not GBankClassic_Options:GetBankEnabled() then return end
 
-
+    self.isScanning = true
 
     local numItems, totalItems = GetInboxNumItems()
 
@@ -96,12 +97,13 @@ function GBankClassic_Mail:Open(mailId)
     if not info then return end
     ---END CHANGES
     local player = GBankClassic_Guild:GetPlayer()
+    local norm = (GBankClassic_Guild and GBankClassic_Guild.NormalizePlayerName) and GBankClassic_Guild.NormalizePlayerName(player) or player
 
-    if not info.alts[player] then
-        info.alts[player] = {}
+    if not info.alts[norm] then
+        info.alts[norm] = {}
     end
 
-    local alt = info.alts[player]
+    local alt = info.alts[norm]
 
     if not alt.ledger then
         alt.ledger = {}
@@ -164,20 +166,8 @@ function GBankClassic_Mail:Open(mailId)
                     local silver = score * 100
 
                     if GBankClassic_Options:GetBankReporting() then
-                        -- local donor_txt 
                         GBankClassic_Core:Printf("Received %s (%ds for %dx) from %s", name, silver, quantity, sender)
-                        -- donationInfoStr = string.format(
-                        --     "%s, %s, %d, %d\n", 
-                        --     sender,
-                        --     name, 
-                        --     quantity,
-                        --     silver
-                        -- )
-                        -- self.ledgerText = self.ledgerText .. donationInfoStr
-                        -- self.ledgerBox:SetText(self.ledgerText)
-                        -- GBankClassic_UI_Donations:UpdateLedger(sender, silver)
                         GBankClassic_UI_Donations:UpdateLedger(sender, quantity, name, silver)
-
                     end
 
                     if GBankClassic_UI_Mail.ScoreMail and not self.Roster[sender] then

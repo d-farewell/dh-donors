@@ -26,7 +26,6 @@ function GBankClassic_UI_Mail:Open()
     self:RedrawContent()
 end
 
-
 function GBankClassic_UI_Mail:Close()
     if not self.isOpen then return end
     if not self.Window then return end
