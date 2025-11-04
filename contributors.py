@@ -1,5 +1,6 @@
 
 from csv import reader, writer
+import pandas as pd
 
 def load_contributors(filename="outputs/contributors.txt"):
     contributors = dict()

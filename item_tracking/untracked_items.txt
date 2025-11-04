@@ -1,24 +1,12 @@
-Pattern: Red Linen Robe	14
 Sprouted Frond	10
 Pattern: Red Linen Bag	6
-Red Leather Bag	10
-Burnt Leather Vest	6
 Stone Gnoll Hammer	4
-Mulgore Spice Bread	4
-Scroll of Protection	12
+Mulgore Spice Bread	6
 Pattern: Tough Scorpid Boots	3
-Slarkskin	7
 Recipe: Westfall Stew	4
-Hunting Bow	14
-Delicious Cave Mold	3
-Westfall Stew	7
-Soldier's Cloak	5
 Bluegill Breeches	2
-Shadow Wand	8
 Pattern: Tough Scorpid Leggings	3
-Recipe: Soothing Turtle Bisque	4
-Coral Claymore	4
-Scalping Tomahawk of Agility	8
+Coral Claymore	8
 Recipe: Goretusk Liver Pie	3
 Husk of Naraxis	3
 Banded Armor of the Bear	3
@@ -28,24 +16,17 @@ Pattern: Red Mageweave Pants	4
 Glimmering Mail Gauntlets	3
 Middle Map Fragment	6
 Upper Map Fragment	3
-Naraxis' Fang	6
-Heavy Shortbow	13
 Curved Dagger of Power	5
 Knitted Tunic	2
-Light Mail Armor	2
+Light Mail Armor	3
 Reinforced Steel Lockbox	4
 Rhahk'Zor's Hammer	5
 Severing Axe of the Eagle	3
 Cat Carrier (White Kitten)	3
-Spongy Morel	6
-Notched Shortsword of Strength	5
-Journeyman's Pants	6
 Willow Pants of the Eagle	7
 Pattern: Turtle Scale Gloves	2
-Plans: Gemmed Copper Gauntlets	6
 Raider Shortsword of Strength	6
 Pattern: Spider Silk Slippers	2
-Light Bow	6
 Raw Sunscale Salmon	2
 Blackrock Gauntlets	2
 Carving Knife of Agility	2
@@ -53,15 +34,13 @@ Militant Shortsword of the Monkey	2
 Emblazoned Chestpiece	2
 Relic Coffer Key	23
 Buccaneer's Cord of the Whale	3
-Pattern: Fine Leather Boots	4
-Scroll of Agility II	4
+Pattern: Fine Leather Boots	5
+Scroll of Agility II	6
 Brackwater Boots	3
 Expert Cookbook	4
 Thick Spider Hair	2
-Inscribed Leather Breastplate	5
 Spiked Club of Stamina	2
 Schematic: EZ-Thro Dynamite	2
-Moist Cornbread	3
 Knight's Breastplate of the Bear	2
 Buccaneer's Gloves of the Owl	1
 Ritual Leggings of Spirit	1
@@ -72,15 +51,15 @@ Imperial Leather Belt	1
 Darkmist Pants of the Owl	1
 Training Sword of the Wolf	3
 Bristlebark Britches	1
-Short Ash Bow	2
+Short Ash Bow	3
 Steel Lockbox	1
 Cabalist Gloves of the Monkey	1
 Hillborne Axe of the Eagle	1
 Captain's Gauntlets of the Owl	1
 Formula: Enchant Weapon - Lesser Beastslayer	1
-Willow Belt of the Eagle	3
+Willow Belt of the Eagle	4
 Recipe: Blood Sausage	3
-Blackrock Boots	2
+Blackrock Boots	3
 Bandit Cloak of the Whale	1
 Seer's Robe	2
 Banded Gauntlets of the Eagle	1
@@ -98,29 +77,25 @@ Mystical Leggings of the Owl	1
 Templar Legplates of the Monkey	1
 Engraved Helm of the Falcon	1
 Seer's Padded Armor	2
-Severing Axe of Power	1
+Severing Axe of Power	2
 Mail Combat Leggings	2
 Schematic: Thorium Rifle	1
 Priest's Mace of Power	5
 Archer's Bracers of Agility	1
-Scroll of Agility	5
 Ghoulfang	1
 Strong Iron Lockbox	2
 Plans: Golden Scale Cuirass	1
-Iron Lockbox	2
+Iron Lockbox	3
 Mail Combat Armor	1
 Glimmering Mail Pauldrons	1
-Schematic: Mechanical Squirrel	3
 Shimmering Sash of the Eagle	2
-Scroll of Spirit II	5
 Polished Zweihander of Strength	1
 Watcher's Cinch of Fiery Wrath	1
 Buccaneer's Gloves of Healing	2
 Cadet Vest of the Gorilla	1
-Severing Axe of the Whale	1
-Light Mail Bracers	5
-Disciple's Pants of Fiery Wrath	1
-Willow Boots of the Owl	3
+Severing Axe of the Whale	2
+Disciple's Pants of Fiery Wrath	2
+Willow Boots of the Owl	4
 Pattern: Frostsaber Tunic	1
 Mechanical Chicken	1
 Bandit Shoulders	2
@@ -132,7 +107,7 @@ Merc Sword of the Eagle	1
 War Knife of Power	4
 Warden's Woolies	1
 Darkmist Pants of Spirit	1
-Pattern: Tough Scorpid Breastplate	2
+Pattern: Tough Scorpid Breastplate	3
 Pattern: Frostweave Robe	2
 Plans: Dark Iron Pulverizer	5
 Imposing Shoulders of the Whale	1
@@ -156,16 +131,14 @@ Plans: Golden Iron Destroyer	1
 Recipe: Magic Resistance Potion	1
 Scorpashi Skullcap	1
 Lunar Handwraps of Fiery Wrath	1
-Emblazoned Buckler	2
+Emblazoned Buckler	3
 Bandit Pants of Agility	1
 Soldier's Armor of Stamina	2
-Staff of Horrors	7
 Scalemail Gloves	1
 Pattern: Black Dragonscale Breastplate	2
 Tracker's Belt of the Owl	1
-Goblin Nutcracker of the Tiger	1
+Goblin Nutcracker of the Tiger	2
 Formula: Enchant Bracer - Greater Spirit	2
-Woodworking Gloves	6
 Ritual Belt of the Owl	1
 Massive Battle Axe of the Wolf	1
 Knight's Breastplate of the Whale	1
@@ -174,7 +147,7 @@ Scalemail Bracers	1
 Myrmidon's Girdle	1
 Imperfect Draenethyst Fragment	1
 Pattern: White Leather Jerkin	5
-Pattern: Rugged Leather Pants	2
+Pattern: Rugged Leather Pants	3
 Ornate Bracers of the Wolf	1
 Bandit Cloak of Agility	1
 Infantry Shield of the Bear	2
@@ -183,7 +156,6 @@ Recipe: Elixir of Greater Firepower	2
 Warbringer's Legguards of the Bear	1
 Headstriker Sword of the Monkey	1
 Bonelink Sabatons of the Monkey	1
-Shiny Bauble	2
 Raw Black Truffle	1
 Combat Cloak	1
 Sorcerer Drape of Arcane Wrath	1
@@ -194,17 +166,16 @@ Steadfast Coronet of Defense	1
 Training Sword of the Eagle	3
 Parrot Cage (Green Wing Macaw)	2
 Recipe: Elixir of Shadow Power	1
-Journeyman's Boots	1
+Journeyman's Boots	2
 Cadet Bracers	3
 Fingerless Gloves	1
 Curved Dagger of Agility	3
-Plans: Green Iron Gauntlets	2
+Plans: Green Iron Gauntlets	3
 Schematic: Portable Bronze Mortar	1
 Keeper's Cloak	1
 Hunting Pants	11
 Warrior's Cloak	1
 Thick Scale Gauntlets of the Monkey	1
-Recipe: Elixir of Ogre's Strength	11
 Plans: Shadow Crescent Axe	1
 Gaea's Cloak of the Owl	1
 Royal Mallet of the Bear	1
@@ -220,7 +191,7 @@ Jadefire Cloak of the Eagle	1
 Gigantic War Axe of the Monkey	1
 Warbringer's Crown of the Bear	1
 Bandit Cloak of Defense	1
-Formula: Enchant Gloves - Advanced Herbalism	1
+Formula: Enchant Gloves - Advanced Herbalism	2
 Formula: Enchant Gloves - Advanced Mining	4
 Pattern: Red Woolen Boots	3
 Pattern: Heavy Woolen Cloak	4
@@ -230,7 +201,6 @@ Simple Bands	2
 Greater Mystic Wand	1
 Resilient Cap	1
 Heraldic Cloak	1
-Scroll of Stamina	8
 Soldier's Girdle of Power	2
 Ceremonial Leather Gloves	1
 Aboriginal Gloves of the Eagle	1
@@ -248,19 +218,17 @@ Tromping Miner's Boots	1
 Archer's Shoulderpads of Defense	1
 Conjurer's Gloves of the Whale	1
 Willow Gloves of the Eagle	3
-Lambent Scale Legguards	1
+Lambent Scale Legguards	2
 Lambent Scale Breastplate	1
 Pattern: Frostsaber Leggings	1
 Pattern: Heavy Scorpid Gauntlets	1
 Hook Dagger of Healing	1
 Shadowhide Two-handed Sword	1
 Soldier's Armor of the Whale	3
-Soldier's Leggings of Strength	1
+Soldier's Leggings of Strength	3
 Defender Girdle of Strength	1
 Oak Mallet of the Gorilla	4
 Raider's Belt of the Monkey	1
-Seer's Gloves	9
-Soldier's Armor of the Bear	8
 Bandit Cloak of the Eagle	2
 Mercenary Blade of the Tiger	1
 Earthen Leather Shoulders	1
@@ -270,7 +238,7 @@ Sacrificial Kris of the Bear	1
 Schematic: Deadly Scope	1
 Glimmering Flamberge of Agility	1
 Forester's Axe of Strength	1
-Ravenwood Bow	2
+Ravenwood Bow	3
 Robust Tunic of the Monkey	1
 Scaled Leather Gloves of the Monkey	1
 Emerald Gauntlets of the Bear	1
@@ -284,7 +252,7 @@ Pattern: Frostsaber Gloves	1
 Recipe: Mighty Troll's Blood Potion	1
 Willow Bracers of the Whale	2
 Raider's Cloak of the Whale	1
-Emblazoned Boots	2
+Emblazoned Boots	3
 Sorcerer Cloak of the Whale	1
 Hillborne Axe of the Bear	1
 Nightsky Sash	1
@@ -299,7 +267,7 @@ Steadfast Buckler of the Wolf	1
 Ancient Legguards of the Falcon	1
 9 Pound Lobster	1
 15 Pound Lobster	1
-Brackclaw	2
+Brackclaw	5
 Spellbinder Boots	1
 Simple Robe of Intellect	2
 Edged Bastard Sword of the Wolf	3
@@ -325,13 +293,12 @@ Willow Boots of Shadow Wrath	1
 Blackened Defias Gloves	2
 Darkmist Orb of Fiery Wrath	1
 High Chief's Belt of the Bear	1
-Inscribed Leather Bracers	6
 Dwarven Mild	13
 Pattern: Red Linen Vest	3
 Regal Sash of the Eagle	1
 "BKP ""Sparrow"" Smallbore"	4
 Dervish Belt of the Eagle	1
-Battleforge Armor of the Bear	1
+Battleforge Armor of the Bear	2
 Infantry Leggings of the Whale	1
 Gypsy Sandals	1
 Windchaser Cinch	2
@@ -341,9 +308,9 @@ Veteran Leggings	3
 Bard's Belt of the Whale	2
 Recipe: Greater Nature Protection Potion	1
 Spellbinder Cloak	1
-Recipe: Tasty Lion Steak	1
+Recipe: Tasty Lion Steak	2
 Recipe: Cooked Crab Claw	4
-Recipe: Seasoned Wolf Kabob	3
+Recipe: Seasoned Wolf Kabob	4
 Recipe: Murloc Fin Soup	4
 Willow Belt of the Owl	1
 Simple Blouse of the Owl	2
@@ -357,18 +324,17 @@ Hillborne Axe of Stamina	1
 Hacking Cleaver of Agility	1
 Sorcerer Cloak of the Owl	1
 Knight's Gauntlets of the Bear	1
-Fire Wand	14
 Simple Branch of Frozen Wrath	1
 Steadfast Coronet of the Falcon	1
 Huntsman's Armor of the Monkey	1
 Simple Branch of Healing	1
-Plans: Mithril Spurs	2
+Plans: Mithril Spurs	3
 Charger's Pants of the Bear	2
 Battle Chain Pants	3
 Bard's Bracers of Agility	1
 Short Bastard Sword of the Monkey	3
 Birchwood Maul of Power	1
-Staunch Hammer of Strength	3
+Staunch Hammer of Strength	6
 Furious Falchion of Power	1
 Defender Tunic of the Boar	1
 Sage's Mantle of the Whale	1
@@ -381,9 +347,8 @@ Gypsy Trousers of the Monkey	2
 Bard's Trousers of the Owl	1
 Bandit Bracers of the Owl	2
 Blackwater Cutlass	4
-Goblin Screwdriver	5
 Disciple's Stein of the Whale	1
-Pattern: Hillman's Belt	2
+Pattern: Hillman's Belt	3
 Infiltrator Shoulders of the Wolf	1
 Ivycloth Bracelets of Spirit	1
 Bright Bracers	3
@@ -392,18 +357,18 @@ Soldier's Wristguards of the Bear	6
 Recipe: Redridge Goulash	3
 Infantry Shield of Blocking	1
 Recipe: Succulent Pork Ribs	3
-Wyvern Tailspike	2
+Wyvern Tailspike	3
 Knightly Longsword of the Bear	1
-Willow Cape of the Owl	3
+Willow Cape of the Owl	4
 Superior Bracers of Stamina	2
 Wolf Rider's Belt of the Monkey	1
 Buccaneer's Bracers of the Owl	1
 Barbaric Cloth Gloves	3
 Journeyman's Vest	2
-Disciple's Gloves	1
+Disciple's Gloves	2
 Battle Knife of Stamina	1
 Spellbinder Vest	6
-Barbed Club of Strength	2
+Barbed Club of Strength	3
 Ebon Scimitar of the Bear	1
 Wolf Rider's Boots of the Owl	1
 Overlord's Chestplate of the Whale	1
@@ -412,25 +377,23 @@ Bard's Gloves of the Falcon	1
 Stonesplinter Blade	3
 Hunting Boots	2
 Talisman of the Naga Lord	4
-Ancient Pauldrons of the Owl	1
+Ancient Pauldrons of the Owl	2
 Pattern: Chimeric Leggings	1
 Grizzly Pants of the Owl	1
-Notched Shortsword of Stamina	7
-Willow Vest of the Eagle	1
-Severing Axe of the Tiger	2
+Willow Vest of the Eagle	2
+Severing Axe of the Tiger	3
 Infantry Shield of the Monkey	3
 Soldier's Gauntlets of the Bear	2
-Merc Sword of the Monkey	1
-Wicked Blackjack	5
-Brutish Riverpaw Axe	3
+Merc Sword of the Monkey	2
+Wicked Blackjack	6
+Brutish Riverpaw Axe	7
 Recipe: Gift of Arthas	10
 Hunting Buckler	4
 Scorpashi Cape	1
 Windchaser Handguards	1
 Captain's Shoulderguards of the Whale	1
 Lunar Slippers of the Whale	1
-Honed Stiletto of the Monkey	2
-Formula: Enchant Gloves - Fishing	6
+Honed Stiletto of the Monkey	4
 Defender Bracers of the Tiger	1
 Recipe: Invisibility Potion	2
 Schematic: Spellpower Goggles Xtreme Plus	1
@@ -440,34 +403,30 @@ Bright Boots	6
 Gypsy Tunic of the Whale	1
 Cracked Sledge	1
 Huntsman's Gloves of the Eagle	1
-Veteran Armor	6
 Cadet Leggings of the Eagle	2
 Mage-Eye Blunderbuss	1
-Bright Sphere	2
+Bright Sphere	3
 Forester's Axe of the Whale	1
 Explosive Shotgun	1
 Raider's Chestpiece of the Bear	2
 Willow Belt of Healing	1
-Simple Robe of the Whale	1
+Simple Robe of the Whale	2
 Edged Bastard Sword of Strength	1
 Merc Sword of the Boar	2
 Defias Rapier	2
 Twin-bladed Axe of the Tiger	1
 Raider's Boots of the Whale	1
 Burnished Gloves	3
-Seer's Fine Stein	4
+Seer's Fine Stein	5
 Pioneer Tunic of Agility	1
 Recipe: Beer Basted Boar Ribs	2
 Recipe: Dragonbreath Chili	1
 Carving Knife of Power	5
-Scroll of Strength II	6
 Jazeraint Cloak of the Tiger	1
 Buccaneer's Cape of the Whale	2
-Inscribed Cloak	7
 Willow Vest of Spirit	1
 Willow Robe of the Whale	1
 Fortified Belt of the Boar	1
-Seer's Boots	7
 Renegade Chestguard of the Monkey	1
 Pattern: Murloc Scale Bracers	2
 Harpyclaw Short Bow	1
@@ -479,7 +438,6 @@ Battlefield Destroyer of the Tiger	2
 Imposing Boots of the Eagle	2
 Ritual Sandals of the Eagle	2
 Metalworking Gloves	3
-Spellbinder Pants	14
 Buccaneer's Cape of Stamina	1
 Raider's Bracers of the Bear	1
 Emerald Legplates of the Bear	1
@@ -497,7 +455,7 @@ Black Dragonscale	7
 Pattern: Big Voodoo Cloak	1
 Book: Gift of the Wild	1
 Long Battle Bow	1
-Precision Bow	1
+Precision Bow	3
 Whipwood Recurve Bow	2
 Pattern: Dark Leather Tunic	2
 Pioneer Trousers of the Monkey	1
@@ -506,24 +464,22 @@ Royal Bands of Intellect	1
 Sniper Rifle of Stamina	1
 Raider's Shoulderpads	2
 Scouting Belt of the Owl	1
-Training Sword of the Bear	3
+Training Sword of the Bear	5
 Plans: Heavy Mithril Pants	2
 Hook Dagger of Power	5
 Recipe: Swiftness Potion	4
-Rat Cloth Cloak	2
+Rat Cloth Cloak	3
 Ranger Wristguards of Stamina	1
 Staunch Hammer of Nature's Wrath	1
-Riverpaw Leather Vest	2
+Riverpaw Leather Vest	3
 Twin-bladed Axe of the Monkey	2
-Roasted Boar Meat	20
 Short Bastard Sword of the Wolf	2
-Scroll of Intellect	14
 Ancestral Woollies	3
 Tough Jerky	3
 Alterac Swiss	2
 Ivory Wand of Stamina	1
 Revenant Chestplate of the Bear	1
-Gypsy Tunic of the Owl	3
+Gypsy Tunic of the Owl	4
 Simple Gloves	2
 War Torn Pants of Power	1
 17 Pound Catfish	1
@@ -566,10 +522,10 @@ Swashbuckler's Leggings of the Owl	1
 Elegant Cloak of Intellect	1
 Warmonger's Leggings of Agility	1
 Madwolf Bracers	3
-Tome of Frost Ward V	1
+Tome of Frost Ward V	2
 Plans: Dark Iron Plate	3
 Schematic: Gnomish Alarm-O-Bot	2
-Seer's Cape	4
+Seer's Cape	5
 Gothic Plate Spaulders of the Whale	1
 Royal Trousers of the Owl	2
 Mistscape Cloak	2
@@ -589,13 +545,12 @@ Mithril Lockbox	5
 Opulent Mantle of the Owl	1
 Phalanx Leggings of the Boar	1
 Northern Shortsword of Strength	6
-Spiked Club of the Bear	1
+Spiked Club of the Bear	2
 Willow Robe of Arcane Wrath	1
-Formula: Enchant Boots - Minor Agility	1
+Formula: Enchant Boots - Minor Agility	2
 Pattern: Earthen Leather Shoulders	2
 Canvas Shoulderpads	4
 Plans: Deadly Bronze Poniard	1
-Hide of Lupos	5
 Massive Battle Axe of the Bear	2
 Pattern: Wicked Leather Headband	1
 Willow Vest of Stamina	1
@@ -604,34 +559,32 @@ Duskwoven Bracers of the Whale	1
 Bard's Bracers of the Owl	2
 Chipped Boar Tusk	1
 Sergeant's Warhammer of Healing	4
-Opaque Wand	5
+Opaque Wand	6
 Polished Zweihander of the Boar	1
-Jagged Star of the Monkey	1
+Jagged Star of the Monkey	2
 Long Soft Tail	1
 Raider's Shield of Stamina	2
 Stonemason Cloak	3
-Burnished Tunic	2
-Willow Belt of the Wolf	2
+Burnished Tunic	3
+Willow Belt of the Wolf	3
 Raider's Legguards of the Bear	2
-Aquadynamic Fish Lens	20
 Amber Hoop of Arcane Resistance	1
 Chipped Claw	1
 Serpentskin Girdle	1
-Large Knapsack	6
 Barbaric Battle Axe of the Boar	1
-Veteran Shield	5
-Short Bastard Sword of the Tiger	2
+Veteran Shield	7
+Short Bastard Sword of the Tiger	3
 Journeyman's Stave	4
 Bard's Trousers of the Gorilla	1
 Ivycloth Gloves of the Whale	1
 Battlesmasher of the Tiger	1
-Dark Runner Boots	2
+Dark Runner Boots	3
 Bard's Tunic of Intellect	1
 Bard's Buckler of Strength	1
 Schematic: Delicate Arcanite Converter	1
 Schematic: Thorium Tube	1
 Recipe: Major Healing Potion	2
-Feathered Cape	2
+Feathered Cape	4
 Inscribed Leather Belt	4
 Abjurer's Bands of Intellect	1
 Abjurer's Gloves of the Owl	2
@@ -673,7 +626,6 @@ Raider's Cloak of Strength	1
 Staff of Nobles	1
 Shimmering Cloak of the Eagle	1
 Sergeant's Warhammer of Stamina	2
-Inscribed Buckler	7
 Soldier's Armor of Strength	1
 Defender Gauntlets of the Whale	1
 Soldier's Boots of Stamina	1
@@ -708,7 +660,7 @@ Bard's Trousers of Agility	2
 Walking Boots	4
 Glimmering Flamberge of Strength	1
 Recipe: Lesser Stoneshield Potion	3
-Cadet Vest of the Bear	2
+Cadet Vest of the Bear	3
 Willow Boots of Spirit	1
 Rockjaw Blade	3
 Gypsy Buckler of the Tiger	1
@@ -718,22 +670,22 @@ Pioneer Trousers of the Gorilla	1
 Gypsy Buckler of Stamina	2
 Cadet Leggings of the Bear	2
 Severing Axe of Stamina	1
-Infantry Gauntlets	1
+Infantry Gauntlets	2
 Scouting Tunic of the Eagle	1
 Bright Mantle	3
 Medicine Staff of the Whale	1
 Ritual Bands of the Whale	1
-silver	61160
+silver	81660
 Grizzly Buckler of Healing	2
-Birchwood Maul of the Eagle	2
+Birchwood Maul of the Eagle	3
 Lupine Cuffs	1
 Simple Branch of the Owl	2
 Simple Britches of Healing	1
-Warrior's Pants	4
+Warrior's Pants	7
 Barbaric Cloth Robe	2
 Silk-threaded Trousers	4
 Barbaric Battle Axe of the Monkey	1
-Raider's Boots of the Gorilla	2
+Raider's Boots of the Gorilla	3
 Buccaneer's Cape of the Eagle	2
 Seer's Cuffs	3
 Deadmines Cleaver	4
@@ -744,12 +696,12 @@ Engraved Cape of the Owl	1
 Umbral Wand of the Whale	1
 Schematic: Thorium Shells	1
 Lupine Slippers of the Monkey	2
-Bard's Belt of the Monkey	2
+Bard's Belt of the Monkey	3
 Stonesplinter Dagger	4
 Recipe: Shadow Oil	4
 Ivycloth Pants of the Eagle	2
-Plans: Green Iron Boots	1
-Pattern: Dark Leather Shoulders	1
+Plans: Green Iron Boots	2
+Pattern: Dark Leather Shoulders	2
 Sentry's Sash of the Boar	1
 Defender Shield of the Monkey	1
 Pattern: Pilferer's Gloves	2
@@ -761,7 +713,7 @@ Jade Legplates of the Whale	1
 Lord's Breastplate of the Owl	1
 Aboriginal Sash of the Wolf	3
 Greenweave Sash of the Owl	1
-War Paint Bindings	2
+War Paint Bindings	4
 Twin-bladed Axe of Agility	1
 Raider's Shield of the Boar	1
 Bard's Cloak	1
@@ -781,9 +733,8 @@ Schematic: Moonsight Rifle	1
 Stonemason Trousers	1
 Spellbinder Orb	1
 Soldier's Girdle of the Boar	1
-Scroll of Strength	8
-Journeyman's Robe	3
-Priest's Mace of Strength	2
+Journeyman's Robe	4
+Priest's Mace of Strength	4
 Curved Dagger of Arcane Wrath	1
 Carving Knife of Stamina	3
 Keen Machete	1
@@ -793,7 +744,7 @@ Orcish Cleaver	1
 Bashing Pauldrons	1
 Chieftain's Boots of Agility	1
 Crusader's Belt of Intellect	1
-Warrior's Tunic	5
+Warrior's Tunic	8
 Elder's Bracers of Healing	1
 Banded Gauntlets of Strength	1
 Lunar Slippers of Spirit	1
@@ -806,9 +757,9 @@ Red Dragonscale	6
 Blue Dragonscale	4
 Pattern: Tough Scorpid Gloves	1
 Firestarter	3
-Recipe: Crocolisk Gumbo	2
+Recipe: Crocolisk Gumbo	3
 Shimmering Amice	1
-Recipe: Curiously Tasty Omelet	3
+Recipe: Curiously Tasty Omelet	5
 Sergeant's Warhammer of Shadow Wrath	1
 Owl Bracers	1
 Buccaneer's Boots of the Eagle	1
@@ -826,7 +777,7 @@ Lupine Cord of the Owl	1
 Fortified Gauntlets of the Bear	2
 Blackrock Pauldrons	2
 Ivycloth Bracelets of the Eagle	1
-Kazon's Maul	1
+Kazon's Maul	2
 Imposing Gloves of the Monkey	1
 Warmonger's Chestpiece of the Whale	1
 Ranger Helm of the Bear	1
@@ -856,28 +807,28 @@ Sturdy Quarterstaff of the Bear	2
 Tyrant's Legplates	2
 Ancient Defender of the Eagle	1
 Plans: Silvered Bronze Breastplate	2
-Burnished Cloak	5
+Burnished Cloak	7
 Trouncing Boots	2
 Staff of Conjuring	1
 Ironhide Breastplate of Shadow Resistance	1
-Journeyman's Backpack	1
+Journeyman's Backpack	2
 Deep Fried Plantains	2
 Willow Branch of Frozen Wrath	1
 Chromite Bracers	1
 Tracker's Wristguards of the Whale	1
 War Torn Shield of the Gorilla	1
 Plans: Polished Steel Boots	1
-Infantry Leggings of the Bear	4
+Infantry Leggings of the Bear	5
 Jeweled Dagger	2
 Willow Cape of the Eagle	2
 Merc Sword of the Tiger	1
-Disciple's Pants of the Eagle	3
+Disciple's Pants of the Eagle	4
 Plans: Annihilator	1
 Red Helper Box	1
 Aboriginal Sash of the Whale	1
 Mystic's Bracelets	1
 Medicine Staff of the Monkey	1
-Webwing Cloak	5
+Webwing Cloak	6
 Medicine Staff of the Wolf	1
 Ballast Maul of the Boar	1
 Honed Stiletto of Nature's Wrath	1
@@ -912,25 +863,25 @@ Recipe: Big Bear Steak	1
 Pellet Rifle	2
 Renegade Gauntlets of the Boar	1
 Sardonyx Knuckle of Fire Resistance	1
-Pattern: Runecloth Tunic	1
-Pattern: Fine Leather Pants	1
+Pattern: Runecloth Tunic	2
+Pattern: Fine Leather Pants	2
 Sentinel Buckler of Agility	1
-Recipe: Elixir of Lesser Agility	1
+Recipe: Elixir of Lesser Agility	2
 Corpse Harvester of Agility	1
 Bonefist Gauntlets	2
 Pattern: Volcanic Leggings	1
 Simple Blouse of Spirit	1
 Pattern: Phoenix Pants	3
-Fortified Belt of the Bear	3
+Fortified Belt of the Bear	4
 Silver-thread Armor	1
-Durable Bracers of the Owl	1
+Durable Bracers of the Owl	2
 Hunting Gloves	5
 Embossed Plate Girdle of the Eagle	1
 Sturdy Quarterstaff of Intellect	1
 Cadet Leggings of Power	1
 Lumberjack Jerkin	7
 Infantry Bracers	1
-Warrior's Bracers	2
+Warrior's Bracers	4
 Burnt Leather Belt	1
 Lumberjack Axe	1
 Greenweave Sandals of Frozen Wrath	1
@@ -939,7 +890,6 @@ Soldier's Gauntlets of the Tiger	1
 Cold Iron Pick	1
 Birchwood Maul of the Monkey	2
 Scouting Cloak of Stamina	1
-Cured Ham Steak	5
 Violet Robes	2
 Templar Girdle of the Bear	1
 Pattern: Runecloth Gloves	1
@@ -954,9 +904,9 @@ Gypsy Trousers of Healing	1
 Spellbinder Bracers	2
 Rodentia Shortsword	1
 Lunar Sphere of the Wolf	1
-Disciple's Vest of Frozen Wrath	1
+Disciple's Vest of Frozen Wrath	2
 Pioneer Bracers	2
-Disciple's Sash	1
+Disciple's Sash	2
 Feral Bindings of the Eagle	1
 Bloodspattered Gloves of the Bear	1
 Barbaric Cloth Boots	1
@@ -980,22 +930,22 @@ Sorcerer Drape of Spirit	1
 Brigade Pauldrons of the Eagle	1
 Dwarven Hatchet of Strength	3
 Aboriginal Gloves of Healing	1
-Bright Cloak	2
+Bright Cloak	3
 Journeyman's Gloves	1
 Double Mail Coif	1
 Battleforge Armor of the Boar	1
 Cerulean Ring of the Whale	1
 Journeyman's Belt	1
-Forest Leather Mantle	1
+Forest Leather Mantle	2
 Bandit Pants of the Owl	2
 Sage's Sash of the Whale	1
 Dervish Leggings of Arcane Wrath	1
 Jouster's Crest	1
 Wand of Eventide	1
-Dwarven Hatchet of Stamina	2
+Dwarven Hatchet of Stamina	3
 Twin-bladed Axe of the Whale	2
 Bard's Bracers of the Eagle	1
-Training Sword of the Tiger	1
+Training Sword of the Tiger	2
 Disciple's Stein of Fiery Wrath	1
 Warrior's Boots	1
 Gypsy Bands	1
@@ -1010,7 +960,7 @@ Gloom Reaper of the Tiger	1
 Twilight Armor of the Eagle	1
 Chief Brigadier Bracers	1
 Conjurer's Gloves of the Owl	1
-Thallium Hoop of the Owl	1
+Thallium Hoop of the Owl	2
 Executioner's Sword	1
 Blackforge Pauldrons	1
 Duskwoven Sandals of Arcane Wrath	1
@@ -1020,7 +970,7 @@ Barbed Club of Power	4
 Scaled Leather Belt of the Bear	1
 Pattern: Big Voodoo Robe	1
 Ironwood Maul	1
-Beaded Wraps of the Whale	2
+Beaded Wraps of the Whale	3
 Willow Pants of Spirit	3
 Willow Cape of the Whale	3
 Durable Pants of the Whale	1
@@ -1033,7 +983,7 @@ Severing Axe of the Wolf	2
 Barbaric Cloth Bracers	1
 Bloody Chain Boots	1
 Disciple's Pants of Spirit	2
-Staunch Hammer of Power	3
+Staunch Hammer of Power	4
 Soldier's Shield of the Monkey	1
 Warbringer's Spaulders of the Bear	1
 Soldier's Girdle of the Eagle	1
@@ -1050,8 +1000,8 @@ Cracked Egg Shells	1
 Carpenter's Mallet	1
 Sturdy Leather Bracers	2
 Cracked Shortbow	1
-Patchwork Cloak	1
-Loose Chain Bracers	1
+Patchwork Cloak	2
+Loose Chain Bracers	2
 Worn Mail Boots	1
 Rust-covered Blunderbuss	1
 Rough Wooden Staff	1
@@ -1065,7 +1015,7 @@ Wood Chopper	1
 Black Bear Hide Vest	1
 Buccaneer's Bracers of Frozen Wrath	1
 Buccaneer's Gloves of the Whale	2
-Militant Shortsword of the Bear	1
+Militant Shortsword of the Bear	2
 Bandit Cinch of the Monkey	2
 Gnoll Spittle	3
 Tough Leather Shoulderpads	1
@@ -1083,13 +1033,13 @@ Gloom Reaper of Stamina	1
 Thick Scale Breastplate of the Bear	1
 Wolf Rider's Boots of Stamina	1
 Tigerbane	1
-Spiked Club of the Monkey	2
-Inscribed Leather Boots	5
-Glyphed Helm	1
+Spiked Club of the Monkey	3
+Inscribed Leather Boots	6
+Glyphed Helm	2
 Expert First Aid - Under Wraps	4
 Grizzly Pants of the Bear	1
 Twilight Cape of Intellect	1
-Twilight Cape of Healing	2
+Twilight Cape of Healing	3
 Insignia Gloves	1
 Archer's Boots of the Monkey	1
 Heart Ring	1
@@ -1097,28 +1047,28 @@ Aurora Cowl	1
 Conjurer's Breeches of the Owl	1
 Gossamer Gloves of the Eagle	1
 Royal Blouse of the Eagle	1
-Sentinel Gloves of the Gorilla	1
+Sentinel Gloves of the Gorilla	2
 Pattern: Big Voodoo Mask	1
 Defender Leggings of the Bear	1
 Lupine Axe	3
 Fighter Broadsword of the Tiger	1
-Gypsy Trousers of the Gorilla	1
-Scalping Tomahawk of Strength	3
+Gypsy Trousers of the Gorilla	2
+Scalping Tomahawk of Strength	4
 Pioneer Tunic of the Eagle	2
-Stout Battlehammer of the Tiger	1
+Stout Battlehammer of the Tiger	2
 Gnoll Skull Basher	2
 Aurora Pants	1
 Viking Sword of the Tiger	1
 Northern Shortsword of Stamina	4
-Grunt Axe of Agility	2
+Grunt Axe of Agility	3
 Gleaming Claymore of the Whale	2
-Bard's Boots of the Eagle	1
+Bard's Boots of the Eagle	2
 Scroll of Strength III	1
 Pattern: Swift Boots	2
-Plans: Dazzling Mithril Rapier	3
+Plans: Dazzling Mithril Rapier	4
 Gloom Reaper of the Wolf	1
 Sentinel Boots of the Wolf	1
-Nightwalker Armor	1
+Nightwalker Armor	2
 Durable Belt of the Owl	1
 Plans: Thorium Leggings	1
 Plans: Thorium Belt	1
@@ -1153,7 +1103,7 @@ Pattern: Comfortable Leather Hat	1
 Thistlefur Mantle of the Whale	1
 Spiked Chain Wristbands of Power	1
 Mistscape Gloves	1
-Defender Girdle of the Bear	1
+Defender Girdle of the Bear	2
 Pagan Shoes of the Owl	1
 Ritual Sandals of Frozen Wrath	1
 Disciple's Stein of Shadow Wrath	1
@@ -1164,7 +1114,7 @@ Encrypted Twilight Text	2
 Warbringer's Crown of Defense	1
 Simple Blouse of the Eagle	1
 Meadow Ring of the Wolf	1
-Revenant Bracers of the Bear	1
+Revenant Bracers of the Bear	2
 Tracker's Shoulderpads of Defense	1
 Ranger Tunic of Intellect	1
 Gossamer Bracers of the Owl	1
@@ -1177,7 +1127,7 @@ Royal Amice of the Whale	1
 Ogremind Ring	1
 Jouster's Greaves	1
 Carnelian Loop of Shadow Resistance	1
-Pioneer Tunic of the Monkey	1
+Pioneer Tunic of the Monkey	2
 Pattern: Fine Leather Gloves	3
 Forest Cloak	5
 Battle Slayer of the Whale	1
@@ -1185,45 +1135,44 @@ Durable Bracers of the Whale	1
 Wolf Rider's Wristbands of Intellect	1
 Pattern: Runecloth Headband	1
 Shimmering Trousers of the Whale	1
-Raider's Gauntlets of the Gorilla	1
+Raider's Gauntlets of the Gorilla	2
 Plans: Radiant Leggings	1
 Brown Leather Satchel	5
-Savannah Ring of the Monkey	1
+Savannah Ring of the Monkey	2
 Sniper Rifle of the Whale	1
-"""Mage-Eye"" Blunderbuss"	2
+"""Mage-Eye"" Blunderbuss"	4
 Smoothbore Gun	2
 Phalanx Shield of the Tiger	1
 The Black Knight	1
 Scouting Tunic of the Whale	2
 Infantry Shield of Agility	1
 Bandit Pants of the Falcon	1
-Inscribed Leather Pants	4
+Inscribed Leather Pants	6
 Shimmering Boots of Frozen Wrath	1
-Burnished Girdle	1
+Burnished Girdle	3
 Scouting Cloak of the Eagle	2
 Lambent Scale Bracers	1
 Bright Gloves	2
-Battlesmasher of the Bear	3
+Battlesmasher of the Bear	4
 Battleforge Gauntlets of the Bear	1
 Knight's Headguard of the Eagle	1
 Conjurer's Vest of Stamina	1
-Guild Tabard	3
+Guild Tabard	4
 Hook Dagger of Strength	1
 Ironwood Treebranch	2
-Small Brown Pouch	12
 Defender Tunic of the Eagle	1
 Twilight Pants of the Monkey	1
 Huntsman's Belt of the Owl	1
 Sorcerer Bracelets of the Whale	1
 Bard's Gloves of the Whale	2
 Blackrock Champion's Axe	1
-Bloodspattered Gloves of the Whale	1
+Bloodspattered Gloves of the Whale	2
 Pagan Cape of Shadow Wrath	1
 Blackrock Mace	2
 Scouting Boots of the Eagle	1
-Battle Chain Tunic	1
+Battle Chain Tunic	2
 Ancestral Orb	2
-Mystic's Woolies	1
+Mystic's Woolies	2
 Soldier's Leggings of the Whale	1
 War Torn Pants of the Whale	1
 Honed Stiletto of the Tiger	1
@@ -1236,41 +1185,39 @@ Bandit Bracers of Intellect	1
 Fortified Cloak of Stamina	1
 Raider's Shield of Strength	1
 Barbed Club of Arcane Wrath	2
-Medicine Staff of the Eagle	1
+Medicine Staff of the Eagle	2
 War Paint Anklewraps	2
-Scouting Cloak of Spirit	1
+Scouting Cloak of Spirit	2
 Bard's Belt of Intellect	3
 Willow Robe of the Eagle	1
 Keeper's Armor	1
 Battleforge Boots of Defense	1
-Melon Juice	6
-Pattern: Dark Leather Gloves	2
+Pattern: Dark Leather Gloves	3
 Brood Mother Carapace	1
-Formula: Enchant Weapon - Minor Beastslayer	3
+Formula: Enchant Weapon - Minor Beastslayer	4
 Fortified Chain of the Whale	1
 Battleforge Wristguards of the Bear	1
 Oak Mallet of the Whale	1
 Worn Cloak	1
-Scroll of Spirit	10
 Soldier's Gauntlets of the Eagle	1
-Mo'grosh Toothpick	2
+Mo'grosh Toothpick	3
 Defias Mage Staff	1
 Shimmering Gloves of Healing	1
 Bandit Cinch of the Owl	1
 Patchwork Armor	1
 Prospector's Cuffs	2
 Brackwater Leggings	1
-Mystic's Belt	4
+Mystic's Belt	6
 Cadet Leggings of Strength	2
 Bard's Trousers of Power	2
 Sergeant's Warhammer of Strength	1
-Grunt Axe of Stamina	1
-Warrior's Shield	1
+Grunt Axe of Stamina	2
+Warrior's Shield	2
 Slayer's Gloves	1
 Patched Leather Gloves	1
 Reinforced Chain Shoulderpads	1
-Burnt Leather Breeches	3
-Disciple's Vest of the Owl	1
+Burnt Leather Breeches	4
+Disciple's Vest of the Owl	4
 Short Bastard Sword of the Boar	1
 Pattern: Runecloth Pants	1
 Thorium Lockbox	1
@@ -1278,15 +1225,15 @@ Bard's Buckler of the Tiger	1
 Soldier's Boots of the Whale	1
 Lord's Breastplate of the Monkey	1
 Valorous Helm	1
-Magic Dust	1
+Magic Dust	2
 Quartz Ring of Fire Resistance	1
 Kaldorei Spider Kabob	11
-Pattern: Runic Leather Pants	1
+Pattern: Runic Leather Pants	2
 Raider's Belt of the Eagle	1
 Willow Robe of Shadow Wrath	1
 A Gold Tooth	1
-Training Sword of Strength	1
-Sergeant's Warhammer of Power	2
+Training Sword of Strength	2
+Sergeant's Warhammer of Power	3
 Gypsy Trousers of the Eagle	2
 Gossamer Boots of the Owl	1
 Bonelink Bracers of the Monkey	1
@@ -1311,8 +1258,8 @@ Shimmering Bracers of Stamina	1
 Sturdy Quarterstaff of Stamina	2
 Hacking Cleaver of the Wolf	1
 Willow Bracers of Spirit	1
-Raider's Legguards of the Whale	1
-Nightsky Cloak	1
+Raider's Legguards of the Whale	2
+Nightsky Cloak	2
 Flecked Raptor Scale	1
 Keen Raptor Tooth	5
 Large Slimy Bone	1
@@ -1339,27 +1286,27 @@ Phalanx Breastplate of the Gorilla	1
 Forester's Axe of Agility	1
 Schematic: Lovingly Crafted Boomstick	1
 Willow Bracers of Fiery Wrath	1
-Gnoll Punisher	1
+Gnoll Punisher	3
 Buccaneer's Bracers of Intellect	1
 Bandit Boots of the Owl	2
-Silver-thread Sash	2
+Silver-thread Sash	3
 Hematite Link of Arcane Resistance	2
 Rumsey Rum Black Label	60
-Pioneer Trousers of the Eagle	1
+Pioneer Trousers of the Eagle	2
 Pattern: Runic Leather Gauntlets	1
 Priest's Mace of Arcane Wrath	4
 Battered Mallet	1
 Foreman Pants	2
 Scouting Boots of Agility	1
-Emblazoned Belt	1
+Emblazoned Belt	2
 Battleforge Girdle of the Whale	1
 Barbaric Battle Axe of the Wolf	1
 Defias Renegade Ring	1
 Dervish Boots of Spirit	1
-Forest Leather Boots	1
+Forest Leather Boots	2
 Superior Bracers of Agility	1
 Raider's Shield of the Monkey	1
-Feral Shoes of the Monkey	1
+Feral Shoes of the Monkey	2
 Lupine Leggings of the Bear	1
 Beheading Blade of the Bear	1
 Glimmering Flamberge of Stamina	1
@@ -1368,25 +1315,25 @@ Ranger Helm of the Monkey	1
 Rageclaw Belt of the Monkey	1
 Native Branch of Frozen Wrath	1
 Vibrant Silk Cape	1
-Raider's Cloak of the Bear	1
+Raider's Cloak of the Bear	3
 Recipe: Discolored Healing Potion	6
 Fortified Gauntlets of Strength	1
 Buccaneer's Bracers of the Whale	1
 Khan's Bindings	1
 Buccaneer's Cord of the Eagle	1
-Merc Sword of the Bear	1
+Merc Sword of the Bear	2
 Gypsy Buckler of the Gorilla	1
-Brashclaw's Skewer	3
+Brashclaw's Skewer	4
 Simple Blouse of Intellect	1
 Ravager's Shield	1
 Lunar Handwraps of the Eagle	1
 Rodentia Flint Axe	3
-Dire Wand	1
+Dire Wand	2
 Heavy Bronze Lockbox	2
 Pattern: Colorful Kilt	1
 Sage's Boots of the Whale	1
 Clay Ring of Strength	1
-Ridge Cleaver of the Monkey	1
+Ridge Cleaver of the Monkey	2
 Cavalier Two-hander of Strength	2
 Battleforge Shoulderguards of the Boar	1
 Barbed Club of Stamina	2
@@ -1406,14 +1353,14 @@ Massive Battle Axe of the Monkey	2
 Redridge Machete	3
 Stable Boots	1
 Greenweave Gloves of Healing	1
-Jagged Star of the Bear	2
+Jagged Star of the Bear	3
 Shimmering Trousers of Fiery Wrath	1
 Riverpaw Mystic Staff	1
 Interlaced Cowl	1
 Battering Hammer of the Gorilla	1
 Feral Buckler of the Gorilla	1
 Fortified Cloak of the Whale	1
-War Knife of Agility	1
+War Knife of Agility	2
 Pagan Bands of the Whale	1
 Soldier's Boots of the Gorilla	1
 Bonelink Bracers of the Eagle	1
@@ -1432,7 +1379,7 @@ Dragonmaw Chain Boots	1
 Dervish Buckler of the Monkey	1
 Raider's Bracers of Stamina	1
 Sage's Sash of Healing	1
-Plans: Heavy Mithril Helm	1
+Plans: Heavy Mithril Helm	3
 Gleaming Claymore of the Wolf	1
 Bard's Boots of Agility	1
 Curved Dagger of Nature's Wrath	1
@@ -1440,7 +1387,7 @@ Spiked Club of the Eagle	1
 Hacking Cleaver of the Boar	1
 Huntsman's Cape of the Eagle	1
 Sentinel Trousers of the Whale	1
-Short Bastard Sword of the Whale	2
+Short Bastard Sword of the Whale	3
 Bandit Cinch of the Falcon	1
 War Torn Pants of the Bear	1
 Aboriginal Loincloth of the Eagle	1
@@ -1449,11 +1396,11 @@ War Torn Shield of the Monkey	1
 Conjurer's Cinch of the Owl	1
 Infantry Tunic of Power	1
 Disciple's Stein of the Wolf	1
-Bright Robe	1
+Bright Robe	2
 Fortified Gauntlets of the Gorilla	1
 Carving Knife of Shadow Wrath	1
-Dwarven Hatchet of Agility	1
-Overlord's Spaulders of the Bear	1
+Dwarven Hatchet of Agility	2
+Overlord's Spaulders of the Bear	2
 Regal Robe of the Owl	1
 Emerald Gauntlets of the Whale	1
 Commander's Gauntlets of the Gorilla	1
@@ -1464,7 +1411,7 @@ Plans: Runed Copper Breastplate	1
 Fortified Leggings of the Bear	1
 Sacrificial Kris of Fiery Wrath	1
 Scaled Leather Bracers of the Owl	1
-Blazing Wand	3
+Blazing Wand	4
 Shimmering Bracers of Spirit	1
 Decapitating Sword of Stamina	1
 Shimmering Armor of the Eagle	1
@@ -1481,7 +1428,7 @@ Recipe: Elixir of Minor Agility	1
 Hulking Gauntlets	1
 Captain's Bracers of the Eagle	1
 Brigade Bracers of the Monkey	1
-Mystic's Robe	1
+Mystic's Robe	2
 Merc Sword of the Wolf	1
 Ranger Helm of the Owl	1
 Ember Wand of Frozen Wrath	1
@@ -1489,10 +1436,10 @@ Jouster's Gauntlets	1
 Willow Gloves of the Owl	2
 Greater Scythe of the Boar	1
 Sorcerer Hat of the Owl	1
-Severing Axe of the Bear	1
+Severing Axe of the Bear	4
 Willow Pants of the Whale	2
 Beaded Britches of the Falcon	1
-Bard's Gloves of Arcane Wrath	1
+Bard's Gloves of Arcane Wrath	2
 Buccaneer's Cape of Spirit	1
 Bard's Bracers of Spirit	2
 Dervish Bracers of the Owl	1
@@ -1503,7 +1450,7 @@ Scouting Bracers of Spirit	1
 Shimmering Sash of the Whale	1
 Defender Bracers of the Bear	2
 Shimmering Bracers of the Eagle	1
-Scouting Bracers of the Owl	1
+Scouting Bracers of the Owl	2
 Formula: Enchant Bracer - Minor Spirit	1
 Mishandled Recurve Bow	1
 Shimmering Sash of Healing	1
@@ -1513,9 +1460,9 @@ Blackened Defias Boots	1
 Bandit Cinch of Healing	1
 Simple Robe of Frozen Wrath	1
 Bandit Boots of the Eagle	1
-Gemmed Copper Gauntlets of the Tiger	1
-Brackwater Shield	3
-Sage's Gloves of the Owl	1
+Gemmed Copper Gauntlets of the Tiger	2
+Brackwater Shield	4
+Sage's Gloves of the Owl	2
 Brutal War Axe of the Monkey	1
 Shadow Weaver Leggings	1
 Plans: Mighty Iron Hammer	1
@@ -1523,7 +1470,7 @@ Scouting Cloak of the Falcon	1
 Robust Gloves of the Gorilla	1
 Superior Gloves of the Gorilla	1
 Plans: Inlaid Mithril Cylinder	1
-Emblazoned Shoulders	1
+Emblazoned Shoulders	2
 Feral Harness of the Owl	1
 Elder's Gloves of the Owl	1
 Lesser Belt of the Spire	1
@@ -1534,7 +1481,7 @@ Burnished Boots	1
 Curved Dagger of Frozen Wrath	1
 Shimmering Sash of Fiery Wrath	1
 Raider's Boots of the Boar	2
-Wicked Spiked Mace	1
+Wicked Spiked Mace	2
 Oak Mallet of the Eagle	1
 Oil of Olaf	5
 Fortified Boots of the Gorilla	1
@@ -1558,7 +1505,7 @@ Patched Leather Shoulderpads	1
 War Knife of Strength	1
 Rigid Bracelets of the Monkey	1
 Bloodspattered Shield of the Monkey	1
-Crimson Lotus	3
+Crimson Lotus	4
 Raider's Cloak of Defense	1
 Soldier's Armor of Power	1
 Plans: Hammer of the Titans	1
@@ -1570,10 +1517,10 @@ Brigade Leggings of the Bear	1
 War Knife of Shadow Wrath	1
 Grizzly Pants of the Monkey	1
 Simple Branch of the Falcon	1
-Hunting Rifle	1
+Hunting Rifle	2
 Gypsy Tunic of the Monkey	2
 Willow Gloves of Fiery Wrath	1
-Defender Cloak of the Bear	1
+Defender Cloak of the Bear	3
 Buccaneer's Bracers of Shadow Wrath	1
 Infantry Tunic of the Boar	1
 Tracker's Leggings of Agility	1
@@ -1588,7 +1535,7 @@ Aboriginal Footwraps of Stamina	1
 Coyote Steak	16
 Severing Axe of the Monkey	1
 Heavy Gnoll War Club	1
-Ridge Cleaver of the Bear	1
+Ridge Cleaver of the Bear	2
 Zircon Band of Shadow Resistance	1
 Hematite Link of Frost Resistance	1
 Dervish Belt of the Bear	1
@@ -1596,12 +1543,214 @@ Barbarian War Axe of the Wolf	1
 Battleforge Legguards of the Bear	2
 Slayer's Battle Axe	1
 Raider's Gauntlets of the Monkey	1
-Twin-bladed Axe of the Boar	1
+Twin-bladed Axe of the Boar	2
 Schematic: Accurate Scope	1
-Ghoul Fingers	1
+Ghoul Fingers	2
 Pioneer Tunic of Intellect	1
 Birchwood Maul of the Bear	1
 Staunch Hammer of Healing	1
-Infantry Shield of the Boar	1
+Infantry Shield of the Boar	2
 Staunch Hammer of Stamina	1
 Native Pants of Healing	1
+Burnt Buckler	1
+Black Husk Shield	1
+Frostbit Staff	1
+Bard's Buckler of the Monkey	1
+Skeletal Longsword	1
+Gypsy Buckler of the Bear	1
+Spiritchaser Staff of Spirit	1
+Shimmering Cloak of Fiery Wrath	1
+Pale Skinner	1
+Severing Axe of Agility	1
+Superior Leggings of the Eagle	2
+Polished Zweihander of the Eagle	1
+Lambent Scale Girdle	1
+Bandit Cinch of the Tiger	1
+Forester's Axe of the Wolf	1
+Brashclaw's Chopper	2
+Dervish Gloves of the Whale	1
+Banded Cloak of the Bear	1
+Stout Battlehammer of the Bear	1
+Huntsman's Cap of Defense	1
+Ballast Maul of the Monkey	1
+Scouting Cloak of the Owl	1
+Veteran Gloves	3
+Pioneer Trousers of Healing	1
+Pattern: Stylish Green Shirt	1
+Lesser Staff of the Spire	1
+Bandit Jerkin of the Monkey	1
+Schematic: Shadow Goggles	1
+Dervish Gloves of the Owl	2
+Sanguine Sandals	2
+Beaded Sandals	1
+Tel'Abim Banana	4
+Greenweave Leggings of Fiery Wrath	2
+Infantry Leggings of Power	1
+Soft Frenzy Flesh	1
+Strider Stew	7
+Infantry Shield of Defense	1
+Thistlefur Mantle of the Owl	1
+Battle Slayer of the Wolf	1
+Frayed Cloak	1
+Scouting Tunic of Agility	1
+Web-covered Boots	2
+Willow Bracers of the Eagle	1
+Sorcerer Drape of the Owl	1
+Battering Hammer of the Whale	1
+Pioneer Tunic of the Whale	1
+Spellbinder Robe	3
+Lupine Slippers of Stamina	1
+Bloodspattered Shoulder Pads	1
+Oak Mallet of Stamina	1
+Scouting Trousers of the Monkey	1
+Disciple's Stein of the Eagle	1
+Silver-thread Pants	1
+Regal Armor of Stamina	1
+Bandit Pants of Spirit	1
+Pattern: Black Dragonscale Leggings	1
+Glimmering Flamberge of the Monkey	1
+Pagan Belt of the Whale	1
+Veteran Cloak	1
+Protector Cape	1
+Training Sword of the Monkey	1
+Sorcerer Bracelets of Intellect	1
+Insignia Belt	1
+Elder's Sash of the Eagle	1
+Carnelian Loop of Nature Resistance	1
+Recipe: Elixir of Fortitude	1
+Scorching Wand	1
+Mail Combat Headguard	1
+Huntsman's Cap of the Wolf	1
+Glyphed Bracers	1
+Hacking Cleaver of the Eagle	1
+Ballast Maul of Stamina	1
+Soldier's Gauntlets of the Whale	1
+Nightbane Staff	1
+Polished Zweihander of Agility	1
+Huntsman's Belt of the Falcon	1
+Jacinth Circle of Arcane Resistance	1
+Sage's Cloak of the Eagle	1
+Emblazoned Leggings	1
+Buccaneer's Boots of the Falcon	2
+Bard's Boots of Spirit	1
+Ivycloth Tunic of the Owl	1
+Ivycloth Robe of the Whale	1
+Sage's Mantle of Arcane Wrath	1
+Barbed Club of Nature's Wrath	1
+Pioneer Trousers of Power	1
+Training Sword of Stamina	1
+Bandit Cloak of the Owl	1
+Grizzly Gloves	1
+Primal Mitts	1
+Cryptbone Staff	1
+Sage's Boots of Stamina	1
+Formula: Enchant Shield - Lesser Protection	2
+Imperial Leather Gloves	1
+Sorcerer Cloak of Healing	1
+Nocturnal Gloves of Arcane Wrath	1
+Aurora Bracers	1
+Headhunter's Headdress of the Monkey	1
+Aboriginal Footwraps of the Whale	1
+Battlesmasher of the Monkey	1
+Tarantula Silk Sash	1
+Massive Battle Axe of the Boar	1
+Scouting Bracers of Nature's Wrath	1
+Bard's Trousers of the Eagle	1
+Gypsy Cloak	1
+Pattern: Boots of the Enchanter	1
+Pattern: Crimson Silk Shoulders	1
+Bandit Gloves of Defense	1
+Bandit Bracers of the Monkey	1
+Bandit Cloak of the Monkey	2
+Hibernal Sphere	1
+Shimmering Bracers of Fiery Wrath	1
+Ice Thistle E'ko	20
+Winterfall E'ko	60
+Formula: Enchant Bracer - Superior Strength	1
+Pattern: Stormshroud Armor	1
+Recipe: Elixir of Giants	1
+Formula: Enchant Gloves - Greater Agility	1
+Gauntlets of Elements	1
+Eye of Flame	1
+Edged Bastard Sword of the Whale	1
+Durable Hat of the Whale	1
+Shimmering Bracers of the Whale	1
+Bard's Boots of the Falcon	1
+Short Bastard Sword of the Bear	1
+Sturdy Quarterstaff of the Wolf	1
+Garneg's War Belt	1
+Sunscale Sabatons	1
+Sparkleshell Shoulder Pads of the Owl	1
+Venomshroud Cape	1
+Shimmering Gloves of the Owl	1
+Massive Battle Axe of Agility	1
+Wild Leather Shoulders of the Owl	1
+Potent Bands of Intellect	1
+Infantry Shield of the Gorilla	1
+Bard's Gloves of Spirit	1
+Defender Boots of the Eagle	1
+Mercenary Blade of Power	1
+Glimmering Cloak	2
+Buccaneer's Orb of the Falcon	1
+Bloodscalp Channeling Staff	1
+Conjurer's Bracers of Intellect	1
+Scouting Cloak of the Monkey	1
+Willow Boots of Stamina	1
+Phalanx Breastplate of the Bear	1
+Infiltrator Boots of the Wolf	1
+Veteran Girdle	1
+Formula: Enchant Bracer - Greater Stamina	1
+Huntsman's Cape of the Owl	1
+Insignia Cloak	1
+Spiked Club of the Boar	1
+Scholarly Robes	1
+Spectral Necklace of the Gorilla	1
+Dervish Tunic of Stamina	1
+Dervish Cape of the Whale	1
+Defender Cloak of the Boar	1
+Bard's Boots of the Owl	1
+Infiltrator Bracers of the Monkey	1
+Fortified Cloak of the Bear	1
+Knight's Pauldrons of the Gorilla	1
+Loose Chain Boots	1
+Cracked Buckler	1
+Pioneer Boots	1
+War Torn Tunic of the Bear	1
+Barbaric Cloth Vest	1
+War Knife of Frozen Wrath	1
+Gryphon Mail Belt of the Owl	1
+Giant Tarantula Fang	1
+Edged Bastard Sword of the Eagle	1
+Grunt's Handwraps of the Eagle	1
+Soldier's Shield of the Bear	1
+Gossamer Cape of Stamina	1
+Battering Hammer of the Bear	1
+Wrangler's Boots of the Owl	1
+Grunt's Belt of the Bear	1
+Scalping Tomahawk of Power	1
+Bandit Pants of the Eagle	1
+Buccaneer's Cape of the Owl	1
+Mystical Headwrap of Fiery Wrath	1
+Impenetrable Sabatons of the Eagle	1
+Resplendent Bracelets of the Owl	1
+Wanderer's Hat of Stamina	1
+Templar Gauntlets of Power	1
+Expert Fishing - The Bass and You	3
+Plans: Iron Counterweight	1
+Gloom Reaper of the Boar	1
+Robust Helm of the Eagle	1
+Emblazoned Bracers	1
+Feral Cloak of the Owl	1
+Gemmed Copper Gauntlets of the Eagle	2
+Gemmed Copper Gauntlets of the Whale	2
+Gemmed Copper Gauntlets of the Bear	8
+Gemmed Copper Gauntlets of Power	1
+Gemmed Copper Gauntlets of Strength	2
+Gemmed Copper Gauntlets of the Boar	1
+Curved Dagger of Strength	1
+Field Plate Girdle of the Whale	1
+Abjurer's Cloak of the Whale	1
+Regal Leggings of the Whale	1
+Revenant Boots of Stamina	1
+Lodestone Necklace of the Boar	1
+Formula: Enchant Cloak - Minor Agility	1

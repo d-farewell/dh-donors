@@ -332,10 +332,14 @@ Clam Chowder	0.01
 Crispy Lizard Tail	0.01
 Succulent Pork Ribs	0.01
 Hot Lion Chops	0.01
+Coyote Steak	0.01
 Sauteed Sunfish	0
 Hot Smoked Bass	0
 Loch Frenzy Delight	0
 Undermine Clam Chowder	0
+Roasted Boar Meat	0
+Kaldorei Spider Kabob	0
+Westfall Stew	0
 Brilliant Mana Oil	19
 Brilliant Wizard Oil	19
 Large Brilliant Shard	10
@@ -493,6 +497,7 @@ Ice Deflector	0.02
 Silver Contact	0.01
 Rough Dynamite	0.01
 Handful of Copper Bolts	0.01
+Aquadynamic Fish Lens	0.01
 Mithril Gyro-Shot	0.005
 Hi-Impact Mithril Slugs	0.002
 Crafted Solid Shot	0.001
@@ -535,11 +540,13 @@ Raw Longjaw Mud Snapper	-0.01
 Raw Bristle Whisker Catfish	-0.01
 Raw Slitherskin Mackerel	-0.01
 Raw Loch Frenzy	-0.01
+Edgemaster's Handguards	1500
 Warden Staff	220
 Jeweled Amulet of Cainwyn	200
 Bloodrazor	130
 Wall of the Dead	120
 Hanzo Sword	100
+Gut Ripper	100
 Beaststalker's Gloves	90
 Shadowcraft Belt	85
 Beguiler Robes	80
@@ -573,6 +580,7 @@ Magefist Gloves	40
 Cobalt Crusher	40
 Dreamsinger Legguards	40
 Joonho's Mercy	40
+Blanchard's Stout	40
 The Silencer	35
 Stonerender Gauntlets	35
 Stoneraven	35
@@ -590,6 +598,7 @@ Deepfury Bracers	30
 Thorbia's Gauntlets	30
 Reticulated Bone Gauntlets	30
 Harpyclaw Short Bow	30
+Mugthol's Helm	30
 Ranger Bow	25
 Eye of Adaegus	25
 Wand of Allistarj	25
@@ -599,6 +608,7 @@ The Ziggler	25
 Resplendent Guardian	25
 Heaven's Light	25
 Bludstone Hammer	25
+Searing Blade	25
 Keller's Girdle	24
 Twisted Chanter's Staff	22
 Dreadmist Belt	20
@@ -628,6 +638,7 @@ Funeral Pyre Vestment	20
 Dalewind Trousers	20
 Howling Blade	20
 Sword of Corruption	20
+Killmaim	20
 Night Watch Shortsword	18
 Julie's Dagger	18
 Broken Blade of Heroes	18
@@ -665,6 +676,7 @@ Southsea Lamp	10
 Razor's Edge	10
 Black Pearl Ring	10
 Sheepshear Mantle	10
+Deadwood Sledge	10
 Beazel's Basher	8
 Cow King's Hide	8
 Enduring Cap	8
@@ -678,11 +690,11 @@ Hellslayer Battle Axe	8
 Rod of Molten Fire	8
 Elemental Raiment	8
 Orb of Mistmantle	8
+Battlecaller Gauntlets	8
 High Bergg Helm	7
 Twisted Sabre	6
 Poison-tipped Bone Spear	6
 Silver-lined Belt	6
-Battlecaller Gauntlets	6
 Skeletal Club	5
 Bloodpike	5
 Firebane Cloak	5
@@ -697,7 +709,51 @@ Pulsating Hydra Heart	4
 Moccasins of the White Hare	3
 Starsight Tunic	3
 Double Link Tunic	3
+Naraxis' Fang	1
+Hook Dagger of Power	0.8
+Curved Dagger of Power	0.6
 Black Metal Axe	0.5
+Soldier's Wristguards of the Bear	0.5
+Goblin Screwdriver	0.5
+Carving Knife of Power	0.5
+Hide of Lupos	0.5
+Inscribed Leather Bracers	0.4
+Veteran Armor	0.4
+Northern Shortsword of Strength	0.4
+Hunting Tunic	0.4
+Burnished Bracers	0.4
+Hunting Pants	0.3
+Light Bow	0.3
+Spellbinder Vest	0.3
+Inscribed Leather Breastplate	0.3
+Hunter's Muzzle Loader	0.25
+Seer's Boots	0.25
+Raider Shortsword of Strength	0.25
+Bright Boots	0.25
+Gnoll War Harness	0.25
+Spellbinder Pants	0.2
+Heavy Shortbow	0.2
+Soldier's Armor of the Bear	0.2
+Slarkskin	0.2
+Willow Pants of the Eagle	0.2
+Staff of Horrors	0.2
+Inscribed Cloak	0.2
+Woodworking Gloves	0.2
+Rhahk'Zor's Hammer	0.2
+Notched Shortsword of Strength	0.2
+Priest's Mace of Power	0.2
+Seer's Gloves	0.15
+Hunting Bow	0.1
+Shadow Wand	0.1
+Scalping Tomahawk of Agility	0.1
+Notched Shortsword of Stamina	0.1
+Inscribed Buckler	0.1
+Burnt Leather Vest	0.1
+Stonesplinter Axe	0.1
+Soldier's Cloak	0.1
+Fire Wand	0.08
+Spellbinder Gloves	0.05
+Lumberjack Jerkin	0.02
 Green Hills of Stranglethorn - Page 24	0.13
 Green Hills of Stranglethorn - Page 11	0.13
 Green Hills of Stranglethorn - Page 27	0.12
@@ -922,6 +978,7 @@ Goretusk Liver	0.3
 Crag Boar Rib	0.2
 Tender Crab Meat	0.1
 Buzzard Wing	0.1
+Turtle Meat	0.1
 Lion Meat	0.05
 Tender Crocolisk Meat	0.05
 Stringy Vulture Meat	0.05
@@ -937,7 +994,6 @@ Tangy Clam Meat	0.02
 Mystery Meat	0.02
 Raptor Flesh	0.02
 Red Wolf Meat	0.02
-Turtle Meat	0.02
 Small Egg	0.01
 Stringy Wolf Meat	0.01
 Boar Ribs	0.01
@@ -962,17 +1018,17 @@ Blue Sapphire	8
 Azerothian Diamond	8
 Huge Emerald	1
 Moss Agate	0.7
+Dense Stone	0.5
+Mithril Bar	0.5
+Mithril Ore	0.45
 Aquamarine	0.4
 Star Ruby	0.4
 Citrine	0.4
 Dark Iron Ore	0.4
 Lesser Moonstone	0.3
 Jade	0.3
-Dense Stone	0.3
 Thorium Bar	0.25
 Thorium Ore	0.25
-Mithril Bar	0.25
-Mithril Ore	0.25
 Truesilver Bar	0.1
 Truesilver Ore	0.1
 Steel Bar	0.07
@@ -985,7 +1041,7 @@ Heavy Stone	0.04
 Iron Bar	0.04
 Solid Stone	0.04
 Iron Ore	0.04
-Coarse Stone	0.03
+Coarse Stone	0.15
 Shadowgem	0.03
 Rough Stone	0.01
 Copper Bar	0.01
@@ -1005,6 +1061,7 @@ Jungle Remedy	0.25
 Savage Frond	0.2
 Troll Tribal Necklace	0.2
 Bone Fragments	0.2
+Rethban Ore	0.2
 Incendicite Ore	0.1
 Wastewander Water Pouch	0.1
 basilisk brains	0.1
@@ -1020,7 +1077,6 @@ Un'Goro Soil	0.1
 Yellow Power Crystal	0.1
 Hi-Explosive Bomb	0.1
 Snickerfang Jowl	0.1
-Rethban Ore	0.1
 Lesser Bloodstone Ore	0.05
 Dark Iron Scraps	0.03
 Hops	0.02
@@ -1030,9 +1086,11 @@ Primal Bat Leather	10
 Devilsaur Leather	9
 Core Leather	5
 Primal Tiger Leather	2
+Red Dragonscale	2
 Perfect Deviate Scale	1
 Light Silithid Carapace	1
 Heavy Silithid Carapace	1
+Black Dragonscale	1
 Scorpid Scale	0.7
 Silithid Chitin	0.5
 Rugged Hide	0.5
@@ -1040,6 +1098,7 @@ Rugged Leather	0.3
 Warbear Leather	0.3
 Shadowcat Hide	0.3
 Worn Dragonscale	0.3
+Thick Wolfhide	0.25
 Cured Thick Hide	0.2
 Green Whelp Scale	0.15
 Slimy Murloc Scale	0.1
@@ -1250,19 +1309,19 @@ White Linen Robe	0.06
 Green Linen Bracers	0.06
 Red Linen Vest	0.06
 Brown Linen Robe	0.05
-Heavy Linen Gloves	0
 Reinforced Linen Cape	0.04
 White Linen Shirt	0.04
 Brown Linen Shirt	0.04
+Linen Cloak	0.02
+Simple Linen Pants	0.02
+Bolt of Linen Cloth	0.01
+Heavy Linen Gloves	0
 Brown Linen Vest	0
 Linen Belt	0
 Simple Linen Boots	0
 Brown Linen Pants	0
 Linen Bag	0
 Red Linen Bag	0
-Linen Cloak	0.02
-Simple Linen Pants	0.02
-Bolt of Linen Cloth	0.01
 Imbued Vial	2.8
 Rune Thread	0.48
 Star Wood	0.4
@@ -1296,6 +1355,7 @@ Dwarven Mild	0
 Red-speckled Mushroom	0
 Formula: Enchant Weapon - Crusader	300
 Parrot Cage (Hyacinth Macaw)	200
+Plans: Steel Weapon Chain	180
 Righteous Orb	80
 Nexus Crystal	50
 Blood of the Mountain	15
@@ -1314,10 +1374,12 @@ Golden Pearl	5
 Greater Eternal Essence	5
 Larval Acid	5
 Winterfall Firewater	3
+Cat Carrier (White Kitten)	3
 Recipe: Elixir of the Mongoose	2
 Pattern: Wicked Leather Bracers	2
 Essence of Undeath	2
 Dreamscale	2
+Large Knapsack	2
 Elemental Fire	1.5
 Heart of Fire	1
 Elemental Earth	1
@@ -1330,6 +1392,9 @@ Sandworm Meat	1
 Small Obsidian Shard	1
 Massive Mojo	1
 Blue Pearl	1
+Rumsey Rum Black Label	1
+Expert Cookbook	1
+Expert First Aid - Under Wraps	1
 Cresting Charm	0.8
 Evil Bat Eye	0.7
 Burning Charm	0.7
@@ -1339,6 +1404,7 @@ Banded Shield of the Tiger	0.5
 Twilight Cultist Robe	0.5
 Runn Tum Tuber	0.5
 Powerful Mojo	0.5
+Scroll of Agility III	0.5
 Elemental Water	0.4
 Small Flame Sac	0.4
 Thundering Charm	0.4
@@ -1348,16 +1414,24 @@ Glowing Scorpid Blood	0.3
 Ichor of Undeath	0.3
 Breath of Wind	0.3
 Fused Wiring	0.3
+Scroll of Spirit IV	0.3
+Schematic: Mechanical Squirrel	0.3
 Notched Shortsword of Power	0.25
+Relic Coffer Key	0.25
+Scroll of Spirit III	0.25
 Spider's Silk	0.2
 Rumsey Rum Dark	0.2
 Scroll of Stamina II	0.2
 Formula: Enchant Gloves - Skinning	0.2
 Pirate's Footlocker	0.2
+Scroll of Strength II	0.2
+Scroll of Spirit II	0.2
+Plans: Dark Iron Pulverizer	0.2
 Shadow Silk	0.18
 Scroll of Protection II	0.15
 Long Tail Feather	0.15
 Core of Earth	0.15
+Scroll of Agility	0.15
 Vibrant Plume	0.12
 Bandit Pants of the Monkey	0.12
 Core of Elements	0.1
@@ -1374,8 +1448,18 @@ Seer's Belt	0.1
 Black Diamond	0.1
 Elemental Air	0.1
 Flask of Big Mojo	0.1
+Sprouted Frond	0.1
+Scroll of Stamina	0.1
+Scroll of Strength	0.1
+Scroll of Intellect III	0.1
+Journeyman's Pants	0.1
+Heavy Kodo Meat	0.1
+Formula: Enchant Gloves - Fishing	0.1
+Torn Bear Pelt	0.1
+Large Brown Sack	0.1
 Small Lustrous Pearl	0.08
 Naga Scale	0.08
+Scroll of Spirit	0.08
 Thick Spider's Silk	0.07
 Wicked Claw	0.06
 Coarse Gorilla Hair	0.06
@@ -1385,6 +1469,9 @@ Explosive Rocket	0.05
 Packet of Tharlendris Seeds	0.05
 Knitted Sandals	0.05
 Long Elegant Feather	0.05
+Scroll of Intellect	0.05
+Scroll of Protection	0.05
+Red Leather Bag	0.05
 Tigerseye	0.04
 Small Furry Paw	0.04
 Deeprock Salt	0.03
@@ -1406,6 +1493,7 @@ Green Leather Bag	0.01
 White Leather Bag	0.01
 Blue Leather Bag	0.01
 Giant Clam Meat	0.01
+Plans: Gemmed Copper Gauntlets	0.01
 Salt	0.004
 Refreshing Spring Water	0.0025
 Feathered Arrow	0.002
@@ -1445,13 +1533,36 @@ Moon Harvest Pumpkin	0
 Dalaran Sharp	0
 Flesh Eating Worm	0
 Discolored Worg Heart	0
+Pattern: Red Linen Robe	0
+Small Brown Pouch	0
+Recipe: Elixir of Ogre's Strength	0
+Recipe: Gift of Arthas	0
+Formula: Enchant Chest - Minor Mana	0
+Pattern: Red Linen Bag	0
+Middle Map Fragment	0
+Spongy Morel	0
+Cracked Bill	0
+Melon Juice	0
+Recipe: Discolored Healing Potion	0
+Light Mail Bracers	0
+Pattern: White Leather Jerkin	0
+Formula: Enchant Bracer - Minor Strength	0
+Buzzard Talon	0
+Ripe Watermelon	0
+Small Pumpkin	0
+Cured Ham Steak	0
+Recipe: Westfall Stew	0
+Recipe: Soothing Turtle Bisque	0
+Delicious Cave Mold	0
+Recipe: Goretusk Liver Pie	0
+Upper Map Fragment	0
+Moist Cornbread	0
+Shiny Bauble	0
 Fish Oil	-0.01
 Shiny Fish Scales	-0.01
 Shellfish	-0.05
-Killmaim	20
-Mugthol's Helm	30
-Plans: Steel Weapon Chain	180
-Blanchard's Stout	40
-Searing Blade	25
-Gut Ripper	100
-Deadwood Sledge	10
+Shield of Thorsen	10
+Mountainside Buckler	10
+Eye of Flame	45
+Gauntlets of Elements	10
+Hydralick Armor	80
