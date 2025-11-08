@@ -44,6 +44,7 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
         contrib_df = pd.read_csv(f, sep="\t")
     contrib_df.to_csv("outputs/contribution_data_backup.csv", sep="\t")
     print(contrib_df.head(10))
+    print(contrib_df.shape())
     contrib_new_data = []
 
     current_datetime  = datetime.now()
@@ -128,17 +129,19 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
             print(contrib_new_row)
 
     print("New contributions df")
-    contrib_new_df = pd.DataFrame(contrib_new_data, columns=["From", "Date", "Level", "Amount"])
+    contrib_new_df = pd.DataFrame(contrib_new_data, columns=["From", "Date", "Category", "Amount"])
     print(contrib_new_df.head(10))
+    print(contrib_new_df.shape())
     contrib_new_df.to_csv("outputs/new_contrib_data.csv", sep="\t")
 
     print("Grouping:")
-    contrib_new_df['Amount'] = contrib_new_df.groupby(["From", "Date", "Level"])['Amount'].transform('sum')
+    contrib_new_df['Amount'] = contrib_new_df.groupby(["From", "Date", "Category"])['Amount'].transform('sum')
     print(contrib_new_df.head(10))
+    print(contrib_new_df.shape())
     contrib_new_df.to_csv("outputs/new_contrib_data_grouped.csv", sep="\t")
     
     print("Drop dupes:")
-    contrib_new_df = contrib_new_df.drop_duplicates(subset=["From", "Date", "Level"])
+    contrib_new_df = contrib_new_df.drop_duplicates(subset=["From", "Date", "Category"])
     print(contrib_new_df.head(10))
     contrib_new_df.to_csv("outputs/new_contrib_data_grouped.csv", sep="\t")
 
@@ -147,6 +150,7 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
     print(contrib_final_df.head(10))
     print("...")
     print(contrib_final_df.tail(10))
+    print(contrib_final_df.shape())
     contrib_final_df.to_csv("outputs/contribution_data.csv", sep="\t", index=False)
 
     for player, itemdict in tracked_donations.items():

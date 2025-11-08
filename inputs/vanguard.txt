@@ -134,3 +134,5 @@ Fifthnipple	Kmemesgroff	1106061591465689138
 Kernholio	Kmemesgroff	1106061591465689138
 Whippel	Whippel	478744293461458944
 Amarànthus	Amaranthus	298987721542598657
+Meatstealth	AjHammock	508670249499885579
+Rivendare	Rivendare	152624946043027456
