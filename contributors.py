@@ -40,7 +40,7 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
     tracked_item_vals = load_tracked()
     untracked_item_qtys = load_untracked()
 
-    with open("outputs/contribution_data.csv") as f:
+    with open("outputs/contribution_data.csv", encoding="utf_8") as f:
         contrib_df = pd.read_csv(f, sep="\t")
     contrib_df.to_csv("outputs/contribution_data_backup.csv", sep="\t")
     print(contrib_df.head(10))
