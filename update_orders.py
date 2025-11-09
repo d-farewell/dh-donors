@@ -212,7 +212,7 @@ def order_fulfillments():
             for profession in banker_record:
                 num = banker_record[profession]
                 pts = num / 2
-                f.write(f"\n{user} donated {num} {profession} items from the guild bank {pts} s\n")
+                f.write(f"\n{user} donated {num} {profession} items from the guild bank {pts*100} s\n")
 
                 channel_id = channel_ids[profession]
                 post = (channel_id, f" * **{user}** earned {pts} points!")
