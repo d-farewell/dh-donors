@@ -215,6 +215,7 @@ Barbaric Iron Boots	1	Blacksmithing
 Steel Breastplate	1	Blacksmithing
 Mithril Scale Pants	1	Blacksmithing
 Mithril Scale Bracers	1	Blacksmithing
+Golden Rod	1	Blacksmithing
 Iron Shield Spike	0.9	Blacksmithing
 Green Iron Leggings	0.9	Blacksmithing
 Golden Scale Bracers	0.9	Blacksmithing
@@ -333,6 +334,7 @@ Crispy Lizard Tail	0.01	Cooking
 Succulent Pork Ribs	0.01	Cooking
 Hot Lion Chops	0.01	Cooking
 Coyote Steak	0.01	Cooking
+Strider Stew	0.01	Cooking
 Sauteed Sunfish	0	Cooking
 Hot Smoked Bass	0	Cooking
 Loch Frenzy Delight	0	Cooking
@@ -430,6 +432,7 @@ Bright-Eye Goggles	1	Engineering
 Gnomish Cloaking Device	1	Engineering
 Catseye Ultra Goggles	1	Engineering
 Dark Iron Bomb	1	Engineering
+Unstable Trigger	1	Engineering
 Ornate Spyglass	0.9	Engineering
 Minor Recombobulator	0.8	Engineering
 Flash Bomb	0.8	Engineering
@@ -543,6 +546,7 @@ Raw Loch Frenzy	-0.01	Fishing
 Edgemaster's Handguards	1500	Gear
 Warden Staff	220	Gear
 Jeweled Amulet of Cainwyn	200	Gear
+The Eye of Shadow	150	Gear
 Bloodrazor	130	Gear
 Wall of the Dead	120	Gear
 Hanzo Sword	100	Gear
@@ -552,6 +556,7 @@ Shadowcraft Belt	85	Gear
 Beguiler Robes	80	Gear
 Robes of Insight	80	Gear
 Lord Alexander's Battle Axe	80	Gear
+Hydralick Armor	80	Gear
 Taran Icebreaker	75	Gear
 Gloves of Holy Might	60	Gear
 Pugilist Bracers	50	Gear
@@ -565,6 +570,7 @@ Black Malice	45	Gear
 Troll's Bane Leggings	45	Gear
 Sliverblade	45	Gear
 Yorgen Bracers	45	Gear
+Eye of Flame	45	Gear
 Skibi's Pendant	40	Gear
 Scarlet Chestpiece	40	Gear
 Ta'Kierthan Songblade	40	Gear
@@ -587,6 +593,7 @@ Stoneraven	35	Gear
 Speedsteel Rapier	35	Gear
 Mageflame Cloak	35	Gear
 The Needler	35	Gear
+Demonslayer	35	Gear
 Obsidian Greaves	30	Gear
 Giantslayer Bracers	30	Gear
 Firemane Leggings	30	Gear
@@ -609,6 +616,7 @@ Resplendent Guardian	25	Gear
 Heaven's Light	25	Gear
 Bludstone Hammer	25	Gear
 Searing Blade	25	Gear
+Ironpatch Blade	25	Gear
 Keller's Girdle	24	Gear
 Twisted Chanter's Staff	22	Gear
 Dreadmist Belt	20	Gear
@@ -659,6 +667,8 @@ Tanglewood Staff	15	Gear
 Guardian Blade	15	Gear
 Blackfang	15	Gear
 Archaic Defender	15	Gear
+The Black Knight	15	Gear
+Stalvan's Reaper	15	Gear
 Bearded Boneaxe	12	Gear
 Umbral Crystal	12	Gear
 Looming Gavel	12	Gear
@@ -677,6 +687,9 @@ Razor's Edge	10	Gear
 Black Pearl Ring	10	Gear
 Sheepshear Mantle	10	Gear
 Deadwood Sledge	10	Gear
+Shield of Thorsen	10	Gear
+Mountainside Buckler	10	Gear
+Gauntlets of Elements	10	Gear
 Beazel's Basher	8	Gear
 Cow King's Hide	8	Gear
 Enduring Cap	8	Gear
@@ -717,20 +730,31 @@ Soldier's Wristguards of the Bear	0.5	Gear
 Goblin Screwdriver	0.5	Gear
 Carving Knife of Power	0.5	Gear
 Hide of Lupos	0.5	Gear
+Blackwater Cutlass	0.5	Gear
+Coral Claymore	0.5	Gear
+Privateer's Cape	0.5	Gear
+Short Ash Bow	0.5	Gear
 Inscribed Leather Bracers	0.4	Gear
 Veteran Armor	0.4	Gear
 Northern Shortsword of Strength	0.4	Gear
 Hunting Tunic	0.4	Gear
 Burnished Bracers	0.4	Gear
+Forest Leather Boots	0.4	Gear
+Veteran Gloves	0.4	Gear
+Brashclaw's Skewer	0.35	Gear
 Hunting Pants	0.3	Gear
 Light Bow	0.3	Gear
 Spellbinder Vest	0.3	Gear
 Inscribed Leather Breastplate	0.3	Gear
+Warrior's Tunic	0.3	Gear
 Hunter's Muzzle Loader	0.25	Gear
 Seer's Boots	0.25	Gear
 Raider Shortsword of Strength	0.25	Gear
 Bright Boots	0.25	Gear
 Gnoll War Harness	0.25	Gear
+Inscribed Leather Belt	0.25	Gear
+Gemmed Copper Gauntlets of the Bear	0.25	Gear
+Carving Knife of Agility	0.25	Gear
 Spellbinder Pants	0.2	Gear
 Heavy Shortbow	0.2	Gear
 Soldier's Armor of the Bear	0.2	Gear
@@ -742,7 +766,12 @@ Woodworking Gloves	0.2	Gear
 Rhahk'Zor's Hammer	0.2	Gear
 Notched Shortsword of Strength	0.2	Gear
 Priest's Mace of Power	0.2	Gear
+Seer's Cape	0.2	Gear
+Burnished Cloak	0.2	Gear
+Wicked Blackjack	0.2	Gear
+Seer's Pants	0.2	Gear
 Seer's Gloves	0.15	Gear
+Opaque Wand	0.15	Gear
 Hunting Bow	0.1	Gear
 Shadow Wand	0.1	Gear
 Scalping Tomahawk of Agility	0.1	Gear
@@ -751,56 +780,44 @@ Inscribed Buckler	0.1	Gear
 Burnt Leather Vest	0.1	Gear
 Stonesplinter Axe	0.1	Gear
 Soldier's Cloak	0.1	Gear
+Blazing Wand	0.1	Gear
+Simple Blouse of the Owl	0.1	Gear
 Fire Wand	0.08	Gear
 Spellbinder Gloves	0.05	Gear
+Veteran Shield	0.05	Gear
 Lumberjack Jerkin	0.02	Gear
-Green Hills of Stranglethorn - Page 24	0.13	Green Hills
-Green Hills of Stranglethorn - Page 11	0.13	Green Hills
-Green Hills of Stranglethorn - Page 27	0.12	Green Hills
-Green Hills of Stranglethorn - Page 1	0.12	Green Hills
-Green Hills of Stranglethorn - Page 6	0.11	Green Hills
-Green Hills of Stranglethorn - Page 26	0.11	Green Hills
-Green Hills of Stranglethorn - Page 20	0.1	Green Hills
-Green Hills of Stranglethorn - Page 21	0.1	Green Hills
-Green Hills of Stranglethorn - Page 10	0.09	Green Hills
-Green Hills of Stranglethorn - Page 8	0.09	Green Hills
-Green Hills of Stranglethorn - Page 18	0.08	Green Hills
-Green Hills of Stranglethorn - Page 16	0.08	Green Hills
-Green Hills of Stranglethorn - Page 4	0.07	Green Hills
-Green Hills of Stranglethorn - Page 25	0.06	Green Hills
-Green Hills of Stranglethorn - Page 14	0.06	Green Hills
-Black Lotus	15	Herb
-Ghost Mushroom	2.5	Herb
-Mountain Silversage	2	Herb
-Gromsblood	1.5	Herb
-Sungrass	1	Herb
-Wildvine	0.8	Herb
-Grave Moss	0.75	Herb
-Wintersbite	0.7	Herb
-Blindweed	0.7	Herb
-Wild Steelbloom	0.5	Herb
-Goldthorn	0.5	Herb
-Dreamfoil	0.4	Herb
-Plaguebloom	0.4	Herb
-Icecap	0.4	Herb
-Swiftthistle	0.2	Herb
-Firebloom	0.2	Herb
-Heart of the Wild	0.15	Herb
-Briarthorn	0.1	Herb
-Stranglekelp	0.1	Herb
-Bruiseweed	0.1	Herb
-Liferoot	0.1	Herb
-Fadeleaf	0.1	Herb
-Purple Lotus	0.06	Herb
-Golden Sansam	0.06	Herb
-Earthroot	0.04	Herb
-Khadgar's Whisker	0.04	Herb
-Kingsblood	0.02	Herb
-Arthas' Tears	0.02	Herb
-Silverleaf	0.01	Herb
-Peacebloom	0.01	Herb
-Mageroyal	0.01	Herb
 Bloodvine	75	Herbalism
+Black Lotus	15	Herbalism
+Ghost Mushroom	2.5	Herbalism
+Mountain Silversage	2	Herbalism
+Gromsblood	1.5	Herbalism
+Sungrass	1	Herbalism
+Wildvine	0.8	Herbalism
+Grave Moss	0.75	Herbalism
+Wintersbite	0.7	Herbalism
+Blindweed	0.7	Herbalism
+Wild Steelbloom	0.5	Herbalism
+Goldthorn	0.5	Herbalism
+Dreamfoil	0.4	Herbalism
+Plaguebloom	0.4	Herbalism
+Icecap	0.4	Herbalism
+Swiftthistle	0.2	Herbalism
+Firebloom	0.2	Herbalism
+Heart of the Wild	0.15	Herbalism
+Briarthorn	0.1	Herbalism
+Stranglekelp	0.1	Herbalism
+Bruiseweed	0.1	Herbalism
+Liferoot	0.1	Herbalism
+Fadeleaf	0.1	Herbalism
+Purple Lotus	0.06	Herbalism
+Golden Sansam	0.06	Herbalism
+Earthroot	0.04	Herbalism
+Khadgar's Whisker	0.04	Herbalism
+Kingsblood	0.02	Herbalism
+Arthas' Tears	0.02	Herbalism
+Silverleaf	0.01	Herbalism
+Peacebloom	0.01	Herbalism
+Mageroyal	0.01	Herbalism
 Primal Batskin Jerkin	500	Leatherworking
 Blood Tiger Breastplate	150	Leatherworking
 Devilsaur Leggings	140	Leatherworking
@@ -1010,59 +1027,277 @@ Crisp Spider Meat	0.01	Meat
 Stag Meat	0.01	Meat
 Chunk of Boar Meat	0.01	Meat
 Small Spider Leg	0.01	Meat
+Arcane Crystal	25	Mining
 Dark Iron Bar	10	Mining
+Blue Sapphire	8	Mining
+Azerothian Diamond	8	Mining
 Large Opal	1	Mining
+Huge Emerald	1	Mining
+Moss Agate	0.7	Mining
+Dense Stone	0.5	Mining
+Mithril Bar	0.5	Mining
+Mithril Ore	0.45	Mining
+Aquamarine	0.4	Mining
+Star Ruby	0.4	Mining
+Citrine	0.4	Mining
+Dark Iron Ore	0.4	Mining
+Lesser Moonstone	0.3	Mining
+Jade	0.3	Mining
+Thorium Bar	0.25	Mining
+Thorium Ore	0.25	Mining
+Heavy Stone	0.15	Mining
+Coarse Stone	0.15	Mining
 Black Vitriol	0.1	Mining
-Arcane Crystal	25	Ore
-Blue Sapphire	8	Ore
-Azerothian Diamond	8	Ore
-Huge Emerald	1	Ore
-Moss Agate	0.7	Ore
-Dense Stone	0.5	Ore
-Mithril Bar	0.5	Ore
-Mithril Ore	0.45	Ore
-Aquamarine	0.4	Ore
-Star Ruby	0.4	Ore
-Citrine	0.4	Ore
-Dark Iron Ore	0.4	Ore
-Lesser Moonstone	0.3	Ore
-Jade	0.3	Ore
-Thorium Bar	0.25	Ore
-Thorium Ore	0.25	Ore
-Truesilver Bar	0.1	Ore
-Truesilver Ore	0.1	Ore
-Steel Bar	0.07	Ore
-Silver Ore	0.07	Ore
-Gold Ore	0.07	Ore
-Steel Ore	0.07	Ore
-Silver Bar	0.05	Ore
-Gold Bar	0.05	Ore
-Heavy Stone	0.15	Ore
-Iron Bar	0.04	Ore
-Solid Stone	0.04	Ore
-Iron Ore	0.04	Ore
-Coarse Stone	0.15	Ore
-Shadowgem	0.03	Ore
-Rough Stone	0.01	Ore
-Copper Bar	0.01	Ore
-Bronze Bar	0.01	Ore
-Copper Ore	0.01	Ore
-Tin Ore	0.01	Ore
-Tin Bar	0.01	Ore
-Malachite	0.01	Ore
-Indurium Ore	0.01	Ore
+Truesilver Bar	0.1	Mining
+Truesilver Ore	0.1	Mining
+Steel Bar	0.07	Mining
+Silver Ore	0.07	Mining
+Gold Ore	0.07	Mining
+Steel Ore	0.07	Mining
+Silver Bar	0.05	Mining
+Gold Bar	0.05	Mining
+Iron Bar	0.04	Mining
+Solid Stone	0.04	Mining
+Iron Ore	0.04	Mining
+Shadowgem	0.03	Mining
+Rough Stone	0.01	Mining
+Copper Bar	0.01	Mining
+Bronze Bar	0.01	Mining
+Copper Ore	0.01	Mining
+Tin Ore	0.01	Mining
+Tin Bar	0.01	Mining
+Malachite	0.01	Mining
+Indurium Ore	0.01	Mining
+Formula: Enchant Weapon - Crusader	300	Misc.
+Parrot Cage (Hyacinth Macaw)	200	Misc.
+Schematic: Sniper Scope	200	Misc.
+Plans: Steel Weapon Chain	180	Misc.
+Righteous Orb	80	Misc.
+Nexus Crystal	50	Misc.
+Blood of the Mountain	15	Misc.
+Fiery Core	15	Misc.
+Schematic: Spellpower Goggles Xtreme	12	Misc.
+Lava Core	12	Misc.
+Guardian Stone	10	Misc.
+Essence of Fire	10	Misc.
+Essence of Air	10	Misc.
+Essence of Earth	10	Misc.
+Souldarite	10	Misc.
+Living Essence	8	Misc.
+Essence of Water	8	Misc.
+Dark Rune	7	Misc.
+Golden Pearl	5	Misc.
+Greater Eternal Essence	5	Misc.
+Larval Acid	5	Misc.
+Winterfall Firewater	3	Misc.
+Cat Carrier (White Kitten)	3	Misc.
+Recipe: Elixir of the Mongoose	2	Misc.
+Pattern: Wicked Leather Bracers	2	Misc.
+Essence of Undeath	2	Misc.
+Dreamscale	2	Misc.
+Large Knapsack	2	Misc.
+Elemental Fire	1.5	Misc.
+Heart of Fire	1	Misc.
+Elemental Earth	1	Misc.
+Iridescent Pearl	1	Misc.
+Chronoboon Displacer	1	Misc.
+Lucky Charm	1	Misc.
+Scaled Leather Bracers of Agility	1	Misc.
+Plans: Volcanic Hammer	1	Misc.
+Sandworm Meat	1	Misc.
+Small Obsidian Shard	1	Misc.
+Massive Mojo	1	Misc.
+Blue Pearl	1	Misc.
+Rumsey Rum Black Label	1	Misc.
+Expert Cookbook	1	Misc.
+Expert First Aid - Under Wraps	1	Misc.
+Cresting Charm	0.8	Misc.
+Evil Bat Eye	0.7	Misc.
+Burning Charm	0.7	Misc.
+Ironweb Spider Silk	0.5	Misc.
+Wildkin E'ko	0.5	Misc.
+Banded Shield of the Tiger	0.5	Misc.
+Twilight Cultist Robe	0.5	Misc.
+Runn Tum Tuber	0.5	Misc.
+Powerful Mojo	0.5	Misc.
+Scroll of Agility III	0.5	Misc.
+Winterfall E'ko	0.5	Misc.
+Ice Thistle E'ko	0.5	Misc.
+Elemental Water	0.4	Misc.
+Small Flame Sac	0.4	Misc.
+Thundering Charm	0.4	Misc.
+Huge Venom Sac	0.4	Misc.
+Black Pearl	0.3	Misc.
+Glowing Scorpid Blood	0.3	Misc.
+Ichor of Undeath	0.3	Misc.
+Breath of Wind	0.3	Misc.
+Fused Wiring	0.3	Misc.
+Scroll of Spirit IV	0.3	Misc.
+Schematic: Mechanical Squirrel	0.3	Misc.
+Notched Shortsword of Power	0.25	Misc.
+Relic Coffer Key	0.25	Misc.
+Scroll of Spirit III	0.25	Misc.
+Spider's Silk	0.2	Misc.
+Rumsey Rum Dark	0.2	Misc.
+Scroll of Stamina II	0.2	Misc.
+Formula: Enchant Gloves - Skinning	0.2	Misc.
+Pirate's Footlocker	0.2	Misc.
+Scroll of Strength II	0.2	Misc.
+Scroll of Spirit II	0.2	Misc.
+Plans: Dark Iron Pulverizer	0.2	Misc.
+Shadow Silk	0.18	Misc.
+Scroll of Protection II	0.15	Misc.
+Long Tail Feather	0.15	Misc.
+Core of Earth	0.15	Misc.
+Scroll of Agility	0.15	Misc.
+Vibrant Plume	0.12	Misc.
+Bandit Pants of the Monkey	0.12	Misc.
+Core of Elements	0.1	Misc.
+Globe of Water	0.1	Misc.
+Large Venom Sac	0.1	Misc.
+Volatile Rum	0.1	Misc.
+Undamaged Hippogryph Feather	0.1	Misc.
+Compact Shotgun	0.1	Misc.
+Cooked Glossy Mightfish	0.1	Misc.
+Light Feather	0.1	Misc.
+Soft Bushy Tail	0.1	Misc.
+Scroll of Intellect II	0.1	Misc.
+Seer's Belt	0.1	Misc.
+Black Diamond	0.1	Misc.
+Elemental Air	0.1	Misc.
+Flask of Big Mojo	0.1	Misc.
+Sprouted Frond	0.1	Misc.
+Scroll of Stamina	0.1	Misc.
+Scroll of Strength	0.1	Misc.
+Scroll of Intellect III	0.1	Misc.
+Journeyman's Pants	0.1	Misc.
+Heavy Kodo Meat	0.1	Misc.
+Formula: Enchant Gloves - Fishing	0.1	Misc.
+Torn Bear Pelt	0.1	Misc.
+Large Brown Sack	0.1	Misc.
+Small Lustrous Pearl	0.08	Misc.
+Naga Scale	0.08	Misc.
+Scroll of Spirit	0.08	Misc.
+Thick Spider's Silk	0.07	Misc.
+Wicked Claw	0.06	Misc.
+Coarse Gorilla Hair	0.06	Misc.
+Crystal Basilisk Spine	0.05	Misc.
+Thick Murloc Scale	0.05	Misc.
+Explosive Rocket	0.05	Misc.
+Packet of Tharlendris Seeds	0.05	Misc.
+Knitted Sandals	0.05	Misc.
+Long Elegant Feather	0.05	Misc.
+Scroll of Intellect	0.05	Misc.
+Scroll of Protection	0.05	Misc.
+Red Leather Bag	0.05	Misc.
+Green Tea Leaf	0.05	Misc.
+Tigerseye	0.04	Misc.
+Small Furry Paw	0.04	Misc.
+Deeprock Salt	0.03	Misc.
+Jet Black Feather	0.03	Misc.
+Flask of Mojo	0.03	Misc.
+Incendosaur Scale	0.03	Misc.
+Large Fang	0.03	Misc.
+Thunder Lizard Tail	0.03	Misc.
+Ironfeather	0.02	Misc.
+Dark Iron Residue	0.02	Misc.
+Seasoned Wolf Kabob	0.02	Misc.
+Stormwind Seasoning Herbs	0.02	Misc.
+Exploding Shot	0.02	Misc.
+Flask of Oil	0.01	Misc.
+Sharp Claw	0.01	Misc.
+Coal	0.01	Misc.
+Small Venom Sac	0.01	Misc.
+Green Leather Bag	0.01	Misc.
+White Leather Bag	0.01	Misc.
+Blue Leather Bag	0.01	Misc.
+Giant Clam Meat	0.01	Misc.
+Plans: Gemmed Copper Gauntlets	0.01	Misc.
+Salt	0.004	Misc.
+Refreshing Spring Water	0.0025	Misc.
+Feathered Arrow	0.002	Misc.
+Snowball	0.001	Misc.
+Mild Spices	0.0008	Misc.
+Zesty Clam Meat	0	Misc.
+Murloc Eye	0	Misc.
+Wild Hog Shank	0	Misc.
+Enchanted Water	0	Misc.
+Mutton Chop	0	Misc.
+Small Green Pouch	0	Misc.
+Small Black Pouch	0	Misc.
+Small Red Pouch	0	Misc.
+Schematic: Small Seaforium Charge	0	Misc.
+Pattern: Hillman's Leather Vest	0	Misc.
+Dried King Bolete	0	Misc.
+Smooth Pebble	0	Misc.
+Nightcrawlers	0	Misc.
+Sweet Nectar	0	Misc.
+Ice Cold Milk	0	Misc.
+Raw Redgill	0	Misc.
+Haunch of Meat	0	Misc.
+Battered Junkbox	0	Misc.
+Small Blue Pouch	0	Misc.
+Holiday Spices	0	Misc.
+Enriched Manna Biscuit	0	Misc.
+Moonberry Juice	0	Misc.
+Recipe: Wildvine Potion	0	Misc.
+Plans: Copper Chain Vest	0	Misc.
+Darkclaw Lobster	0	Misc.
+Lower Map Fragment	0	Misc.
+Green Dye	0	Misc.
+Red Dye	0	Misc.
+Blood Shard	0	Misc.
+Fine Aged Cheddar	0	Misc.
+Moon Harvest Pumpkin	0	Misc.
+Dalaran Sharp	0	Misc.
+Flesh Eating Worm	0	Misc.
+Discolored Worg Heart	0	Misc.
+Pattern: Red Linen Robe	0	Misc.
+Small Brown Pouch	0	Misc.
+Recipe: Elixir of Ogre's Strength	0	Misc.
+Recipe: Gift of Arthas	0	Misc.
+Formula: Enchant Chest - Minor Mana	0	Misc.
+Pattern: Red Linen Bag	0	Misc.
+Middle Map Fragment	0	Misc.
+Spongy Morel	0	Misc.
+Cracked Bill	0	Misc.
+Melon Juice	0	Misc.
+Recipe: Discolored Healing Potion	0	Misc.
+Light Mail Bracers	0	Misc.
+Pattern: White Leather Jerkin	0	Misc.
+Formula: Enchant Bracer - Minor Strength	0	Misc.
+Buzzard Talon	0	Misc.
+Ripe Watermelon	0	Misc.
+Small Pumpkin	0	Misc.
+Cured Ham Steak	0	Misc.
+Recipe: Westfall Stew	0	Misc.
+Recipe: Soothing Turtle Bisque	0	Misc.
+Delicious Cave Mold	0	Misc.
+Recipe: Goretusk Liver Pie	0	Misc.
+Upper Map Fragment	0	Misc.
+Moist Cornbread	0	Misc.
+Shiny Bauble	0	Misc.
+Pattern: Fine Leather Boots	0	Misc.
+Recipe: Cooked Crab Claw	0	Misc.
+Fish Oil	-0.01	Misc.
+Shiny Fish Scales	-0.01	Misc.
+Shellfish	-0.05	Misc.
 Basilisk Brain	1.2	Quest
-Golden Rod	1	Blacksmithing
-Unstable Trigger	1	Engineering
 Vulture Gizzard	1	Quest
 Scorpok Pincer	0.8	Quest
 Blasted Boar Lung	0.4	Quest
+Incendicite Ore	0.4	Quest
 Jungle Remedy	0.25	Quest
 Savage Frond	0.2	Quest
 Troll Tribal Necklace	0.2	Quest
 Bone Fragments	0.2	Quest
 Rethban Ore	0.2	Quest
-Incendicite Ore	0.4	Quest
+Green Hills of Stranglethorn - Page 24	0.13	Quest
+Green Hills of Stranglethorn - Page 11	0.13	Quest
+Green Hills of Stranglethorn - Page 27	0.12	Quest
+Green Hills of Stranglethorn - Page 1	0.12	Quest
+Green Hills of Stranglethorn - Page 6	0.11	Quest
+Green Hills of Stranglethorn - Page 26	0.11	Quest
 Wastewander Water Pouch	0.1	Quest
 basilisk brains	0.1	Quest
 blasted boar lungs	0.1	Quest
@@ -1077,6 +1312,15 @@ Un'Goro Soil	0.1	Quest
 Yellow Power Crystal	0.1	Quest
 Hi-Explosive Bomb	0.1	Quest
 Snickerfang Jowl	0.1	Quest
+Green Hills of Stranglethorn - Page 20	0.1	Quest
+Green Hills of Stranglethorn - Page 21	0.1	Quest
+Green Hills of Stranglethorn - Page 10	0.09	Quest
+Green Hills of Stranglethorn - Page 8	0.09	Quest
+Green Hills of Stranglethorn - Page 18	0.08	Quest
+Green Hills of Stranglethorn - Page 16	0.08	Quest
+Green Hills of Stranglethorn - Page 4	0.07	Quest
+Green Hills of Stranglethorn - Page 25	0.06	Quest
+Green Hills of Stranglethorn - Page 14	0.06	Quest
 Lesser Bloodstone Ore	0.05	Quest
 Dark Iron Scraps	0.03	Quest
 Hops	0.02	Quest
@@ -1100,6 +1344,7 @@ Shadowcat Hide	0.3	Skinning
 Worn Dragonscale	0.3	Skinning
 Thick Wolfhide	0.25	Skinning
 Cured Thick Hide	0.2	Skinning
+Frostsaber Leather	0.2	Skinning
 Green Whelp Scale	0.15	Skinning
 Slimy Murloc Scale	0.1	Skinning
 Green Dragonscale	0.1	Skinning
@@ -1287,6 +1532,7 @@ Gray Woolen Shirt	0.25	Tailoring
 Blue Overalls	0.25	Tailoring
 White Woolen Dress	0.25	Tailoring
 Red Woolen Bag	0.25	Tailoring
+Bolt of Woolen Cloth	0.25	Tailoring
 Silk Headband	0.2	Tailoring
 Green Woolen Vest	0.2	Tailoring
 Green Woolen Bag	0.2	Tailoring
@@ -1299,7 +1545,6 @@ Barbaric Linen Vest	0.1	Tailoring
 Blue Linen Shirt	0.1	Tailoring
 Blue Linen Robe	0.1	Tailoring
 Green Linen Shirt	0.1	Tailoring
-Bolt of Woolen Cloth	0.25	Tailoring
 Blue Linen Vest	0.09	Tailoring
 Handstitched Linen Britches	0.08	Tailoring
 Simple Kilt	0.08	Tailoring
@@ -1323,6 +1568,7 @@ Brown Linen Pants	0	Tailoring
 Linen Bag	0	Tailoring
 Red Linen Bag	0	Tailoring
 Imbued Vial	2.8	Vendor
+Guild Tabard	1	Vendor
 Rune Thread	0.48	Vendor
 Star Wood	0.4	Vendor
 Pink Dye	0.24	Vendor
@@ -1353,220 +1599,6 @@ Coarse Thread	0.001	Vendor
 Freshly Baked Bread	0	Vendor
 Dwarven Mild	0	Vendor
 Red-speckled Mushroom	0	Vendor
-Formula: Enchant Weapon - Crusader	300	Misc.
-Parrot Cage (Hyacinth Macaw)	200	Misc.
-Plans: Steel Weapon Chain	180	Misc.
-Righteous Orb	80	Misc.
-Nexus Crystal	50	Misc.
-Blood of the Mountain	15	Misc.
-Fiery Core	15	Misc.
-Schematic: Spellpower Goggles Xtreme	12	Misc.
-Lava Core	12	Misc.
-Guardian Stone	10	Misc.
-Essence of Fire	10	Misc.
-Essence of Air	10	Misc.
-Essence of Earth	10	Misc.
-Souldarite	10	Misc.
-Living Essence	8	Misc.
-Essence of Water	8	Misc.
-Dark Rune	7	Misc.
-Golden Pearl	5	Misc.
-Greater Eternal Essence	5	Misc.
-Larval Acid	5	Misc.
-Winterfall Firewater	3	Misc.
-Cat Carrier (White Kitten)	3	Misc.
-Recipe: Elixir of the Mongoose	2	Misc.
-Pattern: Wicked Leather Bracers	2	Misc.
-Essence of Undeath	2	Misc.
-Dreamscale	2	Misc.
-Large Knapsack	2	Misc.
-Elemental Fire	1.5	Misc.
-Heart of Fire	1	Misc.
-Elemental Earth	1	Misc.
-Iridescent Pearl	1	Misc.
-Chronoboon Displacer	1	Misc.
-Lucky Charm	1	Misc.
-Scaled Leather Bracers of Agility	1	Misc.
-Plans: Volcanic Hammer	1	Misc.
-Sandworm Meat	1	Misc.
-Small Obsidian Shard	1	Misc.
-Massive Mojo	1	Misc.
-Blue Pearl	1	Misc.
-Rumsey Rum Black Label	1	Misc.
-Expert Cookbook	1	Misc.
-Expert First Aid - Under Wraps	1	Misc.
-Cresting Charm	0.8	Misc.
-Evil Bat Eye	0.7	Misc.
-Burning Charm	0.7	Misc.
-Ironweb Spider Silk	0.5	Misc.
-Wildkin E'ko	0.5	Misc.
-Banded Shield of the Tiger	0.5	Misc.
-Twilight Cultist Robe	0.5	Misc.
-Runn Tum Tuber	0.5	Misc.
-Powerful Mojo	0.5	Misc.
-Scroll of Agility III	0.5	Misc.
-Elemental Water	0.4	Misc.
-Small Flame Sac	0.4	Misc.
-Thundering Charm	0.4	Misc.
-Huge Venom Sac	0.4	Misc.
-Black Pearl	0.3	Misc.
-Glowing Scorpid Blood	0.3	Misc.
-Ichor of Undeath	0.3	Misc.
-Breath of Wind	0.3	Misc.
-Fused Wiring	0.3	Misc.
-Scroll of Spirit IV	0.3	Misc.
-Schematic: Mechanical Squirrel	0.3	Misc.
-Notched Shortsword of Power	0.25	Misc.
-Relic Coffer Key	0.25	Misc.
-Scroll of Spirit III	0.25	Misc.
-Spider's Silk	0.2	Misc.
-Rumsey Rum Dark	0.2	Misc.
-Scroll of Stamina II	0.2	Misc.
-Formula: Enchant Gloves - Skinning	0.2	Misc.
-Pirate's Footlocker	0.2	Misc.
-Scroll of Strength II	0.2	Misc.
-Scroll of Spirit II	0.2	Misc.
-Plans: Dark Iron Pulverizer	0.2	Misc.
-Shadow Silk	0.18	Misc.
-Scroll of Protection II	0.15	Misc.
-Long Tail Feather	0.15	Misc.
-Core of Earth	0.15	Misc.
-Scroll of Agility	0.15	Misc.
-Vibrant Plume	0.12	Misc.
-Bandit Pants of the Monkey	0.12	Misc.
-Core of Elements	0.1	Misc.
-Globe of Water	0.1	Misc.
-Large Venom Sac	0.1	Misc.
-Volatile Rum	0.1	Misc.
-Undamaged Hippogryph Feather	0.1	Misc.
-Compact Shotgun	0.1	Misc.
-Cooked Glossy Mightfish	0.1	Misc.
-Light Feather	0.1	Misc.
-Soft Bushy Tail	0.1	Misc.
-Scroll of Intellect II	0.1	Misc.
-Seer's Belt	0.1	Misc.
-Black Diamond	0.1	Misc.
-Elemental Air	0.1	Misc.
-Flask of Big Mojo	0.1	Misc.
-Sprouted Frond	0.1	Misc.
-Scroll of Stamina	0.1	Misc.
-Scroll of Strength	0.1	Misc.
-Scroll of Intellect III	0.1	Misc.
-Journeyman's Pants	0.1	Misc.
-Heavy Kodo Meat	0.1	Misc.
-Formula: Enchant Gloves - Fishing	0.1	Misc.
-Torn Bear Pelt	0.1	Misc.
-Large Brown Sack	0.1	Misc.
-Small Lustrous Pearl	0.08	Misc.
-Naga Scale	0.08	Misc.
-Scroll of Spirit	0.08	Misc.
-Thick Spider's Silk	0.07	Misc.
-Wicked Claw	0.06	Misc.
-Coarse Gorilla Hair	0.06	Misc.
-Crystal Basilisk Spine	0.05	Misc.
-Thick Murloc Scale	0.05	Misc.
-Explosive Rocket	0.05	Misc.
-Packet of Tharlendris Seeds	0.05	Misc.
-Knitted Sandals	0.05	Misc.
-Long Elegant Feather	0.05	Misc.
-Scroll of Intellect	0.05	Misc.
-Scroll of Protection	0.05	Misc.
-Red Leather Bag	0.05	Misc.
-Tigerseye	0.04	Misc.
-Small Furry Paw	0.04	Misc.
-Deeprock Salt	0.03	Misc.
-Jet Black Feather	0.03	Misc.
-Flask of Mojo	0.03	Misc.
-Incendosaur Scale	0.03	Misc.
-Large Fang	0.03	Misc.
-Thunder Lizard Tail	0.03	Misc.
-Ironfeather	0.02	Misc.
-Dark Iron Residue	0.02	Misc.
-Seasoned Wolf Kabob	0.02	Misc.
-Stormwind Seasoning Herbs	0.02	Misc.
-Exploding Shot	0.02	Misc.
-Flask of Oil	0.01	Misc.
-Sharp Claw	0.01	Misc.
-Coal	0.01	Misc.
-Small Venom Sac	0.01	Misc.
-Green Leather Bag	0.01	Misc.
-White Leather Bag	0.01	Misc.
-Blue Leather Bag	0.01	Misc.
-Giant Clam Meat	0.01	Misc.
-Plans: Gemmed Copper Gauntlets	0.01	Misc.
-Salt	0.004	Misc.
-Refreshing Spring Water	0.0025	Misc.
-Feathered Arrow	0.002	Misc.
-Snowball	0.001	Misc.
-Mild Spices	0.0008	Misc.
-Zesty Clam Meat	0	Misc.
-Murloc Eye	0	Misc.
-Wild Hog Shank	0	Misc.
-Enchanted Water	0	Misc.
-Mutton Chop	0	Misc.
-Small Green Pouch	0	Misc.
-Small Black Pouch	0	Misc.
-Small Red Pouch	0	Misc.
-Schematic: Small Seaforium Charge	0	Misc.
-Pattern: Hillman's Leather Vest	0	Misc.
-Dried King Bolete	0	Misc.
-Smooth Pebble	0	Misc.
-Nightcrawlers	0	Misc.
-Sweet Nectar	0	Misc.
-Ice Cold Milk	0	Misc.
-Raw Redgill	0	Misc.
-Haunch of Meat	0	Misc.
-Battered Junkbox	0	Misc.
-Small Blue Pouch	0	Misc.
-Holiday Spices	0	Misc.
-Enriched Manna Biscuit	0	Misc.
-Moonberry Juice	0	Misc.
-Recipe: Wildvine Potion	0	Misc.
-Plans: Copper Chain Vest	0	Misc.
-Darkclaw Lobster	0	Misc.
-Lower Map Fragment	0	Misc.
-Green Dye	0	Misc.
-Red Dye	0	Misc.
-Blood Shard	0	Misc.
-Fine Aged Cheddar	0	Misc.
-Moon Harvest Pumpkin	0	Misc.
-Dalaran Sharp	0	Misc.
-Flesh Eating Worm	0	Misc.
-Discolored Worg Heart	0	Misc.
-Pattern: Red Linen Robe	0	Misc.
-Small Brown Pouch	0	Misc.
-Recipe: Elixir of Ogre's Strength	0	Misc.
-Recipe: Gift of Arthas	0	Misc.
-Formula: Enchant Chest - Minor Mana	0	Misc.
-Pattern: Red Linen Bag	0	Misc.
-Middle Map Fragment	0	Misc.
-Spongy Morel	0	Misc.
-Cracked Bill	0	Misc.
-Melon Juice	0	Misc.
-Recipe: Discolored Healing Potion	0	Misc.
-Light Mail Bracers	0	Misc.
-Pattern: White Leather Jerkin	0	Misc.
-Formula: Enchant Bracer - Minor Strength	0	Misc.
-Buzzard Talon	0	Misc.
-Ripe Watermelon	0	Misc.
-Small Pumpkin	0	Misc.
-Cured Ham Steak	0	Misc.
-Recipe: Westfall Stew	0	Misc.
-Recipe: Soothing Turtle Bisque	0	Misc.
-Delicious Cave Mold	0	Misc.
-Recipe: Goretusk Liver Pie	0	Misc.
-Upper Map Fragment	0	Misc.
-Moist Cornbread	0	Misc.
-Shiny Bauble	0	Misc.
-Fish Oil	-0.01	Misc.
-Shiny Fish Scales	-0.01	Misc.
-Shellfish	-0.05	Misc.
-Shield of Thorsen	10	Gear
-Mountainside Buckler	10	Gear
-Eye of Flame	45	Gear
-Gauntlets of Elements	10	Gear
-Hydralick Armor	80	Gear
-Schematic: Sniper Scope	200	Misc.
-Ironpatch Blade	25	Gear
-The Eye of Shadow	150	Gear
-The Black Knight	15	Gear
+Solid Shot	0	Vendor
+Alterac Swiss	0	Vendor
+Bubbling Water	0	Vendor

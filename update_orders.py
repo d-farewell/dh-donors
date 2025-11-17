@@ -215,7 +215,7 @@ def order_fulfillments():
                 f.write(f"\n{user} donated {num} {profession} items from the guild bank {pts*100} s\n")
 
                 channel_id = channel_ids[profession]
-                post = (channel_id, f" * **{user}** earned {pts} points!")
+                post = (channel_id, f" * **{user}** earned {pts*10} points!")
                 to_post.append(post)
 
 

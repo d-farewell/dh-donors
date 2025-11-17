@@ -210,10 +210,10 @@
 55	Quest2	None	-1	Core of Elements	30
 55	Quest2	All	8	Dark Iron Scraps	30
 55	Quest2	None	-1	Savage Frond	30
-58	Quest2	None	-1	Mageweave Cloth	240
-58	Quest2	None	-1	Runecloth	240
-58	Quest2	All	8	Silk Cloth	240
-58	Quest2	All	8	Wool Cloth	240
+58	Pro	All	8	Mageweave Cloth	240
+58	Pro	All	8	Runecloth	240
+58	Pro	All	8	Silk Cloth	240
+58	Pro	All	8	Wool Cloth	240
 1	Tailoring	All	8	10 slot bags	3
 1	Tailoring	All	8	Linen Cloak	1
 2	Tailoring	None	-1	Simple Linen Pants	1

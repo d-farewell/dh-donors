@@ -105,9 +105,9 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
                         contrib_category = "Banking"
                     else:
                         contrib_category = "Misc."
-                    if not item in untracked_item_qtys:
-                        untracked_item_qtys[item] = 0
-                    untracked_item_qtys[item] += qty
+                        if not item in untracked_item_qtys:
+                            untracked_item_qtys[item] = 0
+                        untracked_item_qtys[item] += qty
 
             if name in contributors:
                 # print(f"Adding {amount} to {name}")

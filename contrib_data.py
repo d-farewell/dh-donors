@@ -73,21 +73,22 @@ def calc_rep(points):
     return f"Exalted: {points} / max!"
     
 
-def process_data():
+def process_and_post_data():
     msg_list = []
     channel_id = 1437569311186223166
     contrib_df = load_contrib_df()
 
     contrib_df["Amount"] = pd.to_numeric(contrib_df["Amount"])        # ensure it's numeric
     contrib_df["Amount"] = (contrib_df["Amount"] * 10).astype(int)  # multiply by 10, then convert to integer
-    print("Convert to points")
-    print(contrib_df.head())
-    print()
+    # print("Convert to points")
+    # print(contrib_df.head())
+    # print()
+
 
     contrib_df['Date'] = pd.to_datetime(contrib_df['Date'])
-    print("Convert to datetime")
-    print(contrib_df.head())
-    print()
+    # print("Convert to datetime")
+    # print(contrib_df.head())
+    # print()
 
     
     today = datetime.now()
@@ -102,37 +103,66 @@ def process_data():
         contributor_name_df = pd.read_csv(f, sep="\t", encoding="utf_8")
 
     contrib_df = contrib_df.merge(contributor_name_df, how="left", left_on="From", right_on="Contributor")
-    print("Add nicknames:")
-    print(contrib_df.head(10))
-    print()
+    # print("Add nicknames:")
+    # print(contrib_df.head(10))
+    # print()
+
+    
+    latest_donations = contrib_df.groupby("Nickname", as_index=False)["Date"].max()
+    # print("Get latest donations:")
+    # print(latest_donations.head(10))
+    # print("...")
+    # print(latest_donations.tail(20))
+    # print()
 
     totals = contrib_df.groupby("Nickname", as_index=False)["Amount"].sum()
-    totals = totals.sort_values("Amount", ascending=False)
+    totals = totals.sort_values("Amount", ascending=False, ignore_index=True)
     # print("Totals:")
     # print(totals.head(10))
     # print()
 
     totals["Reputation"] = totals["Amount"].apply(calc_rep)
-    print("Totals:")
-    print(totals.head(10))
-    print()
+    # print("Totals:")
+    # print(totals.head(10))
+    # print("...")
+    # print(totals.tail(20))
+    # print()
+
+
+    totals = totals.merge(latest_donations, on="Nickname", how="left")
+    # print("Totals, add latest date:")
+    # print(totals.head(10))
+    # print("...")
+    # print(totals.tail(20))
+    # print()
+
+    totals = totals[
+    (totals["Amount"] >= 3000) | (totals["Date"] >= last_week_start)
+    ]
+    # print("Filtered Totals:")
+    # print(totals.head(10))
+    # print("...")
+    # print(totals.tail(20))
+    # print()
+
 
     totals = totals[totals["Nickname"] != "Guild Bank"]
-    msg = "# All Time Top Contributors:\n"
+    msg = "# All Time Top Contributors:\n## Exalted\n"
     rep_block = "Exalted"
     for i, row in enumerate(totals.itertuples(index=False), start=1):
+        donor_rep, score_txt = row.Reputation.split(": ")
         if not rep_block in row.Reputation:
             msg_list.append(msg)
-            msg = ""
-            rep_block = row.Reputation.split(":")[0]
-        if "Neutral:" in row.Reputation:
-            msg += "\n*You need 3000 points to reach Friendly rank to show on this list! (scoreboard is WIP, this may change)*"
-            break
+            msg = f"## {donor_rep}\n"
+            rep_block = donor_rep
+        # if "Neutral:" in row.Reputation:
+        #     msg += "\n*You need 3000 points to reach Friendly rank to show on this list! (scoreboard is WIP, this may change)*"
+        #     break
         if len(msg) > 1000:
             msg_list.append(msg)
             msg = ""
 
-        msg += f"{i}. **{row.Nickname} — {row.Reputation}**\n-# "
+        msg += f"{i}. **{row.Nickname} — {score_txt}**\n-# "
         character_list = contributor_name_df.loc[
             contributor_name_df["Nickname"] == row.Nickname, "Contributor"
         ].tolist()
@@ -143,6 +173,7 @@ def process_data():
         # print()
     # print(msg)
     # print()
+    msg_list.append(msg)
     
     # send_disc_msg(msg)
     # msg_list.append(msg)
@@ -157,6 +188,7 @@ def process_data():
     # print(last_week_data.head())
     # print()
     last_week_data['Amount'] = last_week_data.groupby(["From", "Category"])['Amount'].transform('sum')
+    last_week_data = last_week_data.drop_duplicates(subset=["From", "Category"])
     # print("Last week grouped:")
     # print(last_week_data.head())
     # print()
@@ -168,33 +200,34 @@ def process_data():
     # print("Top unknowns from last week:")
     # print(unidentified)
     # print()
-    unidentified_msg = f"**Top unidentified donors this week:** {"; ".join(unidentified[:10])}"
+    unidentified_msg = f"**\nTop unidentified donors this week:** {"; ".join(unidentified[:10])}"
+    unidentified_msg += "\n*If you see your name on this list, please let us know!*"
 
     category_desc = {
-        "Alchemy": "Donations of crafted potions, elixirs, etc.",
-        "Blacksmithing": "Donations of crafted weapons, armor, etc.",
-        "Cloth": "Cloth donations",
-        "Cooking": "Donations of cooked food",
-        "Enchanting": "Donations of crafted wands, oils, etc.",
-        "Engineering": "Donations of crafted guns, bombs, etc.",
-        "First Aid": "Donations of crafted bandages and anti-venom",
-        "Fishing": "Donations of fish and rum",
-        "Gear": "Donations of gear, especially rare and epic items",
-        "Herbalism": "Donations of gathered herbs",
-        "Leatherworking": "Donations of crafted gear, armor kits, etc.",
-        "Meat": "Donations of raw meat",
-        "Mining": "Donations of ore, stones, etc.",
-        "Quest": "Quest item donations",
-        "Skinning": "Donations of leather, hides, etc.",
-        "Tailoring": "Donations of crafted gear, bags, etc.",
-        # "Community": "Community participation, particularly from #kudos messages",
+        "Alchemy": "Potions, elixirs, etc.",
+        "Blacksmithing": "Weapons, armor, etc.",
+        "Cloth": "Linen Cloth, Wool Cloth, etc.",
+        "Cooking": "Cooked food",
+        "Enchanting": "Dust, shards, oils, etc.",
+        "Engineering": "Crafted guns, bombs, etc.",
+        "First Aid": "Crafted bandages and anti-venom",
+        "Fishing": "Fish and rum",
+        "Gear": "Gear, especially rare and epic items",
+        "Herbalism": "Gathered herbs",
+        "Leatherworking": "Crafted gear, armor kits, etc.",
+        "Meat": "Raw meat",
+        "Mining": "Ore, stones, etc.",
+        "Quest": "Tradeable quest items",
+        "Skinning": "Leather, hides, etc.",
+        "Tailoring": "Crafted gear, bags, etc.",
         "Banking": "Fulfillment of leveling supply orders"
     }
 
-    msg = "# This week's top characters by category:\n\n"
+    msg = "\n# This week's top characters by category:\n\n"
     msg_list.append(msg)
     # Top contributor breakdown by category 
     groups = last_week_data.groupby('Category')
+    category_msgs = {}
     for contrib_category, category_df in groups:
         if not contrib_category in category_desc:
             print(f"Skipping category: {contrib_category}")
@@ -204,7 +237,7 @@ def process_data():
         # print(category_df.head(20))
         # print()
 
-        msg = f"**{contrib_category}:**\n*{category_desc[contrib_category]}*\n"
+        msg = f"**{contrib_category}** *({category_desc[contrib_category]})*\n"
 
         category_df['Amount'] = category_df.groupby(["From", "Category"])['Amount'].transform('sum')
         category_df = category_df.drop_duplicates(subset=["From", "Category"])
@@ -219,11 +252,33 @@ def process_data():
         # print()
 
         
-        for i, row in enumerate(category_df.head(5).itertuples(index=False), start=1):
-            msg += f"{i}. {row.From} — {row.Amount}\n"
+        for i, row in enumerate(category_df.head(3).itertuples(index=False), start=1):
+            msg += f"{i}. {row.From} — {row.Amount} points\n"
     
         # print(msg)
-        msg_list.append(msg)
+        category_msgs[contrib_category] = msg
+        # msg_list.append(msg)
+    category_order_list = [
+        "Alchemy",
+        "Blacksmithing",
+        "Cooking",
+        "Engineering",
+        "First Aid",
+        "Leatherworking",
+        "Tailoring",
+        "Cloth",
+        "Gear",
+        "Quest",
+        "Meat",
+        "Fishing",
+        "Banking",
+        "Enchanting",
+        "Herbalism",
+        "Mining",
+        "Skinning"
+    ]
+    for cat in category_order_list:
+        msg_list.append(category_msgs[cat])
         # print()
     # for m in msg_list:
     #     print(m)
@@ -255,4 +310,4 @@ def send_disc_msg(message_list, channel_id=1437569311186223166):
     client.run(DISCORD_TOKEN)
 
 
-process_data()
+# process_and_post_data()

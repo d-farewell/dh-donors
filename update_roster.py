@@ -3,6 +3,8 @@ from contributors import Contributor, process_contributions
 from csv import reader, writer
 from update_orders import expire_donor_orders, update_donor_orders, order_fulfillments
 from set_discord_roles import set_dungeon_roles
+from contrib_data import process_and_post_data
+from crafting_credit import read_craft_channel
 import logging
 
 current_roster = Roster(load_from_file="inputs/roster.txt")
@@ -52,6 +54,8 @@ current_roster.save()
 
 order_fulfillments()
 
+read_craft_channel()
+
 donors = process_contributions()
 
 # TODO this should use Roster class
@@ -67,3 +71,5 @@ with open("inputs/roster.txt", 'r', encoding="utf_8") as f:
 
 
 update_donor_orders(donors, current_roster, death_list)
+
+process_and_post_data()
