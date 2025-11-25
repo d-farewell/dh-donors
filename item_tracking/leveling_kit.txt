@@ -1,3 +1,4 @@
+Level	Category	Class(es)	n/a	Item	Qty
 1	Alchemy	Warrior, Rogue, Paladin	3	Elixir of Lion's Strength	10
 1	Alchemy	All	8	Elixir of Minor Defense	10
 1	Alchemy	Warlock	1	Weak Troll's Blood Potion	5
@@ -35,7 +36,7 @@
 42	Alchemy	All	8	Healing Potion	1
 45	Alchemy	None	-1	Major Healing Potion	5
 49	Alchemy	None	-1	Major Mana Potion	5
-1	Blacksmithing	Rogue, Warrior, Paladin	3	Rough Sharpening Stone 	20
+1	Blacksmithing	Rogue, Warrior, Paladin	3	Rough Sharpening Stone	20
 1	Blacksmithing	Warrior, Paladin, Druid	3	Rough Weightstone	20
 2	Blacksmithing	Warrior, Paladin	2	Copper Bracers	1
 2	Blacksmithing	Warrior, Paladin	2	Rough Copper Vest	1
@@ -72,7 +73,7 @@
 1	Cooking	All	8	Level 1 Food (+2)	20
 5	Cooking	Warlock, Priest, Mage, Druid, Paladin	5	Cooked Crab Claw	20
 5	Cooking	All	8	Level 5 Food (+4)	20
-10	Pro	Warlock	1	Level 10 Food (+6) 	5
+10	Pro	Warlock	1	Level 10 Food (+6)	5
 15	Cooking	All	8	Level 15 Food (+6)	20
 20	Pro	All	8	Level 20 Food (+8)	20
 25	Cooking	All	8	Level 25 Food (+8)	40
@@ -182,7 +183,7 @@
 20	Quest	None	-1	Manual: Heavy Silk Bandage	1
 20	Quest	None	-1	Manual: Mageweave Bandage	1
 20	Quest	All	8	Murloc Fin	8
-20	Quest	All	8	Rethban Ore	5
+20	Pro	All	8	Rethban Ore	5
 20	Quest	None	-1	Silk (First Aid)	170
 28	Quest	All	8	Turtle Meat	10
 33	Dhstorage	All	8	Green Hills pages	15
@@ -278,9 +279,10 @@
 49	Pro	Warlock, Mage, Priest, Druid, Paladin	5	Major Mana Potion	5
 38	Pro	Warrior, Rogue, Paladin, Druid	4	Elixir of Giants	5
 45	Pro	All	8	Major Healing Potion	5
-5	First Aid	All	8	Heavy Wool Bandage	20
+5	First Aid	None	8	Heavy Wool Bandage	20
 5	First Aid	All	8	Linen (First Aid)	200
 10	First Aid	All	8	Silk Bandage	20
 10	First Aid	All	8	Wool	20
 20	First Aid	All	8	Heavy Silk Bandage	20
 20	First Aid	All	8	Wool (Again)	20
+18	First Aid	Rogue, Warrior	2	Anti-Venom	20

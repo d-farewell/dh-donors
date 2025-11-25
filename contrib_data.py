@@ -145,7 +145,7 @@ def process_and_post_data():
     # print(totals.tail(20))
     # print()
 
-
+    # Print out all top contributors
     totals = totals[totals["Nickname"] != "Guild Bank"]
     msg = "# All Time Top Contributors:\n## Exalted\n"
     rep_block = "Exalted"
@@ -200,6 +200,8 @@ def process_and_post_data():
     # print("Top unknowns from last week:")
     # print(unidentified)
     # print()
+    print("Unidentified donors:")
+    print(unidentified)
     unidentified_msg = f"**\nTop unidentified donors this week:** {"; ".join(unidentified[:10])}"
     unidentified_msg += "\n*If you see your name on this list, please let us know!*"
 

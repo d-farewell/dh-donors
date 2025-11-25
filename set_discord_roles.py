@@ -130,7 +130,14 @@ def set_dungeon_roles(roster):
                 print(dungeon)
             # get nicknames and the dungeon roles
             for user_id, eligible_roles in disc_user_roles.items():
-                nickname = get_nickname(user_id)
+                # if user_id == "ID":
+                #     continue
+                print(user_id, eligible_roles)
+                try:
+                    nickname = get_nickname(user_id)
+                except:
+                    # TODO - not sure why but user_id is literal 'ID', should be int. users.csv header? Tried deleting header, no change.
+                    continue
                 # print(f"Checking user {nickname}: ")
                 # print(eligible_roles)
 

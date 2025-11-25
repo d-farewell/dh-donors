@@ -1,3 +1,4 @@
+Item name	Val	Category
 Flask of Petrification	50	Alchemy
 Arcanite Bar	30	Alchemy
 Elixir of Shadow Power	7	Alchemy
@@ -994,12 +995,12 @@ Great Goretusk Snout	0.4	Meat
 Goretusk Liver	0.3	Meat
 Crag Boar Rib	0.2	Meat
 Tender Crab Meat	0.1	Meat
-Buzzard Wing	0.1	Meat
+Buzzard Wing	0.2	Meat
 Turtle Meat	0.1	Meat
 Lion Meat	0.05	Meat
 Tender Crocolisk Meat	0.05	Meat
 Stringy Vulture Meat	0.05	Meat
-Crawler Claw	0.05	Meat
+Crawler Claw	0.15	Meat
 Raw Greater Sagefish	0.04	Meat
 Gooey Spider Leg	0.03	Meat
 Lean Wolf Flank	0.03	Meat
@@ -1215,7 +1216,7 @@ Giant Clam Meat	0.01	Misc.
 Plans: Gemmed Copper Gauntlets	0.01	Misc.
 Salt	0.004	Misc.
 Refreshing Spring Water	0.0025	Misc.
-Feathered Arrow	0.002	Misc.
+Feathered Arrow	0.01	Misc.
 Snowball	0.001	Misc.
 Mild Spices	0.0008	Misc.
 Zesty Clam Meat	0	Misc.
@@ -1291,7 +1292,7 @@ Jungle Remedy	0.25	Quest
 Savage Frond	0.2	Quest
 Troll Tribal Necklace	0.2	Quest
 Bone Fragments	0.2	Quest
-Rethban Ore	0.2	Quest
+Rethban Ore	0.2	Mining
 Green Hills of Stranglethorn - Page 24	0.13	Quest
 Green Hills of Stranglethorn - Page 11	0.13	Quest
 Green Hills of Stranglethorn - Page 27	0.12	Quest
@@ -1304,12 +1305,12 @@ blasted boar lungs	0.1	Quest
 scorpok pincers	0.1	Quest
 snickerfang jowls	0.1	Quest
 Vulture Gizzards	0.1	Quest
-Blue Power Crystal	0.1	Quest
-Green Power Crystal	0.1	Quest
-Morrowgrain	0.1	Quest
-Red Power Crystal	0.1	Quest
-Un'Goro Soil	0.1	Quest
-Yellow Power Crystal	0.1	Quest
+Blue Power Crystal	0.3	Quest
+Green Power Crystal	0.3	Quest
+Morrowgrain	0.5	Quest
+Red Power Crystal	0.3	Quest
+Un'Goro Soil	0.3	Quest
+Yellow Power Crystal	0.3	Quest
 Hi-Explosive Bomb	0.1	Quest
 Snickerfang Jowl	0.1	Quest
 Green Hills of Stranglethorn - Page 20	0.1	Quest
@@ -1602,3 +1603,7 @@ Red-speckled Mushroom	0	Vendor
 Solid Shot	0	Vendor
 Alterac Swiss	0	Vendor
 Bubbling Water	0	Vendor
+Pattern: Stormshroud Gloves	15	Misc.
+Forgotten Wraps	15	Gear
+Brawler Gloves	15	Gear
+Ring of the Underwood	75	Gear

@@ -29,6 +29,8 @@ def load_tracked(filename="item_tracking/tracked_items.txt"):
     with open(filename, 'r', encoding="utf_8") as f:
         r = reader(f, delimiter='\t')
         for itemname, val, category in r:
+            if val == "Val":
+                continue
             tracked_list[itemname] = (category, float(val))
     return tracked_list
 

@@ -7,6 +7,8 @@ from contrib_data import process_and_post_data
 from crafting_credit import read_craft_channel
 import logging
 
+# process_and_post_data()
+
 current_roster = Roster(load_from_file="inputs/roster.txt")
 # r = Roster()
 previous_roster = Roster(load_from_file="outputs/roster_latest.txt")
@@ -34,7 +36,6 @@ logging.info(f"Graveyard: {death_list}")
 set_dungeon_roles(current_roster)
 expire_donor_orders(current_roster)
 
-current_roster.save()
 
 # interest = [
 #     r.characters["Bloodknife"],
@@ -73,3 +74,4 @@ with open("inputs/roster.txt", 'r', encoding="utf_8") as f:
 update_donor_orders(donors, current_roster, death_list)
 
 process_and_post_data()
+current_roster.save()
