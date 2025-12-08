@@ -305,6 +305,8 @@ def update_donor_orders(donors, roster, death_list):
                     # Alts closer to 60 often don't need supplies
                     non_recipients.add(donor_name)
                 continue
+            if item_level == "Level":
+                continue
             item_level = float(item_level)
             if item_level > donor.level * 0.9 + 9:
                 continue

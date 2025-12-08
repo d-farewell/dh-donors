@@ -15,11 +15,11 @@ Hammerforth heartseeked Lunashosanna.
 Name Formatting
 ```
 
-All names must be reduced to a single word with no whitespace.
+All names must be reduced to a single word with no whitespace. Character names must be lowercase, except for the first letter, which must be capital.
 
-Example: Angry Gary → AngryGary
+Example: Angry Gary → Angrygary
 
-This applies to both Discord handles and character names.
+Removal of spaces applies to both Discord handles and character names. Discord handles can maintain their capitalization.
 
 Example: @ItsmeClear  Vixinator  → ItsmeClear/Vixinator 
 
@@ -70,7 +70,7 @@ Lunashosanna ran DME with ItsmeClear/Vixinator
 Lunashosanna ran DME with Sonragon/Buodicca
 Lunashosanna ran DME
 Oominaughty tanked DME
-McDilda healed DME
+Mcdilda healed DME
 Lunashosanna posted team info for DME run
 Lunashosanna led a DME run
 ```

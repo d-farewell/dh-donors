@@ -547,6 +547,7 @@ Raw Loch Frenzy	-0.01	Fishing
 Edgemaster's Handguards	1500	Gear
 Warden Staff	220	Gear
 Jeweled Amulet of Cainwyn	200	Gear
+Sapphiron's Scale Boots	180	Gear
 The Eye of Shadow	150	Gear
 Bloodrazor	130	Gear
 Wall of the Dead	120	Gear
@@ -559,6 +560,8 @@ Robes of Insight	80	Gear
 Lord Alexander's Battle Axe	80	Gear
 Hydralick Armor	80	Gear
 Taran Icebreaker	75	Gear
+Ring of the Underwood	75	Gear
+Ardent Custodian	70	Gear
 Gloves of Holy Might	60	Gear
 Pugilist Bracers	50	Gear
 Kaleidoscope Chain	50	Gear
@@ -648,6 +651,8 @@ Dalewind Trousers	20	Gear
 Howling Blade	20	Gear
 Sword of Corruption	20	Gear
 Killmaim	20	Gear
+Thornstone Sledgehammer	20	Gear
+Girdle of Golem Strength	20	Gear
 Night Watch Shortsword	18	Gear
 Julie's Dagger	18	Gear
 Broken Blade of Heroes	18	Gear
@@ -670,6 +675,8 @@ Blackfang	15	Gear
 Archaic Defender	15	Gear
 The Black Knight	15	Gear
 Stalvan's Reaper	15	Gear
+Forgotten Wraps	15	Gear
+Brawler Gloves	15	Gear
 Bearded Boneaxe	12	Gear
 Umbral Crystal	12	Gear
 Looming Gavel	12	Gear
@@ -994,13 +1001,13 @@ White Spider Meat	0.4	Meat
 Great Goretusk Snout	0.4	Meat
 Goretusk Liver	0.3	Meat
 Crag Boar Rib	0.2	Meat
-Tender Crab Meat	0.1	Meat
 Buzzard Wing	0.2	Meat
+Crawler Claw	0.15	Meat
+Tender Crab Meat	0.1	Meat
 Turtle Meat	0.1	Meat
 Lion Meat	0.05	Meat
 Tender Crocolisk Meat	0.05	Meat
 Stringy Vulture Meat	0.05	Meat
-Crawler Claw	0.15	Meat
 Raw Greater Sagefish	0.04	Meat
 Gooey Spider Leg	0.03	Meat
 Lean Wolf Flank	0.03	Meat
@@ -1046,6 +1053,7 @@ Lesser Moonstone	0.3	Mining
 Jade	0.3	Mining
 Thorium Bar	0.25	Mining
 Thorium Ore	0.25	Mining
+Rethban Ore	0.2	Mining
 Heavy Stone	0.15	Mining
 Coarse Stone	0.15	Mining
 Black Vitriol	0.1	Mining
@@ -1074,9 +1082,12 @@ Parrot Cage (Hyacinth Macaw)	200	Misc.
 Schematic: Sniper Scope	200	Misc.
 Plans: Steel Weapon Chain	180	Misc.
 Righteous Orb	80	Misc.
+Pattern: Truefaith Vestments	75	Misc.
 Nexus Crystal	50	Misc.
+Schematic: Thorium Shells	30	Misc.
 Blood of the Mountain	15	Misc.
 Fiery Core	15	Misc.
+Pattern: Stormshroud Gloves	15	Misc.
 Schematic: Spellpower Goggles Xtreme	12	Misc.
 Lava Core	12	Misc.
 Guardian Stone	10	Misc.
@@ -1113,6 +1124,8 @@ Rumsey Rum Black Label	1	Misc.
 Expert Cookbook	1	Misc.
 Expert First Aid - Under Wraps	1	Misc.
 Cresting Charm	0.8	Misc.
+Scroll of Strength III	0.8	Misc.
+Scroll of Stamina III	0.8	Misc.
 Evil Bat Eye	0.7	Misc.
 Burning Charm	0.7	Misc.
 Ironweb Spider Silk	0.5	Misc.
@@ -1124,6 +1137,8 @@ Powerful Mojo	0.5	Misc.
 Scroll of Agility III	0.5	Misc.
 Winterfall E'ko	0.5	Misc.
 Ice Thistle E'ko	0.5	Misc.
+Scroll of Spirit IV	0.5	Misc.
+Scroll of Protection III	0.5	Misc.
 Elemental Water	0.4	Misc.
 Small Flame Sac	0.4	Misc.
 Thundering Charm	0.4	Misc.
@@ -1133,11 +1148,10 @@ Glowing Scorpid Blood	0.3	Misc.
 Ichor of Undeath	0.3	Misc.
 Breath of Wind	0.3	Misc.
 Fused Wiring	0.3	Misc.
-Scroll of Spirit IV	0.3	Misc.
 Schematic: Mechanical Squirrel	0.3	Misc.
+Scroll of Spirit III	0.3	Misc.
 Notched Shortsword of Power	0.25	Misc.
 Relic Coffer Key	0.25	Misc.
-Scroll of Spirit III	0.25	Misc.
 Spider's Silk	0.2	Misc.
 Rumsey Rum Dark	0.2	Misc.
 Scroll of Stamina II	0.2	Misc.
@@ -1146,6 +1160,8 @@ Pirate's Footlocker	0.2	Misc.
 Scroll of Strength II	0.2	Misc.
 Scroll of Spirit II	0.2	Misc.
 Plans: Dark Iron Pulverizer	0.2	Misc.
+Sprouted Frond	0.2	Misc.
+Scroll of Intellect III	0.2	Misc.
 Shadow Silk	0.18	Misc.
 Scroll of Protection II	0.15	Misc.
 Long Tail Feather	0.15	Misc.
@@ -1167,10 +1183,8 @@ Seer's Belt	0.1	Misc.
 Black Diamond	0.1	Misc.
 Elemental Air	0.1	Misc.
 Flask of Big Mojo	0.1	Misc.
-Sprouted Frond	0.1	Misc.
 Scroll of Stamina	0.1	Misc.
 Scroll of Strength	0.1	Misc.
-Scroll of Intellect III	0.1	Misc.
 Journeyman's Pants	0.1	Misc.
 Heavy Kodo Meat	0.1	Misc.
 Formula: Enchant Gloves - Fishing	0.1	Misc.
@@ -1214,9 +1228,9 @@ White Leather Bag	0.01	Misc.
 Blue Leather Bag	0.01	Misc.
 Giant Clam Meat	0.01	Misc.
 Plans: Gemmed Copper Gauntlets	0.01	Misc.
+Feathered Arrow	0.01	Misc.
 Salt	0.004	Misc.
 Refreshing Spring Water	0.0025	Misc.
-Feathered Arrow	0.01	Misc.
 Snowball	0.001	Misc.
 Mild Spices	0.0008	Misc.
 Zesty Clam Meat	0	Misc.
@@ -1280,19 +1294,25 @@ Moist Cornbread	0	Misc.
 Shiny Bauble	0	Misc.
 Pattern: Fine Leather Boots	0	Misc.
 Recipe: Cooked Crab Claw	0	Misc.
+Frog Leg Stew	0	Misc.
 Fish Oil	-0.01	Misc.
 Shiny Fish Scales	-0.01	Misc.
 Shellfish	-0.05	Misc.
 Basilisk Brain	1.2	Quest
 Vulture Gizzard	1	Quest
 Scorpok Pincer	0.8	Quest
+Morrowgrain	0.5	Quest
 Blasted Boar Lung	0.4	Quest
 Incendicite Ore	0.4	Quest
+Blue Power Crystal	0.3	Quest
+Green Power Crystal	0.3	Quest
+Red Power Crystal	0.3	Quest
+Un'Goro Soil	0.3	Quest
+Yellow Power Crystal	0.3	Quest
 Jungle Remedy	0.25	Quest
 Savage Frond	0.2	Quest
 Troll Tribal Necklace	0.2	Quest
 Bone Fragments	0.2	Quest
-Rethban Ore	0.2	Mining
 Green Hills of Stranglethorn - Page 24	0.13	Quest
 Green Hills of Stranglethorn - Page 11	0.13	Quest
 Green Hills of Stranglethorn - Page 27	0.12	Quest
@@ -1305,12 +1325,6 @@ blasted boar lungs	0.1	Quest
 scorpok pincers	0.1	Quest
 snickerfang jowls	0.1	Quest
 Vulture Gizzards	0.1	Quest
-Blue Power Crystal	0.3	Quest
-Green Power Crystal	0.3	Quest
-Morrowgrain	0.5	Quest
-Red Power Crystal	0.3	Quest
-Un'Goro Soil	0.3	Quest
-Yellow Power Crystal	0.3	Quest
 Hi-Explosive Bomb	0.1	Quest
 Snickerfang Jowl	0.1	Quest
 Green Hills of Stranglethorn - Page 20	0.1	Quest
@@ -1548,13 +1562,13 @@ Blue Linen Robe	0.1	Tailoring
 Green Linen Shirt	0.1	Tailoring
 Blue Linen Vest	0.09	Tailoring
 Handstitched Linen Britches	0.08	Tailoring
-Simple Kilt	0.08	Tailoring
 Red Linen Shirt	0.08	Tailoring
 Red Linen Robe	0.06	Tailoring
 White Linen Robe	0.06	Tailoring
 Green Linen Bracers	0.06	Tailoring
 Red Linen Vest	0.06	Tailoring
 Brown Linen Robe	0.05	Tailoring
+Simple Kilt	0.04	Tailoring
 Reinforced Linen Cape	0.04	Tailoring
 White Linen Shirt	0.04	Tailoring
 Brown Linen Shirt	0.04	Tailoring
@@ -1603,7 +1617,8 @@ Red-speckled Mushroom	0	Vendor
 Solid Shot	0	Vendor
 Alterac Swiss	0	Vendor
 Bubbling Water	0	Vendor
-Pattern: Stormshroud Gloves	15	Misc.
-Forgotten Wraps	15	Gear
-Brawler Gloves	15	Gear
-Ring of the Underwood	75	Gear
+Sickle Axe	50	Gear
+Pattern: Devilsaur Gauntlets	5	Misc.
+Pattern: Living Leggings	1	Misc.
+Plans: Golden Scale Shoulders	1	Misc.
+Assault Band	45	Gear

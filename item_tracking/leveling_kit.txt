@@ -1,4 +1,3 @@
-Level	Category	Class(es)	n/a	Item	Qty
 1	Alchemy	Warrior, Rogue, Paladin	3	Elixir of Lion's Strength	10
 1	Alchemy	All	8	Elixir of Minor Defense	10
 1	Alchemy	Warlock	1	Weak Troll's Blood Potion	5
@@ -223,7 +222,7 @@ Level	Category	Class(es)	n/a	Item	Qty
 7	Tailoring	Mage, Priest, Warlock	3	Green Linen Bracers	1
 7	Tailoring	Priest, Warlock	2	Red Linen Vest	1
 7	Tailoring	All	8	Reinforced Linen Cape	1
-9	Tailoring	None	-1	Handstitched Linen Britches	1
+9	Tailoring	Mage, Priest, Warlock	-1	Handstitched Linen Britches	1
 10	Tailoring	All	8	12 slot bag (lvl 10)	1
 10	Tailoring	None	-1	Simple Kilt	1
 11	Tailoring	None	-1	Soft-soled Linen Boots	1

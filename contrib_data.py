@@ -70,7 +70,31 @@ def calc_rep(points):
         return f"Revered: {points} / 21000"
     points -= 21000
     
-    return f"Exalted: {points} / max!"
+    if points < 50000:
+        return f"Exalted: {points} / 50000"
+    points -= 50000
+    
+    if points < 50000:
+        return f"Exalted - Prestige I: {points} / 50000"
+    points -= 50000
+    
+    if points < 50000:
+        return f"Exalted - Prestige II: {points} / 50000"
+    points -= 50000
+    
+    if points < 50000:
+        return f"Exalted - Prestige III: {points} / 50000"
+    points -= 50000
+    
+    if points < 50000:
+        return f"Exalted - Prestige IV: {points} / 50000"
+    points -= 50000
+    
+    if points < 50000:
+        return f"Exalted - Prestige V: {points} / 50000"
+    points -= 50000
+    
+    return f"Too high to track: {points} above max!"
     
 
 def process_and_post_data():
