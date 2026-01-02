@@ -158,7 +158,7 @@ def set_dungeon_roles(roster):
         if channel:
             # Delete old report
             async for msg in channel.history(limit=10):
-                if msg.author.display_name == "bot":
+                if msg.author.display_name == "bot" or msg.author.display_name == "Greatfather Winter":
                     await msg.delete()
             for dungeoneer_msg in dungeoneer_report_msg_list:
                 await channel.send(dungeoneer_msg)

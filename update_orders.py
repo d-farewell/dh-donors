@@ -133,7 +133,7 @@ def order_fulfillments():
 
                 # Only look at posts that were made by the bot
                 poster = msg.author.display_name
-                if not poster == "bot":
+                if not (poster == "bot" or msg.author.display_name == "Greatfather Winter"):
                     continue
 
                 # Don't delete scoring posts

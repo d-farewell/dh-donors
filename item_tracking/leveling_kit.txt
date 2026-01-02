@@ -1,3 +1,4 @@
+Level	Category	Class(es)	n/a	Item	Qty
 1	Alchemy	Warrior, Rogue, Paladin	3	Elixir of Lion's Strength	10
 1	Alchemy	All	8	Elixir of Minor Defense	10
 1	Alchemy	Warlock	1	Weak Troll's Blood Potion	5
@@ -75,7 +76,7 @@
 10	Pro	Warlock	1	Level 10 Food (+6)	5
 15	Cooking	All	8	Level 15 Food (+6)	20
 20	Pro	All	8	Level 20 Food (+8)	20
-25	Cooking	All	8	Level 25 Food (+8)	40
+25	Cooking	All	8	Level 25 Food (+8)	20
 35	Pro	All	8	Level 35 Food (+12)	20
 40	Cooking	All	8	Level 40 Food (+12)	20
 48	Cooking	All	8	Barbecued Buzzard Wing	10
@@ -215,7 +216,7 @@
 58	Pro	All	8	Silk Cloth	240
 58	Pro	All	8	Wool Cloth	240
 1	Tailoring	All	8	10 slot bags	3
-1	Tailoring	All	8	Linen Cloak	1
+1	Tailoring	None	8	Linen Cloak	1
 2	Tailoring	None	-1	Simple Linen Pants	1
 5	Tailoring	None	-1	Red Linen Robe	1
 5	Tailoring	Mage, Priest, Warlock	3	Red/White Linen Robe	1
@@ -226,7 +227,7 @@
 10	Tailoring	All	8	12 slot bag (lvl 10)	1
 10	Tailoring	None	-1	Simple Kilt	1
 11	Tailoring	None	-1	Soft-soled Linen Boots	1
-11	Tailoring	All	8	Woolen Cape	1
+11	Tailoring	None	8	Woolen Cape	1
 12	Tailoring	Mage, Priest, Warlock	3	Heavy Woolen Gloves	1
 14	Tailoring	Mage, Priest, Warlock, Druid	4	Pearl-clasped Cloak	1
 16	Tailoring	Mage, Warlock	2	Gray Woolen Robe	1
@@ -285,3 +286,5 @@
 20	First Aid	All	8	Heavy Silk Bandage	20
 20	First Aid	All	8	Wool (Again)	20
 18	First Aid	Rogue, Warrior	2	Anti-Venom	20
+12	Cooking	None	8	Gingerbread Cookie	5
+12	Cooking	None	8	Ice Cold Milk	1

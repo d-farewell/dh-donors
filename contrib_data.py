@@ -323,7 +323,7 @@ def send_disc_msg(message_list, channel_id=1437569311186223166):
         # print(f'Logged in as {client.user}')
         if channel:
             async for msg in channel.history(limit=50):
-                if msg.author.display_name == "bot":
+                if msg.author.display_name == "bot"  or msg.author.display_name == "Greatfather Winter":
                     await msg.delete()
             for message in message_list:
                 await channel.send(message)
