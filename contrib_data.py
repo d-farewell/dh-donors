@@ -163,6 +163,7 @@ def process_and_post_data():
     totals = totals[
     (totals["Amount"] >= 3000) | (totals["Date"] >= last_week_start)
     ]
+    totals = totals[(totals["Amount"] > 0)]
     # print("Filtered Totals:")
     # print(totals.head(10))
     # print("...")

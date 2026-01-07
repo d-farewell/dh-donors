@@ -11526,3 +11526,476 @@ Eilaurowen donated 1x Minor Mana Potion; 1x Hops; 3x Flask of Oil; 1x Lesser Hea
 Chezzyfolwr donated 1x Rough Bronze Shoulders; 1x Rough Bronze Leggings; 1x Rough Bronze Cuirass;
 Burninglove donated 40x Peacebloom; 73x Copper Bar; 20x Kingsblood; 20x Liferoot; 20x Briarthorn; 23x Mageroyal; 9x Swiftthistle;
 Snowshoe donated 6x Buzzard Wing; 2x Thick Hide; 2x Mystery Meat; 4x Giant Egg;
+Lireala crafted 8 azure silk belts
+Lireala crafted 4 shadow weave pants
+Lireala crafted 10 spider belts
+Lireala crafted 11 woolen boots
+Lireala crafted 6 green silken shoulders
+Lireala crafted 7 gray woolen robes
+Lireala crafted 9 enchanter's cowl
+Lireala crafted 9 woolen gloves
+Gheralt crafted 29 Standard Scope
+Gheralt crafted 10 Deadly Blunderbuss
+Gheralt crafted 10 Copper tube
+Gheralt crafted 20 Mithril Casing
+Gheralt crafted 40 Bronze Tube
+Lireala crafted 8 green silken shoulders
+Lireala crafted 4 shadow weave pants
+Lireala crafted 14 reinforced linen capes
+Lireala crafted 12 woolen capes
+Lireala crafted 10 mageweave bags
+Lireala crafted 2 mooncloth bagsMireadon donated 6x Fish Oil; 1x Small Lustrous Pearl; 13x Wool Cloth; 5x Murloc Eye; 5x Murloc Fin; 9x Shiny Fish Scales; 12x Linen Cloth; 3x Tender Crocolisk Meat; 1x Lean Wolf Flank; 1x Tiger Meat; 1x Large Fang; 1x Mystery Meat;
+Burninator donated 12x Tasty Lion Steak; 9x Greater Healing Potion; 15x Greater Mana Potion; 100x Volatile Rum; 25x Superior Healing Potion; 5x Wastewander Water Pouch; 8x Okra; 8x Flask of Oil; 1x Bolt of Silk Cloth; 7x Mana Potion;
+Azaelios donated 9x Clam Meat; 3x Crawler Meat; 13x Rough Stone; 7x Copper Ore; 8x Tin Ore; 7x Coarse Stone; 31x Iron Bar; 50x Silver Bar; 6x Small Lustrous Pearl; 4x Truesilver Bar; 1x Malachite; 2x Moss Agate; 1x Shadowgem; 62x Heavy Linen Bandage; 1x Linen Cloth; 13x Copper Bar;
+Kontigo donated 2x Lesser Healing Potion; 3x Longjaw Mud Snapper; 1x Small Furry Paw; 159x Linen Cloth; 127x Light Leather; 6x Ruined Leather Scraps; 14x Medium Leather; 4x Light Hide; 7x Copper Ore; 3x Rough Stone; 3x Strider Meat; 1x Reinforced Linen Cape; 62x Heavy Linen Bandage; 30x Heavy Wool Bandage; 1x Guild Tabard; 80x Chunk of Boar Meat; 36x Bronze Bar; 16x Copper Bar; 32x Linen Bandage; 54x Wool Bandage; 8x Minor Healing Potion;
+Snowmelt donated 2x Small Spider Leg; 56x Linen Cloth; 29x Peacebloom; 17x Rough Stone; 41x Silverleaf; 2x Lesser Healing Potion; 1x Minor Mana Potion; 1x Shadowgem; 30x Copper Bar; 3x Earthroot; 1x Stringy Wolf Meat; 4x Bolt of Linen Cloth; 1x Malachite;
+Santajohanna donated 1x Gnoll War Harness; 1x Inscribed Cloak; 2x Recipe: Rage Potion; 5x Tough Condor Meat; 5x Great Goretusk Snout; 4x Murloc Eye; 1x Small Venom Sac; 20x Elixir of Wisdom; 7x Goretusk Snout; 12x Clam Meat; 5x Slimy Murloc Scale; 5x Murloc Fin; 1x Veteran Armor; 1x Tigerseye; 1x Stringy Vulture Meat; 1x Crisp Spider Meat;
+Gheralt donated 1x Snowman Kit; 10x Superior Healing Potion; 5x Red Wolf Meat; 37x Thick Leather; 1x Tender Wolf Meat; 10x Anti-Venom; 3x Wicked Claw; 5x Rugged Leather; 7x Scorpid Scale; 1x Thick Hide; 1x Heavy Hide; 9x Heavy Leather; 1x Heart of the Wild; 10x Mystery Meat; 5x Raptor Flesh;
+Elyas donated 5x Greater Healing Potion; 2x Scroll of Strength; 1x Scroll of Spirit II; 2x Scroll of Protection II; 1x Scroll of Stamina II;
+Lews donated 1x Blindweed; 1x Liferoot; 2x Kingsblood; 3x Briarthorn; 4x Earthroot; 1x Citrine; 12x Morrowgrain; 1x Light Feather; 3x Stringy Vulture Meat;
+Loopidru donated 4x Minor Healing Potion; 3x Scroll of Stamina; 40x Medium Leather; 80x Light Leather; 20x Briarthorn; 37x Peacebloom; 14x Silverleaf; 10x Light Hide; 10x Murloc Eye; 2x Okra;
+Aginor donated 41x Copper Ore; 53x Rough Stone; 1x Clam Meat; 2x Coarse Stone; 1x Murloc Fin; 1x Stringy Vulture Meat; 5x Okra; 7x Hops; 10x Minor Mana Potion; 1x Woolen Boots; 1x Green Silk Pack; 1x Small Spider Leg; 88x Linen Cloth; 1x Goretusk Liver Pie; 20x Cooked Crab Claw; 2x Tigerseye; 6x Earthroot; 53x Wool Cloth; 1x Lesser Healing Potion; 20x Bronze Bar; 3x Copper Bar; 3x Chunk of Boar Meat; 1x Bear Meat;
+Gabreal donated 5x Goretusk Liver; 4x Boar Intestines; 33x Spider Ichor; 9x Goretusk Snout; 14x Murloc Eye; 2x Flask of Oil; 1x Moist Cornbread; 3x Okra; 2x Hops; 7x Small Egg; 3x Stringy Vulture Meat; 1x Tough Condor Meat; 20x Chunk of Boar Meat; 3x Lean Wolf Flank; 5x Great Goretusk Snout; 3x Boar Ribs; 4x Bear Meat; 11x Gooey Spider Leg; 17x Crisp Spider Meat; 6x Small Venom Sac; 1x Moss Agate; 130x Linen Cloth; 3x Heavy Linen Bandage;
+Bloodknife donated 1x Plans: Edge of Winter; 1x Pattern: Gloves of the Greatfather; 32x Jungle Remedy;
+Deves donated 10x Crocolisk Gumbo; 15x Carrion Surprise; 15x Gingerbread Cookie;
+Osoro donated 1x Moss Agate; 23x Medium Leather; 2x Bolt of Silk Cloth; 10x Bolt of Woolen Cloth; 80x Wool Cloth; 55x Linen Cloth; 2x Gold Bar; 1x Small Lustrous Pearl; 15x Peacebloom; 25x Silverleaf; 1x Earthroot; 5x Copper Ore; 1x Short Ash Bow; 6x Heavy Leather; 20x Mageroyal; 1x Spellbinder Robe; 1x Spellbinder Orb;
+Devesmeat donated 22x Zesty Clam Meat; 18x Jungle Stew; 50x Herb Baked Egg; 10x Redridge Goulash; 13x Crocolisk Gumbo; 14x Hot Wolf Ribs; 10x Hot Lion Chops; 12x Dry Pork Ribs; 11x Carrion Surprise; 4x Tender Wolf Steak;
+Cerydra donated 261x Wool Cloth; 443x Linen Cloth; 13x Crawler Claw; 6x Small Furry Paw; 29x Small Egg; 7x Strider Meat; 19x Crawler Meat; 86x Clam Meat; 8x Stringy Vulture Meat; 58x Murloc Eye; 20x Bear Meat; 39x Chunk of Boar Meat; 26x Spider Ichor; 2x Crocolisk Meat; 6x Boar Ribs; 24x Light Leather; 17x Lean Wolf Flank; 19x Slimy Murloc Scale; 58x Tangy Clam Meat; 7x Large Venom Sac; 3x Lesser Healing Potion; 4x Flask of Oil; 2x Tough Condor Meat; 17x Murloc Fin; 14x Gooey Spider Leg; 37x Raptor Egg; 9x Small Spider Leg; 24x Tender Crocolisk Meat; 8x Goretusk Liver; 18x Boar Intestines; 11x Sharp Claw; 14x Crisp Spider Meat; 5x Big Bear Meat; 2x Earthroot; 7x Mageroyal; 1x Briarthorn; 2x Liferoot; 7x Small Venom Sac; 2x Silverleaf; 7x Bruiseweed; 1x Recipe: Minor Magic Resistance Potion; 15x Large Fang; 1x Torn Bear Pelt; 1x Formula: Enchant Gloves - Fishing; 19x Turtle Meat; 29x Mystery Meat; 12x Thick Murloc Scale; 15x Tiger Meat; 10x Raptor Flesh; 6x Fadeleaf; 1x Copper Ore; 2x Iron Ore; 14x Healing Potion; 10x Lesser Mana Potion; 9x Greater Healing Potion; 2x Green Hills of Stranglethorn - Page 6; 2x Green Hills of Stranglethorn - Page 18; 2x Green Hills of Stranglethorn - Page 1; 1x Formula: Enchant Gloves - Skinning; 1x Pattern: Heavy Earthen Gloves; 1x Heavy Kodo Meat; 6x Buzzard Wing; 2x Naga Scale; 17x Lion Meat; 47x Ruined Leather Scraps; 1x Gold Bar; 9x Raptor Hide; 4x Long Tail Feather; 7x Tigerseye; 7x Okra; 1x Formula: Enchant Boots - Greater Stamina; 2x Glowing Scorpid Blood; 2x Coyote Meat; 17x Stringy Wolf Meat; 1x Wicked Claw; 2x Citrine; 2x Moss Agate; 4x Shadowgem; 7x Small Lustrous Pearl; 10x White Spider Meat; 2x Shadow Silk; 1x Thick Spider's Silk; 1x Bolt of Woolen Cloth; 49x Stranglekelp; 1x Tender Wolf Meat; 4x Crystal Basilisk Spine; 10x Rumsey Rum Black Label; 13x Firefin Snapper; 10x Oily Blackmouth; 1x Knitted Sandals; 30x Rugged Leather; 4x Medium Leather; 2x Lesser Moonstone; 2x Mageweave Cloth; 23x Silk Cloth; 3x Heart of the Wild; 3x Khadgar's Whisker; 1x Swiftthistle; 4x Zesty Clam Meat; 3x Tender Crab Meat; 1x Black Pearl; 1x Small Flame Sac; 1x Formula: Enchant Gloves - Advanced Herbalism; 4x Soft Bushy Tail;
+Holyjosh donated 2x Deviate Scale; 2x Elixir of Water Breathing; 1x Strider Meat; 6x Light Feather; 10x Crawler Meat; 20x Boiled Clams; 12x Murloc Eye; 6x Slimy Murloc Scale; 5x Crisp Spider Meat; 15x Great Goretusk Snout; 9x Boar Intestines; 6x Spider Ichor; 40x Rough Stone; 3x Small Venom Sac; 6x Stringy Vulture Meat; 1x Crude Scope; 10x Coarse Sharpening Stone; 1x Goretusk Snout; 12x Tough Condor Meat; 6x Gooey Spider Leg; 1x Okra; 1x Scroll of Intellect; 2x Copper Chain Vest; 3x Lesser Healing Potion; 20x Goblin Deviled Clams; 3x Minor Wizard Oil; 6x Bear Meat; 3x Raw Rainbow Fin Albacore; 6x Small Spider Leg; 1x Shadowgem;
+Khârn donated 3x Boar Ribs; 2x Large Fang; 7x Wool Cloth; 55x Silk Cloth; 25x Mithril Ore; 5x Yellow Power Crystal; 2x Red Power Crystal; 2x Mountain Silversage; 5x Green Power Crystal; 8x Mystery Meat; 33x Mageweave Cloth; 7x Flask of Mojo; 2x Wicked Claw; 5x Buzzard Wing; 10x Red Wolf Meat; 3x Giant Egg; 2x Grave Moss; 7x Deeprock Salt; 30x Solid Stone; 5x Iron Ore; 1x Heavy Stone; 2x Gold Ore; 12x Wintersbite; 1x Briarthorn; 1x Mageroyal; 1x Ghost Mushroom; 1x Reinforced Steel Lockbox; 1x Silverleaf; 1x Superior Mana Potion; 9x Purple Lotus; 8x Dreamfoil; 6x Golden Sansam; 1x Wildvine; 2x Goldthorn; 1x Black Vitriol;
+Bunnyowned donated 49x Copper Ore; 29x Rough Stone; 8x Silverleaf; 2x Tigerseye; 2x Minor Mana Potion; 1x Hunting Buckler; 1x Short Bastard Sword of the Eagle; 1x Runed Copper Bracers; 3x Peacebloom; 3x Malachite; 1x Runed Copper Gauntlets; 1x Recipe: Cooked Crab Claw; 20x Coarse Sharpening Stone; 1x Rhahk'Zor's Hammer; 1x Shadowgem;
+Snowchance donated 1x Peacebloom; 8x Wool Cloth; 2x Light Leather; 2x Raw Rainbow Fin Albacore; 2x Crocolisk Meat; 1x Inscribed Leather Bracers; 5x Deviate Scale; 2x Perfect Deviate Scale; 3x Minor Healing Potion; 1x Malachite; 10x Raw Longjaw Mud Snapper; 14x Murloc Eye; 9x Clam Meat; 34x Linen Cloth; 1x Scroll of Intellect; 5x Slimy Murloc Scale; 10x Copper Bar; 10x Okra; 5x Light Feather; 15x Hops; 5x Flask of Oil; 20x Darkshore Grouper; 12x Crisp Spider Meat; 8x Murloc Fin; 1x Rethban Ore; 20x Goblin Deviled Clams;
+Zalf donated 2x Large Fang; 100x Zesty Clam Meat; 70x Turtle Meat;
+Hcdherber donated 29x Healing Potion; 15x Great Rage Potion; 12x Lesser Healing Potion; 15x Elixir of Minor Defense; 20x Greater Mana Potion; 2x Mana Potion; 5x Lesser Mana Potion; 2x Minor Wizard Oil; 11x Minor Rejuvenation Potion; 15x Superior Healing Potion; 2x Minor Mana Oil;
+Teflon donated 4x Tin Ore; 1x Bolt of Silk Cloth; 53x Silk Cloth; 7x Gorilla Fang; 1x Blazing Emblem; 14x Mageweave Cloth; 10x Wool Cloth; 1x Citrine; 1x Formula: Enchant Weapon - Lesser Beastslayer;
+Hcdbanker donated 5x Mageweave Bag; 1x Pattern: Swift Boots; 1x Pattern: Heavy Earthen Gloves; 1x Pattern: Pilferer's Gloves; 1x Pattern: Fine Leather Pants; 1x Quickdraw Quiver; 1x Expert Cookbook; 1x Small Silk Pack; 2x Expert First Aid - Under Wraps;
+Cad donated 1x Plans: Green Iron Gauntlets; 1x Green Hills of Stranglethorn - Page 10; 1x Green Hills of Stranglethorn - Page 4;
+Velozaah donated 40x Peacebloom; 20x Silverleaf; 10x Green Tea Leaf; 34x Wool Cloth; 19x Linen Cloth; 4x Silk Cloth; 2x Moss Agate; 1x Red Woolen Bag;
+Mnordruid donated 12x Ruined Leather Scraps; 8x Light Leather; 37x Silverleaf; 19x Earthroot; 30x Peacebloom; 3x Bogling Root;
+Darthlock donated 1x Sharp Claw; 2x Large Venom Sac; 1x Light Feather; 2x Mageweave Bag; 2x Raptor Hide; 2x Raw Rockscale Cod; 5x Mystery Meat; 6x Turtle Meat; 1x Gooey Spider Leg; 12x Raptor Egg; 9x Stringy Vulture Meat; 6x Raptor Flesh; 4x Tiger Meat; 8x Tender Crocolisk Meat; 2x Pattern: Hands of Darkness; 1x Green Hills of Stranglethorn - Page 14; 1x Green Hills of Stranglethorn - Page 16; 1x Green Hills of Stranglethorn - Page 26; 1x Green Hills of Stranglethorn - Page 8; 1x Shiny Fish Scales;
+Cjtheman donated 20x Silk Cloth;
+Leetsbank donated 1x Black Whelp Tunic; 1x Jade Serpentblade; 16x Copper Tube; 20x Anti-Venom; 12x Thick Leather; 153x Linen Cloth; 12x Coarse Stone; 6x Tin Ore; 3x Copper Ore; 16x Solid Stone; 2x Gold Bar; 3x Silver Ore; 2x Gold Ore; 2x Elemental Earth; 2x Formula: Enchant Gloves - Advanced Mining; 6x Iron Ore; 2x Tigerseye; 1x Stonemason Cloak; 1x Seer's Cuffs; 1x Pattern: Murloc Scale Breastplate; 1x Spider's Silk; 18x Chunk of Boar Meat; 10x Murloc Eye; 8x Crawler Claw; 1x Pattern: Thick Murloc Armor; 1x Pattern: Dusky Leather Leggings; 1x Plans: Green Iron Gauntlets; 1x Inscribed Leather Boots; 1x Opaque Wand; 1x Emblazoned Shoulders; 3x Thick Murloc Scale; 1x Small Flame Sac; 3x Heavy Stone; 1x Shadowgem; 1x Malachite; 1x Recipe: Frost Oil; 1x Inscribed Leather Pants; 1x Northern Shortsword of Strength;
+Bankrobero donated 3x Thick Spider's Silk; 9x Linen Cloth; 6x Sandworm Meat; 6x White Spider Meat; 2x Huge Venom Sac;
+Ltlgun donated 2x Green Hills of Stranglethorn - Page 14; 2x Green Hills of Stranglethorn - Page 8; 1x Green Hills of Stranglethorn - Page 16; 1x Green Hills of Stranglethorn - Page 25; 1x Green Hills of Stranglethorn - Page 11; 1x Green Hills of Stranglethorn - Page 26; 1x Green Hills of Stranglethorn - Page 4; 1x Green Hills of Stranglethorn - Page 27; 1x Green Hills of Stranglethorn - Page 18;
+Vikn donated 2x Goldenbark Apple; 1x Stormwind Brie; 6x Flask of Mojo; 4x Lesser Mana Potion; 1x Green Hills of Stranglethorn - Page 6; 3x Wildvine; 5x Purple Lotus; 2x Green Hills of Stranglethorn - Page 4; 1x Green Hills of Stranglethorn - Page 14; 2x Sweet Nectar; 1x Raw Black Truffle; 11x Thick Leather; 3x Green Hills of Stranglethorn - Page 10; 4x Green Hills of Stranglethorn - Page 27; 4x Large Fang; 14x Goldthorn; 59x Heavy Leather; 12x Gorilla Fang; 9x Khadgar's Whisker; 2x Heavy Hide; 5x Medium Leather; 4x Coarse Gorilla Hair; 1x Raptor Hide; 1x Liferoot; 3x Firebloom; 3x Wild Steelbloom; 2x Kingsblood; 1x Green Hills of Stranglethorn - Page 11; 2x Green Hills of Stranglethorn - Page 8; 3x Shadowcat Hide; 2x Fadeleaf; 9x Tiger Meat; 1x Stringy Wolf Meat; 1x Plans: Polished Steel Boots; 1x Green Hills of Stranglethorn - Page 25;
+Blazeworth donated 3x Stringy Vulture Meat; 1x Plans: Edge of Winter;
+Bspring donated 7x Flask of Oil;
+Arcanius donated 40x Strange Dust;
+Guiltymage donated 1x Formula: Enchant Weapon - Winter's Might;
+Veteris donated 1x Plans: Edge of Winter;
+Fifthnipple donated 3x Oily Blackmouth; 1x Firefin Snapper; 20x Silk Cloth; 1x Kingsblood; 1x Wild Steelbloom; 2x Red Wolf Meat; 2x Tender Wolf Meat; 80x Mageweave Cloth; 1x Frost Oil; 10x Volatile Rum;
+Lunarica donated 1x Formula: Enchant Weapon - Winter's Might;
+Warreg donated 3x Minor Rejuvenation Potion; 16x Silk Cloth; 1x Buzzard Wing; 20x Linen Bandage; 1x Malachite; 7x Okra; 2x Goretusk Snout; 2x Stringy Vulture Meat; 8x Linen Cloth; 1x Shadowgem; 14x Lesser Mana Potion; 2x Minor Mana Potion; 4x Murloc Eye;
+Tankaroo donated 1x Snowman Kit;
+Ghromly donated 10x Lesser Mana Potion; 10x Mana Potion; 15x Lesser Healing Potion; 6x Healing Potion; 10x Murloc Fin; 1x Raptor Hide;
+Bigbadlock donated 2x Small Egg; 8x Chunk of Boar Meat; 10x Copper Bar; 1x Stonesplinter Axe; 6x Flask of Oil; 6x Light Feather; 3x Boar Intestines; 7x Murloc Eye; 1x Veteran Armor; 1x Warrior's Tunic; 1x Woolen Boots; 1x Hunting Bow; 1x Small Lustrous Pearl; 9x Minor Healing Potion;
+Spinesurgeon donated 1x Snowman Kit; 1x Pattern: Gloves of the Greatfather;
+Roterbart donated 9x Clam Meat; 13x Slimy Murloc Scale; 1x Recipe: Murloc Fin Soup; 1x Small Lustrous Pearl; 20x Murloc Eye; 16x Heavy Wool Bandage; 4x Bolt of Linen Cloth; 3x Minor Mana Potion; 9x Healing Potion; 3x Lesser Healing Potion; 32x Spider Ichor; 37x Crisp Spider Meat; 9x Incendicite Ore; 1x Linen Cloth; 2x Copper Ore; 24x Gooey Spider Leg;
+Locktwelve donated 1x Formula: Enchant Weapon - Winter's Might;
+Uhmbra donated 1x Formula: Enchant Weapon - Winter's Might;
+Panzeroo donated 1x Formula: Enchant Weapon - Winter's Might;
+Birdformirl donated 6x Darkshore Grouper;
+Solaurica donated 1x Pattern: Gloves of the Greatfather;
+Gartrodiette donated 2x Minor Healing Potion; 11x Linen Cloth; 2x Copper Ore; 1x Lesser Healing Potion; 1x Minor Mana Potion; 9x Seasoned Wolf Kabob; 10x Moist Cornbread; 10x Melon Juice; 1x Light Leather; 1x Medium Hide; 12x Silk Bandage;
+Myauctionguy donated 7x Crystal Basilisk Spine;
+Angrygary donated 40x Silk Bandage; 12x Heavy Wool Bandage; 1x Iridescent Pearl; 1x Tender Crocolisk Meat; 12x Tangy Clam Meat; 1x Mulgore Spice Bread; 19x Murloc Eye; 22x Murloc Fin; 7x Fish Oil; 8x Shiny Fish Scales; 1x Copper Ore; 1x Bronze Framework; 1x Healing Potion; 41x Wool Cloth; 1x Plans: Green Iron Boots; 4x Linen Cloth; 2x Raw Bristle Whisker Catfish; 4x Boar Ribs; 2x Light Feather; 7x Mystery Meat; 2x Stringy Vulture Meat; 3x Large Venom Sac; 4x Boar Intestines; 1x Shadowgem; 1x Seer's Pants; 1x Pattern: Phoenix Pants;
+Ultrabussy donated 1x Moss Agate; 1x Silver Bar; 5x Minor Mana Potion; 1x Silk Headband; 15x Spiced Wolf Meat; 2x Lesser Mana Potion; 3x Light Leather; 3x Medium Leather; 8x Linen Cloth; 14x Wool Cloth; 1x Recipe: Succulent Pork Ribs;
+Sumhobo donated 1x Linen Cloth;
+Moomoommoo donated 12x Heavy Wool Bandage; 20x Linen Cloth; 3x Light Leather;
+Bannasmire donated 4x Khadgar's Whisker; 1x Kingsblood; 1x Green Hills of Stranglethorn - Page 27; 2x Green Hills of Stranglethorn - Page 18; 9x Medium Leather; 26x Heavy Leather; 7x Liferoot; 3x Wool Cloth; 1x Heavy Hide; 10x Tender Crocolisk Meat; 4x Goldthorn; 1x Tiger Meat; 2x Thick Leather; 1x Fadeleaf; 1x Green Hills of Stranglethorn - Page 25; 1x Green Hills of Stranglethorn - Page 14; 1x Green Hills of Stranglethorn - Page 20; 1x Green Hills of Stranglethorn - Page 26; 1x Green Hills of Stranglethorn - Page 1;
+Dawngarden donated 2x Chunk of Boar Meat; 1x Great Goretusk Snout; 4x Boar Intestines; 1x Tough Condor Meat; 1x Small Egg; 10x Minor Mana Potion; 47x Heavy Wool Bandage; 4x Light Feather; 1x Lesser Mana Potion; 5x Murloc Eye; 3x Bear Meat; 180x Linen Cloth; 25x Lesser Healing Potion; 9x Spider Ichor; 20x Cooked Crab Claw; 2x Crisp Spider Meat; 1x Murloc Fin; 9x Flask of Oil;
+Gnoobie donated 8x Bear Meat; 2x Boar Intestines; 4x Bolt of Linen Cloth; 67x Linen Cloth; 13x Crawler Claw; 1x Pattern: Dark Leather Tunic; 1x Small Lustrous Pearl; 20x Murloc Eye; 20x Clam Meat; 2x Spider Ichor; 15x Stringy Wolf Meat; 6x Okra; 9x Hops; 2x Small Furry Paw; 4x Lesser Healing Potion; 1x Shadowgem; 2x Crawler Meat; 1x Pattern: Rugged Leather Pants; 3x Chunk of Boar Meat; 1x Recipe: Westfall Stew; 1x Formula: Enchant Chest - Minor Mana; 2x Tigerseye; 5x Blood Sausage; 1x Recipe: Strider Stew; 1x Woolen Cape; 1x Recipe: Goretusk Liver Pie; 16x Crag Boar Rib;
+Gnephe donated 2x Scroll of Intellect; 4x Scroll of Strength; 1x Scroll of Agility; 1x Scroll of Strength II; 1x Scroll of Stamina; 40x Boiled Clams; 10x Healing Potion; 10x Lesser Healing Potion; 5x Lesser Mana Potion; 5x Minor Healing Potion; 20x Small Lustrous Pearl;
+Taggartt donated 2400x Hi-Impact Mithril Slugs; 1x Formula: Enchant Weapon - Lesser Beastslayer; 6x Lesser Bloodstone Ore;
+Snowmagic donated 1x Polished Jazeraint Armor;
+Snowfun donated 1x Bruiseweed; 1x Briarthorn; 2x Swiftthistle; 1x Spider Ichor; 1x Light Feather; 1x Small Egg;
+Hatehunter donated 1x Peacebloom; 4x Mageroyal; 4x Rough Stone; 9x Copper Ore; 5x Briarthorn; 7x Silverleaf; 1x Earthroot; 1x Swiftthistle;
+Yire donated 11x Coarse Stone; 12x Healing Potion; 6x Naga Scale; 22x Tangy Clam Meat; 5x Firefin Snapper; 5x Stranglekelp; 4x Bolt of Woolen Cloth; 1x Oily Blackmouth; 2x Big Bear Meat; 1x Small Lustrous Pearl; 1x Iridescent Pearl; 1x Thick Murloc Scale; 12x Medium Leather; 1x Rumsey Rum Dark; 3x Lesser Mana Potion; 1x Liferoot; 12x Tiger Meat; 1x Green Hills of Stranglethorn - Page 14; 2x Fadeleaf; 1x Green Hills of Stranglethorn - Page 8; 1x Jungle Remedy; 1x Green Hills of Stranglethorn - Page 16; 1x Green Hills of Stranglethorn - Page 20; 1x Green Hills of Stranglethorn - Page 4; 3x Greater Healing Potion; 1x Spider's Silk; 2x Scroll of Intellect II; 3x Small Silk Pack; 19x Heavy Stone; 1x Raptor Flesh; 2x Raptor Egg; 1x Lion Meat; 4x Gooey Spider Leg; 4x Crisp Spider Meat; 1x Raptor Hide; 1x Formula: Enchant Gloves - Fishing; 3x Burning Charm; 1x Elemental Fire; 1x Girdle of Golem Strength; 2x Lesser Moonstone; 1x Scroll of Agility II; 1x Light Feather; 1x Scroll of Spirit II;
+Reddymeats donated 2x Stringy Wolf Meat; 17x Murloc Eye; 21x Clam Meat; 5x Crawler Meat; 2x Boar Ribs; 2x Crag Boar Rib; 4x Chunk of Boar Meat; 2x Mystery Meat; 3x Raw Rockscale Cod;
+Oldncranky donated 17x Medium Leather; 2x Mageroyal; 3x Light Leather; 3x Heavy Leather; 3x Wool Cloth; 1x Bolt of Woolen Cloth; 3x Minor Mana Potion; 97x Linen Cloth; 2x Lesser Mana Potion;
+Furbag donated 12x Light Leather; 26x Ruined Leather Scraps; 11x Silverleaf; 1x Darkshore Grouper; 2x Raw Rainbow Fin Albacore; 1x Raw Slitherskin Mackerel; 1x Crag Boar Rib; 1x Stringy Wolf Meat; 7x Light Feather; 1x Small Furry Paw; 8x Mageroyal; 7x Peacebloom; 2x Raw Brilliant Smallfish; 1x Raw Longjaw Mud Snapper; 20x Heavy Wool Bandage; 19x Cooked Crab Claw;
+Maklear donated 1x Heavy Leather Ammo Pouch;
+Sgtsprings donated 2x Rough Boomstick;
+Cathbhádh donated 14x Raw Slitherskin Mackerel; 4x Oily Blackmouth; 14x Raw Rainbow Fin Albacore; 15x Darkshore Grouper;
+Abelard donated 10x Greater Magic Wand; 11x Lesser Magic Wand;
+Pixley donated 1x Short Ash Bow; 40x Gooey Spider Leg; 30x Crisp Spider Meat; 5x Spider's Silk;
+Hctanked donated 1x Devilsaur Gauntlets; 10x Goretusk Liver; 4x Minor Mana Potion; 2x Lesser Healing Potion; 2x Greater Fire Protection Potion;
+Nullis donated 2x Stringy Wolf Meat; 1x Chunk of Boar Meat; 1x Crag Boar Rib;
+Iceedge donated 1x Lesser Healing Potion; 16x Linen Cloth; 1x Dalaran Sharp; 1x Haunch of Meat; 1x Ice Cold Milk;
+Briceroy donated 151x Linen Cloth; 1x Spider Belt; 1x Azure Silk Belt; 3x Parrot Cage (Green Wing Macaw); 1x Mechanical Squirrel Box; 1x Small Lustrous Pearl; 3x Raw Longjaw Mud Snapper; 6x Slimy Murloc Scale; 3x Light Feather; 22x Light Leather; 40x Ruined Leather Scraps;
+Docbandit donated 4x Orange Mageweave Shirt;
+Neverdiedwrk donated 33x Tangy Clam Meat; 16x Shiny Fish Scales; 16x Fish Oil; 1x Mystery Meat; 2x Raptor Flesh; 1x Raptor Egg; 1x Gooey Spider Leg; 2x Raptor Hide; 1x Silken Thread; 13x Murloc Fin; 9x Murloc Eye; 1x Tender Crocolisk Meat; 2x Tiger Meat; 1x Green Hills of Stranglethorn - Page 6;
+Taresitia donated 2x Bear Meat; 1x Veteran Armor; 4x Darkshore Grouper; 1x Burnt Leather Breeches;
+Orionsnipple donated 8x Embossed Leather Cloak; 20x Medium Leather; 5x Healing Potion;
+Lizzié donated 1x Northern Shortsword of Strength; 60x Wool Bandage; 8x Light Leather;
+Priestx donated 1x Hunter's Muzzle Loader; 1x Seer's Cape;
+Avindeha donated 12x Light Hide; 1x Medium Hide; 91x Light Leather;
+Doihaveto donated 50x Silk Bandage; 35x Medium Leather; 5x Soft Bushy Tail; 20x Rough Sharpening Stone; 20x Coarse Sharpening Stone; 20x Rough Weightstone; 3x Medium Hide; 7x Heavy Hide; 1x Raptor Hide;
+Tenathroy donated 8x Sungrass; 1x Gromsblood; 4x Superior Healing Potion; 26x Mageweave Bandage; 1x Star Ruby; 4x Thick Leather; 3x Rugged Leather; 4x Plaguebloom; 2x Golden Sansam; 1x Goldthorn; 7x Purple Lotus; 2x Dreamfoil; 1x Arthas' Tears; 1x Felcloth; 1x Mountain Silversage;
+Ynnfr donated 2x Light Leather; 15x Clam Meat; 5x Chunk of Boar Meat; 10x Small Egg; 17x Light Feather;
+Gáston donated 3x Light Leather; 1x Spider Ichor; 3x Crisp Spider Meat;
+Stormyj donated 20x Linen Cloth; 7x Wool Bandage; 5x Minor Healing Potion; 1x Compact Shotgun; 1x Hunting Tunic;
+Eilaurowen donated 5x Lesser Healing Potion; 36x Linen Cloth; 3x Coarse Sharpening Stone;
+Ingtar donated 5x Rumsey Rum Dark; 11x Mageweave Cloth; 3x Flask of Big Mojo; 1x Greater Mana Potion; 1x Superior Healing Potion;
+Mnor donated 5x Light Feather; 2x Great Goretusk Snout; 7x Okra; 13x Murloc Eye; 2x Minor Healing Potion; 2x Lesser Healing Potion;
+Thräe donated 5x Superior Healing Potion; 15x Solid Stone; 7x Mithril Ore;
+Stankinlock signed up
+Clerroy signed up
+Cáthbhádh signed up
+Gnormal crafted 480 Curiously Tasty Omelet
+Gnormal crafted 240 Tender Wolf Steak
+Gnormal crafted 240 Monster OmeletUltrabussy donated 2x Tough Condor Meat; 5x Small Egg; 3x Chunk of Boar Meat; 2x Great Goretusk Snout; 1x Boar Ribs; 1x Goretusk Liver; 1x Boar Intestines; 3x Medium Leather; 1x Heavy Leather; 2x Silk Cloth; 1x Recipe: Crocolisk Gumbo; 1x Gooey Spider Leg; 5x Crisp Spider Meat; 1x Tangy Clam Meat; 2x Tender Crocolisk Meat; 28x Wool Cloth; 3x Mutton Chop; 1x Recipe: Curiously Tasty Omelet; 8x Raptor Egg;
+Burninator donated 10x Greater Mana Potion; 67x Volatile Rum; 3x Mana Potion; 4x Greater Healing Potion; 5x Superior Healing Potion;
+Teflon donated 92x Silk Cloth; 10x Mageweave Cloth; 3x Wool Cloth;
+Roguegrizz donated 10x Small Egg; 1x Tough Condor Meat; 4x Light Feather; 3x Boar Ribs; 1x Crisp Spider Meat; 8x Goretusk Liver;
+Cerydra donated 1x Truesilver Ore; 3x Tin Ore; 10x Zesty Clam Meat; 1x Citrine; 1x Flask of Big Mojo; 10x Small Flame Sac; 4x Green Hills of Stranglethorn - Page 21; 1x Green Hills of Stranglethorn - Page 20; 2x Green Hills of Stranglethorn - Page 16; 5x Green Hills of Stranglethorn - Page 11; 2x Green Hills of Stranglethorn - Page 10; 1x Green Hills of Stranglethorn - Page 24; 7x Wool Cloth; 3x Heavy Stone; 3x Coarse Stone; 6x Wildvine; 11x Flask of Mojo; 2x Green Hills of Stranglethorn - Page 8; 3x Thick Murloc Scale; 5x Raptor Hide; 1x Light Leather; 4x Tender Crocolisk Meat; 3x Tiger Meat; 10x Raptor Flesh; 8x Mystery Meat; 2x Giant Clam Meat; 2x Liferoot; 1x Green Hills of Stranglethorn - Page 14; 1x Green Hills of Stranglethorn - Page 18; 1x Green Hills of Stranglethorn - Page 25; 2x Green Hills of Stranglethorn - Page 26; 1x Green Hills of Stranglethorn - Page 6; 1x Large Fang; 1x Cresting Charm; 1x Thundering Charm; 4x Mana Potion; 2x Greater Healing Potion; 3x Lesser Mana Potion; 4x Healing Potion; 4x Long Tail Feather; 21x Solid Stone; 2x Gold Ore; 10x Deeprock Salt; 3x Heavy Leather; 4x Elemental Earth; 6x Buzzard Wing; 2x Wicked Claw; 1x Jade; 16x Naga Scale; 1x Elemental Air; 3x Bruiseweed; 6x Red Wolf Meat; 1x Gooey Spider Leg; 1x Pattern: Azure Shoulders; 2x Soft Bushy Tail; 1x Iron Lockbox;
+Alvarny donated 1x Flask of Oil; 2x Hops; 3x Okra; 1x Pattern: Red Linen Bag; 2x Stringy Vulture Meat; 1x Goretusk Liver; 3x Goretusk Snout; 3x Murloc Eye;
+Bigbadlock donated 1x Notched Shortsword of Power; 6x Murloc Eye; 37x Linen Cloth; 9x Clam Meat; 8x Crawler Claw; 4x Crawler Meat; 6x Bear Meat;
+Khârn donated 1x Superior Mana Potion; 6x Golden Sansam; 1x Purple Lotus; 4x Heart of the Wild; 3x Blindweed; 2x Citrine; 3x Kingsblood; 1x Liferoot; 3x Truesilver Ore; 2x Dreamfoil; 7x Sungrass; 5x Wicked Claw; 4x Red Wolf Meat; 3x Scroll of Agility III; 4x Deeprock Salt; 1x Fadeleaf; 2x Flask of Big Mojo; 4x Thorium Ore; 6x Mithril Ore; 17x Solid Stone; 1x Mountain Silversage; 4x Red Power Crystal; 14x Blue Power Crystal; 248x Mageweave Cloth; 33x Silk Cloth; 1x Raptor Flesh; 8x Yellow Power Crystal; 5x Green Power Crystal; 3x Gold Ore; 9x Wool Cloth;
+Lizzié donated 1x Handful of Copper Bolts; 4x Copper Tube; 2x Tigerseye; 1x Malachite; 2x Moss Agate; 4x Shadowgem; 2x Crocolisk Meat; 13x Deviate Scale; 1x Coarse Stone; 6x Tin Ore; 5x Copper Ore; 5x Hops; 3x Okra; 9x Murloc Eye; 5x Flask of Oil; 1x Guild Tabard; 2x Small Lustrous Pearl; 12x Light Hide; 12x Medium Hide; 6x Gooey Spider Leg; 20x Murloc Fin; 37x Medium Leather; 131x Light Leather; 240x Wool Cloth;
+Neverdiedr donated 25x Silk Cloth; 12x Tiger Meat; 2x Mana Potion; 7x Wool Cloth; 5x Raptor Egg; 1x Kingsblood; 1x Green Hills of Stranglethorn - Page 26; 1x Green Hills of Stranglethorn - Page 14; 1x Green Hills of Stranglethorn - Page 20; 1x Green Hills of Stranglethorn - Page 1; 3x Green Hills of Stranglethorn - Page 18;
+Moomoommoo donated 6x Linen Cloth; 1x Small Egg; 1x Silk Cloth; 6x Anti-Venom; 5x Murloc Fin; 4x Spider Ichor; 2x Crisp Spider Meat; 1x Coyote Meat; 3x Clam Meat;
+Hammerförth donated 14x Stranglekelp; 2x Journeyman's Backpack; 23x Firefin Snapper; 20x Oily Blackmouth; 3x Stonescale Eel; 2x Dazzling Mithril Rapier;
+Briceroy donated 1x Lesser Healing Potion; 1x Malachite; 20x Light Leather; 13x Linen Cloth; 3x Light Feather; 2x Black Whelp Scale; 10x Sauteed Sunfish; 1x Light Hide; 2x Minor Mana Potion; 2x Murloc Fin; 8x Ruined Leather Scraps; 2x Slimy Murloc Scale; 3x Silverleaf; 1x Raw Rainbow Fin Albacore; 6x Darkshore Grouper;
+Gnormal donated 3x Tin Ore; 4x Spider's Silk; 1x Pattern: Dusky Leather Leggings; 1x Schematic: Snowmaster 9000;
+Pimientito donated 2x Black Mageweave Gloves; 3x Black Mageweave Leggings; 7x Red Power Crystal; 5x Yellow Power Crystal; 10x Blue Power Crystal; 9x Green Power Crystal; 17x Gorilla Fang; 3x Coarse Gorilla Hair;
+Boshido donated 5x Elixir of Greater Water Breathing; 20x Goldthorn; 20x Briarthorn; 20x Dreamfoil;
+Azaelios donated 1x Veteran Armor; 20x Murloc Eye; 42x Linen Cloth; 4x Coarse Stone; 2x Small Lustrous Pearl; 2x Copper Ore; 5x Tin Ore;
+Doihaveto donated 1x Pattern: Thick Murloc Armor; 1x Pattern: Earthen Silk Belt; 73x Heavy Leather; 27x Thick Leather; 1x Medium Leather; 12x Boar Ribs; 2x Raptor Egg; 3x Tender Crocolisk Meat; 2x Lion Meat; 10x Chunk of Boar Meat; 6x Raptor Flesh;
+Thormslam donated 1x Crawler Meat; 1x Goretusk Liver; 2x Crawler Claw; 2x Chunk of Boar Meat; 10x Murloc Eye; 14x Linen Cloth; 3x Coarse Sharpening Stone; 10x Flask of Oil; 10x Okra;
+Feuerfinger donated 30x Elixir of Minor Defense; 20x Elixir of Lion's Strength; 20x Minor Rejuvenation Potion; 50x Elixir of Minor Fortitude; 185x Elixir of Minor Agility; 45x Lesser Mana Potion; 20x Greater Healing Potion; 100x Mana Potion; 15x Elixir of Firepower; 65x Superior Healing Potion; 60x Elixir of Agility; 20x Lesser Stoneshield Potion; 20x Elixir of Fortitude; 35x Murloc Fin Soup; 4x Azure Silk Vest;
+Kontigo donated 7x Clam Meat; 3x Raw Longjaw Mud Snapper; 1x Small Egg; 4x Slimy Murloc Scale; 1x Light Hide; 3x Black Whelp Scale; 16x Light Leather; 37x Linen Cloth; 1x Minor Mana Potion; 4x Lesser Healing Potion; 6x Minor Healing Potion; 8x Copper Ore; 7x Rough Stone; 5x Murloc Eye; 7x Flask of Oil; 1x Bolt of Linen Cloth; 2x Ruined Leather Scraps; 1x Boar Ribs; 1x Bear Meat; 4x Chunk of Boar Meat; 1x Crisp Spider Meat; 1x Wool Cloth;
+Holyjosh donated 2x Shadowgem; 2x Small Egg; 1x Murloc Eye; 1x Boar Intestines; 1x Light Feather;
+Angrygary donated 5x Tasty Lion Steak; 3x Soothing Turtle Bisque; 5x Lion Meat; 4x Bubbling Water; 6x Turtle Meat; 15x Wool Cloth; 3x Fish Oil; 1x Mystery Meat; 3x Stringy Vulture Meat; 1x Malachite; 2x Light Feather; 2x Raw Bristle Whisker Catfish; 1x Naga Scale; 1x Iridescent Pearl; 1x Large Fang; 2x Mutton Chop; 5x Shiny Fish Scales;
+Esairia donated 35x Superior Healing Potion; 7x Raptor Flesh; 14x Troll Tribal Necklace; 3x Tiger Meat; 21x Red Wolf Meat; 20x Nightcrawlers; 20x Light Feather; 10x Long Tail Feather; 20x Wicked Claw; 3x Stringy Vulture Meat; 1x Sharp Claw; 7x Giant Egg; 9x White Spider Meat; 15x Greater Healing Potion; 10x Greater Mana Potion; 10x Mana Potion; 10x Heart of the Wild; 1x Black Lotus;
+Jägerin donated 1x Hillman's Cloak; 5x Tough Condor Meat; 9x Small Egg; 6x Light Feather; 1x Spider Ichor;
+Gnomepally donated 3x Chunk of Boar Meat; 35x Linen Cloth; 8x Stringy Wolf Meat; 4x Rough Stone;
+Vikn donated 158x Heavy Leather; 7x Fadeleaf; 1x Nightcrawlers; 31x Silk Cloth; 12x Gorilla Fang; 9x Wool Cloth; 4x Buzzard Wing; 17x Kingsblood; 27x Thick Leather; 14x Goldthorn; 1x Shadow Silk; 9x Liferoot; 8x Khadgar's Whisker; 3x Tiger Meat; 1x Wicked Claw; 1x Large Fang; 3x Stranglekelp; 1x Citrine; 5x Grave Moss; 3x Heavy Stone; 2x Green Hills of Stranglethorn - Page 4; 1x Green Hills of Stranglethorn - Page 11; 1x Green Hills of Stranglethorn - Page 25; 1x Green Hills of Stranglethorn - Page 6; 2x Green Hills of Stranglethorn - Page 10; 1x Green Hills of Stranglethorn - Page 21; 1x Moonberry Juice; 4x Coarse Gorilla Hair;
+Stormyj donated 218x Linen Cloth; 3x Light Leather; 1x Brashclaw's Skewer; 8x Minor Mana Potion; 1x Bronze Tube; 1x Recipe: Westfall Stew; 20x Heavy Silk Bandage; 1x Plans: Runed Copper Breastplate; 1x Recipe: Goretusk Liver Pie; 1x Veteran Shield; 1x Pattern: Red Linen Bag; 85x Rough Stone; 1x Spellbinder Pants; 1x Recipe: Redridge Goulash; 6x Darkshore Grouper; 30x Silver Contact; 1x Large Venom Sac; 1x Woolen Bag; 10x Whirring Bronze Gizmo; 2x Earthroot; 1x Shadowgem; 2x Recipe: Cooked Crab Claw; 8x Mageroyal; 4x Heavy Linen Bandage; 1x Lesser Healing Potion;
+Gnephe donated 1x Green Hills of Stranglethorn - Page 8; 1x Green Hills of Stranglethorn - Page 14; 1x Green Hills of Stranglethorn - Page 6;
+Sanierily donated 1x Pattern: Red Linen Robe;
+Justdieing donated 60x Linen Cloth; 3x Minor Healing Potion; 5x Murloc Eye; 5x Okra; 2x Stringy Vulture Meat; 1x Light Feather; 1x Bear Meat;
+Sgtsprings donated 5x Minor Healing Potion; 40x Linen Cloth;
+Mireadon donated 1x Tender Crocolisk Meat; 5x Murloc Eye; 2x Lesser Healing Potion; 6x Tangy Clam Meat; 2x Slimy Murloc Scale; 1x Small Lustrous Pearl; 1x Fish Oil; 2x Murloc Fin; 12x Wool Cloth; 4x Mystery Meat; 1x Large Fang; 1x Lean Wolf Flank; 2x Silk Cloth;
+Zalf donated 1x Shadow Wand; 1x Staunch Hammer of Power; 1x Fire Wand; 1x Hunting Pants; 1x Hunting Gloves; 1x Red Leather Bag;
+Osoro donated 80x Wool Cloth; 60x Silk Cloth; 5x Bolt of Woolen Cloth; 1x Truesilver Bar; 8x Medium Leather; 2x Heavy Leather; 1x Bolt of Silk Cloth; 2x Silver Ore; 60x Mageroyal; 20x Mana Potion; 25x Healing Potion; 1x Moss Agate; 1x Lambent Scale Legguards; 1x Small Lustrous Pearl; 1x Mageweave Bag; 19x Linen Cloth;
+Gáston donated 1x Heavy Hide; 10x Heavy Leather; 2x Medium Hide; 23x Medium Leather; 8x Chunk of Boar Meat; 10x Small Egg; 2x Great Goretusk Snout; 1x Scroll of Stamina; 1x Seer's Pants; 4x Rough Stone; 30x Light Leather; 2x Murloc Fin; 6x Tough Condor Meat; 4x Boar Ribs; 3x Goretusk Liver; 1x Murloc Eye; 8x Boar Intestines;
+Bloodknife donated 1x Nightscape Headband; 1x Red Whelp Gloves; 5x Superior Healing Potion; 5x Scroll of Intellect III;
+Thräe donated 19x Ironfeather; 7x Giant Egg; 2x Mithril Ore; 1x Zesty Clam Meat; 5x Greater Mana Potion; 1x Citrine; 3x Heavy Junkbox; 5x Mana Potion; 1x Major Healing Potion; 7x Heavy Stone; 1x Scroll of Protection III;
+Bellais donated 21x Light Leather; 46x Ruined Leather Scraps; 3x Earthroot; 13x Silverleaf; 18x Peacebloom;
+Gheralt donated 23x Scorpid Scale; 6x Thick Hide; 46x Thick Leather; 1x Heavy Hide; 1x Heavy Leather; 10x Tender Wolf Meat; 13x Mystery Meat; 8x Red Wolf Meat; 5x Wicked Claw; 11x Gorilla Fang; 54x Blue Power Crystal; 69x Green Power Crystal; 64x Red Power Crystal; 42x Yellow Power Crystal; 9x Raptor Flesh; 1x Living Essence; 5x Heart of the Wild; 1x Ichor of Undeath;
+Darthlock donated 1x Mana Potion; 3x Greater Healing Potion; 2x Lesser Mana Potion; 1x Lesser Moonstone; 4x Raptor Hide; 1x Shadoweave Pants; 2x Green Hills of Stranglethorn - Page 21; 1x Green Hills of Stranglethorn - Page 14; 1x Green Hills of Stranglethorn - Page 10;
+Hollytree donated 1x Ravenwood Bow;
+Lotharadin donated 1x Small Black Pouch; 1x Greater Mana Potion; 4x Linen Cloth; 9x Copper Ore; 4x Silver Skeleton Key; 1x Green Hills of Stranglethorn - Page 6; 2x Green Hills of Stranglethorn - Page 16; 1x Green Hills of Stranglethorn - Page 14; 9x Lesser Bloodstone Ore; 2x Wildvine; 2x Wild Steelbloom; 2x Lesser Mana Potion; 5x Heavy Wool Bandage; 19x Wool Bandage; 2x Wool Cloth;
+Makleish donated 10x Mithril Ore;
+Nullis donated 1x Green Linen Bracers; 1x Lesser Magic Wand;
+Snowplace donated 10x Murloc Eye;
+Yire donated 8x Small Silk Pack; 5x Heavy Stone; 1x Greater Healing Potion; 1x Large Venom Sac; 8x Mystery Meat; 1x Buzzard Wing; 5x Raptor Hide; 1x Iron Lockbox; 11x Raptor Egg; 8x Raptor Flesh; 8x Tiger Meat;
+Vctrygun donated 1x Inscribed Cloak; 1x Inscribed Leather Bracers;
+Snowmagic donated 1x Formula: Enchant Gloves - Advanced Mining;
+Oldncranky donated 1x Tender Crocolisk Meat; 1x Medium Leather; 2x Heavy Hide; 3x Tiger Meat; 1x Green Hills of Stranglethorn - Page 10; 1x Green Hills of Stranglethorn - Page 16; 1x Green Hills of Stranglethorn - Page 27;
+Neverdiedh donated 2x Green Hills of Stranglethorn - Page 8; 2x Green Hills of Stranglethorn - Page 16; 1x Green Hills of Stranglethorn - Page 11; 1x Green Hills of Stranglethorn - Page 6; 1x Green Hills of Stranglethorn - Page 21; 1x Green Hills of Stranglethorn - Page 1; 1x Green Hills of Stranglethorn - Page 20; 1x Green Hills of Stranglethorn - Page 4; 2x Green Hills of Stranglethorn - Page 26; 2x Green Hills of Stranglethorn - Page 14; 1x Green Hills of Stranglethorn - Page 10;
+Cameltow donated 1x Recipe: Goretusk Liver Pie; 1x Recipe: Crocolisk Steak; 1x Recipe: Curiously Tasty Omelet; 1x Recipe: Crocolisk Gumbo; 20x Minor Healing Potion;
+Loopidot donated 1x Green Hills of Stranglethorn - Page 11; 1x Green Hills of Stranglethorn - Page 16;
+Dùet donated 1x Inscribed Leather Pants; 1x Hunter's Muzzle Loader; 1x Elemental Air; 1x Elemental Fire; 4x Coarse Stone; 2x Tin Ore;
+Ingtar donated 10x Dream Dust; 1x Large Glowing Shard; 1x Vision Dust; 1x Small Glimmering Shard; 35x Dark Iron Residue; 29x Dark Iron Scraps; 7x Core of Elements; 1x Glowing Scorpid Blood; 6x Rumsey Rum Dark; 3x Journeyman's Backpack; 25x Runecloth; 1x Large Brilliant Shard; 4x Small Brilliant Shard; 8x Tender Wolf Meat; 2x Mystery Meat; 6x Red Wolf Meat; 1x Reinforced Steel Lockbox; 13x Mageweave Cloth; 1x Heart of the Wild; 1x Large Glimmering Shard; 1x Elemental Earth; 3x Deeprock Salt; 5x Solid Stone; 7x Savage Frond;
+Hugemcbigman donated 1x Rough Copper Vest; 1x Rough Bronze Shoulders; 1x Rough Bronze Cuirass; 1x Copper Bracers; 20x Herb Baked Egg; 1x Burnt Leather Breeches; 1x Stringy Vulture Meat;
+Velozaah donated 15x Wool Cloth;
+Loopidru donated 14x Darkshore Grouper; 17x Medium Leather; 12x Light Leather; 6x Medium Hide;
+Derringeria donated 1x Inscribed Leather Breastplate; 1x Long Battle Bow;
+Shamalas donated 1x Schematic: Thorium Rifle;
+Kurgan donated 16x Tough Condor Meat;
+Kristre donated 20x Peacebloom; 20x Light Leather;
+Itsmeclear donated 3x Small Radiant Shard;
+Santajohanna donated 19x Raw Brilliant Smallfish; 60x Silverleaf; 5x Peacebloom; 9x Earthroot;
+Whiskijack donated 2x Major Healing Potion;
+Blazeworth donated 20x Tough Condor Meat;
+Pangaean donated 4x Healing Potion;
+Lews donated 8x Mageweave Cloth; 2x Shadow Silk; 3x Thick Spider's Silk; 37x Silk Cloth; 9x Wool Cloth; 3x Small Radiant Shard; 1x Large Glowing Shard; 3x Soul Dust; 1x Strong Iron Lockbox; 4x Morrowgrain; 5x Boar Intestines; 1x Blindweed; 1x Arcanite Bar; 9x Crypt Fiend Parts;
+Ltlgun donated 1x Green Hills of Stranglethorn - Page 11; 1x Green Hills of Stranglethorn - Page 8; 1x Green Hills of Stranglethorn - Page 6; 2x Green Hills of Stranglethorn - Page 24;
+Furbag donated 3x Minor Healing Potion; 3x Light Leather; 1x Okra; 1x Flask of Oil; 1x Hops;
+Bspring donated 1x Pattern: Red Linen Robe;
+Allcraft donated 80x Silk Cloth; 120x Mageweave Cloth;
+Dehuntress donated 9x Ruined Leather Scraps; 3x Light Leather; 7x Linen Cloth; 6x Small Egg;
+Clerroy signed up
+Prayinghands signed up
+Apolkor signed up
+Sonra/Buod/Kamar logged on to enchant Deves’s weapon
+Dh helped Loopi finish Green Hills of Stranglethorn
+Gabreal/Lucifyr helped Poppa travel from Menethil to Ironforge
+Cranky tried to help Poppa with a stuck character skip
+Wlock summoned Candyman
+Wlock helped Candyman with a quest
+Wlock summoned Basaran to Bootybay
+Thormhammer helped Basaran in Bootybay
+Verinmathwin helped Basaran in Bootybay
+Zalf/Shall/Kelbboo/Crackerjoe helped Benkill kill Overseer Maltorius
+Zalf/Shall/Kelbboo/Crackerjoe helped Moymoymoymoy kill Overseer Maltorius
+Trisanna helped Blood/Lews down the Greench
+Shailene helped Blood/Lews down the Greench
+Kharn ran Sunken Temple with Blood/Lews
+Benkill ran Sunken Temple with Blood/Lews
+Dalibor ran Sunken Temple with Blood/Lews
+Moymoymoymoy ran Sunken Temple with Blood/Lews
+Blood/Lews posted team info for Sunken Temple run
+Pimientito ran Deadmines with Burninglove
+Mnor ran Deadmines with Burninglove
+Bandithunter ran Deadmines with Burninglove
+Jarn helped Mnor with the Defias messenger quest
+Jarn helped Mnor with the Defias escort quest
+Jarn helped Mnor with the Defias follow‑up quests
+Pemiento ran Deadmines with Mnor
+Pemiento ensured the group completed all Deadmines quests safely
+Deves helped Blood/Lews farm shards for world buffs
+Oominaughty helped Deves in STV
+Qarn helped Blood/Lews click to start buffs
+Gary helped Blood/Lews click to start buffs
+Deves helped Iceshards complete Eliza’s Grave
+Hooters helped Iceshards complete Eliza’s Grave
+Snowshoe helped Zalf/Shall/Kelbboo/Crackerjoe with ice elementals in Feralas
+Snowshoe helped Zalf/Shall/Kelbboo/Crackerjoe with giants in Feralas
+Gabreal/Lucifyr helped Yire complete Duskwood elites
+Cranky helped Yire complete Duskwood elites
+Cad helped Yire complete Duskwood elites
+Yesac helped Yire complete Duskwood elites
+Rusty helped Poppa with RR elites
+Gabreal/Lucifyr helped Poppa with RR elites
+Kilroth helped Poppa with RR elites
+Rusty helped Eilaurowen with Wetlands elites
+Poppa helped Eilaurowen with Wetlands elites
+Gnormal helped with the Greench kill
+Qarn helped with the Greench kill
+Snowshadow helped with the Greench kill
+Blazeworth ported for the Greench kill
+Kharn helped with the Greench kill
+Truearrow helped with the Greench kill
+Blood/Lews posted team info for the Greench farming group
+Deves summoned Mire to Bootybay
+Gnormal summoned Mire to Bootybay
+Blaze summoned Mire to Bootybay
+Ghromz helped Mire with Bloodscalp Ears in STV
+Ghromz helped Mire with the Tusk quest for the warrior axe
+Ghromz helped Dest with Bloodscalp Ears in STV
+Ghromz helped Dest with the Tusk quest for the warrior axe
+Deves supplied Steriodj with mats for a +5 enchant on the Whirlwind Axe
+Paximus handed out enchants for Osoro
+Deves helped Steriodj with an elite quest in Wetlands
+Deves helped Mire with elite quests in Wetlands
+Deves helped Mire with Duskwood elites
+Docbandit helped Taresitia with Dashel in Old Town
+Itsmeclear helped Blood/Lews farm shards from RFD
+Taresitia helped Poppa with courier quests in Arathi
+Taresitia helped Poppa with escort quests in Arathi
+Esairia ran Sunken Temple with Blood/Lews
+Benkill ran Sunken Temple with Blood/Lews
+Khârn ran Sunken Temple with Blood/Lews
+Ingtar ran Sunken Temple with Blood/Lews
+Dalibor ran Sunken Temple with Blood/Lews
+Blood/Lews posted team info for Sunken Temple run
+Lizzie helped Basaran clear Deadmines
+Duet helped Basaran clear Deadmines
+Burninator helped Deves with pirates in Tanaris
+Esairia ran Maraudon with Blood/Lews
+Benkill ran Maraudon with Blood/Lews
+Khârn ran Maraudon with Blood/Lews
+Ingtar ran Maraudon with Blood/Lews
+Dalibor ran Maraudon with Blood/Lews
+Esairia ran BRD with Blood/Lews
+Benkill ran BRD with Blood/Lews
+Khârn ran BRD with Blood/Lews
+Ingtar ran BRD with Blood/Lews
+Dalibor ran BRD with Blood/Lews
+Blood/Lews posted team info for Maraudon and BRD runs
+Summertemp helped Mothgf with Morbent Fel
+Kharn ran BRD with Blood/Lews
+Sebastiel ran BRD with Blood/Lews
+Ingtar ran BRD with Blood/Lews
+Shadowly ran BRD with Blood/Lews
+Esairia ran BRD with Blood/Lews
+Blood/Lews posted team info for BRD run
+Zalf/Shall/Kelbboo/Crackerjoe helped Dest finish a Stockades quest
+Zalf/Shall/Kelbboo/Crackerjoe helped Mire finish a Stockades quest
+Punkiee helped Osoro with Wetlands elites
+Destruam helped Osoro with Duskwood elites
+Mireadon helped Osoro with Duskwood elites
+Hctanked donated 1x Minor Healing Potion; 13x Elixir of Lion's Strength; 9x Minor Rejuvenation Potion; 9x Swiftness Potion; 17x Elixir of Minor Fortitude;
+Mireadon donated 5x Linen Cloth; 19x Lesser Healing Potion; 2x Minor Mana Potion; 1x BKP "Sparrow" Smallbore; 2x Tin Ore; 22x Tangy Clam Meat; 1x Lion Meat; 1x Gooey Spider Leg; 1x Raptor Hide; 2x Slimy Murloc Scale; 1x Fish Oil; 3x Murloc Eye; 9x Shiny Fish Scales;
+Cerydra donated 5x Superior Healing Potion; 7x Greater Mana Potion; 6x Greater Healing Potion; 3x Solid Stone; 1x Deeprock Salt; 2x Purple Lotus; 3x Fadeleaf; 1x Tender Wolf Meat; 1x Buzzard Wing; 2x Mystery Meat; 1x Red Wolf Meat; 5x Mana Potion; 2x Truesilver Bar; 4x Iron Ore; 7x Wastewander Water Pouch; 14x Gorilla Fang; 1x Ichor of Undeath; 2x Wildvine; 1x Zesty Clam Meat; 4x Coarse Gorilla Hair; 2x Green Hills of Stranglethorn - Page 11; 1x Green Hills of Stranglethorn - Page 20; 1x Green Hills of Stranglethorn - Page 6; 1x Green Hills of Stranglethorn - Page 8;
+Docbandit donated 1x Green Hills of Stranglethorn - Page 20; 1x Green Hills of Stranglethorn - Page 24;
+Osoro donated 60x Wool Cloth; 10x Lesser Healing Potion; 5x Lesser Mana Potion; 1x Seer's Cuffs; 2x Gold Bar; 1x Gold Ore; 60x Silk Cloth; 5x Mana Potion; 1x Webwing Cloak; 3x Silver Ore; 1x Jade;
+Khârn donated 11x Linen Cloth; 17x Wool Cloth; 1x Lesser Healing Potion; 1x Stranglekelp; 2x Tigerseye; 1x Woodworking Gloves; 1x Recipe: Rage Potion; 3x Goldthorn; 1x Truesilver Ore; 10x Dark Iron Scraps; 6x Red Wolf Meat; 5x Sungrass; 6x Dreamfoil; 16x Mageweave Cloth; 1x Wicked Claw; 1x Kingsblood; 1x Thorium Ore;
+Hammerförth donated 7x Rethban Ore; 7x Bolt of Runecloth; 7x Rugged Leather; 9x Stonescale Eel; 3x Stranglekelp; 11x Oily Blackmouth;
+Kristre donated 40x Silverleaf;
+Neverdiedpdn donated 11x Crisp Spider Meat; 3x Nightcrawlers; 8x Shiny Fish Scales; 9x Murloc Fin; 6x Fish Oil; 8x Murloc Eye; 8x Spider Ichor; 9x Tangy Clam Meat; 1x Gooey Spider Leg; 1x Large Venom Sac; 1x Spider's Silk;
+Alvarny donated 238x Linen Cloth;
+Artoriusvigo donated 1x Snowman Kit;
+Kontigo donated 4x Tin Ore; 5x Coarse Stone; 1x Silver Bar; 6x Slimy Murloc Scale; 13x Clam Meat; 10x Murloc Eye; 1x Shiny Fish Scales; 1x Blazing Wand;
+Oldncranky donated 3x Long Tail Feather; 1x Healing Potion; 2x Heavy Hide; 11x Heavy Leather; 4x Medium Hide; 31x Medium Leather; 6x Turtle Meat; 3x Kingsblood; 2x Bruiseweed; 1x Tiger Meat; 1x Large Fang; 2x Heavy Stone;
+Bigbadlock donated 14x Clam Meat; 4x Small Egg; 3x Murloc Eye; 4x Bear Meat;
+Pamarine donated 44x Linen Cloth; 9x Murloc Eye; 50x Heavy Linen Bandage; 5x Clam Meat; 5x Crawler Meat; 3x Crawler Claw; 20x Chunk of Boar Meat; 10x Boar Intestines; 7x Goretusk Snout; 8x Hops; 5x Okra; 31x Linen Bandage;
+Gheralt donated 2x Heavy Hide; 2x Giant Egg; 4x Tender Wolf Meat; 2x Buzzard Wing; 15x Mystery Meat; 14x Raptor Flesh; 2x Red Wolf Meat; 2x Wicked Claw; 8x Gorilla Fang; 21x Blue Power Crystal; 33x Green Power Crystal; 21x Red Power Crystal; 12x Yellow Power Crystal; 20x Thick Leather; 11x Scorpid Scale; 1x Thick Hide;
+Bunnyowned donated 3x Peacebloom; 1x Malachite; 2x Silverleaf;
+Derringeria donated 1x Gloves of the Greatfather; 6x Healing Potion; 2x Greater Healing Potion; 1x Hide of Lupos;
+Justdieing donated 2x Bear Meat; 2x Light Feather; 3x Crocolisk Meat; 3x Boar Intestines; 3x Boar Ribs;
+Burninator donated 380x Mageweave Cloth; 3x Large Fang; 6x Gorilla Fang; 8x Coarse Gorilla Hair; 5x Superior Healing Potion;
+Blankerz donated 1x Ghoul Fingers; 5x Rough Stone; 1x Lean Wolf Flank; 1x Lesser Mana Potion; 10x Murloc Fin; 5x Tangy Clam Meat; 1x Raw Bristle Whisker Catfish; 1x Plans: Edge of Winter;
+Ingtar donated 1x Iron Strut; 1x Fused Wiring; 7x Runecloth; 1x Small Brilliant Shard; 3x Tender Wolf Meat; 4x Red Wolf Meat; 1x Heavy Leather; 33x Dark Iron Residue;
+Smashtango donated 1x Plans: Edge of Winter;
+Vangelis donated 4x Crimson Silk Vest;
+Gnormal donated 3x Murloc Fin; 11x Crisp Spider Meat; 20x Wool Cloth; 20x Silk Cloth; 5x Tender Crocolisk Meat; 2x Murloc Eye; 4x Copper Ore; 4x Rough Stone; 1x Malachite; 3x Raw Bristle Whisker Catfish; 3x Slimy Murloc Scale; 2x Shiny Fish Scales; 2x Tin Ore; 2x Coarse Stone; 1x Recipe: Gooey Spider Cake; 12x Spider Ichor; 6x Linen Cloth; 1x Pattern: Heavy Woolen Cloak; 1x Moss Agate; 1x Elemental Air; 1x Recipe: Seasoned Wolf Kabob;
+Pangaean donated 4x Double-stitched Woolen Shoulders; 1x Large Rucksack; 1x Green Hills of Stranglethorn - Page 8; 3x Green Hills of Stranglethorn - Page 16; 1x Green Hills of Stranglethorn - Page 18; 1x Green Hills of Stranglethorn - Page 24; 1x Green Hills of Stranglethorn - Page 14;
+Ultrabussy donated 1x Murloc Eye; 5x Wool Cloth; 3x Linen Cloth; 1x Gooey Spider Leg; 3x Spider Ichor;
+Gnephe donated 100x Wool Cloth; 40x Linen Cloth;
+Maklear donated 2x Green Hills of Stranglethorn - Page 24; 1x Green Hills of Stranglethorn - Page 10;
+Briceroy donated 1x Lovingly Crafted Boomstick;
+Nullis donated 29x Light Leather; 14x Silverleaf; 26x Peacebloom; 11x Crag Boar Rib; 1x Lesser Magic Wand; 1x Scroll of Protection; 1x Malachite;
+Neverdiedmfr donated 2x Mageroyal; 3x Minor Mana Potion; 4x Okra; 14x Flask of Oil; 10x Murloc Eye; 3x Slimy Murloc Scale; 10x Clam Meat;
+Balau donated 40x Mageweave Cloth;
+Angrygary donated 1x Green Hills of Stranglethorn - Page 11; 1x Green Hills of Stranglethorn - Page 18; 2x Large Fang;
+Yire donated 16x Healing Potion; 1x Green Hills of Stranglethorn - Page 21; 1x Green Hills of Stranglethorn - Page 24; 1x Green Hills of Stranglethorn - Page 10; 1x Robes of Arcana; 2x Thick Spider's Silk; 7x Tiger Meat; 1x Green Hills of Stranglethorn - Page 18; 4x Heavy Stone; 3x Mystery Meat; 5x Raptor Hide; 3x Raptor Egg; 2x Tender Crocolisk Meat; 1x Patterned Bronze Bracers;
+Stormyj donated 2x Plans: Gemmed Copper Gauntlets; 34x Linen Cloth; 1x White Leather Bag; 3x Minor Healing Potion; 1x Lesser Healing Potion; 16x Wool Bandage; 1x Scroll of Stamina; 1x Slarkskin; 7x Okra; 2x Copper Tube;
+Thräe donated 20x Mithril Bar; 20x Iron Bar; 40x Bronze Bar; 20x Gold Bar; 40x Solid Stone;
+Sanierily donated 76x Chunk of Boar Meat; 1x Formula: Enchant Chest - Minor Mana;
+Ltlgun donated 41x Ruined Leather Scraps; 28x Light Leather; 2x Chunk of Boar Meat; 3x Minor Healing Potion;
+Holyjosh donated 1x Spider Ichor;
+Hollytree donated 1x Burnished Cloak; 1x Hunter's Muzzle Loader;
+Gravehound donated 99x Rough Stone;
+Rivendare donated 9x Silk Cloth;
+Crackshot donated 18x Elixir of Minor Fortitude; 1x Stringy Vulture Meat; 10x Clam Meat; 10x Chunk of Boar Meat; 2x Slimy Murloc Scale; 1x Small Venom Sac; 3x Boar Ribs; 1x Bear Meat; 22x Silverleaf; 13x Peacebloom;
+Headlylemar donated 12x Bolt of Linen Cloth; 1x Bolt of Woolen Cloth; 1x Medium Leather; 1x Minor Mana Potion; 2x Murloc Eye; 1x Lesser Mana Potion;
+Cameltow donated 8x Goretusk Liver; 1x Stringy Vulture Meat; 11x Hops; 1x Crag Boar Rib; 7x Okra;
+Veloz donated 20x Lesser Healing Potion; 5x Minor Healing Potion; 20x Wool Cloth;
+Kilcloth donated 240x Linen Cloth;
+Esairia donated 11x Red Wolf Meat; 2x Wicked Claw;
+Tryxi donated 36x Linen Cloth; 20x Peacebloom;
+Aginor donated 38x Bronze Bar; 7x Silver Bar; 1x Green Linen Bracers; 49x Linen Cloth; 2x Rough Stone; 1x Minor Mana Potion; 4x Lesser Healing Potion; 13x Copper Ore; 4x Small Egg; 1x Carving Knife of Power; 1x Hunting Tunic; 1x Goretusk Liver; 2x Goretusk Snout; 1x Stringy Vulture Meat; 3x Chunk of Boar Meat; 2x Okra; 4x Flask of Oil;
+Clerroy donated 6x Shadowgem; 60x Linen Cloth; 2x Small Egg; 1x Veteran Shield; 40x Light Leather; 40x Copper Bar; 20x Bronze Bar;
+Zalf donated 1x Hunter's Muzzle Loader;
+Puckerz signed up
+Pickerone signed up
+Burnsouls signed up
+Tryxii signed up
+Aludra donated 23x Small Egg; 1x Elemental Earth; 1x Flask of Big Mojo; 2x Flask of Mojo; 6x Silver Rod; 20x Rough Sharpening Stone; 2x Golden Rod; 1x Pattern: Gloves of the Greatfather;
+Destruam donated 1x Green Hills of Stranglethorn - Page 26; 2x Green Hills of Stranglethorn - Page 8; 1x Green Hills of Stranglethorn - Page 10; 2x Green Hills of Stranglethorn - Page 1; 1x Green Hills of Stranglethorn - Page 18; 1x Green Hills of Stranglethorn - Page 11; 20x Silk Cloth; 2x Liferoot;
+Mireadon donated 2x Fish Oil; 4x Tangy Clam Meat; 3x Shiny Fish Scales; 1x Formula: Enchant Gloves - Fishing; 1x Green Hills of Stranglethorn - Page 20; 6x Wool Cloth; 4x Linen Cloth; 11x Tiger Meat; 1x Green Hills of Stranglethorn - Page 8; 1x Green Hills of Stranglethorn - Page 14; 1x Green Hills of Stranglethorn - Page 24; 1x Green Hills of Stranglethorn - Page 1; 2x Liferoot; 1x Mana Potion; 1x Green Hills of Stranglethorn - Page 10; 3x Raptor Egg; 2x Raptor Hide; 1x Tender Crocolisk Meat;
+Cáthbhádh donated 1x Peacebloom; 4x Oily Blackmouth; 1x Medium Leather; 4x Bolt of Linen Cloth;
+Cerydra donated 8x Black Mageweave Gloves; 19x Solid Stone; 1x Coal; 2x Gold Ore; 6x Deeprock Salt; 2x Thick Hide; 2x Heavy Leather; 4x Thick Spider's Silk; 1x Elemental Fire; 10x White Spider Meat; 5x Wicked Claw; 3x Flask of Mojo; 3x Tender Wolf Meat; 4x Red Wolf Meat; 1x Cured Ham Steak; 1x Gorilla Fang; 1x Large Fang; 1x Coarse Gorilla Hair; 4x Heart of the Wild; 1x Elemental Earth; 1x Gromsblood; 1x Khadgar's Whisker; 1x Stranglekelp; 2x Briarthorn; 1x Silverleaf; 2x Mystery Meat; 5x Greater Mana Potion; 2x Globe of Water; 6x Zesty Clam Meat; 1x Iridescent Pearl;
+Andriand donated 1x Medium Hide; 1x Sharp Claw; 16x Medium Leather; 10x Wool Cloth; 12x Copper Ore; 4x Long Tail Feather; 1x Heavy Leather; 10x Rough Stone; 10x Tin Ore; 3x Coarse Stone; 14x Light Leather;
+Oldncranky donated 7x Mystery Meat; 2x Raw Rockscale Cod;
+Pickerone donated 18x Rough Stone; 22x Silverleaf; 35x Linen Bandage; 11x Heavy Linen Bandage;
+Prayinghands donated 1x Lesser Magic Wand; 40x Linen Cloth;
+Osoro donated 60x Silk Cloth; 1x Buzzard Wing; 1x Scroll of Intellect II; 16x Healing Potion; 40x Wool Cloth; 17x Mystery Meat; 6x Stringy Vulture Meat; 9x Turtle Meat; 4x Mana Potion; 1x Hide of Lupos; 5x Lesser Healing Potion; 1x Long Battle Bow; 1x Jade;
+Vikn donated 19x Red Wolf Meat; 22x Thick Leather; 3x Buzzard Wing; 6x Medium Leather; 2x Wicked Claw; 4x Fadeleaf; 16x Tiger Meat; 5x Firebloom; 69x Heavy Leather; 5x Large Fang; 7x Khadgar's Whisker; 8x Kingsblood; 5x Mystery Meat; 1x Truesilver Bar; 6x Goldthorn; 15x Silk Cloth; 1x Recipe: Lesser Stoneshield Potion;
+Shamalas donated 120x Un'Goro Soil; 48x Morrowgrain;
+Esairia donated 1x Coarse Gorilla Hair; 9x Gorilla Fang;
+Sanierily donated 1x Bronze Tube; 1x Peacebloom; 1x Tigerseye; 20x Rough Sharpening Stone; 6x Stringy Wolf Meat; 1x Recipe: Elixir of Minor Agility; 1x Malachite; 2x Silverleaf; 1x Earthroot;
+Iceedge donated 20x Ruined Leather Scraps; 13x Light Leather; 5x Oily Blackmouth; 6x Raw Slitherskin Mackerel; 1x Minor Healing Potion; 3x Linen Cloth;
+Hollyhunter donated 40x Darkshore Grouper;
+Burninator donated 1x Green Hills of Stranglethorn - Page 6; 2x Green Hills of Stranglethorn - Page 11; 2x Green Hills of Stranglethorn - Page 10; 1x Green Hills of Stranglethorn - Page 21; 1x Ichor of Undeath; 1x Flask of Big Mojo; 1x Globe of Water; 8x Volatile Rum; 3x Mana Potion; 1x Green Hills of Stranglethorn - Page 25; 1x Green Hills of Stranglethorn - Page 20; 1x Green Hills of Stranglethorn - Page 27; 1x Green Hills of Stranglethorn - Page 18; 1x Green Hills of Stranglethorn - Page 4;
+Rdytopound donated 2x Shadowgem; 6x Rough Stone; 3x Linen Cloth; 2x Healing Potion;
+Teletort donated 54x Mageweave Cloth;
+Yire donated 5x Healing Potion; 10x Greater Healing Potion;
+Hctanked donated 1x Heavy Leather; 3x Coal;
+Thymesis donated 42x Heavy Wool Bandage;
+Feuerfinger donated 1x Green Hills of Stranglethorn - Page 10;
+Angrygary donated 20x Silk Cloth; 5x Wool Cloth; 2x Greater Healing Potion; 1x Tender Crocolisk Meat; 4x Tiger Meat; 3x Wild Hog Shank;
+Mnor donated 3x Tin Ore; 1x Seer's Cuffs; 1x Veteran Armor; 8x Lesser Healing Potion; 52x Linen Cloth;
+Stormyj donated 130x Linen Cloth; 13x Copper Bar; 10x Heavy Sharpening Stone; 1x Wicked Spiked Mace; 2x Small Lustrous Pearl; 18x Silk Bandage; 1x Soldier's Armor of the Bear; 2x Malachite; 1x Stringy Vulture Meat; 1x Shadow Wand; 2x Tigerseye; 12x Rough Stone;
+Justdieing donated 3x Murloc Eye; 4x Goretusk Snout; 5x Boar Intestines; 2x Light Feather; 3x Great Goretusk Snout; 7x Boar Ribs; 1x Hops; 2x Minor Healing Potion; 2x Flask of Oil; 1x Sharp Claw; 1x Haunch of Meat; 1x Tough Condor Meat; 1x Small Egg; 1x Murloc Fin; 1x Slimy Murloc Scale; 10x Black Whelp Scale;
+Hatehunter donated 1x Shadowgem; 14x Rough Stone; 4x Mageroyal; 11x Briarthorn; 1x Seer's Belt; 16x Curiously Tasty Omelet; 1x Red Leather Bag; 12x Copper Ore; 2x Standard Scope; 1x Small Leather Ammo Pouch; 2x Peacebloom;
+Furbag donated 2x Light Leather; 3x Linen Cloth; 2x Mageroyal; 2x Light Feather; 2x Small Egg;
+Hiddenergary donated 100x Silk Cloth; 7x Heavy Leather; 6x Thick Leather; 1x Medium Hide; 4x Medium Leather; 1x Strong Iron Lockbox;
+Briceroy donated 10x Greater Healing Potion; 1x Recipe: Crocolisk Gumbo; 1x Recipe: Strider Stew; 1x Recipe: Succulent Pork Ribs; 1x Recipe: Blood Sausage; 2x Recipe: Crocolisk Steak; 3x Recipe: Westfall Stew; 2x Recipe: Beer Basted Boar Ribs; 1x Recipe: Goretusk Liver Pie; 1x Lesser Healing Potion; 2x Coarse Stone; 1x Medium Hide; 4x Darkshore Grouper; 2x Sharp Claw; 5x Medium Leather; 1x Light Hide; 8x Light Leather; 4x Linen Cloth; 1x Tangy Clam Meat; 2x Raw Slitherskin Mackerel;
+Pangaean donated 4x Healing Potion; 5x Stringy Vulture Meat;
+Kongarth donated 6x Mageroyal; 1x Shiny Fish Scales; 4x Tangy Clam Meat; 1x Raw Slitherskin Mackerel; 10x Murloc Eye; 1x Raw Rainbow Fin Albacore; 6x Murloc Fin; 4x Raptor Egg; 2x Tender Crocolisk Meat; 2x Darkshore Grouper; 6x Light Feather;
+Thräe donated 4x Iron Bar; 19x Solid Stone;
+Rivenbank donated 120x Silk Cloth;
+Cameltow donated 2x Small Spider Leg; 12x Flask of Oil; 4x Murloc Eye;
+Ltlgun donated 10x Hops; 3x Okra; 10x Flask of Oil; 1x Pattern: Heavy Woolen Cloak;
+Loopidot donated 5x Darkshore Grouper; 2x Healing Potion;
+Erithofalar donated 38x Snowball; 9x Small Egg; 1x Mooncloth;
+Cjtheman donated 4x Small Lustrous Pearl; 8x Lion Meat; 1x Truesilver Bar; 20x Silk Cloth;
+Bspring donated 7x Crag Boar Rib;
+Hodandise donated 20x Light Leather;
+Fifthnipple donated 13x Raw Redgill; 3x Liferoot; 20x Mageweave Cloth; 1x Superior Healing Potion; 5x Heavy Mageweave Bandage;
+Kurgan donated 1x Green Hills of Stranglethorn - Page 14; 2x Green Hills of Stranglethorn - Page 18; 1x Green Hills of Stranglethorn - Page 26; 1x Green Hills of Stranglethorn - Page 24; 1x Green Hills of Stranglethorn - Page 6;
+Bunnyowned donated 30x Copper Ore; 6x Silverleaf; 18x Rough Stone; 1x Tigerseye; 1x Minor Healing Potion; 1x Malachite; 2x Peacebloom;
+Gnephe donated 20x Heavy Wool Bandage;
+Gabreal donated 10x Bolt of Linen Cloth; 5x Murloc Fin;
+Pamarine donated 27x Clam Meat; 1x Pattern: Heavy Woolen Cloak; 2x Small Lustrous Pearl; 5x Boar Intestines; 6x Chunk of Boar Meat; 3x Boar Ribs; 13x Wool Bandage; 2x Medium Armor Kit; 4x Great Goretusk Snout; 1x Crisp Spider Meat; 1x Tough Condor Meat; 35x Linen Cloth; 2x Goretusk Liver; 2x Spider Ichor; 18x Murloc Eye; 7x Slimy Murloc Scale; 6x Murloc Fin;
+Itsmeclear crafted 100 Elixir of Minor Defense
+Itsmeclear crafted 53 Elixir of Lion's Strength
+Itsmeclear crafted 200 Elixir of Minor Fortitude
+Itsmeclear crafted 40 Elixir of Minor Agility
+Itsmeclear crafted 100 Swiftness Potion
+Itsmeclear crafted 40 Minor Rejuvenation Potion
+Itsmeclear crafted 80 Elixir of Water Breathing
+Itsmeclear crafted 100 Elixir of Wisdom
+Itsmeclear crafted 60 Elixir of Agility
+Itsmeclear crafted 60 Lesser Stoneshield Potion
+Itsmeclear crafted 54 Frost Oil
+Itsmeclear crafted 220 Lesser Healing Potion
+Itsmeclear crafted 60 Minor Mana Potion
+Itsmeclear crafted 180 Mana Potion
+Itsmeclear crafted 97 Superior Mana PotionPickerone donated 39x Linen Cloth; 1x Pattern: Fine Leather Boots; 2x Hops; 1x Okra; 2x Flask of Oil; 36x Wool Bandage; 1x Recipe: Blood Sausage; 2x Spider Ichor; 3x Small Egg;
+Thäelan donated 3x Greater Mana Potion; 24x Solid Stone; 3x Elemental Earth;
+Sunuva donated 25x Linen Cloth; 1x Ice Cold Milk; 3x Dalaran Sharp; 2x Coyote Meat; 1x Lesser Healing Potion;
+Snowfun donated 3x Briarthorn; 3x Kingsblood; 1x Large Venom Sac; 7x Crisp Spider Meat; 9x Spider Ichor; 5x Gooey Spider Leg; 1x Sharp Claw; 1x Small Venom Sac;
+Pimientito donated 4x Black Mageweave Shoulders; 2x Black Mageweave Headband; 2x Wastewander Water Pouch;
+Bspring donated 1x Bronze Tube; 10x Crisp Spider Meat; 6x Gooey Spider Leg; 18x Boiled Clams; 14x Goblin Deviled Clams; 20x Crab Cake; 16x Goretusk Liver Pie; 1x Spider Ichor; 3x Boar Intestines; 4x Goretusk Snout; 5x Great Goretusk Snout;
+Yesac donated 2x Black Mageweave Headband;
+Mnor donated 10x Spider Ichor; 10x Crisp Spider Meat;
+Cerydra donated 1x Coarse Gorilla Hair; 1x Green Hills of Stranglethorn - Page 16; 1x Green Hills of Stranglethorn - Page 20; 1x Green Hills of Stranglethorn - Page 8; 1x Rugged Armor Kit; 3x Solid Stone; 1x Deeprock Salt; 2x Raptor Hide; 1x Shadow Silk; 1x Thick Spider's Silk; 3x Zesty Clam Meat; 12x White Spider Meat; 7x Raptor Flesh; 1x Large Fang; 1x Iridescent Pearl; 18x Incendosaur Scale; 4x Vibrant Plume; 1x Star Ruby; 1x Plans: Heavy Mithril Helm; 14x Greater Mana Potion; 10x Superior Healing Potion;
+Bäelan donated 39x Iron Grenade; 40x Solid Stone; 11x Rough Stone;
+Hatehunter donated 10x Copper Ore;
+Burninator donated 1x Elemental Fire; 2x Heavy Leather; 1x Frost Oil; 3x Mana Potion; 2x Greater Mana Potion; 20x Superior Healing Potion; 18x Heavy Mageweave Bandage;
+Hctanked donated 40x Swiftthistle; 10x Small Egg; 1x Hops; 2x Copper Ore; 2x Giant Egg; 1x Wildvine; 52x Thick Leather; 1x Red Wolf Meat; 1x Great Goretusk Snout; 4x Peacebloom; 2x Wild Steelbloom; 5x Elixir of Greater Firepower; 1x Thick Spider's Silk; 6x Deeprock Salt; 1x Stranglekelp; 1x Mageroyal; 1x Tender Wolf Meat;
+Osoro donated 20x Wild Steelbloom; 1x Scroll of Agility II; 80x Silk Cloth; 7x Mystery Meat; 1x Buzzard Wing; 1x Lesser Moonstone; 2x Green Hills of Stranglethorn - Page 10; 1x Green Hills of Stranglethorn - Page 18; 1x Green Hills of Stranglethorn - Page 4; 1x Green Hills of Stranglethorn - Page 1; 1x Green Hills of Stranglethorn - Page 16; 1x Bolt of Woolen Cloth;
+Yire donated 11x Heavy Stone; 12x Lion Meat; 1x Greater Healing Potion;
+Sonragon donated 8x Swiftthistle; 1x Mountain Silversage; 7x Wild Steelbloom; 1x Blindweed; 3x Green Hills of Stranglethorn - Page 21; 1x Green Hills of Stranglethorn - Page 20; 1x Green Hills of Stranglethorn - Page 11; 1x Green Hills of Stranglethorn - Page 26; 1x Green Hills of Stranglethorn - Page 10; 1x Green Hills of Stranglethorn - Page 16;
+Mysticbimbo donated 1x Cresting Charm; 1x Burning Charm;
+Loopidru donated 19x Bruiseweed; 15x Earthroot; 40x Medium Leather; 40x Light Leather; 20x Mageroyal;
+Puckerz donated 1x Tigerseye; 53x Silverleaf; 43x Earthroot; 20x Peacebloom; 99x Copper Ore; 2x Shadowgem; 1x Malachite;
+Stormyj donated 1x Pattern: Red Linen Bag; 2x Light Feather; 2x Heavy Blasting Powder; 10x Coarse Blasting Powder; 37x Linen Cloth; 6x Wool Bandage; 1x Copper Modulator; 6x Murloc Fin; 6x Gooey Spider Leg;
+Brigittë donated 3x Earthroot;
+Briceroy donated 6x Long Tail Feather; 3x Medium Hide;
+Itsmeclear donated 100x Plaguebloom; 80x Swiftthistle; 80x Wild Steelbloom; 80x Blindweed; 40x Mountain Silversage;
+Dùet donated 8x Swiftthistle;
+Cjtheman donated 20x Wool Cloth; 40x Silk Cloth; 2x Gold Ore; 1x Jade; 2x Elemental Earth; 20x Kingsblood;
+Lizzié donated 8x Heavy Leather; 49x Medium Leather; 46x Light Leather; 29x Raptor Egg; 103x Wool Cloth; 3x Medium Hide;
+Restalia donated 16x Mageroyal; 108x Silverleaf; 7x Swiftthistle; 2x Light Hide; 12x Briarthorn; 47x Peacebloom; 50x Light Leather; 46x Earthroot; 94x Linen Cloth; 1x Spellbinder Robe; 1x Shadow Wand; 1x Warrior's Pants; 1x Journeyman's Pants; 1x Fire Wand; 1x Scroll of Intellect; 4x Scroll of Spirit; 1x Bruiseweed;
+Æxorcist donated 3x Wicked Claw; 20x Ironfeather;
+Derringeria donated 1x Naraxis' Fang; 6x Zesty Clam Meat; 4x Healing Potion;
+Docbandit donated 5x Black Mageweave Gloves;
+Thräe donated 1x Superior Healing Potion;
+Neverdiedpdn donated 1x Tangy Clam Meat; 3x Murloc Fin; 11x Light Feather; 8x Long Tail Feather; 2x Mystery Meat; 2x Sharp Claw; 1x Murloc Eye;
+Prayinghands donated 25x Minor Rejuvenation Potion; 220x Linen Cloth; 20x Wool Cloth; 25x Minor Healing Potion;
+Khârn donated 2x Plaguebloom; 2x Ichor of Undeath; 2x White Spider Meat; 1x Thick Spider's Silk; 26x Blindweed; 2x Fadeleaf; 5x Liferoot; 6x Stranglekelp; 1x Goldthorn; 24x Red Wolf Meat; 12x Spider Sausage; 2x Kingsblood; 7x Gromsblood; 7x Sungrass; 4x Mountain Silversage; 3x Dark Iron Ore; 8x Mageweave Cloth;
+Oldncranky donated 4x Shiny Fish Scales; 4x Tangy Clam Meat;
+Veloz donated 3x Crude Scope; 3x Deadly Scope; 2x Accurate Scope; 20x Heavy Silk Bandage; 4x Bolt of Linen Cloth; 50x Chunk of Boar Meat; 18x Herb Baked Egg; 4x Medium Armor Kit; 1x Burnt Leather Vest; 20x Rough Stone;
+Alvarny donated 2x Stringy Vulture Meat;
+Bunnyowned donated 1x Malachite; 13x Peacebloom; 14x Copper Ore; 8x Silverleaf; 11x Rough Stone;
+Mireadon donated 17x Mystery Meat; 3x Large Fang; 1x Large Venom Sac; 1x Coarse Stone; 1x Sharp Claw; 2x Light Feather; 4x Stringy Vulture Meat; 4x Turtle Meat; 9x Shiny Fish Scales; 8x Tangy Clam Meat; 4x Naga Scale; 9x Lion Meat; 3x Silk Cloth; 1x Formula: Enchant Gloves - Fishing; 2x Thick Murloc Scale; 9x Fish Oil; 2x Tin Ore;
+Therian donated 60x Linen Cloth; 2x Small Lustrous Pearl; 8x Murloc Eye;
+Chungismung donated 2x Green Hills of Stranglethorn - Page 27; 2x Green Hills of Stranglethorn - Page 24; 1x Green Hills of Stranglethorn - Page 21; 1x Green Hills of Stranglethorn - Page 14; 1x Green Hills of Stranglethorn - Page 11; 1x Green Hills of Stranglethorn - Page 10; 6x Iron Ore; 3x Tin Ore; 2x Thick Leather; 27x Heavy Leather; 4x Elemental Earth;
+Ultrabussy donated 1x Boar Intestines; 1x Chunk of Boar Meat; 2x Linen Cloth; 1x Goretusk Liver;
+Cad donated 2x Elemental Water; 3x Thundering Charm; 1x Green Hills of Stranglethorn - Page 8; 1x Green Hills of Stranglethorn - Page 27; 1x Green Hills of Stranglethorn - Page 14; 1x Green Hills of Stranglethorn - Page 25; 1x Green Hills of Stranglethorn - Page 18; 1x Plans: Iron Counterweight;
+Kongarth donated 8x Wool Cloth; 2x Lean Wolf Flank; 1x Sharp Claw; 1x Double-stitched Woolen Shoulders; 1x Bolt of Woolen Cloth;
+Lews donated 1x Scroll of Protection III; 58x Dark Iron Residue; 26x Dark Iron Scraps; 1x Sungrass; 1x Liferoot; 1x Briarthorn; 3x Runecloth; 1x Large Brilliant Shard; 1x Small Brilliant Shard; 1x Elemental Fire; 12x Morrowgrain; 11x Core of Elements;
+Vikn donated 42x Silk Cloth; 1x Jade; 4x Khadgar's Whisker; 1x Kingsblood; 3x Lion Meat; 5x Heavy Leather; 6x Medium Leather; 2x Heavy Hide; 3x Fadeleaf;
+Thormranger donated 1x Gold Bar; 1x Large Venom Sac; 1x Precision Bow;
+Headlylemar donated 17x Oily Blackmouth; 7x Firefin Snapper; 1x Lesser Mana Potion; 1x Bolt of Silk Cloth; 15x Medium Leather; 6x Heavy Leather; 4x Bolt of Woolen Cloth;
+Destruam donated 60x Silk Cloth;
+Darthhunt donated 2x Cured Ham Steak; 1x Heart of the Wild; 1x Liferoot; 9x Raw Spotted Yellowtail; 3x Zesty Clam Meat; 1x Red Wolf Meat; 2x Turtle Meat; 1x Flask of Mojo;
+Atmeh donated 3x Strider Meat; 1x Stringy Vulture Meat; 2x Boar Intestines; 1x Goretusk Liver; 5x Chunk of Boar Meat; 2x Goretusk Snout; 1x Tough Condor Meat; 2x Scroll of Intellect;
+Rustyshot donated 15x Fine Leather Belt;
+Hodandise donated 1x Heavy Copper Maul; 1x Light Mail Bracers; 20x Coarse Weightstone; 7x Rough Stone; 3x Okra; 1x Runed Copper Bracers; 1x Runed Copper Gauntlets; 1x Runed Copper Belt; 1x Rodentia Flint Axe; 1x Warrior's Pants; 2x Crisp Spider Meat; 5x Bear Meat; 7x Small Spider Leg; 3x Spider Ichor;
+Sanierily donated 3x Woolen Bag; 1x Handstitched Leather Cloak;
+Somehobo donated 7x Heavy Wool Bandage;
+Gibralta donated 60x Mageweave Cloth; 1x Small Flame Sac;
+Holyjosh donated 5x Silver Rod;
+Thormortxi donated 40x Silk Cloth; 2x Wool Cloth; 1x Greater Healing Potion;
+Dehuntress donated 4x Copper Bar; 1x Great Goretusk Snout; 2x Goretusk Liver; 7x Light Leather; 2x Boar Intestines; 1x Rough Stone;
+Snowchance donated 1x Copper Claymore; 4x Lesser Healing Potion; 1x Minor Healing Potion; 58x Linen Cloth; 1x Bolt of Linen Cloth; 10x Turtle Meat;
+Ghromly donated 7x Standard Scope;
+Croski donated 1x Linen Bag;
