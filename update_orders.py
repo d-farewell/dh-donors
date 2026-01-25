@@ -297,7 +297,7 @@ def update_donor_orders(donors, roster, death_list):
             character = roster.characters[donor_name]
         except:
             continue
-        for item_level, item_source, item_classes, num_classes, item_name, item_count in kit_items:
+        for item_level, item_source, item_classes, requires, item_name, item_count in kit_items:
             # Pass checks to see if it's a valid order
             if not donor_name in recipients:
                 if donor.level > 5 and donor.level < 42:
@@ -316,7 +316,7 @@ def update_donor_orders(donors, roster, death_list):
                 continue
             if not (donor.char_class in item_classes or item_classes == "All"):
                 continue
-            if item_source == "Pro" and not donor_name in pro_donors:
+            if requires == "Pro" and not donor_name in pro_donors:
                 continue
             if "Green Hills" in item_name and "GH" in character.char_officer_note:
                 continue
