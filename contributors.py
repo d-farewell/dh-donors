@@ -68,7 +68,7 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
                 qty = int(qty)
                 if category == "crafted":
                     contrib_category = "Crafting"
-                    amount = qty / 10
+                    amount = qty / 2
                     contrib_amount = amount
                     kudos_list.append(kudos)
                 else:

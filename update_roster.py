@@ -75,3 +75,6 @@ update_donor_orders(donors, current_roster, death_list)
 
 process_and_post_data()
 current_roster.save()
+
+# from gear_reservation import process_reservations
+# process_reservations()

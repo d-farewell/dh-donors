@@ -38,8 +38,8 @@ Level	Category	Class(es)	Requires	Item	Qty
 46	Alchemy	Warrior, Rogue, Hunter		Elixir of the Mongoose	5
 49	Alchemy	None		Major Mana Potion	5
 49	Alchemy	Warlock, Mage, Priest, Druid, Paladin	Pro	Major Mana Potion	5
-52	Alchemy	All	Pro	Flask of Petrification	1
-60	Alchemy	All		Flask of Petrification	1
+52	Alchemy	None	Pro	Flask of Petrification	1
+60	Alchemy	None		Flask of Petrification	1
 1	Blacksmithing	Rogue, Warrior, Paladin		Rough Sharpening Stone	20
 1	Blacksmithing	Warrior, Paladin, Druid		Rough Weightstone	20
 2	Blacksmithing	Warrior, Paladin		Copper Bracers	1
@@ -90,7 +90,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 33	Dhstorage	All		Green Hills pages	15
 33	Dhstorage	Warrior		Whirlwind Weapon mats	15
 5	Enchanting	Priest, Warlock, Mage		Lesser Magic Wand	1
-8	Enchanting	Warlock, Priest, Mage, Paladin		Minor Wizard Oil	4
+8	Enchanting	Warlock, Priest, Mage, Paladin		Minor Wizard Oil	6
 13	Enchanting	Priest, Warlock, Mage		Greater Magic Wand	1
 15	Enchanting	All	Pro	Knitted Sandals	1
 20	Enchanting	Priest, Warlock		Minor Mana Oil	1
@@ -123,9 +123,9 @@ Level	Category	Class(es)	Requires	Item	Qty
 18	First Aid	Rogue, Warrior		Anti-Venom	20
 20	First Aid	All		Heavy Silk Bandage	20
 20	First Aid	All		Wool (Again)	20
-20	First Aid	All		Strong Anti-Venom	20
+20	First Aid	All	Pro	Strong Anti-Venom	20
 25	First Aid	All	Pro	Mageweave Bandage	20
-30	First Aid	All	Pro	Heavy Mageweave Bandage	20
+30	First Aid	None	Pro	Heavy Mageweave Bandage	20
 30	First Aid	All	Pro	Expert First Aid - Under Wraps	1
 30	First Aid	All	Pro	Manual: Heavy Silk Bandage	1
 30	First Aid	All	Pro	Manual: Mageweave Bandage	1
@@ -218,7 +218,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 20	Quest	All	Pro	Incendicite Ore	6
 28	Quest	All		Turtle Meat	10
 30	Quest	None		Mageweave (First Aid)	150
-32	Quest2	None		Lesser Bloodstone Ore	4
+32	Quest2	All		Lesser Bloodstone Ore	4
 33	Quest2	All		Buzzard Wing	4
 34	Quest2	Priest, Mage		Light Feather	20
 40	Quest2	All		Gorilla Fang	10
@@ -279,6 +279,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 31	Tailoring	Warlock, Priest, Mage		Spider Belt	1
 32	Tailoring	Mage, Priest, Warlock, Druid, Paladin		Long Silken Cloak	1
 33	Tailoring	Mage		Azure Shoulders	1
+36	Tailoring	Mage, Priest, Warlock		Black Mageweave Vest	1
 37	Tailoring	Warlock, Priest		Shadoweave Pants	1
 38	Tailoring	Priest, Mage, Warlock		Black Mageweave Gloves	1
 40	Tailoring	All		14 slot bag (lvl 40)	1
