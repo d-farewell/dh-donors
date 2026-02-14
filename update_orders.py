@@ -78,11 +78,11 @@ class Kit_Order:
             return False 
         # if not self.source == order.source:
         #     return False 
-        if self.item_level == 99 or order.item_level == 99:
-            return True
-        if self.item_level - order.item_level < 1:
-            return True
-        return False
+        # if self.item_level == 99 or order.item_level == 99:
+        #     return True
+        # if self.item_level - order.item_level < 1:
+        #     return True
+        return True
 
 
 

@@ -215,7 +215,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 20	Quest	All		Murloc Fin	8
 20	Quest	All	Pro	Rethban Ore	5
 20	Quest	None		Silk (First Aid)	170
-20	Quest	All	Pro	Incendicite Ore	6
+20	Quest	None	Pro	Incendicite Ore	6
 28	Quest	All		Turtle Meat	10
 30	Quest	None		Mageweave (First Aid)	150
 32	Quest2	All		Lesser Bloodstone Ore	4
@@ -241,7 +241,8 @@ Level	Category	Class(es)	Requires	Item	Qty
 55	Quest2	None		Core of Elements	30
 55	Quest2	All		Dark Iron Scraps	30
 55	Quest2	None		Savage Frond	30
-1	Tailoring	All		10 slot bags	3
+1	Tailoring	All		8 slot bags	2
+10	Tailoring	All		10 slot bags	3
 1	Tailoring	None		Linen Cloak	1
 2	Tailoring	None		Simple Linen Pants	1
 5	Tailoring	None		Red Linen Robe	1
@@ -250,17 +251,17 @@ Level	Category	Class(es)	Requires	Item	Qty
 7	Tailoring	Priest, Warlock		Red Linen Vest	1
 7	Tailoring	All		Reinforced Linen Cape	1
 9	Tailoring	Mage, Priest, Warlock		Handstitched Linen Britches	1
-10	Tailoring	All		12 slot bag (lvl 10)	1
+10	Tailoring	None		12 slot bag (lvl 10)	1
 10	Tailoring	None		Simple Kilt	1
-11	Tailoring	None		Soft-soled Linen Boots	1
+11	Tailoring	Mage, Warlock		Soft-soled Linen Boots	1
 11	Tailoring	None		Woolen Cape	1
 12	Tailoring	Mage, Priest, Warlock		Heavy Woolen Gloves	1
 14	Tailoring	Mage, Priest, Warlock, Druid		Pearl-clasped Cloak	1
-14	Tailoring	Mage, Priest, Warlock		Woolen Boots	1
+14	Tailoring	Priest		Woolen Boots	1
 16	Tailoring	Mage, Warlock		Gray Woolen Robe	1
 16	Tailoring	None		Heavy Woolen Cloak	1
 17	Tailoring	Mage, Priest, Warlock		Double-stitched Woolen Shoulders	1
-17	Tailoring	None		Heavy Woolen Pants	1
+17	Tailoring	Mage, Priest, Warlock		Heavy Woolen Pants	1
 18	Tailoring	Priest		Greater Adept's Robe	1
 19	Tailoring	None		Reinforced Woolen Shoulders	1
 20	Tailoring	All		12 slot bag (lvl 20)	2
@@ -275,6 +276,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 29	Tailoring	All		Bolt of Woolen Cloth	1
 30	Tailoring	All		14 slot bag (lvl 30)	1
 30	Tailoring	Hunter, Rogue, Warrior, Warlock, Priest, Paladin, Mage		Azure Silk Belt	1
+30	Tailoring	Priest		Boots of the Enchanter	1
 31	Tailoring	Mage, Priest, Warlock		Green Silken Shoulders	1
 31	Tailoring	Warlock, Priest, Mage		Spider Belt	1
 32	Tailoring	Mage, Priest, Warlock, Druid, Paladin		Long Silken Cloak	1

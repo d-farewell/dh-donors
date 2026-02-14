@@ -573,9 +573,12 @@ Lord Alexander's Battle Axe	80	Gear
 Magician's Mantle	80	Gear
 Robes of Insight	80	Gear
 The Butcher	80	Gear
+Elder Wizard's Mantle	80	Gear
 Ring of the Underwood	75	Gear
 Taran Icebreaker	75	Gear
 Ardent Custodian	70	Gear
+Staff of the Blessed Seer	70	Gear
+Juno's Shadow	65	Gear
 Gloves of Holy Might	60	Gear
 Icemail Jerkin	50	Gear
 Kaleidoscope Chain	50	Gear
@@ -622,6 +625,7 @@ Stoneraven	35	Gear
 Stonerender Gauntlets	35	Gear
 The Needler	35	Gear
 The Silencer	35	Gear
+Steelclaw Reaver	35	Gear
 Deepfury Bracers	30	Gear
 Devout Belt	30	Gear
 Dreadmist Belt	30	Gear
@@ -649,6 +653,8 @@ Supercharger Battle Axe	25	Gear
 The Ziggler	25	Gear
 Viscous Hammer	25	Gear
 Wand of Allistarj	25	Gear
+Serpent Slicer	25	Gear
+Diamond Hammer	25	Gear
 Keller's Girdle	24	Gear
 Twisted Chanter's Staff	22	Gear
 Amy's Blanket	20	Gear
@@ -3952,7 +3958,7 @@ Pattern: Big Voodoo Mask	1.5	Misc.
 Plans: Thorium Belt	1.5	Misc.
 Expert Fishing - The Bass and You	1.0526	Misc.
 Blue Pearl	1	Misc.
-Chronoboon Displacer	1	Misc.
+Chronoboon Displacer	1.2	Misc.
 Elemental Earth	1	Misc.
 Expert Cookbook	1	Misc.
 Expert First Aid - Under Wraps	1	Misc.
@@ -4320,6 +4326,8 @@ Yellow Power Crystal	0.3	Quest
 Jungle Remedy	0.25	Quest
 Bone Fragments	0.2	Quest
 Savage Frond	0.2	Quest
+Green Hills of Stranglethorn - Page 8	0.2	Quest
+Green Hills of Stranglethorn - Page 4	0.2	Quest
 Green Hills of Stranglethorn - Page 24	0.13	Quest
 Green Hills of Stranglethorn - Page 11	0.13	Quest
 Green Hills of Stranglethorn - Page 1	0.12	Quest
@@ -4337,10 +4345,8 @@ Wastewander Water Pouch	0.1	Quest
 Green Hills of Stranglethorn - Page 20	0.1	Quest
 Green Hills of Stranglethorn - Page 21	0.1	Quest
 Green Hills of Stranglethorn - Page 10	0.09	Quest
-Green Hills of Stranglethorn - Page 8	0.09	Quest
 Green Hills of Stranglethorn - Page 16	0.08	Quest
 Green Hills of Stranglethorn - Page 18	0.08	Quest
-Green Hills of Stranglethorn - Page 4	0.07	Quest
 Green Hills of Stranglethorn - Page 14	0.06	Quest
 Green Hills of Stranglethorn - Page 25	0.06	Quest
 Lesser Bloodstone Ore	0.05	Quest
@@ -4635,8 +4641,9 @@ Stormwind Brie	0	Vendor
 Tel'Abim Banana	0	Vendor
 Tough Jerky	0	Vendor
 Weak Flux	0	Vendor
-Serpent Slicer	25	Gear
-Diamond Hammer	25	Gear
-Staff of the Blessed Seer	70	Gear
-Juno's Shadow	65	Gear
-Elder Wizard's Mantle	80	Gear
+Flask of the Titans	80	Alchemy
+Beaststalker's Belt	140	Gear
+Staff of the Friar	90	Gear
+Earthborn Kilt	10	Gear
+Captain Sander's Treasure Map	3	Quest
+Warbear Harness	30	Leatherworking

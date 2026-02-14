@@ -7,10 +7,8 @@ from contrib_data import process_and_post_data
 from crafting_credit import read_craft_channel
 import logging
 
-# process_and_post_data()
 
 current_roster = Roster(load_from_file="inputs/roster.txt")
-# r = Roster()
 previous_roster = Roster(load_from_file="outputs/roster_latest.txt")
 
 logging.basicConfig(filename="logs/order_updates.log", level=logging.INFO)
@@ -76,5 +74,5 @@ update_donor_orders(donors, current_roster, death_list)
 process_and_post_data()
 current_roster.save()
 
-# from gear_reservation import process_reservations
-# process_reservations()
+from gear_reservation import process_reservations
+process_reservations()
