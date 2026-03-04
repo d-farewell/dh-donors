@@ -128,7 +128,7 @@ def process_reservations():
         channel = client.get_channel(channel_id)
         if channel:
             cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=15)
-            async for msg in channel.history(limit=50):
+            async for msg in channel.history(limit=500):
                 if msg.author.display_name == "bot"  or msg.author.display_name == "Greatfather Winter":
                     if msg.created_at < cutoff:
                         await msg.delete()
