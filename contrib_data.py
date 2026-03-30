@@ -227,8 +227,12 @@ def process_and_post_data():
     # print()
     print("Unidentified donors:")
     print(unidentified)
+    with open("outputs/unk_donors.txt", "w+", encoding="utf_8") as f:
+        for u in unidentified:
+            f.write(u)
+            f.write("\n")
     unidentified_msg = f"**\nTop unidentified donors this week:** {"; ".join(unidentified[:10])}"
-    unidentified_msg += "\n*If you see your name on this list, please let us know!*"
+    unidentified_msg += "\n*If you see your name on this list, please let us know in* https://discord.com/channels/1185713039161442356/1404343191423029359 "
 
     category_desc = {
         "Alchemy": "Potions, elixirs, etc.",

@@ -4049,7 +4049,7 @@ Stringy Vulture Meat	0.1	Meat
 Tender Crab Meat	0.1	Meat
 Turtle Meat	0.1	Meat
 Crag Boar Rib	0.05	Meat
-Gooey Spider Leg	0.05	Meat
+Gooey Spider Leg	0.1	Meat
 Lion Meat	0.05	Meat
 Tender Crocolisk Meat	0.05	Meat
 Bear Meat	0.04	Meat
@@ -5043,3 +5043,9 @@ Deep Fried Plantains	0	Vendor
 Hurricane	100	Gear
 Agile Boots	1.5	Gear
 Blade of the Basilisk	40	Gear
+Necklace of Calisea	40	Gear
+Sageblade	1200	Blacksmithing
+Magister's Belt	30	Gear
+Wildheart Belt	20	Gear
+Claw of the Shadowmancer	20	Gear
+Bracers of Valor	120	Gear

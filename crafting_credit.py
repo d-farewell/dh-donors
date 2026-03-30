@@ -30,7 +30,7 @@ def read_craft_channel():
                         assert craft == "crafted"
                         qty = int(qty)
                     await msg.add_reaction("✅")
-                    with open("inputs/donations.txt", "a") as f:
+                    with open("inputs/donations.txt", "a", encoding="utf_8") as f:
                         f.write(f"\n{txt}")
                     print("\tValidated")
                 except:

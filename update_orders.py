@@ -253,7 +253,6 @@ def expire_donor_orders(roster):
     save_kit_orders(kit_order_list)
 
 def update_donor_orders(donors, roster, death_list):
-    client = discord.Client(intents=discord.Intents.all())
 
     to_post = []
     # Load orders
@@ -360,6 +359,7 @@ def update_donor_orders(donors, roster, death_list):
     for contributor_name in non_recipients:
         print(contributor_name)
     
+    client = discord.Client(intents=discord.Intents.all())
     @client.event
     async def on_ready():
         print("Client Ready!)")
@@ -371,6 +371,8 @@ def update_donor_orders(donors, roster, death_list):
             else:
                 print("Channel not found!")
                 print(f"Channel {channel_id}\nOrder: {order_txt}")
+                # TODO - IF THIS FAILS, THE ORDER IS LOST
+                print("IF THIS FAILS, THE ORDER IS LOST")
         await client.close()
 
     # Post discord messages

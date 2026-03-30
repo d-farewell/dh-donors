@@ -87,8 +87,8 @@ Level	Category	Class(es)	Requires	Item	Qty
 35	Cooking	All	Pro	Level 35 Food (+12)	20
 40	Cooking	All		Level 40 Food (+12)	20
 48	Cooking	All		Barbecued Buzzard Wing	10
-33	Dhstorage	All		Green Hills pages	15
-33	Dhstorage	Warrior		Whirlwind Weapon mats	15
+36	Dhstorage	All		Green Hills pages	15
+34	Dhstorage	Warrior		Whirlwind Weapon mats	15
 5	Enchanting	Priest, Warlock, Mage		Lesser Magic Wand	1
 8	Enchanting	Warlock, Priest, Mage, Paladin		Minor Wizard Oil	6
 13	Enchanting	Priest, Warlock, Mage		Greater Magic Wand	1

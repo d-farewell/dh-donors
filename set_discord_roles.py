@@ -39,6 +39,9 @@ def set_dungeon_roles(roster):
 
     def get_nickname(unk_id):
         for char_name, nickname, disc_user in vanguard:
+            if disc_user == "ID":
+                continue
+            # print(f"GET_NICKNAME OP: check {unk_id} vs {int(disc_user)}")
             if int(disc_user) == unk_id:
                 return nickname
 
@@ -69,6 +72,8 @@ def set_dungeon_roles(roster):
     }
     
     for char_name, nickname, disc_user in vanguard:
+        # if nickname == "Blood":
+        #     print(char_name)
         if roster.is_member(char_name):
             character = roster.characters[char_name]
             char_lvl = character.char_level
@@ -84,21 +89,29 @@ def set_dungeon_roles(roster):
             dungeoneer_str = f"{class_emotes[char_class]} **{char_name}** ({nickname})  -  level {char_lvl} {char_class}"
             dungeoneer_tuple = (dungeoneer_str, char_lvl)
             dungeoneer_report.append(dungeoneer_tuple)
+            # if nickname == "Blood":
+            #     print("\t" + dungeoneer_str)
         else:
-            print(f"{char_name} not found in roster")
+            # print(f"{char_name} not found in roster")
             continue
         for dungeon, min_lvl, max_lvl in dungeon_roles:
+            # if nickname == "Blood":
+            #     print(f"\t{dungeon}: ", end="")
             eligible = False
             if char_lvl >= min_lvl - 2 and char_lvl <= max_lvl + 1:
                 eligible = True
             if char_lvl == 60 and max_lvl < 60:
                 eligible = False
+            # if nickname == "Blood":
+            #     print(eligible)
             
             if eligible:
                 i = int(disc_user)
                 if i not in disc_user_roles:
                     disc_user_roles[i] = set()
                 disc_user_roles[i].add(dungeon)
+        # if nickname == "Blood":
+        #     print("\t" + str(disc_user_roles[i]))
     
 
     dungeoneer_report.sort(key=lambda x: -x[1])
@@ -130,27 +143,23 @@ def set_dungeon_roles(roster):
                 print(dungeon)
             # get nicknames and the dungeon roles
             for user_id, eligible_roles in disc_user_roles.items():
-                # if user_id == "ID":
-                #     continue
                 print(user_id, eligible_roles)
-                try:
-                    nickname = get_nickname(user_id)
-                except:
-                    # TODO - not sure why but user_id is literal 'ID', should be int. users.csv header? Tried deleting header, no change.
-                    continue
-                # print(f"Checking user {nickname}: ")
-                # print(eligible_roles)
+                nickname = get_nickname(user_id)
+                
 
                 for disc_role in disc_dungeon_roles:
+                    if user_id == 298329767654981632:
+                        print(f"Checking role  {disc_role} for Blood (ID {user_id})")
                     member = guild.get_member(user_id)
-                    if disc_role.name in eligible_roles:
-                        if disc_role not in member.roles:
-                            print(f"{nickname} got the `{disc_role.name}` role.")
-                            await member.add_roles(disc_role)
-                    else:
-                        if disc_role in member.roles:
-                            print(f"Removing {nickname} from `{disc_role.name}`")
-                            await member.remove_roles(disc_role)
+                    if member:
+                        if disc_role.name in eligible_roles:
+                            if disc_role not in member.roles:
+                                print(f"{nickname} got the `{disc_role.name}` role.")
+                                await member.add_roles(disc_role)
+                        else:
+                            if disc_role in member.roles:
+                                print(f"Removing {nickname} from `{disc_role.name}`")
+                                await member.remove_roles(disc_role)
                     
                     
         # Print dungeoneer report
