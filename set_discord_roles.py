@@ -123,6 +123,10 @@ def set_dungeon_roles(roster):
             dungeoneer_report_msg_list.append(dungeoneer_report_msg_wip)
             dungeoneer_report_msg_wip = ""
             bracket -= 10
+        if len(dungeoneer_report_msg_wip) > 1500:
+            dungeoneer_report_msg_list.append(dungeoneer_report_msg_wip)
+            dungeoneer_report_msg_wip = ""
+
         dungeoneer_report_msg_wip = dungeoneer_report_msg_wip + "\n" + line
     dungeoneer_report_msg_list.append(dungeoneer_report_msg_wip)
 

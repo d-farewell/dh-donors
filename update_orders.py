@@ -129,7 +129,7 @@ def order_fulfillments():
         for channel_id in channel_ids.values():
             print(f"Checking channel {channel_id}...")
             channel = client.get_channel(channel_id)
-            async for msg in channel.history(limit=200):
+            async for msg in channel.history(limit=500):
 
                 # Only look at posts that were made by the bot
                 poster = msg.author.display_name

@@ -5049,3 +5049,6 @@ Magister's Belt	30	Gear
 Wildheart Belt	20	Gear
 Claw of the Shadowmancer	20	Gear
 Bracers of Valor	120	Gear
+Belt of Valor	50	Gear
+Widowmaker	30	Gear
+Wolffear Harness	80	Gear
