@@ -4773,7 +4773,7 @@ Green Whelp Scale	0.15	Skinning
 Green Dragonscale	0.1	Skinning
 Heavy Scorpid Scale	0.1	Skinning
 Slimy Murloc Scale	0.1	Skinning
-Heavy Leather	0.075	Skinning
+Heavy Leather	0.15	Skinning
 Thick Leather	0.1	Skinning
 Thick Hide	0.06	Skinning
 Chimera Leather	0.05	Skinning
@@ -5052,3 +5052,28 @@ Bracers of Valor	120	Gear
 Belt of Valor	50	Gear
 Widowmaker	30	Gear
 Wolffear Harness	80	Gear
+Necromancer Leggings	60	Gear
+Lionheart Helm	900	Blacksmithing
+Rough Arrow	0	Vendor
+Basilisk Bone	4	Gear
+Sharp Arrow	0	Vendor
+Watchman Pauldrons	30	Gear
+Staff of the Shade	80	Gear
+Black Duskwood Staff	10	Gear
+Ta'Kierthan Songblade	45	Gear
+Skullance Shield	20	Gear
+Blackflame Cape	25	Gear
+Glowing Brightwood Staff	300	Gear
+Precisely Calibrated Boomstick	200	Gear
+Hide of the Wild	450	Leatherworking
+Gloves of Spell Mastery	350	Tailoring
+Mantle of the Timbermaw	250	Tailoring
+Arena Bracers	35	Gear
+Horizon Choker	40	Gear
+Frigid Ring	70	Gear
+Libram of Fervor	50	Gear
+Drakewing Bands	5	Gear
+The Shadowfoot Stabber	50	Gear
+The Green Tower	80	Gear
+Darkweave Breeches	45	Gear
+Ring of Saviors	100	Gear

@@ -151,7 +151,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 18	Leatherworking	Rogue, Hunter, Druid		Dark Leather Pants	1
 19	Leatherworking	Rogue, Druid		Red Whelp Gloves	1
 20	Leatherworking	Rogue, Hunter, Druid		Dark Leather Belt	1
-20	Leatherworking	All		Heavy Armor Kit	10
+20	Leatherworking	All		Heavy Armor Kit	5
 21	Leatherworking	Druid, Hunter, Rogue		Hillman's Shoulders	1
 22	Leatherworking	Hunter, Rogue, Druid	Pro	Toughened Leather Gloves	1
 27	Leatherworking	Hunter, Rogue, Druid	Pro	Barbaric Bracers	1
@@ -160,13 +160,13 @@ Level	Category	Class(es)	Requires	Item	Qty
 30	Leatherworking	Rogue, Hunter, Druid		Dusky Leather Armor	1
 30	Leatherworking	Hunter		Heavy Leather Ammo Pouch	1
 30	Leatherworking	Hunter		Heavy Quiver	1
-30	Leatherworking	All		Thick Armor Kit	10
+30	Leatherworking	All		Thick Armor Kit	5
 32	Leatherworking	Rogue, Hunter, Druid		Dusky Bracers	1
 36	Leatherworking	Rogue, Druid, Hunter		Nightscape Headband	1
 38	Leatherworking	Druid		Big Voodoo Robe	1
 39	Leatherworking	Druid		Big Voodoo Mask	1
 40	Leatherworking	Hunter		Quickdraw Quiver	1
-40	Leatherworking	All		Rugged Armor Kit	10
+40	Leatherworking	All		Rugged Armor Kit	5
 40	Leatherworking	Hunter		Thick Leather Ammo Pouch	1
 40	Leatherworking	Hunter		Tough Scorpid Bracers	1
 40	Leatherworking	Hunter		Tough Scorpid Breastplate	1
@@ -180,7 +180,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 45	Leatherworking	Hunter		Tough Scorpid Helm	1
 47	Leatherworking	Rogue, Hunter, Druid		Wicked Leather Gauntlets	1
 48	Leatherworking	Rogue, Druid		Wicked Leather Bracers	1
-50	Leatherworking	All		Rugged Armor Kit	10
+50	Leatherworking	All		Rugged Armor Kit	5
 53	Leatherworking	None		Devilsaur Gauntlets	1
 53	Leatherworking	Rogue, Hunter, Warrior, Druid	Pro	Devilsaur Gauntlets	1
 55	Leatherworking	None		Devilsaur Leggings	1
@@ -297,3 +297,4 @@ Level	Category	Class(es)	Requires	Item	Qty
 58	Tailoring	None	Pro	Silk Cloth	240
 58	Tailoring	None	Pro	Wool Cloth	240
 60	Tailoring	All		16 slot bag (lvl 60)	1
+20	Engineering	Rogue		Bronze Tube	1
