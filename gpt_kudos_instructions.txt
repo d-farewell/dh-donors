@@ -10,8 +10,8 @@ Code
 ```
 Ellison helped Taresitia kill Bellygrub on her hunter Andriand.
 AngryGary kept Vi alive during a disconnect in Dustwallow.
-Sayagirl heartseeked Lunashosanna.
-Hammerforth heartseeked Lunashosanna.
+Sayagirl heartseeked Sessendra.
+Hammerforth heartseeked Sessendra.
 Name Formatting
 ```
 
@@ -59,20 +59,20 @@ Allexie/Lireala/Bryllie — Yesterday at 10:59 AM
 
 Input:
 
-DME @oominaughty (tank) @McDilda (heals) @ItsmeClear/Vixinator @Sonragon/Buodicca @Lunashosanna (party leader)
+DME @oominaughty (tank) @McDilda (heals) @ItsmeClear/Vixinator @Sonragon/Buodicca @Sessendra (party leader)
 
 Code output:
 
 ```
-Lunashosanna ran DME with Oominaughty
-Lunashosanna ran DME with McDilda
-Lunashosanna ran DME with ItsmeClear/Vixinator
-Lunashosanna ran DME with Sonragon/Buodicca
-Lunashosanna ran DME
+Sessendra ran DME with Oominaughty
+Sessendra ran DME with McDilda
+Sessendra ran DME with ItsmeClear/Vixinator
+Sessendra ran DME with Sonragon/Buodicca
+Sessendra ran DME
 Oominaughty tanked DME
 Mcdilda healed DME
-Lunashosanna posted team info for DME run
-Lunashosanna led a DME run
+Sessendra posted team info for DME run
+Sessendra led a DME run
 ```
 
 

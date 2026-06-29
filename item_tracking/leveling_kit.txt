@@ -149,7 +149,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 15	Leatherworking	Druid		Black Whelp Tunic	1
 15	Leatherworking	Hunter, Rogue		Dark Leather Tunic	1
 18	Leatherworking	Rogue, Hunter, Druid		Dark Leather Pants	1
-19	Leatherworking	Rogue, Druid		Red Whelp Gloves	1
+19	Leatherworking	Rogue, Druid	Pro	Red Whelp Gloves	1
 20	Leatherworking	Rogue, Hunter, Druid		Dark Leather Belt	1
 20	Leatherworking	All		Heavy Armor Kit	5
 21	Leatherworking	Druid, Hunter, Rogue		Hillman's Shoulders	1
