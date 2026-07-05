@@ -6789,3 +6789,5 @@ Runed Golem Shackles	60	Gear
 Axe of Rin'ji	40	Gear
 Windweaver Staff	45	Gear
 Recipe: Elixir of Dream Vision	10	Misc.
+Gloomshroud Armor	20	Gear
+Stormbringer Belt	20	Gear
