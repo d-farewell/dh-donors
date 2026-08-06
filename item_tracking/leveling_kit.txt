@@ -1,286 +1,300 @@
-1	Alchemy	Warrior, Rogue, Paladin	3	Elixir of Lion's Strength	10
-1	Alchemy	All	8	Elixir of Minor Defense	10
-1	Alchemy	Warlock	1	Weak Troll's Blood Potion	5
-2	Alchemy	Rogue, Hunter	2	Elixir of Minor Agility	10
-2	Alchemy	All	8	Elixir of Minor Fortitude	5
-5	Alchemy	Mage, Priest, Warlock, Druid, Paladin	5	Minor Rejuvenation Potion	10
-5	Alchemy	All	8	Swiftness Potion	3
-10	Alchemy	All	8	Elixir of Water Breathing	2
-10	Alchemy	Warlock, Priest, Druid, Paladin	4	Elixir of Wisdom	5
-15	Alchemy	Warlock	1	Strong Troll's Blood Potion	5
-16	Alchemy	None	-1	Elixir of Defense	5
-18	Alchemy	Hunter, Rogue	2	Elixir of Lesser Agility	5
-20	Alchemy	Warrior, Rogue, Paladin, Druid	4	Elixir of Ogre's Strength	5
-25	Alchemy	Warlock	1	Elixir of Fortitude	5
-26	Alchemy	Warlock	1	Mighty Troll's Blood	5
-27	Alchemy	Warrior, Rogue, Hunter	3	Elixir of Agility	5
-29	Alchemy	None	-1	Elixir of Greater Defense	5
-33	Alchemy	Warrior, Rogue, Paladin, Druid	4	Lesser Stoneshield Potion	5
-37	Alchemy	Warlock, Priest, Druid, Paladin	4	Elixir of Greater Intellect	5
-38	Alchemy	None	-1	Elixir of Giants	5
-38	Alchemy	Warrior, Rogue, Hunter	3	Elixir of Greater Agility	5
-42	Alchemy	All	8	Frost Oil	1
-42	Alchemy	All	8	Lesser Invisibility Potion	1
-46	Alchemy	Warrior, Rogue, Hunter	3	Elixir of the Mongoose	5
-60	Alchemy	All	8	Flask of Petrification	1
-3	Alchemy	All	8	Lesser Healing Potion	20
-5	Alchemy	Warlock, Mage, Priest, Druid, Paladin	5	Minor Mana Potion	20
-12	Alchemy	All	8	Healing Potion	10
-14	Alchemy	Warlock, Mage, Priest, Druid, Paladin	5	Lesser Mana Potion	10
-21	Alchemy	All	8	Greater Healing Potion	10
-22	Alchemy	Warlock, Mage, Priest, Druid, Paladin	5	Mana Potion	10
-31	Alchemy	Warlock, Mage, Priest, Druid, Paladin	5	Greater Mana Potion	10
-35	Alchemy	All	8	Superior Healing Potion	10
-41	Alchemy	Warlock, Mage, Priest, Druid, Paladin	5	Superior Mana Potion	10
-42	Alchemy	All	8	Healing Potion	1
-45	Alchemy	None	-1	Major Healing Potion	5
-49	Alchemy	None	-1	Major Mana Potion	5
-1	Blacksmithing	Rogue, Warrior, Paladin	3	Rough Sharpening Stone 	20
-1	Blacksmithing	Warrior, Paladin, Druid	3	Rough Weightstone	20
-2	Blacksmithing	Warrior, Paladin	2	Copper Bracers	1
-2	Blacksmithing	Warrior, Paladin	2	Rough Copper Vest	1
-4	Blacksmithing	None	-1	Copper Chain Boots	1
-4	Blacksmithing	None	-1	Copper Chain Pants	1
-5	Blacksmithing	Rogue, Warrior, Paladin	3	Coarse Sharpening Stone	20
-5	Blacksmithing	Warrior, Paladin, Druid	3	Coarse Weightstone	20
-5	Blacksmithing	Paladin, Warrior	2	Light Mail Bracers	1
-6	Blacksmithing	None	-1	Copper Chain Belt	1
-6	Pro	Paladin, Warrior	2	Copper Claymore	1
-6	Pro	Rogue	1	Copper Dagger	1
-7	Blacksmithing	Warrior, Paladin	2	Runed Copper Gauntlets	1
-11	Blacksmithing	Paladin, Warrior	2	Heavy Copper Maul	1
-13	Blacksmithing	None	-1	Rough Bronze Boots	1
-13	Blacksmithing	None	-1	Runed Copper Belt	1
-14	Blacksmithing	Warrior, Paladin	2	Runed Copper Bracers	1
-15	Blacksmithing	Rogue, Warrior, Paladin	3	Heavy Sharpening Stone	20
-15	Blacksmithing	None	-1	Heavy Weightstone	20
-16	Blacksmithing	Paladin, Warrior	2	Rough Bronze Leggings	1
-17	Blacksmithing	Paladin, Warrior	2	Rough Bronze Shoulders	1
-18	Blacksmithing	Warrior, Paladin	2	Rough Bronze Cuirass	1
-20	Blacksmithing	Warrior, Paladin	2	Silvered Bronze Shoulders	1
-21	Blacksmithing	Warrior, Paladin	2	Silvered Bronze Boots	1
-25	Blacksmithing	Rogue, Warrior, Paladin	3	Solid Sharpening Stone	20
-25	Blacksmithing	None	-1	Solid Weightstone	20
-29	Blacksmithing	Druid	1	Golden Iron Destroyer	1
-29	Blacksmithing	Warrior, Paladin	2	Green Iron Helm	1
-30	Blacksmithing	Rogue	1	Jade Serpentblade	1
-35	Blacksmithing	Rogue, Warrior, Paladin	3	Dense Sharpening Stone	20
-40	Blacksmithing	Paladin, Warrior	2	Ornate Mithril Gloves	1
-42	Blacksmithing	All	8	Patterned Bronze Bracers	1
-43	Pro	Rogue	1	Dazzling Mithril Rapier	1
-54	Blacksmithing	All	8	Golden Rod	1
-1	Cooking	All	8	Level 1 Food (+2)	20
-5	Cooking	Warlock, Priest, Mage, Druid, Paladin	5	Cooked Crab Claw	20
-5	Cooking	All	8	Level 5 Food (+4)	20
-10	Pro	Warlock	1	Level 10 Food (+6) 	5
-15	Cooking	All	8	Level 15 Food (+6)	20
-20	Pro	All	8	Level 20 Food (+8)	20
-25	Cooking	All	8	Level 25 Food (+8)	40
-35	Pro	All	8	Level 35 Food (+12)	20
-40	Cooking	All	8	Level 40 Food (+12)	20
-48	Cooking	All	8	Barbecued Buzzard Wing	10
-5	Enchanting	Priest, Warlock, Mage	3	Lesser Magic Wand	1
-8	Enchanting	Warlock, Priest, Mage, Paladin	4	Minor Wizard Oil	4
-13	Enchanting	Priest, Warlock, Mage	3	Greater Magic Wand	1
-20	Enchanting	Priest, Warlock	2	Minor Mana Oil	1
-26	Enchanting	Mage, Priest, Warlock	3	Lesser Mystic Wand	1
-30	Enchanting	Mage, Priest, Warlock	3	Greater Mystic Wand	1
-30	Enchanting	Warlock, Priest, Mage	3	Lesser Wizard Oil	1
-40	Enchanting	Priest, Warlock	2	Lesser Mana Oil	1
-40	Enchanting	Warlock, Priest, Mage	3	Wizard Oil	1
-5	Engineering	Hunter	1	Crude Scope	3
-5	Engineering	Hunter	1	Rough Boomstick	1
-10	Engineering	Hunter	1	Standard Scope	3
-16	Engineering	Hunter	1	Deadly Blunderbuss	1
-19	Engineering	Hunter	1	Lovingly Crafted Boomstick	1
-20	Engineering	Hunter	1	Accurate Scope	3
-20	Engineering	All	8	Bronze Tube	1
-21	Engineering	Hunter	1	Silver-plated Shotgun	1
-24	Engineering	Hunter	1	Moonsight Rifle	1
-30	Engineering	Hunter	1	Deadly Scope	3
-36	Engineering	None	-1	Mithril Blunderbuss	1
-39	Engineering	Hunter	1	Mithril Heavy-bore Rifle	1
-42	Engineering	All	8	Gyrochronatom	1
-48	Engineering	All	8	Mithril Casing	1
-54	Engineering	None	-1	Hi-Explosive Bomb	8
-54	Engineering	None	-1	Unstable Trigger	8
-1	Leatherworking	All	8	Light Armor Kit	10
-1	Leatherworking	Hunter	1	Light Leather Quiver	1
-1	Leatherworking	Hunter	1	Small Leather Ammo Pouch	1
-3	Leatherworking	None	-1	Handstitched Leather Boots	1
-3	Leatherworking	Rogue, Hunter, Druid	3	Handstitched Leather Vest	1
-4	Leatherworking	Rogue, Hunter, Druid	3	Handstitched Leather Bracers	1
-5	Leatherworking	None	-1	Handstitched Leather Belt	1
-5	Leatherworking	None	-1	Handstitched Leather Pants	1
-5	Leatherworking	All	8	Medium Armor Kit	10
-6	Leatherworking	None	-1	Rugged Leather Pants	1
-8	Leatherworking	Rogue, Hunter, Druid	3	Embossed Leather Gloves	1
-8	Leatherworking	Rogue, Hunter, Druid	3	White Leather Jerkin	1
-9	Leatherworking	Rogue, Hunter, Druid	3	Light Leather Bracers	1
-10	Leatherworking	All	8	Fine Leather Cloak	1
-13	Leatherworking	None	-1	Fine Leather Boots	1
-14	Leatherworking	Rogue, Hunter, Druid	3	Light Leather Pants	1
-15	Leatherworking	None	-1	Black Whelp Cloak	1
-15	Leatherworking	Druid	1	Black Whelp Tunic	1
-15	Leatherworking	Hunter, Rogue	2	Dark Leather Tunic	1
-18	Leatherworking	Rogue, Hunter, Druid	3	Dark Leather Pants	1
-19	Leatherworking	Rogue, Druid	2	Red Whelp Gloves	1
-20	Leatherworking	Rogue, Hunter, Druid	3	Dark Leather Belt	1
-20	Leatherworking	All	8	Heavy Armor Kit	10
-29	Leatherworking	All	8	Hillman's Cloak	1
-21	Leatherworking	Druid, Hunter, Rogue	8	Hillman's Shoulders	1
-30	Leatherworking	Rogue, Hunter, Druid	3	Barbaric Shoulders	1
-30	Leatherworking	Rogue, Hunter, Druid	3	Dusky Leather Armor	1
-30	Leatherworking	Hunter	1	Heavy Leather Ammo Pouch	1
-30	Leatherworking	Hunter	1	Heavy Quiver	1
-30	Leatherworking	All	8	Thick Armor Kit	10
-32	Leatherworking	Rogue, Hunter, Druid	3	Dusky Bracers	1
-36	Leatherworking	Rogue, Druid, Hunter	3	Nightscape Headband	1
-38	Leatherworking	Druid	1	Big Voodoo Robe	1
-39	Leatherworking	Druid	1	Big Voodoo Mask	1
-40	Leatherworking	Hunter	1	Quickdraw Quiver	1
-40	Leatherworking	All	8	Rugged Armor Kit	10
-40	Leatherworking	Hunter	1	Thick Leather Ammo Pouch	1
-40	Leatherworking	Hunter	1	Tough Scorpid Bracers	1
-40	Leatherworking	Hunter	1	Tough Scorpid Breastplate	1
-40	Leatherworking	Hunter	1	Tough Scorpid Gloves	1
-41	Leatherworking	Rogue	1	Nightscape Pants	1
-42	Leatherworking	Rogue, Druid	2	Nightscape Boots	1
-42	Leatherworking	Hunter	1	Tough Scorpid Boots	1
-43	Leatherworking	Hunter	1	Tough Scorpid Shoulders	1
-44	Leatherworking	Hunter	1	Tough Scorpid Leggings	1
-45	Leatherworking	Hunter	1	Tough Scorpid Helm	1
-47	Leatherworking	Rogue, Hunter, Druid	3	Wicked Leather Gauntlets	1
-48	Leatherworking	Rogue, Druid	2	Wicked Leather Bracers	1
-50	Leatherworking	All	8	Rugged Armor Kit	10
-53	Leatherworking	None	-1	Devilsaur Gauntlets	1
-55	Leatherworking	None	-1	Devilsaur Leggings	1
-40	Mount	None	-1	Mount Funding	
-5	Quest	All	8	Chunk of Boar Meat	8
-5	Quest	All	8	Crag Boar Rib	6
-7	Quest	All	8	Bear Meat	3
-7	Quest	All	8	Boar Intestines	3
-7	Quest	All	8	Spider Ichor	3
-9	Quest	All	8	Goretusk Snout	3
-9	Quest	All	8	Murloc Eye	3
-9	Quest	All	8	Okra	3
-9	Quest	All	8	Stringy Vulture Meat	3
-9.1	Quest	All	8	Goretusk Livers	8
-10	Quest	All	8	Darkshore Grouper	6
-10	Quest	All	8	Flask of Oil	5
-10	Quest	All	8	Guild Tabard	1
-10	Quest	None	-1	Wool (First Aid)	200
-12	Quest	Mage	1	Light Feather	20
-14	Quest	All	8	Hops	5
-15	Quest	All	8	Crisp Spider Meat	5
-15	Quest	All	8	Great Goretusk Snout	5
-15	Quest	All	8	Tough Condor Meat	5
-17	Quest	All	8	Gooey Spider Leg	6
-20	Quest	Rogue	1	Chunk of Boar Meat	80
-12	Quest	Hunter	1	Chunk of Boar Meat	80
-20	Quest	None	-1	Expert First Aid Book	1
-20	Quest	None	-1	Manual: Heavy Silk Bandage	1
-20	Quest	None	-1	Manual: Mageweave Bandage	1
-20	Quest	All	8	Murloc Fin	8
-20	Quest	All	8	Rethban Ore	5
-20	Quest	None	-1	Silk (First Aid)	170
-28	Quest	All	8	Turtle Meat	10
-33	Dhstorage	All	8	Green Hills pages	15
-33	Dhstorage	Warrior	1	Whirlwind Weapon mats	15
-30	Quest	None	-1	Mageweave (First Aid)	150
-32	Quest2	None	-1	Lesser Bloodstone Ore	4
-33	Quest2	All	8	Buzzard Wing	4
-34	Quest2	Priest, Mage	2	Light Feather	20
-40	Quest2	All	8	Gorilla Fang	10
-40	Quest2	All	8	Troll Tribal Necklace	5
-40	Quest2	All	8	Wastewander Water Pouch	5
-43	Quest2	All	8	Silk Cloth	15
-45	Quest2	None	-1	basilisk brains	11
-45	Quest2	None	-1	blasted boar lungs	6
-45	Quest2	None	-1	Runecloth (First Aid)	100
-45	Quest2	None	-1	scorpok pincers	6
-45	Quest2	None	-1	snickerfang jowls	5
-45	Quest2	None	-1	Vulture Gizzards	14
-47	Quest2	All	8	Blue Power Crystal	7
-47	Quest2	All	8	Green Power Crystal	7
-47	Quest2	None	-1	Morrowgrain	20
-47	Quest2	All	8	Red Power Crystal	7
-47	Quest2	All	8	Yellow Power Crystal	7
-55	Quest2	None	-1	Bone Fragments	30
-55	Quest2	None	-1	Core of Elements	30
-55	Quest2	All	8	Dark Iron Scraps	30
-55	Quest2	None	-1	Savage Frond	30
-58	Quest2	None	-1	Mageweave Cloth	240
-58	Quest2	None	-1	Runecloth	240
-58	Quest2	All	8	Silk Cloth	240
-58	Quest2	All	8	Wool Cloth	240
-1	Tailoring	All	8	10 slot bags	3
-1	Tailoring	All	8	Linen Cloak	1
-2	Tailoring	None	-1	Simple Linen Pants	1
-5	Tailoring	None	-1	Red Linen Robe	1
-5	Tailoring	Mage, Priest, Warlock	3	Red/White Linen Robe	1
-7	Tailoring	Mage, Priest, Warlock	3	Green Linen Bracers	1
-7	Tailoring	Priest, Warlock	2	Red Linen Vest	1
-7	Tailoring	All	8	Reinforced Linen Cape	1
-9	Tailoring	None	-1	Handstitched Linen Britches	1
-10	Tailoring	All	8	12 slot bag (lvl 10)	1
-10	Tailoring	None	-1	Simple Kilt	1
-11	Tailoring	None	-1	Soft-soled Linen Boots	1
-11	Tailoring	All	8	Woolen Cape	1
-12	Tailoring	Mage, Priest, Warlock	3	Heavy Woolen Gloves	1
-14	Tailoring	Mage, Priest, Warlock, Druid	4	Pearl-clasped Cloak	1
-16	Tailoring	Mage, Warlock	2	Gray Woolen Robe	1
-16	Tailoring	None	-1	Heavy Woolen Cloak	1
-17	Tailoring	Mage, Priest, Warlock	3	Double-stitched Woolen Shoulders	1
-17	Tailoring	None	-1	Heavy Woolen Pants	1
-17	Tailoring	Mage, Priest, Warlock	3	Woolen Boots	1
-18	Tailoring	Priest	1	Greater Adept's Robe	1
-19	Tailoring	None	3	Reinforced Woolen Shoulders	1
-20	Tailoring	All	8	12 slot bag (lvl 20)	2
-20	Tailoring	None	-1	Spidersilk Boots	1
-23	Tailoring	Mage	1	Azure Silk Pants	1
-24	Tailoring	Mage	1	Azure Silk Gloves	1
-24	Tailoring	Mage, Priest, Warlock	3	Azure Silk Hood	1
-25	Tailoring	Mage	1	Azure Silk Vest	1
-25	Tailoring	Mage, Priest, Warlock	3	Robes of Arcana	1
-28	Tailoring	Mage, Priest, Warlock	3	Enchanter's Cowl	1
-29	Tailoring	All	8	Bolt of Woolen Cloth	1
-30	Tailoring	All	8	14 slot bag (lvl 30)	1
-30	Tailoring	Hunter, Rogue, Warrior, Warlock, Priest, Paladin, Mage	7	Azure Silk Belt	1
-31	Tailoring	Mage, Priest, Warlock	3	Green Silken Shoulders	1
-31	Tailoring	Warlock, Priest, Mage	3	Spider Belt	1
-32	Tailoring	Mage, Priest, Warlock, Druid, Paladin	5	Long Silken Cloak	1
-33	Tailoring	Mage	1	Azure Shoulders	1
-37	Tailoring	Warlock, Priest	2	Shadoweave Pants	1
-38	Tailoring	Priest, Mage, Warlock	3	Black Mageweave Gloves	1
-40	Tailoring	All	8	14 slot bag (lvl 40)	1
-42	Tailoring	Warlock, Priest	2	Shadoweave Shoulders	1
-48	Tailoring	Mage, Priest, Warlock, Druid, Paladin	5	Runecloth Cloak	1
-50	Tailoring	None	-1	16 slot bag	1
-50	Tailoring	All	8	14 slot bag (lvl 50)	1
-60	Tailoring	All	8	16 slot bag (lvl 60)	1
-15	Pro	All	8	Knitted Sandals	1
-20	Pro	Mage, Priest, Warlock	3	Spidersilk Boots	1
-20	Pro	All	8	Incendicite Ore	6
-22	Pro	Hunter, Rogue, Druid	3	Toughened Leather Gloves	1
-24	Pro	Warrior, Paladin	2	Shining Silver Breastplate	1
-27	Pro	Hunter, Rogue, Druid	3	Barbaric Bracers	1
-36	Pro	Hunter, Rogue	2	Mithril Blunderbuss	1
-40	Pro	Druid, Rogue, Hunter, Warrior, Priest, Mage	8	Mount Funding	1
-40	Pro	Druid	1	Wolfshead Helm	1
-47	Pro	All	8	Morrowgrain	20
-50	Pro	All	8	16 slot bag (lvl 50)	1
-53	Pro	Rogue, Hunter, Warrior, Druid	4	Devilsaur Gauntlets	1
-55	Pro	Rogue, Hunter, Warrior, Druid	4	Devilsaur Leggings	1
-40	Pro	Mage, Warlock, Priest	3	Dreamweave Gloves	1
-45	Pro	Mage, Warlock, Priest	3	Dreamweave Circlet	1
-52	Pro	All	8	Flask of Petrification	1
-49	Pro	Warlock, Mage, Priest, Druid, Paladin	5	Major Mana Potion	5
-38	Pro	Warrior, Rogue, Paladin, Druid	4	Elixir of Giants	5
-45	Pro	All	8	Major Healing Potion	5
-5	First Aid	All	8	Heavy Wool Bandage	20
-5	First Aid	All	8	Linen (First Aid)	200
-10	First Aid	All	8	Silk Bandage	20
-10	First Aid	All	8	Wool	20
-20	First Aid	All	8	Heavy Silk Bandage	20
-20	First Aid	All	8	Wool (Again)	20
+Level	Category	Class(es)	Requires	Item	Qty
+1	Alchemy	Warrior, Rogue, Paladin		Elixir of Lion's Strength	10
+1	Alchemy	All		Elixir of Minor Defense	10
+1	Alchemy	Warlock		Weak Troll's Blood Potion	5
+2	Alchemy	Rogue, Hunter		Elixir of Minor Agility	10
+2	Alchemy	All		Elixir of Minor Fortitude	5
+3	Alchemy	All		Lesser Healing Potion	20
+5	Alchemy	Mage, Priest, Warlock, Druid, Paladin		Minor Rejuvenation Potion	10
+5	Alchemy	All		Swiftness Potion	3
+5	Alchemy	Warlock, Mage, Priest, Druid, Paladin		Minor Mana Potion	20
+10	Alchemy	All		Elixir of Water Breathing	2
+10	Alchemy	Warlock, Priest, Druid, Paladin		Elixir of Wisdom	5
+12	Alchemy	All		Healing Potion	10
+14	Alchemy	Warlock, Mage, Priest, Druid, Paladin		Lesser Mana Potion	10
+15	Alchemy	Warlock		Strong Troll's Blood Potion	5
+16	Alchemy	None		Elixir of Defense	5
+18	Alchemy	Hunter, Rogue		Elixir of Lesser Agility	5
+20	Alchemy	Warrior, Rogue, Paladin, Druid		Elixir of Ogre's Strength	5
+21	Alchemy	All		Greater Healing Potion	10
+22	Alchemy	Warlock, Mage, Priest, Druid, Paladin		Mana Potion	10
+25	Alchemy	Warlock		Elixir of Fortitude	5
+26	Alchemy	Warlock		Mighty Troll's Blood	5
+27	Alchemy	Warrior, Rogue, Hunter		Elixir of Agility	5
+29	Alchemy	None		Elixir of Greater Defense	5
+31	Alchemy	Warlock, Mage, Priest, Druid, Paladin		Greater Mana Potion	10
+33	Alchemy	Warrior, Rogue, Paladin, Druid		Lesser Stoneshield Potion	5
+35	Alchemy	All		Superior Healing Potion	10
+37	Alchemy	Warlock, Priest, Druid, Paladin		Elixir of Greater Intellect	5
+38	Alchemy	None		Elixir of Giants	5
+38	Alchemy	Warrior, Rogue, Hunter		Elixir of Greater Agility	5
+38	Alchemy	Warrior, Rogue, Paladin, Druid	Pro	Elixir of Giants	5
+41	Alchemy	Warlock, Mage, Priest, Druid, Paladin		Superior Mana Potion	10
+42	Alchemy	All		Frost Oil	1
+42	Alchemy	All		Lesser Invisibility Potion	1
+42	Alchemy	All		Healing Potion	1
+45	Alchemy	None		Major Healing Potion	5
+45	Alchemy	All	Pro	Major Healing Potion	5
+46	Alchemy	Warrior, Rogue, Hunter		Elixir of the Mongoose	5
+49	Alchemy	None		Major Mana Potion	5
+49	Alchemy	Warlock, Mage, Priest, Druid, Paladin	Pro	Major Mana Potion	5
+52	Alchemy	None	Pro	Flask of Petrification	1
+60	Alchemy	None		Flask of Petrification	1
+1	Blacksmithing	Rogue, Warrior, Paladin		Rough Sharpening Stone	20
+1	Blacksmithing	Warrior, Paladin, Druid		Rough Weightstone	20
+2	Blacksmithing	Warrior, Paladin		Copper Bracers	1
+2	Blacksmithing	Warrior, Paladin		Rough Copper Vest	1
+4	Blacksmithing	None		Copper Chain Boots	1
+4	Blacksmithing	None		Copper Chain Pants	1
+5	Blacksmithing	Rogue, Warrior, Paladin		Coarse Sharpening Stone	20
+5	Blacksmithing	Warrior, Paladin, Druid		Coarse Weightstone	20
+5	Blacksmithing	Paladin, Warrior		Light Mail Bracers	1
+6	Blacksmithing	None		Copper Chain Belt	1
+6	Blacksmithing	Paladin, Warrior	Pro	Copper Claymore	1
+6	Blacksmithing	Rogue	Pro	Copper Dagger	1
+7	Blacksmithing	Warrior, Paladin		Runed Copper Gauntlets	1
+11	Blacksmithing	Paladin, Warrior		Heavy Copper Maul	1
+13	Blacksmithing	None		Rough Bronze Boots	1
+13	Blacksmithing	None		Runed Copper Belt	1
+14	Blacksmithing	Warrior, Paladin		Runed Copper Bracers	1
+15	Blacksmithing	Rogue, Warrior, Paladin		Heavy Sharpening Stone	20
+15	Blacksmithing	None		Heavy Weightstone	20
+16	Blacksmithing	Paladin, Warrior		Rough Bronze Leggings	1
+17	Blacksmithing	Paladin, Warrior		Rough Bronze Shoulders	1
+18	Blacksmithing	Warrior, Paladin		Rough Bronze Cuirass	1
+20	Blacksmithing	Warrior, Paladin		Silvered Bronze Shoulders	1
+21	Blacksmithing	Warrior, Paladin		Silvered Bronze Boots	1
+24	Blacksmithing	Warrior, Paladin	Pro	Shining Silver Breastplate	1
+25	Blacksmithing	Rogue, Warrior, Paladin		Solid Sharpening Stone	20
+25	Blacksmithing	None		Solid Weightstone	20
+29	Blacksmithing	Druid		Golden Iron Destroyer	1
+29	Blacksmithing	Warrior, Paladin		Green Iron Helm	1
+30	Blacksmithing	Rogue		Jade Serpentblade	1
+35	Blacksmithing	Rogue, Warrior, Paladin		Dense Sharpening Stone	20
+40	Blacksmithing	Paladin, Warrior		Ornate Mithril Gloves	1
+42	Blacksmithing	All		Patterned Bronze Bracers	1
+43	Blacksmithing	Rogue	Pro	Dazzling Mithril Rapier	1
+54	Blacksmithing	None		Golden Rod	1
+1	Cooking	All		Level 1 Food (+2)	20
+5	Cooking	Warlock, Priest, Mage, Druid, Paladin		Cooked Crab Claw	20
+5	Cooking	All		Level 5 Food (+4)	20
+10	Cooking	Warlock	Pro	Level 10 Food (+6)	5
+12	Cooking	None		Gingerbread Cookie	5
+12	Cooking	None		Ice Cold Milk	1
+15	Cooking	All		Level 15 Food (+6)	20
+20	Cooking	All	Pro	Level 20 Food (+8)	20
+25	Cooking	All		Level 25 Food (+8)	20
+35	Cooking	All	Pro	Level 35 Food (+12)	20
+40	Cooking	All		Level 40 Food (+12)	20
+48	Cooking	All		Barbecued Buzzard Wing	10
+36	Dhstorage	All		Green Hills pages	15
+34	Dhstorage	Warrior		Whirlwind Weapon mats	15
+5	Enchanting	Priest, Warlock, Mage		Lesser Magic Wand	1
+8	Enchanting	Warlock, Priest, Mage, Paladin		Minor Wizard Oil	6
+13	Enchanting	Priest, Warlock, Mage		Greater Magic Wand	1
+15	Enchanting	All	Pro	Knitted Sandals	1
+20	Enchanting	Priest, Warlock		Minor Mana Oil	1
+26	Enchanting	Mage, Priest, Warlock		Lesser Mystic Wand	1
+30	Enchanting	Mage, Priest, Warlock		Greater Mystic Wand	1
+30	Enchanting	Warlock, Priest, Mage		Lesser Wizard Oil	1
+40	Enchanting	Priest, Warlock		Lesser Mana Oil	1
+40	Enchanting	Warlock, Priest, Mage		Wizard Oil	1
+5	Engineering	Hunter		Crude Scope	3
+5	Engineering	Hunter		Rough Boomstick	1
+10	Engineering	Hunter		Standard Scope	3
+16	Engineering	Hunter		Deadly Blunderbuss	1
+19	Engineering	Hunter		Lovingly Crafted Boomstick	1
+20	Engineering	Hunter		Accurate Scope	3
+20	Engineering	All		Bronze Tube	1
+21	Engineering	Hunter		Silver-plated Shotgun	1
+24	Engineering	Hunter		Moonsight Rifle	1
+30	Engineering	Hunter		Deadly Scope	3
+36	Engineering	None		Mithril Blunderbuss	1
+36	Engineering	Hunter, Rogue	Pro	Mithril Blunderbuss	1
+39	Engineering	Hunter		Mithril Heavy-bore Rifle	1
+42	Engineering	All		Gyrochronatom	1
+48	Engineering	All		Mithril Casing	1
+54	Engineering	None		Hi-Explosive Bomb	8
+54	Engineering	None		Unstable Trigger	8
+5	First Aid	None		Heavy Wool Bandage	20
+5	First Aid	All		Linen (First Aid)	200
+10	First Aid	All		Silk Bandage	20
+10	First Aid	All		Wool	20
+18	First Aid	Rogue, Warrior		Anti-Venom	20
+20	First Aid	All		Heavy Silk Bandage	20
+20	First Aid	All		Wool (Again)	20
+20	First Aid	All	Pro	Strong Anti-Venom	20
+25	First Aid	All	Pro	Mageweave Bandage	20
+30	First Aid	None	Pro	Heavy Mageweave Bandage	20
+30	First Aid	All	Pro	Expert First Aid - Under Wraps	1
+30	First Aid	All	Pro	Manual: Heavy Silk Bandage	1
+30	First Aid	All	Pro	Manual: Mageweave Bandage	1
+1	Leatherworking	All		Light Armor Kit	10
+1	Leatherworking	Hunter		Light Leather Quiver	1
+1	Leatherworking	Hunter		Small Leather Ammo Pouch	1
+3	Leatherworking	None		Handstitched Leather Boots	1
+3	Leatherworking	Rogue, Hunter, Druid		Handstitched Leather Vest	1
+4	Leatherworking	Rogue, Hunter, Druid		Handstitched Leather Bracers	1
+5	Leatherworking	None		Handstitched Leather Belt	1
+5	Leatherworking	None		Handstitched Leather Pants	1
+5	Leatherworking	All		Medium Armor Kit	10
+6	Leatherworking	None		Rugged Leather Pants	1
+8	Leatherworking	Rogue, Hunter, Druid		Embossed Leather Gloves	1
+8	Leatherworking	Rogue, Hunter, Druid		White Leather Jerkin	1
+9	Leatherworking	Rogue, Hunter, Druid		Light Leather Bracers	1
+10	Leatherworking	All		Fine Leather Cloak	1
+13	Leatherworking	None		Fine Leather Boots	1
+14	Leatherworking	Rogue, Hunter, Druid		Light Leather Pants	1
+15	Leatherworking	None		Black Whelp Cloak	1
+15	Leatherworking	Druid		Black Whelp Tunic	1
+15	Leatherworking	Hunter, Rogue		Dark Leather Tunic	1
+18	Leatherworking	Rogue, Hunter, Druid		Dark Leather Pants	1
+19	Leatherworking	Rogue, Druid	Pro	Red Whelp Gloves	1
+20	Leatherworking	Rogue, Hunter, Druid		Dark Leather Belt	1
+20	Leatherworking	All		Heavy Armor Kit	5
+21	Leatherworking	Druid, Hunter, Rogue		Hillman's Shoulders	1
+22	Leatherworking	Hunter, Rogue, Druid	Pro	Toughened Leather Gloves	1
+27	Leatherworking	Hunter, Rogue, Druid	Pro	Barbaric Bracers	1
+29	Leatherworking	All		Hillman's Cloak	1
+30	Leatherworking	Rogue, Hunter, Druid		Barbaric Shoulders	1
+30	Leatherworking	Rogue, Hunter, Druid		Dusky Leather Armor	1
+30	Leatherworking	Hunter		Heavy Leather Ammo Pouch	1
+30	Leatherworking	Hunter		Heavy Quiver	1
+30	Leatherworking	All		Thick Armor Kit	5
+32	Leatherworking	Rogue, Hunter, Druid		Dusky Bracers	1
+36	Leatherworking	Rogue, Druid, Hunter		Nightscape Headband	1
+38	Leatherworking	Druid		Big Voodoo Robe	1
+39	Leatherworking	Druid		Big Voodoo Mask	1
+40	Leatherworking	Hunter		Quickdraw Quiver	1
+40	Leatherworking	All		Rugged Armor Kit	5
+40	Leatherworking	Hunter		Thick Leather Ammo Pouch	1
+40	Leatherworking	Hunter		Tough Scorpid Bracers	1
+40	Leatherworking	Hunter		Tough Scorpid Breastplate	1
+40	Leatherworking	Hunter		Tough Scorpid Gloves	1
+40	Leatherworking	Druid	Pro	Wolfshead Helm	1
+41	Leatherworking	Rogue		Nightscape Pants	1
+42	Leatherworking	Rogue, Druid		Nightscape Boots	1
+42	Leatherworking	Hunter		Tough Scorpid Boots	1
+43	Leatherworking	Hunter		Tough Scorpid Shoulders	1
+44	Leatherworking	Hunter		Tough Scorpid Leggings	1
+45	Leatherworking	Hunter		Tough Scorpid Helm	1
+47	Leatherworking	Rogue, Hunter, Druid		Wicked Leather Gauntlets	1
+48	Leatherworking	Rogue, Druid		Wicked Leather Bracers	1
+50	Leatherworking	All		Rugged Armor Kit	5
+53	Leatherworking	None		Devilsaur Gauntlets	1
+53	Leatherworking	Rogue, Hunter, Warrior, Druid	Pro	Devilsaur Gauntlets	1
+55	Leatherworking	None		Devilsaur Leggings	1
+55	Leatherworking	Rogue, Hunter, Warrior, Druid	Pro	Devilsaur Leggings	1
+40	Pro	Druid, Rogue, Hunter, Warrior, Priest, Mage	Pro	Mount Funding	1
+43	Pro	Druid, Rogue, Hunter, Warrior, Priest, Mage	Pro	Mount Funding Confirmation	1
+5	Quest	All		Chunk of Boar Meat	8
+5	Quest	All		Crag Boar Rib	6
+7	Quest	All		Bear Meat	3
+7	Quest	All		Boar Intestines	3
+7	Quest	All		Spider Ichor	3
+9	Quest	All		Goretusk Snout	3
+9	Quest	All		Murloc Eye	3
+9	Quest	All		Okra	3
+9	Quest	All		Stringy Vulture Meat	3
+9.1	Quest	All		Goretusk Livers	8
+10	Quest	All		Darkshore Grouper	6
+10	Quest	All		Flask of Oil	5
+10	Quest	All		Guild Tabard	1
+10	Quest	None		Wool (First Aid)	200
+12	Quest	Mage		Light Feather	20
+12	Quest	Hunter		Chunk of Boar Meat	80
+14	Quest	All		Hops	5
+15	Quest	All		Crisp Spider Meat	5
+15	Quest	All		Great Goretusk Snout	5
+15	Quest	All		Tough Condor Meat	5
+17	Quest	All		Gooey Spider Leg	6
+20	Quest	Rogue		Chunk of Boar Meat	80
+20	Quest	None		Expert First Aid Book	1
+20	Quest	None		Manual: Heavy Silk Bandage	1
+20	Quest	None		Manual: Mageweave Bandage	1
+20	Quest	All		Murloc Fin	8
+20	Quest	All	Pro	Rethban Ore	5
+20	Quest	None		Silk (First Aid)	170
+20	Quest	None	Pro	Incendicite Ore	6
+28	Quest	All		Turtle Meat	10
+30	Quest	None		Mageweave (First Aid)	150
+32	Quest2	All		Lesser Bloodstone Ore	4
+33	Quest2	All		Buzzard Wing	4
+34	Quest2	Priest, Mage		Light Feather	20
+40	Quest2	All		Gorilla Fang	10
+40	Quest2	All		Troll Tribal Necklace	5
+40	Quest2	All		Wastewander Water Pouch	5
+43	Quest2	All		Silk Cloth	15
+45	Quest2	None		basilisk brains	11
+45	Quest2	None		blasted boar lungs	6
+45	Quest2	None		Runecloth (First Aid)	100
+45	Quest2	None		scorpok pincers	6
+45	Quest2	None		snickerfang jowls	5
+45	Quest2	None		Vulture Gizzards	14
+47	Quest2	All	Pro	Morrowgrain	20
+47	Quest2	All		Blue Power Crystal	7
+47	Quest2	All		Green Power Crystal	7
+47	Quest2	None		Morrowgrain	20
+47	Quest2	All		Red Power Crystal	7
+47	Quest2	All		Yellow Power Crystal	7
+55	Quest2	None		Bone Fragments	30
+55	Quest2	None		Core of Elements	30
+55	Quest2	All		Dark Iron Scraps	30
+55	Quest2	None		Savage Frond	30
+1	Tailoring	All		8 slot bags	2
+10	Tailoring	All		10 slot bags	3
+1	Tailoring	None		Linen Cloak	1
+2	Tailoring	None		Simple Linen Pants	1
+5	Tailoring	None		Red Linen Robe	1
+5	Tailoring	Mage, Priest, Warlock		Red/White Linen Robe	1
+7	Tailoring	Mage, Priest, Warlock		Green Linen Bracers	1
+7	Tailoring	Priest, Warlock		Red Linen Vest	1
+7	Tailoring	All		Reinforced Linen Cape	1
+9	Tailoring	Mage, Priest, Warlock		Handstitched Linen Britches	1
+10	Tailoring	None		12 slot bag (lvl 10)	1
+10	Tailoring	None		Simple Kilt	1
+11	Tailoring	Mage, Warlock		Soft-soled Linen Boots	1
+11	Tailoring	None		Woolen Cape	1
+12	Tailoring	Mage, Priest, Warlock		Heavy Woolen Gloves	1
+14	Tailoring	Mage, Priest, Warlock, Druid		Pearl-clasped Cloak	1
+14	Tailoring	Priest		Woolen Boots	1
+16	Tailoring	Mage, Warlock		Gray Woolen Robe	1
+16	Tailoring	None		Heavy Woolen Cloak	1
+17	Tailoring	Mage, Priest, Warlock		Double-stitched Woolen Shoulders	1
+17	Tailoring	Mage, Priest, Warlock		Heavy Woolen Pants	1
+18	Tailoring	Priest		Greater Adept's Robe	1
+19	Tailoring	None		Reinforced Woolen Shoulders	1
+20	Tailoring	All		12 slot bag (lvl 20)	2
+20	Tailoring	None		Spidersilk Boots	1
+20	Tailoring	Mage, Priest, Warlock	Pro	Spidersilk Boots	1
+23	Tailoring	Mage		Azure Silk Pants	1
+24	Tailoring	Mage		Azure Silk Gloves	1
+24	Tailoring	Mage, Priest, Warlock		Azure Silk Hood	1
+25	Tailoring	Mage		Azure Silk Vest	1
+25	Tailoring	Mage, Priest, Warlock		Robes of Arcana	1
+28	Tailoring	Mage, Priest, Warlock		Enchanter's Cowl	1
+29	Tailoring	All		Bolt of Woolen Cloth	1
+30	Tailoring	All		14 slot bag (lvl 30)	1
+30	Tailoring	Hunter, Rogue, Warrior, Warlock, Priest, Paladin, Mage		Azure Silk Belt	1
+30	Tailoring	Priest		Boots of the Enchanter	1
+31	Tailoring	Mage, Priest, Warlock		Green Silken Shoulders	1
+31	Tailoring	Warlock, Priest, Mage		Spider Belt	1
+32	Tailoring	Mage, Priest, Warlock, Druid, Paladin		Long Silken Cloak	1
+33	Tailoring	Mage		Azure Shoulders	1
+36	Tailoring	Mage, Priest, Warlock		Black Mageweave Vest	1
+37	Tailoring	Warlock, Priest		Shadoweave Pants	1
+38	Tailoring	Priest, Mage, Warlock		Black Mageweave Gloves	1
+40	Tailoring	All		14 slot bag (lvl 40)	1
+40	Tailoring	Mage, Warlock, Priest	Pro	Dreamweave Gloves	1
+42	Tailoring	Warlock, Priest		Shadoweave Shoulders	1
+45	Tailoring	Mage, Warlock, Priest	Pro	Dreamweave Circlet	1
+48	Tailoring	Mage, Priest, Warlock, Druid, Paladin		Runecloth Cloak	1
+50	Tailoring	None		16 slot bag	1
+50	Tailoring	All		14 slot bag (lvl 50)	1
+50	Tailoring	All	Pro	16 slot bag (lvl 50)	1
+58	Tailoring	None	Pro	Mageweave Cloth	240
+58	Tailoring	None	Pro	Runecloth	240
+58	Tailoring	None	Pro	Silk Cloth	240
+58	Tailoring	None	Pro	Wool Cloth	240
+60	Tailoring	All		16 slot bag (lvl 60)	1
+20	Engineering	Rogue		Bronze Tube	1

@@ -1,0 +1,86 @@
+Credit Compilation Instructions
+Credit Format
+Each line should follow this structure:
+
+Code
+[Name] [action]
+Examples:
+
+Code
+```
+Ellison helped Taresitia kill Bellygrub on her hunter Andriand.
+AngryGary kept Vi alive during a disconnect in Dustwallow.
+Sayagirl heartseeked Sessendra.
+Hammerforth heartseeked Sessendra.
+Name Formatting
+```
+
+All names must be reduced to a single word with no whitespace. Character names must be lowercase, except for the first letter, which must be capital.
+
+Example: Angry Gary → Angrygary
+
+Removal of spaces applies to both Discord handles and character names. Discord handles can maintain their capitalization.
+
+Example: @ItsmeClear  Vixinator  → ItsmeClear/Vixinator 
+
+Line Structure
+Each individual credit must be on its own line.
+
+No grouping multiple credits into a single sentence or paragraph.
+
+Even if multiple people contributed to the same event, each gets a separate line.
+
+If someone is thanked for multiple things, credit them with multiple lines. Be generous with extra credit.
+
+Example:
+
+Jarn — Yesterday at 2:33 PM
+Thanks to @Gheralt/ArtoriusVigo for helping Qarn repo Surena Caledon's Necklace, and for killing Hogger.
+
+Code:
+```
+Gheralt/ArtoriusVigo helped Qarn repossess a necklace
+Gheralt/ArtoriusVigo carried Qarn through Hogger
+```
+
+
+Event Parsing
+
+If multiple people participated in a group event (e.g., dungeon run), each participant gets their own line crediting them for that run.
+
+Also add a line for the person who is posting the list of players who ran it, because it takes extra effort to put that list together.
+
+Special roles, like tank and heals, should be called out separately as extra lines. 
+
+Example:
+
+Allexie/Lireala/Bryllie — Yesterday at 10:59 AM
+@Dredga  thanks for helping me get tailoring items crafted  for the tailoring leveling kit. Much appreciated.
+
+Input:
+
+DME @oominaughty (tank) @McDilda (heals) @ItsmeClear/Vixinator @Sonragon/Buodicca @Sessendra (party leader)
+
+Code output:
+
+```
+Sessendra ran DME with Oominaughty
+Sessendra ran DME with McDilda
+Sessendra ran DME with ItsmeClear/Vixinator
+Sessendra ran DME with Sonragon/Buodicca
+Sessendra ran DME
+Oominaughty tanked DME
+Mcdilda healed DME
+Sessendra posted team info for DME run
+Sessendra led a DME run
+```
+
+
+
+
+
+
+
+
+
+

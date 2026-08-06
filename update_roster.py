@@ -3,10 +3,12 @@ from contributors import Contributor, process_contributions
 from csv import reader, writer
 from update_orders import expire_donor_orders, update_donor_orders, order_fulfillments
 from set_discord_roles import set_dungeon_roles
+from contrib_data import process_and_post_data
+from crafting_credit import read_craft_channel
 import logging
 
+
 current_roster = Roster(load_from_file="inputs/roster.txt")
-# r = Roster()
 previous_roster = Roster(load_from_file="outputs/roster_latest.txt")
 
 logging.basicConfig(filename="logs/order_updates.log", level=logging.INFO)
@@ -32,7 +34,6 @@ logging.info(f"Graveyard: {death_list}")
 set_dungeon_roles(current_roster)
 expire_donor_orders(current_roster)
 
-current_roster.save()
 
 # interest = [
 #     r.characters["Bloodknife"],
@@ -40,7 +41,7 @@ current_roster.save()
 #     r.characters["Sayagirl"],
 #     r.characters["Ungalla"],
 #     r.characters["Thrik"],
-#     r.characters["Kilroth"]
+#     r.characters["Kilroth"]0
 # ]
 
 # for c in interest:
@@ -51,6 +52,8 @@ current_roster.save()
 #         r.run_event(line)
 
 order_fulfillments()
+
+read_craft_channel()
 
 donors = process_contributions()
 
@@ -67,3 +70,9 @@ with open("inputs/roster.txt", 'r', encoding="utf_8") as f:
 
 
 update_donor_orders(donors, current_roster, death_list)
+
+process_and_post_data()
+current_roster.save()
+
+from gear_reservation import process_reservations
+process_reservations()

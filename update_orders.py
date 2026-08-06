@@ -74,15 +74,15 @@ class Kit_Order:
             return False 
         if not self.item == order.item:
             return False 
-        if not self.qty == order.qty:
-            return False 
+        # if not self.qty == order.qty:
+        #     return False 
         # if not self.source == order.source:
         #     return False 
-        if self.item_level == 99 or order.item_level == 99:
-            return True
-        if self.item_level - order.item_level < 1:
-            return True
-        return False
+        # if self.item_level == 99 or order.item_level == 99:
+        #     return True
+        # if self.item_level - order.item_level < 1:
+        #     return True
+        return True
 
 
 
@@ -129,11 +129,11 @@ def order_fulfillments():
         for channel_id in channel_ids.values():
             print(f"Checking channel {channel_id}...")
             channel = client.get_channel(channel_id)
-            async for msg in channel.history(limit=200):
+            async for msg in channel.history(limit=500):
 
                 # Only look at posts that were made by the bot
                 poster = msg.author.display_name
-                if not poster == "bot":
+                if not (poster == "bot" or msg.author.display_name == "Greatfather Winter"):
                     continue
 
                 # Don't delete scoring posts
@@ -212,10 +212,10 @@ def order_fulfillments():
             for profession in banker_record:
                 num = banker_record[profession]
                 pts = num / 2
-                f.write(f"\n{user} donated {num} {profession} items from the guild bank {pts} s\n")
+                f.write(f"\n{user} donated {num} {profession} items from the guild bank {pts*100} s\n")
 
                 channel_id = channel_ids[profession]
-                post = (channel_id, f" * **{user}** earned {pts} points!")
+                post = (channel_id, f" * **{user}** earned {int(pts*10)} points!")
                 to_post.append(post)
 
 
@@ -253,7 +253,6 @@ def expire_donor_orders(roster):
     save_kit_orders(kit_order_list)
 
 def update_donor_orders(donors, roster, death_list):
-    client = discord.Client(intents=discord.Intents.all())
 
     to_post = []
     # Load orders
@@ -297,13 +296,15 @@ def update_donor_orders(donors, roster, death_list):
             character = roster.characters[donor_name]
         except:
             continue
-        for item_level, item_source, item_classes, num_classes, item_name, item_count in kit_items:
+        for item_level, item_source, item_classes, requires, item_name, item_count in kit_items:
             # Pass checks to see if it's a valid order
             if not donor_name in recipients:
                 if donor.level > 5 and donor.level < 42:
                     # Alts lvl 5 and under are usually bank alts
                     # Alts closer to 60 often don't need supplies
                     non_recipients.add(donor_name)
+                continue
+            if item_level == "Level":
                 continue
             item_level = float(item_level)
             if item_level > donor.level * 0.9 + 9:
@@ -314,7 +315,7 @@ def update_donor_orders(donors, roster, death_list):
                 continue
             if not (donor.char_class in item_classes or item_classes == "All"):
                 continue
-            if item_source == "Pro" and not donor_name in pro_donors:
+            if requires == "Pro" and not donor_name in pro_donors:
                 continue
             if "Green Hills" in item_name and "GH" in character.char_officer_note:
                 continue
@@ -358,6 +359,7 @@ def update_donor_orders(donors, roster, death_list):
     for contributor_name in non_recipients:
         print(contributor_name)
     
+    client = discord.Client(intents=discord.Intents.all())
     @client.event
     async def on_ready():
         print("Client Ready!)")
@@ -369,6 +371,8 @@ def update_donor_orders(donors, roster, death_list):
             else:
                 print("Channel not found!")
                 print(f"Channel {channel_id}\nOrder: {order_txt}")
+                # TODO - IF THIS FAILS, THE ORDER IS LOST
+                print("IF THIS FAILS, THE ORDER IS LOST")
         await client.close()
 
     # Post discord messages

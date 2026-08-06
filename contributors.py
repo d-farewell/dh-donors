@@ -1,5 +1,7 @@
 
 from csv import reader, writer
+import pandas as pd
+from datetime import datetime
 
 def load_contributors(filename="outputs/contributors.txt"):
     contributors = dict()
@@ -26,10 +28,10 @@ def load_tracked(filename="item_tracking/tracked_items.txt"):
     tracked_list = dict()
     with open(filename, 'r', encoding="utf_8") as f:
         r = reader(f, delimiter='\t')
-        for row in r:
-            itemname = row[0]
-            val = row[1]
-            tracked_list[itemname] = float(val)
+        for itemname, val, category in r:
+            if val == "Val":
+                continue
+            tracked_list[itemname] = (category, float(val))
     return tracked_list
 
     
@@ -39,6 +41,17 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
 
     tracked_item_vals = load_tracked()
     untracked_item_qtys = load_untracked()
+
+    with open("outputs/contribution_data.csv", encoding="utf_8") as f:
+        contrib_df = pd.read_csv(f, sep="\t")
+    contrib_df.to_csv("outputs/contribution_data_backup.csv", sep="\t")
+    print(contrib_df.head(10))
+    print(contrib_df.shape)
+    contrib_new_data = []
+
+    current_datetime  = datetime.now()
+    formatted_date_string = current_datetime.strftime("%m/%d/%Y")
+
 
     with open(filename, encoding="utf_8") as f:
         tracked_donations = dict()
@@ -54,25 +67,33 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
                 name, category, qty = kudos_words[:3]
                 qty = int(qty)
                 if category == "crafted":
+                    contrib_category = "Crafting"
                     amount = qty / 10
+                    contrib_amount = amount
                     kudos_list.append(kudos)
                 else:
                     # This should be a donation of items to Bavin
                     assert category == "donated"
+                    contrib_category = "Misc."
                     amount = kudos_words[-2]
                     item = " ".join(kudos_words[3:-2])
-                    amount = int(amount) / 100
+                    amount = float(amount) / 100
+                    contrib_amount = amount
                     is_item = True
             except:
+                contrib_category = "Community"
                 name = kudos_words[0]
                 amount = 3
+                contrib_amount = amount
                 kudos_list.append(kudos)
 
 
             if is_item:
                 if item in tracked_item_vals:
                     # If the item has a tracked value, use that for the score. 
-                    amount = tracked_item_vals[item] * qty
+                    item_category, amount = tracked_item_vals[item]
+                    contrib_amount = amount * qty
+                    contrib_category = item_category
                     # Also track a table of values for the kudos report
                     if not name in tracked_donations:
                         tracked_donations[name] = dict()
@@ -82,19 +103,57 @@ def process_contributions(filename="inputs/donations.txt", outfile="outputs/cont
                     if item in untracked_item_qtys:
                         untracked_item_qtys.pop(item)
                 else:
-                    if not item in untracked_item_qtys:
-                        untracked_item_qtys[item] = 0
-                    untracked_item_qtys[item] += qty
+                    if "from the guild bank" in item:
+                        contrib_category = "Banking"
+                    else:
+                        contrib_category = "Misc."
+                        if not item in untracked_item_qtys:
+                            untracked_item_qtys[item] = 0
+                        untracked_item_qtys[item] += qty
 
             if name in contributors:
                 # print(f"Adding {amount} to {name}")
-                contributors[name].score += amount
+                contributors[name].score += contrib_amount
             else:
                 # print(f"New contributor: {name}")
                 c = Contributor()
                 c.name = name
-                c.score = amount
+                c.score = contrib_amount
                 contributors[name] = c
+            
+            contrib_new_row = [
+                name,
+                formatted_date_string,
+                contrib_category,
+                contrib_amount
+            ]
+            contrib_new_data.append(contrib_new_row)
+            print(contrib_new_row)
+
+    print("New contributions df")
+    contrib_new_df = pd.DataFrame(contrib_new_data, columns=["From", "Date", "Category", "Amount"])
+    print(contrib_new_df.head(10))
+    print(contrib_new_df.shape)
+    contrib_new_df.to_csv("outputs/new_contrib_data.csv", sep="\t")
+
+    print("Grouping:")
+    contrib_new_df['Amount'] = contrib_new_df.groupby(["From", "Date", "Category"])['Amount'].transform('sum')
+    print(contrib_new_df.head(10))
+    print(contrib_new_df.shape)
+    contrib_new_df.to_csv("outputs/new_contrib_data_grouped.csv", sep="\t")
+    
+    print("Drop dupes:")
+    contrib_new_df = contrib_new_df.drop_duplicates(subset=["From", "Date", "Category"])
+    print(contrib_new_df.head(10))
+    contrib_new_df.to_csv("outputs/new_contrib_data_grouped.csv", sep="\t")
+
+    print("Concatenate:")
+    contrib_final_df = pd.concat([contrib_df, contrib_new_df])
+    print(contrib_final_df.head(10))
+    print("...")
+    print(contrib_final_df.tail(10))
+    print(contrib_final_df.shape)
+    contrib_final_df.to_csv("outputs/contribution_data.csv", sep="\t", index=False)
 
     for player, itemdict in tracked_donations.items():
         kudos_str = f"{player} donated"
