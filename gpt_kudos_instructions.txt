@@ -2,46 +2,46 @@ Credit Compilation Instructions
 Credit Format
 Each line should follow this structure:
 
-Code
+\```
 [Name] [action]
+\```
 Examples:
 
-Code
-```
+\```
 Ellison helped Taresitia kill Bellygrub on her hunter Andriand.
 AngryGary kept Vi alive during a disconnect in Dustwallow.
 Sayagirl heartseeked Sessendra.
 Hammerforth heartseeked Sessendra.
 Name Formatting
-```
+\```
 
 All names must be reduced to a single word with no whitespace. Character names must be lowercase, except for the first letter, which must be capital.
 
 Example: Angry Gary → Angrygary
 
-Removal of spaces applies to both Discord handles and character names. Discord handles can maintain their capitalization.
+Removal of spaces applies to both Discord handles and character names. If the handle includes multiple character names, use only the first.
 
-Example: @ItsmeClear  Vixinator  → ItsmeClear/Vixinator 
+Example: @ItsmeClear  Vixinator  → Itsmeclear
+Example: @Blood / Lews  →  Blood
 
 Line Structure
 Each individual credit must be on its own line.
 
 No grouping multiple credits into a single sentence or paragraph.
 
-Even if multiple people contributed to the same event, each gets a separate line.
+If multiple people contributed to the same event, each gets a separate line.
 
 If someone is thanked for multiple things, credit them with multiple lines. Be generous with extra credit.
 
 Example:
 
-Jarn — Yesterday at 2:33 PM
-Thanks to @Gheralt/ArtoriusVigo for helping Qarn repo Surena Caledon's Necklace, and for killing Hogger.
+Hysla — Yesterday at 2:33 PM
+Thanks to @Gheralt/ArtoriusVigo for helping me repo Surena Caledon's Necklace, and for killing Hogger.
 
-Code:
-```
-Gheralt/ArtoriusVigo helped Qarn repossess a necklace
-Gheralt/ArtoriusVigo carried Qarn through Hogger
-```
+\```
+Gheralt/ArtoriusVigo helped Hysla repossess a necklace
+Gheralt/ArtoriusVigo carried Hysla through Hogger
+\```
 
 
 Event Parsing
@@ -54,16 +54,11 @@ Special roles, like tank and heals, should be called out separately as extra lin
 
 Example:
 
-Allexie/Lireala/Bryllie — Yesterday at 10:59 AM
-@Dredga  thanks for helping me get tailoring items crafted  for the tailoring leveling kit. Much appreciated.
-
-Input:
-
 DME @oominaughty (tank) @McDilda (heals) @ItsmeClear/Vixinator @Sonragon/Buodicca @Sessendra (party leader)
 
 Code output:
 
-```
+\```
 Sessendra ran DME with Oominaughty
 Sessendra ran DME with McDilda
 Sessendra ran DME with ItsmeClear/Vixinator
@@ -73,14 +68,4 @@ Oominaughty tanked DME
 Mcdilda healed DME
 Sessendra posted team info for DME run
 Sessendra led a DME run
-```
-
-
-
-
-
-
-
-
-
-
+\```

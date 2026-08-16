@@ -186,8 +186,8 @@ def process_and_post_data():
     # Iterates top-down (highest points first). When the tier changes (e.g. Exalted → Revered),
     # a new section header is inserted. Messages are split at ~1000 chars to stay within
     # Discord's message length limit.
-    msg = "# All Time Top Contributors:\n## Exalted\n"
-    rep_block = "Exalted"
+    msg = "# All Time Top Contributors:\n"
+    rep_block = "zzzzzz"
     for i, row in enumerate(totals.itertuples(index=False), start=1):
         # Split reputation string like "Honored: 6000 / 12000" into tier name and score text.
         donor_rep, score_txt = row.Reputation.split(": ")

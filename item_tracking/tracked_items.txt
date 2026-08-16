@@ -65,7 +65,7 @@ Elixir of Detect Lesser Invisibility	0.5	Alchemy
 Elixir of Firepower	0.5	Alchemy
 Elixir of Greater Water Breathing	0.5	Alchemy
 Magic Resistance Potion	0.5	Alchemy
-Stonescale Oil	0.5	Alchemy
+Stonescale Oil	.85	Alchemy
 Strong Troll's Blood Potion	0.5	Alchemy
 Swiftness Potion	0.5	Alchemy
 Swim Speed Potion	0.5	Alchemy
@@ -290,7 +290,7 @@ Rough Weightstone	0.01	Blacksmithing
 Felcloth	5	Cloth
 Runecloth	0.3	Cloth
 Mageweave Cloth	0.25	Cloth
-Wool Cloth	0.2	Cloth
+Wool Cloth	0.1	Cloth
 Silk Cloth	0.1	Cloth
 Linen Cloth	0.02	Cloth
 Smoked Desert Dumplings	2	Cooking
@@ -531,7 +531,7 @@ Wool Bandage	0.01	First Aid
 Heavy Linen Bandage	0	First Aid
 Linen Bandage	0	First Aid
 Deviate Fish	1	Fishing
-Stonescale Eel	0.35	Fishing
+Stonescale Eel	0.8	Fishing
 Raw Glossy Mightfish	0.3	Fishing
 Raw Nightfin Snapper	0.25	Fishing
 Darkshore Grouper	0.2	Fishing
@@ -558,6 +558,7 @@ Raw Spinefin Halibut	0	Fishing
 Raw Spotted Yellowtail	0	Fishing
 Rockscale Cod	0	Fishing
 Spotted Yellowtail	0	Fishing
+Raw Whitescale Salmon	0	Fishing
 Raw Bristle Whisker Catfish	-0.01	Fishing
 Raw Loch Frenzy	-0.01	Fishing
 Raw Longjaw Mud Snapper	-0.01	Fishing
@@ -565,6 +566,7 @@ Raw Slitherskin Mackerel	-0.01	Fishing
 Edgemaster's Handguards	1500	Gear
 Glowing Brightwood Staff	300	Gear
 Warden Staff	300	Gear
+Destiny	300	Gear
 Jeweled Amulet of Cainwyn	200	Gear
 Precisely Calibrated Boomstick	200	Gear
 Sapphiron's Scale Boots	180	Gear
@@ -593,6 +595,7 @@ Staff of the Shade	80	Gear
 The Butcher	80	Gear
 The Green Tower	80	Gear
 Wolffear Harness	80	Gear
+Blackskull Shield	80	Gear
 Ring of the Underwood	75	Gear
 Taran Icebreaker	75	Gear
 Ardent Custodian	70	Gear
@@ -602,6 +605,7 @@ Juno's Shadow	65	Gear
 Forest Tracker Epaulets	60	Gear
 Gloves of Holy Might	60	Gear
 Necromancer Leggings	60	Gear
+Runed Golem Shackles	60	Gear
 Belt of Valor	50	Gear
 Elven Chain Boots	50	Gear
 Icemail Jerkin	50	Gear
@@ -614,6 +618,8 @@ Shadowcraft Bracers	50	Gear
 Sickle Axe	50	Gear
 Swiftwind	50	Gear
 The Shadowfoot Stabber	50	Gear
+Windrunner Legguards	50	Gear
+Boneslasher	50	Gear
 Assault Band	45	Gear
 Black Malice	45	Gear
 Black Velvet Robes	45	Gear
@@ -624,6 +630,8 @@ Sliverblade	45	Gear
 Ta'Kierthan Songblade	45	Gear
 Troll's Bane Leggings	45	Gear
 Yorgen Bracers	45	Gear
+Windweaver Staff	45	Gear
+Zealot Blade	45	Gear
 Basilisk Hide Pants	40	Gear
 Blade of the Basilisk	40	Gear
 Blade of the Titans	40	Gear
@@ -646,6 +654,8 @@ Scarlet Chestpiece	40	Gear
 Skibi's Pendant	40	Gear
 Talon of Vultros	40	Gear
 Thunderwood	40	Gear
+Tainted Pierce	40	Gear
+Axe of Rin'ji	40	Gear
 Arena Bracers	35	Gear
 Demonslayer	35	Gear
 Dreadmist Bracers	35	Gear
@@ -656,6 +666,7 @@ Stoneraven	35	Gear
 Stonerender Gauntlets	35	Gear
 The Needler	35	Gear
 The Silencer	35	Gear
+Plaguebat Fur Gloves	35	Gear
 Deepfury Bracers	30	Gear
 Devout Belt	30	Gear
 Dreadmist Belt	30	Gear
@@ -672,9 +683,8 @@ Skycaller	30	Gear
 Thorbia's Gauntlets	30	Gear
 Watchman Pauldrons	30	Gear
 Widowmaker	30	Gear
-Windrunner Legguards	50	Gear
+Blackflame Cape	30	Gear
 Arena Bands	25	Gear
-Blackflame Cape	25	Gear
 Bludstone Hammer	25	Gear
 Diamond Hammer	25	Gear
 Eye of Adaegus	25	Gear
@@ -689,6 +699,10 @@ Supercharger Battle Axe	25	Gear
 The Ziggler	25	Gear
 Viscous Hammer	25	Gear
 Wand of Allistarj	25	Gear
+Lady Alizabeth's Pendant	25	Gear
+Scorpion Sting	25	Gear
+Serenity Belt	25	Gear
+Arena Vambraces	25	Gear
 Keller's Girdle	24	Gear
 Adventurer's Cape of Agility	22.57	Gear
 Twisted Chanter's Staff	22	Gear
@@ -725,6 +739,8 @@ Viking Warhammer	20	Gear
 Wildheart Belt	20	Gear
 Witchfury	20	Gear
 Witching Stave	20	Gear
+Gloomshroud Armor	20	Gear
+Stormbringer Belt	20	Gear
 Broken Blade of Heroes	18	Gear
 Julie's Dagger	18	Gear
 Night Watch Shortsword	18	Gear
@@ -765,6 +781,9 @@ The Black Knight	15	Gear
 Unbridled Leggings	15	Gear
 Wildheart Bracers	15	Gear
 Winged Helm	15	Gear
+Mug O' Hurt	15	Gear
+Crystal Starfire Medallion	15	Gear
+Furen's Boots	15	Gear
 Ironhide Pauldrons of the Falcon	14.16	Gear
 Vital Orb of the Owl	13.45	Gear
 Backbreaker of the Tiger	12.39	Gear
@@ -868,6 +887,7 @@ Orb of Mistmantle	8	Gear
 Rod of Molten Fire	8	Gear
 Sandals of the Insurgent	8	Gear
 Twisted Sabre	8	Gear
+Demon Band	8	Gear
 Colossal Great Axe of the Boar	7.96	Gear
 Impenetrable Gauntlets of Healing	7.96	Gear
 Ivory Wand of Healing	7.96	Gear
@@ -1227,6 +1247,7 @@ Keeper's Hooves	4	Gear
 Pridelord Bands	4	Gear
 Pulsating Hydra Heart	4	Gear
 Scorpashi Shoulder Pads	4	Gear
+Blackforge Girdle	4	Gear
 Abjurer's Bands of Intellect	3.98	Gear
 Bloodwoven Pants of Healing	3.98	Gear
 Duskwoven Cape of Healing	3.98	Gear
@@ -1531,6 +1552,10 @@ Scorpashi Slippers	3	Gear
 Serpentskin Cloak	3	Gear
 Starsight Tunic	3	Gear
 Warden's Wizard Hat	3	Gear
+Imperial Leather Bracers	3	Gear
+Aurora Cowl	3	Gear
+Ravager's Armor	3	Gear
+Cutthroat Pauldrons	3	Gear
 Heavy Lamellar Girdle of the Monkey	2.99	Gear
 Nocturnal Cap of the Monkey	2.99	Gear
 Bonelink Belt of the Falcon	2.97	Gear
@@ -1904,6 +1929,11 @@ Symbolic Greaves	2	Gear
 Tromping Miner's Boots	2	Gear
 Tyrant's Epaulets	2	Gear
 Warden's Waistband	2	Gear
+Black Metal Greatsword	2	Gear
+Chromite Greaves	2	Gear
+Chief Brigadier Shield	2	Gear
+Defias Mage Staff	2	Gear
+Enduring Gauntlets	2	Gear
 Banded Boots of the Gorilla	1.99	Gear
 Battleforge Shoulderguards of the Gorilla	1.99	Gear
 Dwarven Magestaff of Intellect	1.99	Gear
@@ -2085,6 +2115,7 @@ Iridium Circle of Spirit	1.7	Gear
 Scouting Boots of the Falcon	1.7	Gear
 Superior Leggings of the Falcon	1.7	Gear
 Tracker's Leggings of the Bear	1.7	Gear
+Nightsky Gloves	1.7	Gear
 Aboriginal Sash of the Owl	1.68	Gear
 Archer's Belt of the Owl	1.68	Gear
 Bard's Belt of the Owl	1.68	Gear
@@ -2333,6 +2364,11 @@ Twilight Cape of the Eagle	1.5	Gear
 Vital Handwraps of the Eagle	1.5	Gear
 Warden's Woolies	1.5	Gear
 Windchaser Cinch	1.5	Gear
+Glyphed Cloak	1.5	Gear
+Wolf Bracers	1.5	Gear
+Blackforge Cape	1.5	Gear
+Mighty Chain Pants	1.5	Gear
+Scythe Axe	1.5	Gear
 Banded Girdle of the Bear	1.49	Gear
 Cavalier Two-hander of Strength	1.49	Gear
 Fortified Chain of the Bear	1.49	Gear
@@ -2911,6 +2947,11 @@ Twilight Cultist Cowl	1	Gear
 Twilight Mantle of Intellect	1	Gear
 Whipwood Recurve Bow	1	Gear
 Wise Man's Belt	1	Gear
+Hulking Leggings	1	Gear
+Mail Combat Belt	1	Gear
+Bright Armor	1	Gear
+Pale Skinner	1	Gear
+Dreamer's Belt	1	Gear
 Banded Bracers of Strength	0.99	Gear
 Battle Knife of Strength	0.99	Gear
 Battleforge Cloak of Strength	0.99	Gear
@@ -3282,6 +3323,13 @@ Willow Branch of Intellect	0.8	Gear
 Willow Cape of Healing	0.8	Gear
 Willow Gloves of Healing	0.8	Gear
 Willow Vest of Intellect	0.8	Gear
+Silver-thread Cloak	0.8	Gear
+Boulder Pads	0.8	Gear
+Mo'grosh Can Opener	0.8	Gear
+Support Girdle	0.8	Gear
+Mail Combat Armguards	0.8	Gear
+Antiquated Cloak	0.8	Gear
+Fiery Cloak	0.8	Gear
 Bloodwoven Mask of the Whale	0.78	Gear
 Brigade Girdle of the Whale	0.78	Gear
 Buccaneer's Cape of Frozen Wrath	0.78	Gear
@@ -3508,6 +3556,8 @@ Nightsky Trousers	0.7	Gear
 Silver-thread Sash	0.7	Gear
 War Knife of Power	0.7	Gear
 Warchief's Girdle	0.7	Gear
+Owl Bracers	0.7	Gear
+Trogg Beater	0.7	Gear
 Archer's Bracers of Spirit	0.69	Gear
 Bandit Buckler of the Monkey	0.69	Gear
 Battleforge Shield of the Monkey	0.69	Gear
@@ -3786,6 +3836,8 @@ Willow Robe of the Eagle	0.6	Gear
 Windchaser Handguards	0.6	Gear
 Wrangler's Cloak of Intellect	0.6	Gear
 Wrangler's Gloves of the Eagle	0.6	Gear
+Dokebi Cape	0.6	Gear
+Hulking Cloak	0.6	Gear
 Buccaneer's Boots of the Owl	0.59	Gear
 Native Pants of the Owl	0.59	Gear
 Primal Leggings of the Owl	0.59	Gear
@@ -4096,6 +4148,8 @@ Warden's Wristbands	0.5	Gear
 Webwing Cloak	0.5	Gear
 Wicked Spiked Mace	0.5	Gear
 Willow Boots of the Owl	0.5	Gear
+Block Mallet	0.5	Gear
+Hulking Belt	0.5	Gear
 Aboriginal Gloves of Fiery Wrath	0.48	Gear
 Bandit Pants of Spirit	0.48	Gear
 Buccaneer's Gloves of Fiery Wrath	0.48	Gear
@@ -4350,6 +4404,11 @@ Willow Belt of Fiery Wrath	0.4	Gear
 Willow Cape of Fiery Wrath	0.4	Gear
 Willow Cape of the Owl	0.4	Gear
 Willow Gloves of Fiery Wrath	0.4	Gear
+Loch Croc Hide Vest	0.4	Gear
+Prospector's Boots	0.4	Gear
+Bluegill Sandals	0.4	Gear
+Shadowhide Mace	0.4	Gear
+Tribal Pants	0.4	Gear
 Captain's Bracers of the Whale	0.39	Gear
 Carving Knife of Frozen Wrath	0.39	Gear
 Conjurer's Shoes of the Whale	0.39	Gear
@@ -4617,6 +4676,9 @@ Staunch Hammer of Shadow Wrath	0.3	Gear
 Stonemason Trousers	0.3	Gear
 Warrior's Tunic	0.3	Gear
 Worn Turtle Shell Shield	0.3	Gear
+Spellbinder Cloak	0.3	Gear
+Green Carapace Shield	0.3	Gear
+Prospector's Buckler	0.3	Gear
 Bandit Cloak of the Monkey	0.29	Gear
 Scouting Tunic of Nature's Wrath	0.29	Gear
 Training Sword of the Monkey	0.29	Gear
@@ -4912,6 +4974,7 @@ Weighted Sap	0.2	Gear
 Wicked Blackjack	0.2	Gear
 Willow Pants of the Eagle	0.2	Gear
 Woodworking Gloves	0.2	Gear
+Foreman Vest	0.2	Gear
 Aboriginal Footwraps of Stamina	0.19	Gear
 Buccaneer's Boots of Spirit	0.19	Gear
 Conjurer's Cloak of Arcane Wrath	0.19	Gear
@@ -5206,6 +5269,7 @@ Sergeant's Warhammer of Arcane Wrath	0.08	Gear
 Sergeant's Warhammer of Nature's Wrath	0.08	Gear
 Simple Bands	0.08	Gear
 Willow Boots of Arcane Wrath	0.08	Gear
+Deepwood Bracers	0.08	Gear
 Bandit Cloak of Defense	0.07	Gear
 Bandit Cloak of Nature's Wrath	0.07	Gear
 Cadet Leggings of the Whale	0.07	Gear
@@ -5214,6 +5278,7 @@ Gypsy Cloak	0.07	Gear
 Native Branch of the Whale	0.07	Gear
 Soldier's Armor of the Whale	0.07	Gear
 War Torn Pants of the Whale	0.07	Gear
+Desperado Cape	0.07	Gear
 Beaded Wraps of the Whale	0.06	Gear
 Gypsy Buckler of Stamina	0.06	Gear
 Burnt Leather Belt	0.05	Gear
@@ -5243,310 +5308,6 @@ Abjurer's Boots of the Falcon	0	Gear
 Abjurer's Hood of the Owl	0	Gear
 Abjurer's Pants of the Owl	0	Gear
 Abjurer's Robe of the Eagle	0	Gear
-Aboriginal Bands	0	Gear
-Aboriginal Cape	0	Gear
-Ancestral Gloves	0	Gear
-Arachnidian Branch of the Eagle	0	Gear
-Arachnidian Circlet of Arcane Wrath	0	Gear
-Arachnidian Circlet of the Whale	0	Gear
-Barbaric Loincloth	0	Gear
-Basalt Ring of the Boar	0	Gear
-Beaded Orb of Fiery Wrath	0	Gear
-Beaded Orb of Healing	0	Gear
-Beaded Orb of Spirit	0	Gear
-Beaded Orb of the Eagle	0	Gear
-Beaded Orb of the Whale	0	Gear
-Beatstick	0	Gear
-Billy Club	0	Gear
-Bloodforged Gauntlets of the Tiger	0	Gear
-Bloodspattered Surcoat of Power	0	Gear
-Bloodspattered Surcoat of the Bear	0	Gear
-Bloodspattered Surcoat of the Eagle	0	Gear
-Bloodwoven Boots of the Owl	0	Gear
-Bloodwoven Bracers of the Eagle	0	Gear
-Bloodwoven Bracers of the Whale	0	Gear
-Box Shield	0	Gear
-Brackwater Cloak	0	Gear
-Brigade Breastplate of Spirit	0	Gear
-Brigade Breastplate of the Falcon	0	Gear
-Brutehammer of the Eagle	0	Gear
-Brutish Armguards of Power	0	Gear
-Brutish Armguards of the Monkey	0	Gear
-Brutish Belt of the Bear	0	Gear
-Brutish Shield of the Bear	0	Gear
-Brutish Shoulders of the Boar	0	Gear
-Burnt Buckler	0	Gear
-Burnt Leather Boots	0	Gear
-Burnt Leather Gloves	0	Gear
-Cabalist Bracers of Intellect	0	Gear
-Cabalist Bracers of the Eagle	0	Gear
-Cadet Belt	0	Gear
-Captain's Buckler of Stamina	0	Gear
-Captain's Buckler of the Bear	0	Gear
-Captain's Leggings of the Monkey	0	Gear
-Carpenter's Mallet	0	Gear
-Ceremonial Leather Belt	0	Gear
-Champion's Helmet of the Tiger	0	Gear
-Chieftain's Cloak of the Owl	0	Gear
-Commander's Boots of the Bear	0	Gear
-Commander's Girdle of the Monkey	0	Gear
-Conjurer's Mantle of Frozen Wrath	0	Gear
-Conjurer's Mantle of Intellect	0	Gear
-Conjurer's Mantle of Stamina	0	Gear
-Conjurer's Mantle of the Eagle	0	Gear
-Conjurer's Mantle of the Owl	0	Gear
-Conjurer's Mantle of the Whale	0	Gear
-Conjurer's Mantle of the Wolf	0	Gear
-Councillor's Boots of the Owl	0	Gear
-Councillor's Scepter of Shadow Wrath	0	Gear
-Crusader's Cloak of the Wolf	0	Gear
-Crusader's Helm of Defense	0	Gear
-Crusader's Helm of the Whale	0	Gear
-Cutthroat's Belt of the Eagle	0	Gear
-Cutthroat's Belt of the Owl	0	Gear
-Cutthroat's Hat of the Owl	0	Gear
-Cutthroat's Mitts of Defense	0	Gear
-Cutthroat's Mitts of the Bear	0	Gear
-Darkmist Armor of Spirit	0	Gear
-Darkmist Boots of the Owl	0	Gear
-Darkmist Mantle of the Whale	0	Gear
-Darkmist Wizard Hat of the Whale	0	Gear
-Diamond-Tip Bludgeon of Power	0	Gear
-Diamond-Tip Bludgeon of the Tiger	0	Gear
-Dimensional Blade of the Tiger	0	Gear
-Disciple's Bracers	0	Gear
-Dragon Finger of the Falcon	0	Gear
-Elder's Robe of the Eagle	0	Gear
-Elder's Robe of the Whale	0	Gear
-Elegant Belt of the Eagle	0	Gear
-Elegant Belt of the Owl	0	Gear
-Embersilk Robes of the Owl	0	Gear
-Embossed Plate Shield of the Monkey	0	Gear
-Emerald Sabatons of the Whale	0	Gear
-Engraved Gauntlets of the Tiger	0	Gear
-Field Plate Vambraces of the Gorilla	0	Gear
-Fine Scimitar	0	Gear
-Fingerless Gloves	0	Gear
-Flimsy Chain Pants	0	Gear
-Flimsy Chain Vest	0	Gear
-Formidable Sabatons of the Wolf	0	Gear
-Formidable Shoulder Pads of the Eagle	0	Gear
-Frostmane Hand Axe	0	Gear
-Gaea's Circlet of Fiery Wrath	0	Gear
-Gaea's Handwraps of the Monkey	0	Gear
-Geomancer's Cap of Stamina	0	Gear
-Geomancer's Cap of the Eagle	0	Gear
-Geomancer's Cloak of Shadow Wrath	0	Gear
-Geomancer's Gloves of the Eagle	0	Gear
-Geomancer's Rod of the Eagle	0	Gear
-Geomancer's Rod of the Owl	0	Gear
-Geomancer's Wraps of Spirit	0	Gear
-Ghostwalker Belt of the Eagle	0	Gear
-Ghostwalker Bindings of Intellect	0	Gear
-Ghostwalker Pads of the Wolf	0	Gear
-Glorious Belt of Power	0	Gear
-Glowstar Rod of Arcane Wrath	0	Gear
-Glowstar Rod of Shadow Wrath	0	Gear
-Gnoll Kindred Bracers	0	Gear
-Gothic Plate Leggings of Strength	0	Gear
-Gothic Plate Leggings of the Whale	0	Gear
-Gothic Sabatons of the Bear	0	Gear
-Grand Cloak of the Bear	0	Gear
-Grizzly Cape	0	Gear
-Grizzly Gloves	0	Gear
-Grunt's Legguards of the Whale	0	Gear
-Grunt's Shield of the Monkey	0	Gear
-Gryphon Mail Bracelets of Agility	0	Gear
-Gypsy Bands	0	Gear
-Gypsy Sandals	0	Gear
-Gypsy Sash	0	Gear
-Headhunter's Armor of Stamina	0	Gear
-Headhunter's Armor of the Falcon	0	Gear
-Headhunter's Cloak of the Whale	0	Gear
-Headhunter's Mitts of the Eagle	0	Gear
-Headhunter's Slippers of the Whale	0	Gear
-Heavy Lamellar Helm of the Bear	0	Gear
-Heroic Bracers of the Whale	0	Gear
-High Chief's Legguards of the Bear	0	Gear
-High Chief's Legguards of the Gorilla	0	Gear
-High Councillor's Sash of the Owl	0	Gear
-Imposing Bandana of the Monkey	0	Gear
-Imposing Cape of Agility	0	Gear
-Imposing Cape of the Eagle	0	Gear
-Infantry Belt	0	Gear
-Infantry Cloak	0	Gear
-Infiltrator Buckler of the Bear	0	Gear
-Infiltrator Buckler of the Gorilla	0	Gear
-Infiltrator Buckler of the Tiger	0	Gear
-Infiltrator Cloak of the Monkey	0	Gear
-Infiltrator Cloak of the Whale	0	Gear
-Interlaced Bracers	0	Gear
-Ironhide Cloak of the Monkey	0	Gear
-Ironhide Greaves of the Eagle	0	Gear
-Ironhide Helmet of the Whale	0	Gear
-Jadefire Cap of the Owl	0	Gear
-Jadefire Epaulets of the Bear	0	Gear
-Jasper Link of Arcane Resistance	0	Gear
-Journeyman's Boots	0	Gear
-Journeyman's Bracers	0	Gear
-Journeyman's Gloves	0	Gear
-Knitted Tunic	0	Gear
-Kobold Mining Mallet	0	Gear
-Kobold Mining Shovel	0	Gear
-Light Mail Armor	0	Gear
-Lofty Helm of Defense	0	Gear
-Lofty Shoulder Pads of Defense	0	Gear
-Lofty Shoulder Pads of the Eagle	0	Gear
-Long Bo Staff	0	Gear
-Loose Chain Boots	0	Gear
-Loose Chain Bracers	0	Gear
-Loose Chain Gloves	0	Gear
-Loose Chain Vest	0	Gear
-Lord's Armguards of the Falcon	0	Gear
-Lord's Boots of the Bear	0	Gear
-Lunar Bindings of Fiery Wrath	0	Gear
-Lunar Bindings of Intellect	0	Gear
-Lunar Bindings of the Owl	0	Gear
-Lunar Coronet of the Eagle	0	Gear
-Lunar Handwraps of Fiery Wrath	0	Gear
-Lunar Handwraps of Spirit	0	Gear
-Lunar Handwraps of the Eagle	0	Gear
-Lunar Handwraps of the Owl	0	Gear
-Magnificent Cloak of Arcane Wrath	0	Gear
-Marsh Chain of Agility	0	Gear
-Marsh Chain of the Monkey	0	Gear
-Marsh Chain of the Wolf	0	Gear
-Masterwork Cape of Agility	0	Gear
-Merciless Belt of Healing	0	Gear
-Merciless Cloak of Defense	0	Gear
-Mercurial Cloak of the Whale	0	Gear
-Mighty Gauntlets of the Owl	0	Gear
-Mountaineer Chestpiece	0	Gear
-Mystical Armor of Stamina	0	Gear
-Mystical Bracers of Intellect	0	Gear
-Mystical Gloves of the Owl	0	Gear
-Nocturnal Shoulder Pads of the Eagle	0	Gear
-Opulent Belt of the Whale	0	Gear
-Opulent Boots of Arcane Wrath	0	Gear
-Opulent Bracers of the Eagle	0	Gear
-Opulent Crown of the Eagle	0	Gear
-Opulent Tunic of Arcane Wrath	0	Gear
-Ornate Breastplate of the Owl	0	Gear
-Ornate Cloak of Spirit	0	Gear
-Ornate Cloak of the Falcon	0	Gear
-Ornate Legguards of the Eagle	0	Gear
-Pagan Mitts of the Eagle	0	Gear
-Pagan Mitts of the Owl	0	Gear
-Pagan Vest of the Owl	0	Gear
-Painbringer of the Whale	0	Gear
-Patchwork Cloak	0	Gear
-Pathfinder Guard of the Owl	0	Gear
-Pathfinder Hat of Stamina	0	Gear
-Pathfinder Vest of Agility	0	Gear
-Pathfinder Vest of the Falcon	0	Gear
-Pathfinder Vest of the Owl	0	Gear
-Peerless Belt of the Eagle	0	Gear
-Peerless Bracers of the Monkey	0	Gear
-Peerless Bracers of the Whale	0	Gear
-Pellet Rifle	0	Gear
-Pillager's Bracers of the Tiger	0	Gear
-Pioneer Boots	0	Gear
-Pioneer Buckler	0	Gear
-Pioneer Cloak	0	Gear
-Pioneer Gloves	0	Gear
-Potent Armor of the Monkey	0	Gear
-Practice Sword	0	Gear
-Praetorian Gloves of the Eagle	0	Gear
-Prairie Ring of the Wolf	0	Gear
-Rageclaw Chestguard of the Bear	0	Gear
-Rageclaw Chestguard of the Owl	0	Gear
-Raincaller Cap of Shadow Wrath	0	Gear
-Raincaller Cap of Stamina	0	Gear
-Raincaller Cord of the Eagle	0	Gear
-Raincaller Pants of the Monkey	0	Gear
-Raincaller Pants of the Owl	0	Gear
-Raincaller Vest of the Whale	0	Gear
-Regal Star of the Eagle	0	Gear
-Regal Star of the Wolf	0	Gear
-Righteous Armor of Power	0	Gear
-Righteous Armor of Stamina	0	Gear
-Righteous Armor of the Eagle	0	Gear
-Righteous Cloak of the Whale	0	Gear
-Righteous Helmet of Defense	0	Gear
-Righteous Waistguard of Defense	0	Gear
-Righteous Waistguard of the Bear	0	Gear
-Righteous Waistguard of the Boar	0	Gear
-Righteous Waistguard of the Monkey	0	Gear
-Rigid Leggings of the Monkey	0	Gear
-Rigid Tunic of the Owl	0	Gear
-Robust Leggings of the Falcon	0	Gear
-Rock Chipper	0	Gear
-Rockjaw Blade	0	Gear
-Rough Leather Boots	0	Gear
-Rune Sword of the Monkey	0	Gear
-Selenium Chain of Stamina	0	Gear
-Sentry's Cape of the Bear	0	Gear
-Sentry's Gloves of the Bear	0	Gear
-Sentry's Gloves of the Eagle	0	Gear
-Sentry's Shield of the Boar	0	Gear
-Sentry's Shoulderguards of the Boar	0	Gear
-Sentry's Slippers of the Boar	0	Gear
-Simple Cape	0	Gear
-Simple Cord	0	Gear
-Simple Shoes	0	Gear
-Skull Hatchet	0	Gear
-Sorcerer Robe of the Eagle	0	Gear
-Sorcerer Robe of the Whale	0	Gear
-Sparkleshell Breastplate of the Falcon	0	Gear
-Sparkleshell Shield of the Whale	0	Gear
-Spellbinder Belt	0	Gear
-Spellbinder Bracers	0	Gear
-Spiked Chain Belt of Power	0	Gear
-Spiked Chain Belt of the Eagle	0	Gear
-Spiked Chain Shield of Stamina	0	Gear
-Sturdy Leather Bracers	0	Gear
-Swashbuckler's Belt of the Whale	0	Gear
-Swashbuckler's Boots of the Eagle	0	Gear
-Swashbuckler's Bracers of the Owl	0	Gear
-Swashbuckler's Eyepatch of the Owl	0	Gear
-Templar Pauldrons of the Bear	0	Gear
-Templar Shield of Defense	0	Gear
-Thick Scale Belt of the Bear	0	Gear
-Thick Scale Sabatons of the Boar	0	Gear
-Thistlefur Bands of the Eagle	0	Gear
-Thistlefur Bands of the Whale	0	Gear
-Thuggish Shield	0	Gear
-Tribal Boots	0	Gear
-Violet Robes	0	Gear
-Vital Leggings of the Owl	0	Gear
-Vital Sash of Fiery Wrath	0	Gear
-Vital Sash of the Whale	0	Gear
-Wanderer's Gloves of the Falcon	0	Gear
-Wanderer's Leggings of Nature Resistance	0	Gear
-Warbringer's Chestguard of Stamina	0	Gear
-Warbringer's Chestguard of Strength	0	Gear
-Warbringer's Chestguard of the Bear	0	Gear
-Warbringer's Gauntlets of Healing	0	Gear
-Warrior's Boots	0	Gear
-Warrior's Girdle	0	Gear
-Warrior's Gloves	0	Gear
-Watcher's Cape of Fiery Wrath	0	Gear
-Watcher's Handwraps of the Whale	0	Gear
-Watcher's Jerkin of the Whale	0	Gear
-Watcher's Star of Arcane Wrath	0	Gear
-Wicked Chain Bracers of the Monkey	0	Gear
-Wicked Chain Bracers of the Tiger	0	Gear
-Wicked Chain Shoulder Pads of the Whale	0	Gear
-Wicked Chain Waistband of Strength	0	Gear
-Wicked Chain Waistband of the Bear	0	Gear
-Wild Leather Cloak of Agility	0	Gear
-Wild Leather Cloak of Spirit	0	Gear
-Wild Leather Helmet of the Wolf	0	Gear
-Withered Staff	0	Gear
-Wolf Rider's Leggings of Agility	0	Gear
-Wood Chopper	0	Gear
-Wrangler's Buckler of Frozen Wrath	0	Gear
-Wrangler's Leggings of the Eagle	0	Gear
 Bloodvine	75	Herbalism
 Black Lotus	15	Herbalism
 Ghost Mushroom	2.5	Herbalism
@@ -5776,9 +5537,8 @@ Raptor Egg	0.02	Meat
 Raptor Flesh	0.02	Meat
 Red Wolf Meat	0.02	Meat
 Tangy Clam Meat	0.02	Meat
-Boar Intestines	0.01	Meat
+Chunk of Boar Meat	0.02	Meat
 Boar Ribs	0.01	Meat
-Chunk of Boar Meat	0.01	Meat
 Clam Meat	0.01	Meat
 Coyote Meat	0.01	Meat
 Crawler Meat	0.01	Meat
@@ -5790,6 +5550,7 @@ Spider Ichor	0.01	Meat
 Stag Meat	0.01	Meat
 Strider Meat	0.01	Meat
 Stringy Wolf Meat	0.01	Meat
+Boar Intestines	0.005	Meat
 Arcane Crystal	25	Mining
 Dark Iron Bar	10	Mining
 Azerothian Diamond	8	Mining
@@ -5832,25 +5593,71 @@ Malachite	0.01	Mining
 Rough Stone	0.01	Mining
 Tin Bar	0.01	Mining
 Tin Ore	0.01	Mining
+Plans: Lionheart Helm	3000	Misc.
+Recipe: Flask of Petrification	2000	Misc.
+Plans: Titanic Leggings	2000	Misc.
+Recipe: Flask of the Titans	1500	Misc.
+Recipe: Greater Arcane Elixir	800	Misc.
+Pattern: Hide of the Wild	800	Misc.
+Recipe: Flask of Supreme Power	700	Misc.
+Formula: Enchant Weapon - Lifestealing	500	Misc.
+Tome of Polymorph: Turtle	500	Misc.
+Recipe: Greater Fire Protection Potion	400	Misc.
+Pattern: Robe of the Archmage	400	Misc.
 Formula: Enchant Weapon - Crusader	300	Misc.
+Recipe: Elixir of Brute Force	300	Misc.
+Formula: Enchant Gloves - Greater Strength	250	Misc.
+Formula: Enchant 2H Weapon - Major Intellect	250	Misc.
 Parrot Cage (Hyacinth Macaw)	200	Misc.
 Schematic: Sniper Scope	200	Misc.
+Schematic: Hyper-Radiant Flame Reflector	200	Misc.
+Recipe: Flask of Distilled Wisdom	200	Misc.
+Recipe: Transmute Undeath to Water	200	Misc.
 Plans: Steel Weapon Chain	180	Misc.
 Formula: Enchant Bracer - Superior Strength	150	Misc.
 Recipe: Elixir of Frost Power	150	Misc.
+Formula: Enchant Weapon - Fiery Weapon	150	Misc.
+Formula: Enchant Bracer - Greater Intellect	150	Misc.
+Formula: Enchant Cloak - Greater Resistance	150	Misc.
+Formula: Enchant Shield - Lesser Block	150	Misc.
+Formula: Enchant Weapon - Unholy	150	Misc.
+Formula: Enchant Weapon - Superior Striking	120	Misc.
 Libram of Constitution	100	Misc.
 Libram of Voracity	100	Misc.
 Recipe: Greater Nature Protection Potion	100	Misc.
+Pattern: Mooncloth Bag	100	Misc.
+Plans: Thorium Shield Spike	100	Misc.
+Formula: Enchant Chest - Major Mana	100	Misc.
 Righteous Orb	80	Misc.
+Formula: Enchant Gloves - Riding Skill	80	Misc.
 Pattern: Truefaith Vestments	75	Misc.
+Six of Elementals	75	Misc.
 Nexus Crystal	70	Misc.
+Plans: Arcanite Reaper	50	Misc.
+Recipe: Greater Shadow Protection Potion	50	Misc.
+Schematic: Arcane Bomb	50	Misc.
+Pattern: Star Belt	50	Misc.
+Pattern: Rich Purple Silk Shirt	50	Misc.
+Recipe: Greater Arcane Protection Potion	50	Misc.
+Recipe: Transmute Water to Undeath	50	Misc.
+Pattern: Devilsaur Leggings	45	Misc.
+Six of Beasts	40	Misc.
+Recipe: Elixir of the Sages	40	Misc.
 Schematic: Thorium Shells	30	Misc.
+Recipe: Greater Frost Protection Potion	30	Misc.
+Recipe: Greater Stoneshield Potion	30	Misc.
 Plans: Hammer of the Titans	25	Misc.
 Schematic: Snowmaster 9000	25	Misc.
 Tome of Arcane Brilliance	25	Misc.
+Pattern: Cindercloth Cloak	25	Misc.
+Recipe: Savory Deviate Delight	25	Misc.
 Codex: Prayer of Shadow Protection	20	Misc.
 Formula: Enchant Weapon - Winter's Might	20	Misc.
 Pattern: Black Dragonscale Breastplate	20	Misc.
+Formula: Enchant Weapon - Icy Chill	20	Misc.
+Plans: Darkrune Helm	20	Misc.
+Schematic: Ultra-Flash Shadow Reflector	20	Misc.
+Plans: Mithril Shield Spike	20	Misc.
 Blood of the Mountain	15	Misc.
 Bronze Hakkari Bijou	15	Misc.
 Codex: Prayer of Fortitude II	15	Misc.
@@ -5859,13 +5666,16 @@ Green Hakkari Bijou	15	Misc.
 Pattern: Mooncloth Robe	15	Misc.
 Pattern: Stormshroud Gloves	15	Misc.
 Silver Hakkari Bijou	15	Misc.
+Essence of Air	15	Misc.
+Plans: Darkrune Breastplate	15	Misc.
+Two of Beasts	15	Misc.
+Recipe: Elixir of Giant Growth	15	Misc.
 Formula: Enchant Boots - Greater Agility	12	Misc.
 Lava Core	12	Misc.
 Recipe: Shadow Protection Potion	12	Misc.
 Schematic: Spellpower Goggles Xtreme	12	Misc.
 Book: Gift of the Wild II	10	Misc.
 Codex: Prayer of Fortitude	10	Misc.
-Essence of Air	10	Misc.
 Essence of Earth	10	Misc.
 Essence of Fire	10	Misc.
 Formula: Enchant Bracer - Superior Spirit	10	Misc.
@@ -5878,6 +5688,13 @@ Pattern: Stormshroud Armor	10	Misc.
 Recipe: Elixir of Giants	10	Misc.
 Recipe: Transmute Arcanite	10	Misc.
 Souldarite	10	Misc.
+Recipe: Elixir of Superior Defense	10	Misc.
+Pattern: Black Dragonscale Shoulders	10	Misc.
+Four of Beasts	10	Misc.
+Three of Beasts	10	Misc.
+Three of Warlords	10	Misc.
+Recipe: Elixir of Dream Vision	10	Misc.
+Pattern: Shadow Hood	10	Misc.
 Essence of Water	8	Misc.
 Grimoire of Shadow Ward IV	8	Misc.
 Living Essence	8	Misc.
@@ -5885,9 +5702,12 @@ Pattern: Frostweave Robe	8	Misc.
 Pattern: Runecloth Gloves	8	Misc.
 Recipe: Limited Invulnerability Potion	8	Misc.
 Recipe: Mighty Rage Potion	8	Misc.
+Pattern: Herbalist's Gloves	8	Misc.
 Dark Rune	7	Misc.
+Recipe: Nightfin Soup	7	Misc.
 Formula: Enchant Cloak - Superior Defense	6	Misc.
 Formula: Runed Arcanite Rod	6	Misc.
+Recipe: Goblin Rocket Fuel	6	Misc.
 Book: Gift of the Wild	5	Misc.
 Formula: Enchant Bracer - Greater Stamina	5	Misc.
 Formula: Enchant Chest - Major Health	5	Misc.
@@ -5925,6 +5745,16 @@ Schematic: Thorium Tube	5	Misc.
 Schematic: World Enlarger	5	Misc.
 Thorium Lockbox	5	Misc.
 Tome of Frost Ward V	5	Misc.
+Plans: Thorium Boots	5	Misc.
+Recipe: Fire Protection Potion	5	Misc.
+Formula: Lesser Mana Oil	5	Misc.
+Recipe: Baked Salmon	5	Misc.
+Recipe: Filet of Redgill	5	Misc.
+Recipe: Poached Sunscale Salmon	5	Misc.
+Formula: Enchant Bracer - Superior Stamina	5	Misc.
+Schematic: Truesilver Transformer	5	Misc.
+Schematic: Masterwork Target Dummy	5	Misc.
+Schematic: Gnomish Cloaking Device	5	Misc.
 Journeyman's Backpack	4.5	Misc.
 Formula: Enchant Boots - Greater Stamina	4	Misc.
 Formula: Enchant Cloak - Lesser Shadow Resistance	4	Misc.
@@ -5939,6 +5769,16 @@ Reinforced Steel Lockbox	4	Misc.
 Schematic: Deepdive Helmet	4	Misc.
 Schematic: Large Seaforium Charge	4	Misc.
 Troll-hide Bag	4	Misc.
+Formula: Wizard Oil	4	Misc.
+Pattern: Nightscape Shoulders	4	Misc.
+Recipe: Monster Omelet	4	Misc.
+Recipe: Tender Wolf Steak	4	Misc.
+Recipe: Mightfish Steak	4	Misc.
+Recipe: Heavy Crocolisk Stew	4	Misc.
+Recipe: Grilled Squid	4	Misc.
+Schematic: Mechanical Dragonling	4	Misc.
+Pattern: Shadoweave Mask	4	Misc.
+Schematic: Flash Bomb	4	Misc.
 Cat Carrier (White Kitten)	3	Misc.
 Craftsman's Writ - Runic Leather Pants	3	Misc.
 Pattern: Black Dragonscale Leggings	3	Misc.
@@ -5962,6 +5802,11 @@ Schematic: Gnomish Alarm-O-Bot	3	Misc.
 Schematic: Goblin Land Mine	3	Misc.
 Schematic: Parachute Cloak	3	Misc.
 Winterfall Firewater	3	Misc.
+Pattern: Admiral's Hat	3	Misc.
+Recipe: Spotted Yellowtail	3	Misc.
+Recipe: Elixir of Demonslaying	3	Misc.
+Schematic: Thorium Widget	3	Misc.
+Recipe: Lobster Stew	3	Misc.
 Pattern: Green Whelp Armor	2.5	Misc.
 Pattern: Living Shoulders	2.5	Misc.
 Plans: Iron Shield Spike	2.5	Misc.
@@ -6007,6 +5852,24 @@ Schematic: EZ-Thro Dynamite II	2	Misc.
 Schematic: Powerful Seaforium Charge	2	Misc.
 Schematic: Thorium Rifle	2	Misc.
 Steel Lockbox	2	Misc.
+Cuergo's Treasure Map	2	Misc.
+Pattern: Barbaric Bracers	2	Misc.
+Pattern: Dark Silk Shirt	2	Misc.
+Recipe: Free Action Potion	2	Misc.
+Formula: Minor Wizard Oil	2	Misc.
+Pattern: Cindercloth Gloves	2	Misc.
+Pattern: Enchanter's Cowl	2	Misc.
+Pattern: Guardian Belt	2	Misc.
+Pattern: Icy Cloak	2	Misc.
+Recipe: Transmute Iron to Gold	2	Misc.
+Recipe: Transmute Mithril to Truesilver	2	Misc.
+Recipe: Undermine Clam Chowder	2	Misc.
+Recipe: Lean Wolf Steak	2	Misc.
+Pattern: Heavy Leather Ball	2	Misc.
+Recipe: Cooked Glossy Mightfish	2	Misc.
+Pattern: White Bandit Mask	2	Misc.
+Recipe: Crispy Lizard Tail	2	Misc.
+Pattern: Shadowskin Gloves	2	Misc.
 Formula: Enchant Shield - Lesser Protection	1.8	Misc.
 Pattern: Runic Leather Gauntlets	1.8	Misc.
 Elemental Fire	1.5	Misc.
@@ -6016,9 +5879,13 @@ Pattern: Big Voodoo Mask	1.5	Misc.
 Plans: Thorium Belt	1.5	Misc.
 Recipe: Frost Protection Potion	1.5	Misc.
 Recipe: Nature Protection Potion	1.5	Misc.
+Formula: Enchant Bracer - Lesser Deflection	1.5	Misc.
+Pattern: Green Leather Armor	1.5	Misc.
+Pattern: Heavy Scorpid Bracers	1.5	Misc.
 Encrypted Twilight Text	1.3	Misc.
 Chronoboon Displacer	1.2	Misc.
 Plans: Iridescent Hammer	1.2	Misc.
+Scroll of Stamina IV	1.2	Misc.
 Expert Fishing - The Bass and You	1.0526	Misc.
 Blue Pearl	1	Misc.
 Elemental Earth	1	Misc.
@@ -6104,6 +5971,22 @@ Schematic: Portable Bronze Mortar	1	Misc.
 Schematic: Shadow Goggles	1	Misc.
 Small Obsidian Shard	1	Misc.
 Snowman Kit	1	Misc.
+Rabbit Crate (Snowshoe)	1	Misc.
+Scroll of Protection IV	1	Misc.
+Brilliant Chromatic Scale	1	Misc.
+Schematic: Minor Recombobulator	1	Misc.
+Pattern: Deviate Scale Cloak	1	Misc.
+Pattern: Deviate Scale Gloves	1	Misc.
+Pattern: Red Mageweave Gloves	1	Misc.
+Pattern: Volcanic Breastplate	1	Misc.
+Pattern: Volcanic Shoulders	1	Misc.
+Pattern: Blue Overalls	1	Misc.
+Schematic: Blue Firework	1	Misc.
+Recipe: Mithril Head Trout	1	Misc.
+Recipe: Rockscale Cod	1	Misc.
+Recipe: Smoked Sagefish	1	Misc.
+Pattern: Raptor Hide Harness	1	Misc.
+Plans: Mithril Scale Bracers	1	Misc.
 Formula: Enchant Gloves - Mining	0.9	Misc.
 Large Blue Sack	0.9	Misc.
 Large Green Sack	0.9	Misc.
@@ -6163,6 +6046,13 @@ Scroll of Spirit IV	0.5	Misc.
 Twilight Cultist Robe	0.5	Misc.
 Wildkin E'ko	0.5	Misc.
 Winterfall E'ko	0.5	Misc.
+Pattern: Bright Yellow Shirt	0.5	Misc.
+Pattern: Green Silk Armor	0.5	Misc.
+Pattern: White Wedding Dress	0.5	Misc.
+Recipe: Great Rage Potion	0.5	Misc.
+Recipe: Sagefish Delight	0.5	Misc.
+Recipe: Clam Chowder	0.5	Misc.
+Recipe: Crispy Bat Wing	0.5	Misc.
 Elemental Water	0.4	Misc.
 Huge Venom Sac	0.4	Misc.
 Large Rucksack	0.4	Misc.
@@ -6246,7 +6136,7 @@ Pattern: Tough Scorpid Bracers	0.1	Misc.
 Pattern: Tough Scorpid Helm	0.1	Misc.
 Pattern: Tough Scorpid Leggings	0.1	Misc.
 Pattern: Wicked Leather Headband	0.1	Misc.
-Raptor Punch	0.1	Misc.
+Raptor Punch	0.25	Misc.
 Recipe: Elixir of Greater Firepower	0.1	Misc.
 Recipe: Loch Frenzy Delight	0.1	Misc.
 Recipe: Shadow Oil	0.1	Misc.
@@ -6260,6 +6150,7 @@ Sturdy Junkbox	0.1	Misc.
 Tightly Sealed Trunk	0.1	Misc.
 Torn Bear Pelt	0.1	Misc.
 Undamaged Hippogryph Feather	0.1	Misc.
+Magic Candle	0.1	Misc.
 Naga Scale	0.08	Misc.
 Scroll of Spirit	0.08	Misc.
 Small Lustrous Pearl	0.08	Misc.
@@ -6427,6 +6318,33 @@ Troll Sweat	0	Misc.
 Upper Map Fragment	0	Misc.
 Wild Hog Shank	0	Misc.
 Zesty Clam Meat	0	Misc.
+Lifeless Stone	0	Misc.
+Rotting Bear Carcass	0	Misc.
+Shiny Seashell	0	Misc.
+Soft Banana Bread	0	Misc.
+Basilisk Heart	0	Misc.
+Large Basilisk Tail	0	Misc.
+Leg Meat	0	Misc.
+Spider Palp	0	Misc.
+Candy Bar	0	Misc.
+Jagged Piece of Stone	0	Misc.
+Medium Quiver	0	Misc.
+Partially Digested Meat	0	Misc.
+Rabbit's Foot	0	Misc.
+Smooth Raptor Skin	0	Misc.
+Squishy Basilisk Eye	0	Misc.
+Brittle Molting	0	Misc.
+Burning Pitch	0	Misc.
+Chipped Boar Tusk	0	Misc.
+Dried Scorpid Carapace	0	Misc.
+Recipe: Rainbow Fin Albacore	0	Misc.
+Pattern: Red Woolen Bag	0	Misc.
+Recipe: Brilliant Smallfish	0	Misc.
+Recipe: Bristle Whisker Catfish	0	Misc.
+Recipe: Longjaw Mud Snapper	0	Misc.
+Recipe: Slitherskin Mackerel	0	Misc.
+Schematic: Goblin Jumper Cables XL	0	Misc.
+Recipe: Hot Smoked Bass	0	Misc.
 Fish Oil	-0.01	Misc.
 Shiny Fish Scales	-0.01	Misc.
 Shellfish	-0.05	Misc.
@@ -6511,12 +6429,12 @@ Deviate Scale	0.05	Skinning
 Heavy Hide	0.05	Skinning
 Thin Kodo Leather	0.05	Skinning
 Turtle Scale	0.05	Skinning
-Black Whelp Scale	0.03	Skinning
 Medium Leather	0.03	Skinning
+Black Whelp Scale	0.03	Skinning
 Raptor Hide	0.03	Skinning
 Silk Bandage	0.03	Skinning
-Light Hide	0.01	Skinning
 Light Leather	0.01	Skinning
+Light Hide	0.01	Skinning
 Medium Hide	0.01	Skinning
 Ruined Leather Scraps	0	Skinning
 Bottomless Bag	350	Tailoring
@@ -6775,19 +6693,34 @@ Tel'Abim Banana	0	Vendor
 Tigule's Strawberry Ice Cream	0	Vendor
 Tough Jerky	0	Vendor
 Weak Flux	0	Vendor
-Plaguebat Fur Gloves	35	Gear
-Mug O' Hurt	15	Gear
-Lady Alizabeth's Pendant	25	Gear
-Boneslasher	50	Gear
-Destiny	300	Gear
-Blackskull Shield	80	Gear
-Scorpion Sting	25	Gear
-Serenity Belt	25	Gear
-Furen's Boots	15	Gear
-Tainted Pierce	40	Gear
-Runed Golem Shackles	60	Gear
-Axe of Rin'ji	40	Gear
-Windweaver Staff	45	Gear
-Recipe: Elixir of Dream Vision	10	Misc.
-Gloomshroud Armor	20	Gear
-Stormbringer Belt	20	Gear
+Light Shot	0	Vendor
+Wild Ricecake	0	Vendor
+Dust of Decay	0	Vendor
+Recipe: Rainbow Fin Albacore	0	Vendor
+Smoked Bear Meat	0	Vendor
+Flint and Tinder	0	Vendor
+Shadowblade	100	Gear
+Spirewind Fetter	30	Gear
+Holy Shroud	40	Gear
+Unearthed Bands of the Monkey	50	Gear
+Lordly Armguards	30	Gear
+Fiery War Axe	150	Gear
+Bonesnapper	25	Gear
+Magiskull Cuffs	40	Gear
+Medallion of Grand Marshal Morris	70	Gear
+Shortsword of Vengeance	25	Gear
+Bloodspiller	20	Gear
+Ravasaur Scale Boots	30	Gear
+Dark Phantom Cape	50	Gear
+Two of Beasts	10	Misc.
+Four of Beasts	10	Misc.
+Three of Beasts	10	Misc.
+Headsplitter	20	Gear
+Deathblow	30	Gear
+Dreamslayer	15	Gear
+Wyrmslayer Spaulders	80	Gear
+Excavator's Brand	30	Gear
+Energy Cloak	30	Gear
+Grim Reaper	10	Gear
+Myrmidon's Signet	600	Gear
+Staff of Hale Magefire	120	Gear
