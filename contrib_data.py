@@ -190,6 +190,7 @@ def process_and_post_data():
     rep_block = "zzzzzz"
     for i, row in enumerate(totals.itertuples(index=False), start=1):
         # Split reputation string like "Honored: 6000 / 12000" into tier name and score text.
+        print(row.Reputation)
         donor_rep, score_txt = row.Reputation.split(": ")
 
         # Detect when we've moved to a new reputation tier and start a new message section.

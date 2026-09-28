@@ -125,7 +125,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 20	First Aid	All		Wool (Again)	20
 20	First Aid	All	Pro	Strong Anti-Venom	20
 25	First Aid	All	Pro	Mageweave Bandage	20
-30	First Aid	None	Pro	Heavy Mageweave Bandage	20
+30	First Aid	All	Pro	Heavy Mageweave Bandage	20
 30	First Aid	All	Pro	Expert First Aid - Under Wraps	1
 30	First Aid	All	Pro	Manual: Heavy Silk Bandage	1
 30	First Aid	All	Pro	Manual: Mageweave Bandage	1
@@ -137,7 +137,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 4	Leatherworking	Rogue, Hunter, Druid		Handstitched Leather Bracers	1
 5	Leatherworking	None		Handstitched Leather Belt	1
 5	Leatherworking	None		Handstitched Leather Pants	1
-5	Leatherworking	All		Medium Armor Kit	10
+5	Leatherworking	All		Medium Armor Kit	5
 6	Leatherworking	None		Rugged Leather Pants	1
 8	Leatherworking	Rogue, Hunter, Druid		Embossed Leather Gloves	1
 8	Leatherworking	Rogue, Hunter, Druid		White Leather Jerkin	1
@@ -157,7 +157,7 @@ Level	Category	Class(es)	Requires	Item	Qty
 27	Leatherworking	Hunter, Rogue, Druid	Pro	Barbaric Bracers	1
 29	Leatherworking	All		Hillman's Cloak	1
 30	Leatherworking	Rogue, Hunter, Druid		Barbaric Shoulders	1
-30	Leatherworking	Rogue, Hunter, Druid		Dusky Leather Armor	1
+30	Leatherworking	Rogue, Hunter, Druid	Pro	Dusky Leather Armor	1
 30	Leatherworking	Hunter		Heavy Leather Ammo Pouch	1
 30	Leatherworking	Hunter		Heavy Quiver	1
 30	Leatherworking	All		Thick Armor Kit	5
@@ -169,15 +169,15 @@ Level	Category	Class(es)	Requires	Item	Qty
 40	Leatherworking	All		Rugged Armor Kit	5
 40	Leatherworking	Hunter		Thick Leather Ammo Pouch	1
 40	Leatherworking	Hunter		Tough Scorpid Bracers	1
-40	Leatherworking	Hunter		Tough Scorpid Breastplate	1
+40	Leatherworking	Hunter	Pro	Tough Scorpid Breastplate	1
 40	Leatherworking	Hunter		Tough Scorpid Gloves	1
 40	Leatherworking	Druid	Pro	Wolfshead Helm	1
 41	Leatherworking	Rogue		Nightscape Pants	1
 42	Leatherworking	Rogue, Druid		Nightscape Boots	1
-42	Leatherworking	Hunter		Tough Scorpid Boots	1
-43	Leatherworking	Hunter		Tough Scorpid Shoulders	1
+42	Leatherworking	Hunter	Pro	Tough Scorpid Boots	1
+43	Leatherworking	Hunter	Pro	Tough Scorpid Shoulders	1
 44	Leatherworking	Hunter		Tough Scorpid Leggings	1
-45	Leatherworking	Hunter		Tough Scorpid Helm	1
+45	Leatherworking	None		Tough Scorpid Helm	1
 47	Leatherworking	Rogue, Hunter, Druid		Wicked Leather Gauntlets	1
 48	Leatherworking	Rogue, Druid		Wicked Leather Bracers	1
 50	Leatherworking	All		Rugged Armor Kit	5
@@ -294,7 +294,12 @@ Level	Category	Class(es)	Requires	Item	Qty
 50	Tailoring	All	Pro	16 slot bag (lvl 50)	1
 58	Tailoring	None	Pro	Mageweave Cloth	240
 58	Tailoring	None	Pro	Runecloth	240
-58	Tailoring	None	Pro	Silk Cloth	240
-58	Tailoring	None	Pro	Wool Cloth	240
+58	Tailoring	All	Pro	Silk Cloth	240
+58	Tailoring	All	Pro	Wool Cloth	240
 60	Tailoring	All		16 slot bag (lvl 60)	1
-20	Engineering	Rogue		Bronze Tube	1
+20	Engineering	Rogue		Bronze Tube (Rogue)	1
+14	Leatherworking	Rogue, Druid		Murloc Scale Breastplate	1
+13	Leatherworking	Rogue, Druid	Pro	Murloc Scale Belt	1
+33	Leatherworking	Druid	Pro	Murloc Scale Bracers	1
+29	Leatherworking	Druid	Pro	Thick Murloc Armor	1
+36	Leatherworking	Rogue, Druid, Hunter		Nightscape Tunic	1

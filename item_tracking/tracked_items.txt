@@ -302,7 +302,7 @@ Spiced Chili Crab	0.4	Cooking
 Barbecued Buzzard Wing	0.3	Cooking
 Clamlette Surprise	0.3	Cooking
 Monster Omelet	0.3	Cooking
-Spider Sausage	0.3	Cooking
+Spider Sausage	0.8	Cooking
 Tender Wolf Steak	0.3	Cooking
 Curiously Tasty Omelet	0.25	Cooking
 Savory Deviate Delight	0.25	Cooking
@@ -357,7 +357,7 @@ Brilliant Mana Oil	19	Enchanting
 Brilliant Wizard Oil	19	Enchanting
 Large Brilliant Shard	10	Enchanting
 Large Radiant Shard	9	Enchanting
-Small Radiant Shard	8	Enchanting
+Small Radiant Shard	10	Enchanting
 Large Glowing Shard	7	Enchanting
 Greater Nether Essence	6	Enchanting
 Large Glimmering Shard	5	Enchanting
@@ -2937,7 +2937,7 @@ Scorpashi Gloves	1	Gear
 Silver-thread Armor	1	Gear
 Silver-thread Robe	1	Gear
 Skeletal Longsword	1	Gear
-Slayer's Battle Axe	1	Gear
+Slayer's Battle Axe	2	Gear
 Slayer's Cape	1	Gear
 Slayer's Cuffs	1	Gear
 Soldier's Wristguards of the Gorilla	1	Gear
@@ -3061,7 +3061,7 @@ Emblazoned Leggings	0.9	Gear
 Feral Bindings of the Eagle	0.9	Gear
 Fortified Belt of the Eagle	0.9	Gear
 Fortified Leggings of the Eagle	0.9	Gear
-Frostbit Staff	0.9	Gear
+Frostbit Staff	0.1	Gear
 Greenweave Sandals of the Eagle	0.9	Gear
 Heavy Gnoll War Club	0.9	Gear
 Ivycloth Bracelets of the Eagle	0.9	Gear
@@ -5524,8 +5524,8 @@ Stringy Vulture Meat	0.1	Meat
 Tender Crab Meat	0.1	Meat
 Turtle Meat	0.1	Meat
 Crag Boar Rib	0.05	Meat
-Lion Meat	0.05	Meat
-Tender Crocolisk Meat	0.05	Meat
+Lion Meat	0.25	Meat
+Tender Crocolisk Meat	0.25	Meat
 Bear Meat	0.04	Meat
 Raw Greater Sagefish	0.04	Meat
 Lean Wolf Flank	0.03	Meat
@@ -5576,7 +5576,7 @@ Black Vitriol	0.1	Mining
 Truesilver Bar	0.1	Mining
 Truesilver Ore	0.1	Mining
 Gold Ore	0.07	Mining
-Silver Ore	0.07	Mining
+Silver Ore	0.3	Mining
 Steel Bar	0.07	Mining
 Steel Ore	0.07	Mining
 Gold Bar	0.05	Mining
@@ -5588,7 +5588,7 @@ Shadowgem	0.03	Mining
 Bronze Bar	0.01	Mining
 Copper Bar	0.01	Mining
 Copper Ore	0.01	Mining
-Indurium Ore	0.01	Mining
+Indurium Ore	0.0	Mining
 Malachite	0.01	Mining
 Rough Stone	0.01	Mining
 Tin Bar	0.01	Mining
@@ -6149,7 +6149,7 @@ Soft Bushy Tail	0.1	Misc.
 Sturdy Junkbox	0.1	Misc.
 Tightly Sealed Trunk	0.1	Misc.
 Torn Bear Pelt	0.1	Misc.
-Undamaged Hippogryph Feather	0.1	Misc.
+Undamaged Hippogryph Feather	0	Misc.
 Magic Candle	0.1	Misc.
 Naga Scale	0.08	Misc.
 Scroll of Spirit	0.08	Misc.
@@ -6187,7 +6187,7 @@ Seasoned Wolf Kabob	0.02	Misc.
 Stormwind Seasoning Herbs	0.02	Misc.
 Wizbang's Special Brew	0.015	Misc.
 Blue Leather Bag	0.01	Misc.
-Coal	0.01	Misc.
+Coal	0.0	Misc.
 Deadly Poison II	0.01	Misc.
 Feathered Arrow	0.01	Misc.
 Flask of Oil	0.01	Misc.
@@ -6204,7 +6204,7 @@ White Leather Bag	0.01	Misc.
 Salt	0.004	Misc.
 Refreshing Spring Water	0.0025	Misc.
 Snowball	0.001	Misc.
-Thorium Headed Arrow	0.001	Misc.
+Thorium Headed Arrow	0.01	Misc.
 Mild Spices	0.0008	Misc.
 A Gold Tooth	0	Misc.
 Battered Junkbox	0	Misc.
@@ -6724,3 +6724,13 @@ Energy Cloak	30	Gear
 Grim Reaper	10	Gear
 Myrmidon's Signet	600	Gear
 Staff of Hale Magefire	120	Gear
+Myrmidon's Signet	600	Gear
+Torch of Austen	60	Gear
+Harbinger Boots	30	Gear
+Ring of Defense	15	Gear
+Ribsplitter of the Boar	50	Gear
+Robe of the Magi	50	Gear
+Golem Shard Leggings	40	Gear
+Archon Chestpiece	70	Gear
+Feet of the Lynx	50	Gear
+Serpentine Sash	60	Gear
